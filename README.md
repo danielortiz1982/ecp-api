@@ -19,5 +19,17 @@
 
 ## ECP API Usage
 
-##### Clone Form Generator into project
+##### Clone project 
     git clone https://github.com/danielortiz1982/ecp-api.git
+
+##### Install project dependencies
+    npm i
+
+##### Start the dev Node server
+    npm run dev
+
+##### Start the prod Node server
+    npm run start
+
+##### ECP API server url and port
+    http://localhost:5500/
