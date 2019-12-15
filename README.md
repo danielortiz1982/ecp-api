@@ -4,8 +4,8 @@
 > [Dependencies](#dependencies) | [ECP API Usage](#ecp-api-usage) | [ECP Routes](#ecp-api-routes) | [ECP Models](#ecp-api-models)
 
 ## Dependencies
-* [Nodejs LTS](https://nodejs.org/en/)
-* [NPM](https://nodejs.org/en/)
+* [Nodejs LTS](https://nodejs.org/dist/v12.13.1/node-v12.13.1.pkg)
+* [NPM](https://nodejs.org/dist/v12.13.1/node-v12.13.1.pkg)
 * [Git](https://git-scm.com/)
 * [Babel](https://babeljs.io/)
 * [MongoDB](https://www.mongodb.com/download-center/community)
