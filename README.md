@@ -54,6 +54,25 @@
 ##### (PUT) - update User by id
     /ecp-api/v1/user/:id
 
+### Collections Routes
+
+##### (GET) - return all Collections
+    /ecp-api/v1/collections
+
+##### (GET) - return Collection by id
+    /ecp-api/v1/collection/:id
+
+##### (POST) - add new Collection
+    /ecp-api/v1/collections
+
+##### (DELETE) - remove Collection by id
+    /ecp-api/v1/collection/:id'
+
+##### (PUT) - update Collection by id
+    /ecp-api/v1/collection/:id
+
+
+
 
 
 
