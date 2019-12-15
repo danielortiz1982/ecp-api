@@ -72,6 +72,10 @@
 
 ### User Model
 
+##### Import User Model
+    ./models/users.js
+
+
     {
         firstName: {
             type: String,
