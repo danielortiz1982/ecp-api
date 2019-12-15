@@ -4,21 +4,15 @@
 > [Dependencies](#dependencies) | [ECP API Usage](#ecp-api-usage) | [ECP Routes](#ecp-api-routes) | [ECP Models](#ecp-api-models)
 
 ## Dependencies
-* [Nodejs](https://nodejs.org/en/)
+* [Nodejs LTS](https://nodejs.org/en/)
 * [NPM](https://nodejs.org/en/)
 * [Git](https://git-scm.com/)
 * [Babel](https://babeljs.io/)
-
-## Install Dependencies
-
-##### Navigate into the project folder
-    cd ./ecp-api
-
-##### Install node dependencies
-    npm i
-
-##### Install Babel core & cli globally on your machine
-    npm install -g --save-dev @babel/core @babel/cli
+* [MongoDB](https://www.mongodb.com/download-center/community)
+* [Mongoose](https://mongoosejs.com/)
+* [Express](http://expressjs.com/)
+* [Bcrypt](https://www.npmjs.com/package/bcrypt)
+* [validator](https://www.npmjs.com/package/validator)
 
 ## ECP API Usage
 
