@@ -1,7 +1,7 @@
 # ECP Student API
 > Nodejs MongoDB REST API for managing ecp student collections
 
-> [Dependencies](#dependencies) | 
+> [Dependencies](#dependencies) | [ECP API Usage](#ecp-api-usage) | [ECP Routes](#ecp-api-routes)
 
 ## Dependencies
 * [Nodejs](https://nodejs.org/en/)
