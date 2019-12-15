@@ -72,9 +72,7 @@
 
 ### User Model
 
-##### Import User Model
-    ./models/users.js
-
+##### ./models/users.js
 
     {
         firstName: {
@@ -221,6 +219,8 @@
 
 
 ### Collection Model
+
+##### ./models/epc-api-model.js
 
     {
         language: String,
