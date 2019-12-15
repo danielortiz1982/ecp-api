@@ -70,7 +70,7 @@
 
 ## ECP API Models
 
-##### User Model
+### User Model
 
     {
         firstName: {
@@ -216,7 +216,7 @@
     }
 
 
-##### Collection Model
+### Collection Model
 
     {
         language: String,
