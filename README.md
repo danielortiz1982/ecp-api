@@ -10,8 +10,11 @@
 * [Babel](https://babeljs.io/)
 
 ## Install Dependencies
+
+##### Navigate into the project folder
     cd ./ecp-api
 
+##### Install node dependencies
     npm i
 
 ##### Install Babel core & cli globally on your machine
