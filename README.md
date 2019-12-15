@@ -35,9 +35,9 @@
     http://localhost:5500/
 
 
-# ECP API Routes
+## ECP API Routes
 
-## Users Routes
+### Users Routes
 
 ##### Get all Users
     /ecp-api/v1/users
