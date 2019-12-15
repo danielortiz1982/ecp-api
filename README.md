@@ -45,7 +45,7 @@
 ##### (GET) - return User by id
     /ecp-api/v1/user/:id
 
-#### (POST) - add new User
+##### (POST) - add new User
     /ecp-api/v1/users
 
 ##### (DELETE) - remove User by id
