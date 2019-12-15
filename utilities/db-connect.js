@@ -7,6 +7,6 @@ const dbConnection = `mongodb://127.0.0.1:${appPort}/${database}`
 mongoose.connect(dbConnection, {
     useNewUrlParser: true,
     useCreateIndex: true,
-    useFindAndModify: false
+    useFindAndModify: false,
+    useUnifiedTopology: true
 })
-

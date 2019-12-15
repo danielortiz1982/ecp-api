@@ -13,7 +13,9 @@
     "url": "git+https://github.com/danielortiz1982/nodejs-starter.git"
   },
   "keywords": [
-    "ecp api"
+    "ecp api",
+    "student app",
+    "collections api"
   ],
   "author": "dortiz82",
   "license": "ISC",
@@ -34,7 +36,6 @@
     "@babel/preset-env": "^7.6.3",
     "babel-loader": "^8.0.6",
     "chalk": "^2.4.2",
-    "css-loader": "^3.2.0",
     "nodemon": "^1.19.3"
   }
 }

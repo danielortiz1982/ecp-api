@@ -45,4 +45,14 @@ EcpApiRouter.delete('/ecp-api/v1/collection/:id', async (req, res)=>{
     }
 })
 
+EcpApiRouter.put('/ecp-api/v1/collection/:id', async (req, res)=>{
+    const _id = req.params.id
+    try{
+        const single = await EpcApiModel.findByIdAndUpdate(_id, req.body, {new: true, runValidators: true})
+        res.status(201).send(single)
+    }catch(e){
+        res.status(400).send(e)
+    }
+})
+
 module.exports = EcpApiRouter
