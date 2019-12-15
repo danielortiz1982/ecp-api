@@ -9,10 +9,9 @@
 * [Git](https://git-scm.com/)
 * [Babel](https://babeljs.io/)
 
-### Install Nodejs & NPM for Windows, OSX and Linux
-[https://nodejs.org](https://nodejs.org/en/)
-
 ## Install Dependencies
+    cd ./ecp-api
+    npm i
 
 ##### Install Babel core & cli globally on your machine
     npm install -g --save-dev @babel/core @babel/cli
