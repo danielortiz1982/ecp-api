@@ -2,10 +2,10 @@ const express         = require('express')
 const chalk           = require('chalk')
 const path            = require('path')
 const server          = express()
-const PORT            = process.env.port || 4500
+const PORT            = process.env.port || 5500
 const EcpApiRouter    = require('./router/epc-api-router')  
 const UserRouter      = require('./router/users-router')
-const ServerMessage   = `Nodejs starter project is running on localhost:${PORT}`
+const ServerMessage   = `ECP API is running on localhost:${PORT}`
 const db              = require('./utilities/db-connect')
 const pub             = `${__dirname}/public/`
 
