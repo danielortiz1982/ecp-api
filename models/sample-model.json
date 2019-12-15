@@ -1,0 +1,43 @@
+{
+	"language": "en",
+	"themes": [
+		{
+			"id": "1",
+			"pairs": [
+				{
+					"book": {
+						"config": {
+							"pathToReader": "index.html",
+							"epub": "https://s3.amazonaws.com/epubs.scholastic.ereader/flix-epub-content-check/BFXJR/prek_bk0001b_a_bear_cub_grows_up",
+							"plugins": []
+						},
+						"configOverride": {
+							"readAloud": {
+								"enabled": true,
+								"autoPageTurn": true,
+								"oneClickAutoPlay": true,
+								"autoRTM": true
+							}
+						},
+						"id": 1,
+						"thumbnail": "assets/images/placeholder-thumbnail.png",
+						"title": "Let's Be Friends"
+					},
+					"id": 1,
+					"story": {
+						"id": 1,
+						"poster": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+						"readAlong": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+						"thumbnail": "assets/images/placeholder-thumbnail.png",
+						"title": "Hi, Fly Guy!",
+						"video": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+					}
+				}
+				],
+				"style": "style1",
+				"backgroundImage": "/assets/images/backgrounds/T1.png",
+				"subheaderColor": "rgba(44, 110, 170, 0.89)",
+				"title": "Me and you"
+		}
+		]
+}
