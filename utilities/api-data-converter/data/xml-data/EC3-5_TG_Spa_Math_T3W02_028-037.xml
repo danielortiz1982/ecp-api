@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./preview-styles.css" type="text/css"?>
+<teaching-guide xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" lang="es">
+  <day_1>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 2: </tg_week_hed>
+        <tg_topic_hed>El tiempo</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338616255_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro  El mitón </tg_materials-caption>
+        <graphic href="LGC Redux T3_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T3_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> operaciones; conteo </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo emocional </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> ciencias de la Tierra y el espacio</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para desarrollar conocimientos, cantar con los niños y presentar el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>mitones</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>sumar</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento preguntando: <tg_bullet-directions_guiding-question>¿Qué animal se mete en el mitón?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Lea por gusto, concentrandose en las operaciones. </tg_bullet-directions>
+        <tg_bullet-directions>Verifique la comprensión, diferenciando según sea necesario. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operaciones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende que sumar o restar uno de un grupo pequeño de objetos cambia la cantidad total en uno; Usa los dedos, objetos o dibujos para demostrar verbalmente una suma o resta  de un conjunto de hasta 5 objetos.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa el último número contado para mostrar “cuántos” objetos hay en un conjunto (cardinalidad).</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica y verbaliza necesidades.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>  </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Habla lo suficientemente claro como para ser comprendido.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y el espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Investiga, describe y habla acerca de los objetos en el cielo; Describe qué ocurre cuando la Tierra o el cielo presentan cambios.</tg_skills-focus-skill-text>  </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>En el mitón</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T3_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+        <graphic href="EC_stock_TwoColorCounters_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Fichas de dos colores</tg_materials-caption>
+        <graphic href="EC_stock_Paper_110023949_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Papel o cinta</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> operaciones; conteo </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo emocional </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> conversación</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:  </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Pida a los niños que representen con las fichas a los animales que entran y salen del “mitón”.  </tg_bullet-directions>
+        <tg_bullet-directions>Guíelos para que sumen y resten uno de un número dado y comprendan que el total cambia por uno. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo nos puede afectar el tiempo? </tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo es el tiempo en este cuento? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué animal puedes representar? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes agregar otro bloque a tu patrón? ¿Cuántos tienes ahora? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes escribir sobre un animal que juega en la nieve? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué materiales puedes usar para hacer un mitón? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC  </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escribe la palabra <tg_teacher-talk_emphasis_non-ital>nieve</tg_teacher-talk_emphasis_non-ital>. ¿Con qué letra empieza? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Construye un refugio para proteger a los animales del frío. </tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. El mitón by Jim Aylesworth, illustrated by Barbara McClintock. Text copyright © 2009 by Jim Aylesworth. Illustrations copyright © 2009 by Barbara McClintock. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Photo © jannoon028/Shutterstock.</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_1>
+  <day_2>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 2: </tg_week_hed>
+        <tg_topic_hed>El tiempo</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338616255_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro  El mitón </tg_materials-caption>
+        <graphic href="LGC Redux T3_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T3_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> operaciones; conteo </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo emocional </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Estudios sociales:</tg_learning-goals_inline-hed> economía</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para compartir el Mind Builder <tg_bullet-directions_emphasis_Ital>habla sobre tus necesidades</tg_bullet-directions_emphasis_Ital>, y presente el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>comunicar</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento relacionando el Mind Builder con <tg_bullet-directions_book-title>El mitón.</tg_bullet-directions_book-title> </tg_bullet-directions>
+        <tg_bullet-directions>Haga una lectura atenta para ver cómo expresan los personajes sus necesidades y repase las operaciones. </tg_bullet-directions>
+        <tg_bullet-directions>Ofrezca una oportunidad para prolongar el juego. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operaciones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende que sumar o restar uno de un grupo pequeño de objetos cambia la cantidad total en uno; Usa los dedos, objetos o dibujos para demostrar verbalmente una suma o resta  de un conjunto de hasta 5 objetos.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa el último número contado para mostrar “cuántos” objetos hay en un conjunto.</tg_skills-focus-skill-text> (Cardinalidad) </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica y verbaliza necesidades; Comparte ideas y sentimientos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Habla lo suficientemente claro como para ser comprendido.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Estudios sociales </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Economía:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra comprensión de necesidades básicas de las personas, tales como alimentación, ropa y vivienda.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>¡Necesito un cubo!</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T3_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Cubos conectores</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> operaciones; conteo </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo emocional </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> conversación</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:  </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Entregue a las parejas un número de cubos conectores determinado. </tg_bullet-directions>
+        <tg_bullet-directions>Pídales un número de cubos distinto y guíe a las parejas para que expresen si necesitan un cubo más o menos para conseguir el nuevo número. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo nos puede afectar el tiempo? </tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo los personajes del cuento demuestran lo que necesitan? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¡Actúa como si tuvieras hambre! ¿Cómo puedes mostrarle a alguien en la cocina que necesitas comida? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Quita un bloque del patrón. ¿Cómo cambió el número de bloques? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escribe un cuento sobre un personaje que necesita algo. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Dibuja a dos personas comunicándose. ¿Qué dicen? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC  </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué sonido oyes al principio de <tg_teacher-talk_emphasis_non-ital>comunicar</tg_teacher-talk_emphasis_non-ital>. ¿Puedes hacer es letra? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Construye con un compañero algo que te ayude a mantenerte caliente en un día de nieve.</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. El mitón by Jim Aylesworth, illustrated by Barbara McClintock. Text copyright © 2009 by Jim Aylesworth. Illustrations copyright © 2009 by Barbara McClintock. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. Clifford the Big Red DogTM illustration copyright © The Norman Bridwell Trust. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_2>
+  <day_3>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 2: </tg_week_hed>
+        <tg_topic_hed>El tiempo</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338616255_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro  El mitón </tg_materials-caption>
+        <graphic href="LGC Redux T3_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T3_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  conteo; clasificación </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo emocional </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> ciencias de la Tierra y el espacio</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para practicar hacer gráficas, separar a los niños según sus atributos y presentar el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>total</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>gráfico</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento releyendo <tg_bullet-directions_book-title>El mitón</tg_bullet-directions_book-title> y haga la pregunta guía: <tg_bullet-directions_guiding-question>¿Por qué los animales se meten en el mitón?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Lea de manera interactiva para profundizar la comprensión y repasar la clasificación. </tg_bullet-directions>
+        <tg_bullet-directions>Verifique la comprensión. Diferencie si es necesario. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa el último número contado para mostrar “cuántos” objetos hay en un conjunto.</tg_skills-focus-skill-text> (Cardinalidad) </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Clasificación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Describe y clasifica objetos según similitudes y diferencias; Recopila, organiza y presenta datos gráficamente.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica y verbaliza necesidades.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Habla lo suficientemente claro como para ser comprendido.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y el espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Investiga, describe y habla acerca de los objetos en el cielo; Describe qué ocurre cuando la tierra o el cielo presentan cambios.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>¿Mitón o guante?</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T3_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+        <graphic href="EC_stock_PostIts_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Notas adhesivas</tg_materials-caption>
+        <graphic href="EC_stock_Mittens_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Mitones y guantes</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> clasificación; conteo </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo emocional </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> conversación</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Pida a los niños para que separen sus accesorios en dos grupos: mitones y guantes. </tg_bullet-directions>
+        <tg_bullet-directions>Guíelos para que creen una gráfica de barras con notas adhesivas y compare los totales de mitones y guantes. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo nos puede afectar el tiempo? </tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué le parece el tiempo al personaje del cuento? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Imagina que estás afuera en la nieve. ¿Cómo te puedes calentar? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo puedes separar estos bloques? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Prefieres usar mitones o guantes? Escribe por qué. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes dibujar un guante? ¿Por qué usaste esos colores? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC  </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Que letras oyes al principio de la palabra <tg_teacher-talk_emphasis_non-ital>mitón</tg_teacher-talk_emphasis_non-ital>.  </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>A veces perdemos nuestros guantes o mitones. Construye una caja de objetos perdidos donde podamos dejar todo lo que hallamos que no sea nuestro.</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. El mitón by Jim Aylesworth, illustrated by Barbara McClintock. Text copyright © 2009 by Jim Aylesworth. Illustrations copyright © 2009 by Barbara McClintock. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Photos © Shutterstock: mittens and gloves (Tarzhanova), sticky notes (HeinzTeh).</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_3>
+  <day_4>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 2: </tg_week_hed>
+        <tg_topic_hed>El tiempo</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="EC3-5_Flipchart_T3W2_WhatsTheWeather_SPAN_Redux_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Papelógrafo de grandes ideas:  <tg_materials-caption_book-title-Ital>¿Qué tiempo hace?</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T3_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="9781338616255_COV_SP_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Libro: El mitón</tg_materials-caption>
+        <graphic href="VC Redux Spa T3_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> clasificación; conteo </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo emocional </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> ciencias de la Tierra y el espacio</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para hablar sobre el tiempo, jugar a un juego con los niños y presentar el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>nevoso</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>ventoso</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento conectando <tg_bullet-directions_book-title>¿Qué tiempo hace? </tg_bullet-directions_book-title>y <tg_bullet-directions_book-title>El mitón.</tg_bullet-directions_book-title> </tg_bullet-directions>
+        <tg_bullet-directions>Lea atentamente para conectar con la pregunta esencial de esta semana: <tg_bullet-directions_guiding-question>¿Cómo nos puede afectar el tiempo?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Ofrezca una oportunidad para prolongar el juego. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa el último número contado para mostrar “cuántos” objetos hay en un conjunto.</tg_skills-focus-skill-text> (Cardinalidad) </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Clasificación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Describe y clasifica objetos según similitudes y diferencias; Recopila, organiza y presenta datos gráficamente.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica y verbaliza necesidades.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Habla lo suficientemente claro como para ser comprendido.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Estudios sociales </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Economía:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra comprensión de necesidades básicas de las personas, como alimentación, ropa y vivienda.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y el espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Investiga, describe y habla acerca de los objetos en el cielo; Describe qué ocurre cuando la tierra o el cielo presentan cambios.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>¿Cómo está el tiempo?</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T3_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> clasificación; contar </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo emocional </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> ciencias de la Tierra y el espacio</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:  </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Pida a los niños que separen las tarjetas de actividad de acuerdo al tipo de tiempo que muestran. </tg_bullet-directions>
+        <tg_bullet-directions>Guíelos niños para que creen una gráfica de barras con las tarjetas y comparen los totales de cada tipo de tiempo. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo nos puede afectar el tiempo? </tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué ropa lleva la gente en el cuento? ¿Te da eso alguna pista sobre el tiempo? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Imagina que llueve. ¿Qué ropa te pondrías? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes separar los bloques por colores? ¿Qué grupo es el más grande? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué tiempo crees que sería el mejor para tener siempre? Escribe un cuento sobre eso. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Haz un campo nevado. ¿Qué materiales es mejor usar? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC  </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escribe la palabra <tg_teacher-talk_emphasis_non-ital>tiempo</tg_teacher-talk_emphasis_non-ital>. ¿Con que letra acaba? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Construye un refugio para la nieve. Ahora construye un refugio para un tiempo cálido. ¡Comparémoslos!</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. El mitón by Jim Aylesworth, illustrated by Barbara McClintock. Text copyright © 2009 by Jim Aylesworth. Illustrations copyright © 2009 by Barbara McClintock. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_4>
+  <day_5>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 2: </tg_week_hed>
+        <tg_topic_hed>El tiempo</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338616255_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro:  <tg_materials-caption_book-title-Ital>El mitón</tg_materials-caption_book-title-Ital> </tg_materials-caption>
+        <graphic href="LGC Redux T3_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T3_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> operaciones; conteo; clasificación </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo emocional </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> conversación</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para conectar con ciencias, jugar a un juego con los niños y presentar el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>acogedor</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>profundamente dormida</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Repase el libro y pregunte: <tg_bullet-directions_guiding-question>¿Cómo afecta el frío al niño o los animales?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Lea de manera interactiva propiciando la participación física y el enfoque en las operaciones. </tg_bullet-directions>
+        <tg_bullet-directions>Verifique la comprensión. Diferencie si es necesario. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operaciones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende que sumar o restar uno de un grupo pequeño de objetos cambia la cantidad total en uno; Usa los dedos, objetos o dibujos para demostrar verbalmente una suma o resta  de un conjunto de hasta 5 objetos.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa el último número contado para mostrar “cuántos” objetos hay en un conjunto.</tg_skills-focus-skill-text>(Cardinalidad). </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica y verbaliza necesidades.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Habla lo suficientemente claro como para ser comprendido.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y el espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Investiga, describe y habla acerca de los objetos en  el cielo.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Escribe con propósitos diferentes.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Escritura independiente, dibujar o narrar un cuento</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC3-5_ResponsePrompt_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Hoja de respuestas </tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> operaciones; clasificación </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo emocional </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> escritura</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Apoye a los niños en su intento por responder a la pregunta: <tg_bullet-directions_guiding-question>¿Cómo te mantienes caliente cuando hace frío?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario. </tg_bullet-directions>
+        <tg_bullet-directions>Guarde los escritos de los niños para mostrarlos la próxima semana.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo nos puede afectar el tiempo? </tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Imagina que eres un personaje del libro. ¿Qué tipo de tiempo sería tu favorito? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Imagina que estás en un país donde siempre nieva. ¿Qué ropa usarías? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes crear un patrón que parezca un copo de nieve? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escribe un cuento sobre un lugar acogedor. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Haz con arcilla un animal profundamente dormido. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC  </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Inventa un nombre para un nuevo tipo de tiempo. ¿Con qué letra comienza? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Construye un refugio para proteger a los animales de un tipo de tiempo completamente nuevo. ¿Qué debe tener tu refugio? ¿Qué materiales usarás?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. El mitón by Jim Aylesworth, illustrated by Barbara McClintock. Text copyright © 2009 by Jim Aylesworth. Illustrations copyright © 2009 by Barbara McClintock. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_5>
+  <day_1_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operaciones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa objetos concretos, crea modelos en imágenes y comparte un problema con un planteamiento oral para agregar hasta 5 objetos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.B.1);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Usa modelos concretos o hace un problema con un planteamiento oral para restar 0-5 objetos de un conjunto.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.B.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuenta hasta 10 objetos y demuestra que lo último que contó indica la cantidad de objetos que se contaron.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.5)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica y verbaliza sus necesidades.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>El maestro y otros adultos de la escuela entienden el habla del niño.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.C.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y el espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica, observa y discute los objetos en el cielo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.C.2);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Observa y describe lo que pasa durante los cambios en la tierra y en el cielo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.C.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_1_texas>
+  <day_2_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operaciones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa objetos concretos, crea modelos en imágenes y comparte un problema con un planteamiento oral para agregar hasta 5 objetos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.B.1);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Usa modelos concretos o hace un problema con un planteamiento oral para restar 0-5 objetos de un conjunto.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.B.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuenta hasta 10 objetos y demuestra que lo último que contó indica la cantidad de objetos que se contaron.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.5)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica y verbaliza sus necesidades.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Muestra que puede iniciar interacciones sociales.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.C.3, MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>El maestro y otros adultos de la escuela entienden el habla del niño.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.C.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Estudios sociales </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Economía:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra que todas las personas necesitan alimento, ropa y refugio.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VII.B.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_2_texas>
+  <day_3_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuenta hasta 10 objetos y demuestra que lo último que contó indica la cantidad de objetos que se contaron.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.5)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Clasificación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Clasifica objetos iguales y diferentes en grupos y usa lenguaje para describir cómo los grupos son similares y diferentes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.E.1);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Obtiene datos y los organiza en una representación gráfica.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.E.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica y verbaliza sus necesidades.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>El maestro y otros adultos de la escuela entienden el habla del niño.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.C.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y el espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica, observa y discute los objetos en el cielo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.C.2);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Observa y describe lo que pasa durante los cambios en la tierra y en el cielo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.C.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_3_texas>
+  <day_4_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuenta hasta 10 objetos y demuestra que lo último que contó indica la cantidad de objetos que se contaron.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.5)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Clasificación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Clasifica objetos iguales y diferentes en grupos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.E.1);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Obtiene datos y los organiza en una representación gráfica.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.E.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica y verbaliza sus necesidades.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>El maestro y otros adultos de la escuela entienden el habla del niño.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.C.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Estudios sociales </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Economía:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra que todas las personas necesitan alimento, ropa y refugio.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VII.B.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y el espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica, observa y discute los objetos en el cielo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.C.2);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Observa y describe lo que pasa durante los cambios en la tierra y en el cielo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.C.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_4_texas>
+  <day_5_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operaciones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa objetos concretos, crea modelos en imágenes y comparte un problema con un planteamiento oral para agregar hasta 5 objetos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.B.1);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Usa modelos concretos o hace un problema con un planteamiento oral para restar 0-5 objetos de un conjunto.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.B.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuenta hasta 10 objetos y demuestra que lo último que contó indica la cantidad de objetos que se contaron.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.5)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Clasificación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Clasifica objetos iguales y diferentes en grupos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.E.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>El maestro y otros adultos de la escuela entienden el habla del niño.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.C.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y el espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica, observa y discute los objetos en el cielo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.C.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Alfabetización </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Escribe en forma independiente para comunicar sus ideas con varios fines.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IV.A.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_5_texas>
+</teaching-guide>

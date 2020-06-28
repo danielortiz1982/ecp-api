@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="es">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>NOMBREMOSESA LETRA</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Necesitará tarjetas del abecedario y un cronómetro.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos el cuento titulado <ac_teacher-speaking_emphasis_blue>La oruga muy impaciente</ac_teacher-speaking_emphasis_blue>. Hay muchas letras diferentes en ese título. Ahora vamos a tratar de emparejar las letras con sus sonidos.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking> Yo voy a mostrar distintas tarjetas del abecedario. Ustedes van a trabajar en equipo para nombrar las letras. Su equipo tendrá un minuto para decir el nombre de las letras que yo muestre y el sonido de cada una. El equipo obtiene un punto por cada letra. ¡Vamos a ver cuántas letras y sonidos podemos nombrar!</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Demostrar/Enseñar </ac_teacher-card_run-in_hed>Muestre la tarjeta del abecedario de la Kk para demostrar cómo nombrar la letra y decir /k/. Piense en voz alta que tiene que apurarse, porque le están tomando el tiempo. Repita para la tarjeta de la Xx.  </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar:</ac_teacher-card_run-in_hed>  Ponga a funcionar el cronómetro y muestre la primera tarjeta al equipo. <ac_teacher-speaking>¿Qué letra es esta? ¿Qué sonido hace?</ac_teacher-speaking> Siga mostrando letras hasta que haya pasado un minuto. Cuente y registre el número de letras descritas correctamente.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Repita por una ronda más. Si necesita más letras, use otras que no sean parte del título.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Pida a los niños que piensen en una palabra que empiece con cada sonido.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre sonidos y letras</ac_teacher-card_run-in_hed>  Pregunte cómo se sintieron al poder nombrar tantas letras y sonidos. Cuente cuántas pudieron identificar. ¡Recuérdeles cuánto han cambiado ellos desde que empezó el curso!</ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>NOMBREMOSESA LETRA</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida a los niños que tengan dificultades con la actividad que solo digan el nombre de la letra de cada tarjeta del abecedario, o use una cantidad menor de letras que las del título. Elimine el componente del cronómetro y brinde tiempo suficiente para nombrar cada letra.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Con niños que estén muy familiarizados con las letras y sus sonidos, juegue una versión en la que deban decir palabras que empiecen con la letra de la tarjeta que usted muestre. Recuérdeles que deben pensar las palabras lo más rápido que puedan.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>A los niños multilingües puede resultarles difícil esta actividad por el factor velocidad. Después de cada ronda, vuelva a las tarjetas y permita que cada niño multilingüe identifique cada letra en voz alta y practique el sonido en español. Como la mayoría de los niños pequeños no leen en su lengua materna, este ejercicio puede ayudarlos a adelantar destrezas de prelectura en español.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Apoyo a la audición</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Si hay niños con problemas auditivos, permita que se sienten más cerca de usted y recuérdeles que observen su boca y sus labios cuando usted pronuncia la letra/sonido de cada tarjeta que muestre. Podrá también invitar a los niños con dificultades de audición a que dibujen mayúsculas y minúsculas del abecedario, creando así una conexión entre memoria muscular y aprendizaje.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66420-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>EL BAILE DELCONGELADO</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Encuentre una manera de poner música.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy volvimos a leer el cuento <ac_teacher-speaking_emphasis_blue>La oruga muy impaciente</ac_teacher-speaking_emphasis_blue>. Conversamos sobre tener paciencia y entender en qué cosas podemos mejorar.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¡Vamos a jugar al baile del congelado! Es una buena manera de practicar la paciencia. Cuando pare la música, ¡ustedes se congelan! Cuando suene, ¡bailen!</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Demostrar/Enseñar</ac_teacher-card_run-in_hed>  Demuestre cómo bailar y luego congelarse en el lugar. <ac_teacher-speaking>Esto es lo que harán ustedes cuando pare la música.</ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preparar</ac_teacher-card_run-in_hed>  Diga que se pongan de pie separados para tener espacio.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Practicar</ac_teacher-card_run-in_hed>  Ponga música. Deles tiempo para que bailen solos un ratito y se acostumbren a la música y al movimiento. Dígales que esta es una ronda de práctica. Detenga la música y dígales que paren de bailar.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Empezar</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¡Ahora vamos a jugar una ronda del baile del congelado!</ac_teacher-speaking> Ponga la música y deje que los niños bailen un ratito. Detenga la música. Los niños que se sigan moviendo tendrán que sentarse.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Sigan jugando rondas hasta que haya un ganador. Vuelvan a jugar por un nuevo ganador. Tenga en cuenta que la competencia puede ser una situación sensible para algunos niños, y por tanto esté dispuesto a cambiar los parámetros si es necesario.    </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre la paciencia y la conciencia de uno mismo</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Imaginen que no se pueden mover durante 14 días, como la impaciente oruga. ¿Cómo les ayudó jugar al baile del congelado para sentirse un poco como la impaciente oruga? </ac_teacher-speaking>Conversen sobre cómo entender los sentimientos propios y aprender a controlarlos es parte de crecer.  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>EL BAILE DELCONGELADO</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Los niños pueden no sentirse bien cuando “salen” del juego. Antes de empezar, explíqueles que solo puede haber un ganador, y compartan ideas sobre las mejores formas de reaccionar ante esa frustración.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida a los niños que sugieran otras actividades que podrían hacer para practicar la paciencia. Ayúdelos con preguntas como <ac_teacher-talk>¿A qué otras cosas podemos jugar donde tengamos que usar la paciencia? ¿Cómo nos ayudaría esta actividad a practicar la paciencia?</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Repase el significado de la palabra <ac_teacher-talk>congelado</ac_teacher-talk> con los niños multilingües. Aproveche la ocasión para aprender la palabra que en la lengua materna del niño multilingüe también signifique congelar o parar, y trate de usar la palabra mientras juegan.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Apoyo para el déficit de atención</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>La conciencia de uno mismo y la autorregulación suelen resultarles más difíciles a los niños que tienen problemas de impulsividad. Para ayudarlos a jugar con éxito este juego, usted podría modificarlo de tal modo que los niños no queden “congelados”, sino que realicen otra actividad física hasta que empiece la música de nuevo como, por ejemplo: aplaudir, pararse en un solo pie o tocarse los dedos de los pies, etc. Mantener el cuerpo en movimiento ayudará a que el niño continúe con la mente enfocada en la actividad.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66420-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>PASOS DE LA METAMORFOSIS</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy volvimos a leer <ac_teacher-speaking_emphasis_blue>La oruga muy impaciente</ac_teacher-speaking_emphasis_blue> y aprendimos sobre el ciclo vital de una oruga.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¡Estas imágenes están desordenadas! Vamos a poner los pasos de la metamorfosis de la impaciente oruga en orden.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Demostrar/Enseñar</ac_teacher-card_run-in_hed>  Demuestre cómo ordenar las imágenes colocando primero la imagen de la oruga que está comiendo. Diga: <ac_teacher-speaking>Sé que esta oruga come mucho preparándose para su próximo paso, así que creo que esta va primero.</ac_teacher-speaking> Luego, demuestre cómo pensar en voz alta preguntando: <ac_teacher-speaking>¿Qué estaba haciendo aquí la impaciente oruga?  Ah, sí, les estaba preguntando a sus amigos qué estaban haciendo todos. Eso me hizo pensar que ella no sabía qué es la metamorfosis.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Haga las preguntas del reverso de cada tarjeta. Anime a los niños a dar razones tomadas del texto para sus respuestas. Comparta el humor riendo en los momentos graciosos del cuento, y estimule a los niños a apreciar el humor.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Repita con cada tarjeta, pidiéndoles a los niños que elijan la que muestre el paso siguiente en la metamorfosis de la impaciente oruga.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Pida a los niños que expliquen la secuencia de la metamorfosis una vez que estén en orden las tarjetas. Anímelos a usar oraciones complejas, aportándoles palabras o frases como: “entonces”, “porque”, “así que”, “por lo tanto”.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre el humor</ac_teacher-card_run-in_hed>  Pida a los niños que describan su parte favorita del libro. Señale que el autor usa el humor para transmitir el mensaje, como la idea de que ¡la oruga sigue impaciente al final!  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>PASOS DE LA METAMORFOSIS</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>A los niños puede costarles verbalizar los pasos de la metamorfosis. Si esto ocurre, ofrézcales marcos de oración para que los usen en cada paso como, por ejemplo: “Después que la oruga construye su crisálida, la oruga...”.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Resumir es una muy buena estrategia para entender mejor un cuento. Desafíe a los niños a resumir lo que está pasando en el libro en cada etapa, según muestran las imágenes. Anímelos a representar los roles del libro mientras resumen.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Repase con los niños multilingües las palabras académicas asociadas con la metamorfosis de una oruga a una mariposa, como por ejemplo: <ac_teacher-talk>oruga, crisálida, metamorfosis</ac_teacher-talk> y <ac_teacher-talk>mariposa</ac_teacher-talk>. Invite a los niños multilingües a que compartan las palabras que significan “oruga” y “mariposa” en su lengua materna. Aproveche este momento como oportunidad para que los niños aprendan palabras en otra lengua.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Apoyo para el déficit de atención</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>A los niños kinestésicos les resulta más fácil enfocarse y retener información si hay actividades físicas de por medio. Permita que estos niños ejecuten alguna tarea: por ejemplo, cuando ponen las tarjetas en orden, pueden representar cada una de las etapas del desarrollo de la oruga mientras se describen los cambios.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66420-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>LO QUE HEMOS APRENDIDO</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Necesitará papel, pinceles, pinturas y vasos con agua.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¡Hoy conversamos sobre todas las cosas que han aprendido este año! ¿Cuáles son algunas de esas cosas?</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-talk>¡Ahora es su oportunidad de mostrar todo lo que aprendieron! Vamos a dibujar y pintar cosas que aprendimos durante el año</ac_teacher-talk>.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Demostrar/Enseñar</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Voy a dibujar y pintar cosas que aprendí durante el año. Creo que voy a hacer un dibujo de la Tierra, porque aprendimos cómo cuidarla. ¿Qué van a pintar ustedes? </ac_teacher-speaking>Dé tiempo para que conversen sobre qué les gustaría pintar y compartan cómo lo que están dibujando se relaciona con lo que han aprendido en el año.  </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preparar</ac_teacher-card_run-in_hed>  Reparta hojas, materiales para pintar y vasos con agua. Pida a los niños que piensen qué es lo que van a dibujar.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Crear</ac_teacher-card_run-in_hed>  Permita que los niños empiecen a pintar las cosas sobre las que aprendieron este año. Si les cuesta pensar en una idea, haga sugerencias como: <ac_teacher-speaking>¿Qué cosas aprendimos sobre los alimentos saludables?</ac_teacher-speaking> o <ac_teacher-speaking>¿Cómo cuidamos de la Tierra?</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Deje que los niños dibujen cosas diferentes de los distintos temas. Haga preguntas como: <ac_teacher-speaking>¿Por qué eligieron dibujar un animal? ¿Qué descubrimos este año sobre los animales?</ac_teacher-speaking>    </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre tener conciencia de uno mismo</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¡Cuánto hemos aprendido este año! ¡Tenemos mucho de lo que estar orgullosos! ¿De qué están más orgullosos ustedes este año? ¿Cuál es su cosa favorita de las que aprendimos este año? ¿Por qué es su favorita? </ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>LO QUE HEMOS APRENDIDO</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Si a los niños les cuesta recordar lo que han aprendido, dé tiempo para hojear libros de las semanas anteriores. Siéntese con ellos y ayúdelos a recordar lecciones importantes que hayan sido nuevas para ellos entonces.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Estimule a los niños que recuerden bien lo que han aprendido, pidiéndoles que escriban una palabra o una oración describiendo cómo han crecido, y una cosa que hayan aprendido.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Ayude a los niños multilingües a recordar términos académicos que han aprendido este año. Repase palabras como <ac_teacher-talk>mí, tú, comunidad, investigar, descubrir, animales, saludable, alimentos, crear, Tierra, reciclar, juntos </ac_teacher-talk>y <ac_teacher-talk>nuevo</ac_teacher-talk>. Tómese todo el tiempo necesario para conversar con los niños multilingües sobre el significado de las palabras académicas aprendidas. Repasar los términos académicos será beneficioso para todos los niños.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Anime a los niños a desarrollar su motricidad fina tomando los pinceles entre los dedos pulgar e índice. Vea si pueden usar el pincel para pintar con trazos suaves y amplios sobre el papel. Apoye según sea necesario.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66420-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

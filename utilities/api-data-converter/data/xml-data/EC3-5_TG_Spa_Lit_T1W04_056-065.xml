@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./preview-styles.css" type="text/css"?>
+<teaching-guide xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" lang="es">
+  <day_1>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 4</tg_week_hed>
+        <tg_topic_hed>Amigos</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338641592_Cov_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro:<tg_materials-caption_book-title-Ital>Los modales de Clifford</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC%20Redux%20T1_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjetas para grupo grande</tg_materials-caption>
+        <graphic href="VC%20Redux%20Spa%20T1_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> comprensión de la lectura en voz alta; conceptos de lo impreso, conocimiento del abecedario</tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Desarrollo físico:</tg_learning-goals_inline-hed> salud</tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Artes:</tg_learning-goals_inline-hed> música</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para presentar dos letras del abecedario, cantar con los niños una canción sobre los amigos y presentar el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>nota de agradecimiento</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento presentando el libro y preguntando: <tg_bullet-directions_guiding-question>¿Qué modales tiene Clifford?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Lea por placer y comprensión.</tg_bullet-directions>
+        <tg_bullet-directions>Verifique la comprensión y diferencie según sea necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación hacia la lectura:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Participa en actividades previas a la lectura y otras relacionadas con la lectura.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de lectura en voz alta:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Usa información para describir.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conocimiento del abecedario:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Identifica al menos 20 letras mayúsculas y 20 letras.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conceptos de lo impreso:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Distingue entre letras, palabras e imágenes.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Desarrollo físico</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Salud:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Tiene buenos hábitos de nutrición y ejercicio.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Música:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Canta, toca un instrumento musical y se mueve al ritmo en las actividades de clase.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Estudios sociales</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciudadanía:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Vota para tomar decisiones en grupo</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Actividad del abecedario A,B</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lit_T1_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividades</tg_materials-caption>
+        <graphic href="EC3-5_AlphabetBook_COV_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Libros del abecedario</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> conocimiento del abecedario, comprensión de la lectura en voz alta</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Presente a los niños la letras  <tg_bullet-directions_emphasis_Ital>Aa</tg_bullet-directions_emphasis_Ital> and <tg_bullet-directions_emphasis_Ital>Bb</tg_bullet-directions_emphasis_Ital>.</tg_bullet-directions>
+        <tg_bullet-directions>Anime a los niños a identificar los sonidos /<tg_bullet-directions_emphasis_Ital>a</tg_bullet-directions_emphasis_Ital>/ y /<tg_bullet-directions_emphasis_Ital>b</tg_bullet-directions_emphasis_Ital>/. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo podemos ser buenos amigos con los demás?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTROS DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Tu libro tiene amigos? Háblame de ellos.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Imagina que estás en un restaurante. ¿Cómo puedes aplicar tus buenos modales? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo puedes usar los buenos modales para trabajar en un rompecabezas con un amigo?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué puedes dibujar y escribir sobre tu mejor amigo?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué puedes hacerle a un amigo para decirle “gracias”? ¿Qué materiales escogerás?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo puedes usar la arcilla de modelar para trazar las letras Aa y Bb en las tarjetas de abecedario?  </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo puedes usar tus modales para compartir los bloques con un amigo? ¿Qué puedes decir?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Los modales de Clifford by Norman Bridwell. Copyright © 1987 by Norman Bridwell. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_1>
+  <day_2>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 4</tg_week_hed>
+        <tg_topic_hed>Amigos</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338641592_Cov_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro:<tg_materials-caption_book-title-Ital>Los modales de Clifford</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC%20Redux%20T1_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjetas para grupo grande</tg_materials-caption>
+        <graphic href="VC%20Redux%20Spa%20T1_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> comprensión de la lectura en voz alta</tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social</tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Bellas artes:</tg_learning-goals_inline-hed> Teatro</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para compartir el Mind Builder resolver conflictos y presentar el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>por favor</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>con su permiso</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento asociando el Mind Builder con <tg_bullet-directions_book-title>Los modales de Clifford</tg_bullet-directions_book-title>.</tg_bullet-directions>
+        <tg_bullet-directions>Lea de manera atenta para hacer notar y hablar sobre el Mind Builder.</tg_bullet-directions>
+        <tg_bullet-directions>Ofrezca oportunidad para prolongar el juego.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación hacia la lectura:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Participa en actividades previas a la lectura y otras relacionadas con la lectura.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conceptos de lo impreso:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Distingue entre letras, palabras e imágenes.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Comparte y repite los detalles de un texto.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Expresión dramática:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Actúa para recrear y volver a contar historias, estados de ánimo o experiencias.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Arte:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Usa el arte para expresarse.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Demuestra empatía por otros </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB);</tg_skills-focus-skill-code>
+          <tg_skills-focus-skill-text> se involucra en resolución de conflictos.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Títeres que resuelven problemas</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC_stock_CupcakeLiners_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Materiales: envolturas de pastelitos de colores</tg_materials-caption>
+        <graphic href="EC_stock_ArtSupplies_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Materiales de arte</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social</tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Bellas artes:</tg_learning-goals_inline-hed> arte</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Ayude a los niños a hacer flores felices.</tg_bullet-directions>
+        <tg_bullet-directions>Hable acerca de cuándo y por qué pueden regalar flores felices a alguien.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique, según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo podemos ser buenos amigos con los demás?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTROS DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Si un amigo y tú quieren leer el mismo libro, ¿puedes mostrarme una buena manera de resolver el problema?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Imagina que quieres jugar a un juego con un amigo, pero tu amigo no quiere. ¿Cómo puedes arreglar el problema? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes clasificar los bloques conectores con un amigo?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes usar sellos y pegatinas para escribir el nombre de tu amigo en una tarjeta de amistad?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes hacer un collar de la amistad? ¿Por qué escogiste esos materiales?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes encontrar la primera letra de tu nombre y la primera letra del nombre de tu amigo?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué pueden construir tu amigo y tú con los bloques?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Los modales de Clifford by Norman Bridwell. Copyright © 1987 by Norman Bridwell. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. Clifford the Big Red DogTM illustration copyright © The Norman Bridwell Trust. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Photo © Neirfy/Shutterstock.</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_2>
+  <day_3>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 4</tg_week_hed>
+        <tg_topic_hed>Amigos</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338641592_Cov_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>Los modales de Clifford</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC%20Redux%20T1_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjetas para grupo grande</tg_materials-caption>
+        <graphic href="VC%20Redux%20Spa%20T1_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> comprensión de la lectura en voz alta; escritura</tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Bellas artes:</tg_learning-goals_inline-hed> música</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para compartir la habilidad de comprensión, cantar con los niños una canción y presentar el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>modales</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento volviendo a narrar <tg_bullet-directions_book-title>Los modales de Clifford </tg_bullet-directions_book-title>y preguntando: <tg_bullet-directions_guiding-question>¿Cómo usa Clifford los buenos modales con su hermana?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Haga una lectura interactiva para profundizar la comprensión.</tg_bullet-directions>
+        <tg_bullet-directions>Verifique la comprensión y diferencie.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Usa información para describir.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conceptos de lo impreso:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Distingue entre letras, palabras e imágenes.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación hacia la lectura:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Participa en actividades previas a la lectura y otras relacionadas con la lectura.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Transmite un significado a través de marcas, letras o símbolos.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Música:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Canta, toca un instrumento musical y se mueve al ritmo en las actividades de clase.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Estudios Sociales</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciudadanía:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Participa en votar como un método para la toma de decisiones grupales.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Vamos a votar</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lit_T1_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+        <graphic href="EC_stock_WritingTools_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Materiales de escritura, notas adhesivas</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> escritura</tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Estudios sociales:</tg_learning-goals_inline-hed> ciudadanía</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Guíe a los niños en el proceso de votación.</tg_bullet-directions>
+        <tg_bullet-directions>Guíe la comprensión de los niños por el valor del proceso de votación.</tg_bullet-directions>
+        <tg_bullet-directions>Cuente los votos con los niños para determinar la actividad más elegida.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo podemos ser buenos amigos con los demás?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTROS DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escoge un libro. ¿Puedes encontrar ejemplos de buenos y malos modales?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Imagina que un amigo y tú van al parque. ¿Qué harán?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿De cuántas maneras diferentes puedes clasificar los cubos conectores? Muéstramelo y cuéntalas.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué le dirías a un amigo al que extrañas? ¿Puedes dibujarlo o escribirlo?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo puedes hacer una caja de votación para la clase, para cuando pidas que voten? ¿Qué usarás?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo escribes letras en la crema de afeitar? ¿Puedes hacer una Aa y una Bb? ¿Puedes hacer la primera letra de tu nombre?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo puedes construir una casita de perro para Clifford?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Los modales de Clifford by Norman Bridwell. Copyright © 1987 by Norman Bridwell. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Photos © Shutterstock: crayons (Lucie Lang), pencils (urfin).</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_3>
+  <day_4>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 4</tg_week_hed>
+        <tg_topic_hed>Amigos</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="EC3-5_Flipchart_T1W4_ThankYouFriend_SPA_Redux_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Papelógrafo de Grandes ideas: <tg_materials-caption_book-title-Ital>¡Gracias, amigo!</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="9781338641592_Cov_SP_cropped.png" index="2"/>
+        <tg_materials-caption index="2"> Libro: <tg_materials-caption_book-title-Ital>Los modales de Clifford</tg_materials-caption_book-title-Ital></tg_materials-caption>
+        <graphic href="LGC%20Redux%20T1_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas para grupo grande</tg_materials-caption>
+        <graphic href="VC%20Redux%20Spa%20T1_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> comprensión de la lectura en voz alta; conceptos de lenguaje impreso; escritura</tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para hablar acerca de lo que los niños han aprendido sobre ser un buen amigo, que se presenten de manera amigable, y presentar el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>se turnan</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento asociando <tg_bullet-directions_book-title>Los modales de Clifford</tg_bullet-directions_book-title> y <tg_bullet-directions_book-title>¡Gracias, amigo!</tg_bullet-directions_book-title></tg_bullet-directions>
+        <tg_bullet-directions>Haga una lectura interactiva para conectar el concepto con la pregunta: <tg_bullet-directions_guiding-question>¿Cómo podemos ser buenos amigos con los demás?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Ofrezca oportunidad para prolongar el juego.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Usa información para describir.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conceptos de lo impreso:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Distingue  entre letras, palabras e imágenes.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación hacia la lectura:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Elige libros y otros textos para la actividad previa a la lectura.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Transmite un significado a través de marcas, letras o símbolos.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>
+            <tg_learning-goals_inline-hed>Desarrollo social:</tg_learning-goals_inline-hed>
+          </tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Demuestra empatía por otros </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB);</tg_skills-focus-skill-code>
+          <tg_skills-focus-skill-text> Se involucra en resolución de conflictos.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Nota de agradecimiento</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lit_T1_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividades</tg_materials-caption>
+        <graphic href="EC_stock_ArtSupplies_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Papelógrafo, papeles de colores, materiales de arte</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> escritura; comprensión de la lectura en voz alta</tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Artes:</tg_learning-goals_inline-hed> arte </tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Guíe a los niños para hacer notas de agradecimiento.</tg_bullet-directions>
+        <tg_bullet-directions>Hable sobre diferentes maneras de ser un buen amigo.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique, según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo podemos ser buenos amigos con los demás?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTROS DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Encuentra dos libros sobre cómo ser un amigo. ¿Cuál te gusta más? ¿Por qué?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué le dirías a un amigo que se siente triste? Actúalo.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Usa cubos conectores para hacer tres longitudes diferentes. ¿Puedes ordenarlas de la más corta a la más larga?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Por qué le darías a un amigo una nota de agradecimiento? ¿Cómo harías tu nota?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes hacer una máscara que puedas usar cuando te disfraces con un amigo?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes escribir la primera letra de tu nombre en la bandeja de arroz?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes ordenar los carros del más pequeño al más grande?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Los modales de Clifford by Norman Bridwell. Copyright © 1987 by Norman Bridwell. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Photo © Aleksey Sagitov/Shutterstock.</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_4>
+  <day_5>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 4</tg_week_hed>
+        <tg_topic_hed>Amigos</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338641592_Cov_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro:<tg_materials-caption_book-title-Ital>Los modales de Clifford</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC%20Redux%20T1_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjetas para grupo grande</tg_materials-caption>
+        <graphic href="VC%20Redux%20Spa%20T1_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> comprensión de la lectura en voz alta; conceptos de lenguaje impreso; escritura</tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Bellas artes:</tg_learning-goals_inline-hed> música; teatro</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para pedir a los niños que canten y bailen mientras comparten formas en que los compañeros de clase son buenos amigos, y para revisar el vocabulario.</tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento narrando otra vez el libro y preguntando: <tg_bullet-directions_guiding-question>¿Cómo se comporta alguien que tiene buenos modales?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Lea y vuelva a narrar de manera interactiva.</tg_bullet-directions>
+        <tg_bullet-directions>Verifique la comprensión y diferencie, según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Comparte y repite los detalles de un texto.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conceptos de lo impreso:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Distingue entre letras, palabras e imágenes.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Transmite un significado a través de marcas, letras o símbolos.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Música:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Canta, toca un instrumento musical y se mueve al ritmo en las actividades de clase.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Expresión dramática:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Actúa para recrear y volver a contar historias, estados de ánimo o experiencias.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Escritura independiente, dibujar o narrar</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC3-5_ResponsePrompt_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Hoja de respuesta</tg_materials-caption>
+        <graphic href="EC_stock_WritingTools_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Materiales de escritura</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> conceptos de lenguaje impreso; escritura</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Apoye a los niños para que respondan de manera independiente a la pregunta de esta semana: <tg_bullet-directions_guiding-question>¿Por qué quieres ser buen amigo de los demás?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique, según sea necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Guarde la escritura de los niños para usarla la siguiente semana.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo podemos ser buenos amigos con los demás?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTROS DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escoge un libro sobre amigos. ¿Puedes encontrar palabras que empiecen con la letra Aa o Bb?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escoge dos muñecos e imagina que son amigos en un parque temático. ¿Qué se dicen el uno al otro?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes usar las fichas para averiguar cuántos amigos hay en nuestra clase?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk> ¿Puedes escribir un correo electrónico o hacer un dibujo para decirle a un amigo por qué te gusta jugar con él? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes hacer un dibujo de ti y tu amigo jugando?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Mira las tarjetas de abecedario de la Aa y la Bb. ¿Puedes escribir las letras en un papel?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes hacer una patio de juegos con los bloques? ¿Puedes imaginar que los muñecos de plástico juegan en el patio de tenis? ¿Cómo usan sus modales?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Los modales de Clifford by Norman Bridwell. Copyright © 1987 by Norman Bridwell. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_5>
+  <day_1_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de lectura en voz alta:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Usa información para describir, categorizar, comparar y contrastar.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.III.D.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conocimiento del abecedario:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Identifica al menos 20 letras mayúsculas y 20 letras minúsculas aisladas.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.III.C.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conceptos de lo impreso:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Distingue entre letras, palabras e imágenes.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.III.E.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación por la lectura:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Elige libros y otros textos para la actividad previa a la lectura.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.III.A.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Desarrollo físico</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Salud:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Reconoce buenos hábitos de nutrición y ejercicio.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.IX.C.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Música:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Canta, toca un instrumento musical y se mueve al ritmo en las actividades de clase.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.VIII.B.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_1_texas>
+  <day_2_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de lectura en voz alta:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Usa información para describir, categorizar, comparar y contrastar.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.III.D.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conceptos de lo impreso:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Distingue entre letras, palabras e imágenes.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.III.E.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación por la lectura:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Elegir libros y otros textos para la actividad previa a la lectura.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.III.A.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Se involucra en resolución de conflictos.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.I.C.5, MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Teatro:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Actúa para recrear y volver a contar historia, estados de ánimo o experiencias.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.VIII.C.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_2_texas>
+  <day_3_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Usa información para describir, categorizar, comparar y contrastar.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.III.D.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conceptos de lo impreso:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Distingue entre letras, palabras e imágenes.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.III.E.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación por la lectura:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Elige libros y otros textos para la actividad previa a la lectura.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.III.A.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Usa de manera intencional marcas, letras o símbolos para registrar el lenguaje y comparte significados oralmente.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.IV.A.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Música:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Canta, toca un instrumento musical y se mueve al ritmo en las actividades de clase.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.VIII.B.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Estudios sociales</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciudadanía:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Participa en votar como un método para la toma de decisiones grupales.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.VII.D.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_3_texas>
+  <day_4_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Usa información para describir, categorizar, comparar y contrastar.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.III.D.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conceptos de lo impreso:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Distingue entre letras, palabras e imágenes.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.III.E.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación por la lectura:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Elige libros y otros textos para la actividad previa a la lectura.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.III.A.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Transmite un significado a través de marcas, letras o símbolos.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.IV.A.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Intenta ayudar a otros para que hagan las cosas mejor o de manera más fácil </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.I.C.6);</tg_skills-focus-skill-code>
+          <tg_skills-focus-skill-text>participa en resolución de conflictos.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.I.C.5, MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_4_texas>
+  <day_5_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Comparte y repite los detalles de un texto.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.III.D.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conceptos de lo impreso:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Distingue entre letras, palabras e imágenes </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.III.E.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Transmite un significado a través de marcas, letras o símbolos </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.IV.A.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Música:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Canta, toca un instrumento musical y se mueve al ritmo en las actividades de clase </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX. VIII.B.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Teatro:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Actúa para recrear y volver a contar historias, estados de ánimo o experiencias.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.VIII.C.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_5_texas>
+</teaching-guide>

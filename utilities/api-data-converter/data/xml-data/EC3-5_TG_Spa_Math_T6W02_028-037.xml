@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./preview-styles.css" type="text/css"?>
+<teaching-guide xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" lang="es">
+  <day_1>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 2: </tg_week_hed>
+        <tg_topic_hed>Cantar y bailar</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338612028_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro:  <tg_materials-caption_book-title-Ital>Todo va a estar bien</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T6_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T6_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+        <graphic href="EC_stock_PatternBlocks_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Bloques patrón </tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  geometría </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo social </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Desarrollo físico:</tg_learning-goals_inline-hed>  motricidad gruesa</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Desarrolle conocimientos, motive a los niños con un juego e introduzca vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>círculo</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>cuadrado</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, presente el libro y pregunte: <tg_bullet-directions_guiding-question>¿Cómo se sienten las personas del cuento?</tg_bullet-directions_guiding-question>  </tg_bullet-directions>
+        <tg_bullet-directions>Lea por placer, destacando cómo se sienten las personas y señalando las figuras que los rodean. </tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión y diferencie según sea necesario. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce, nombra y describe formas bidimensionales comunes —círculo, cuadrado, rectángulo, triángulo— usando palabras relacionadas con el número de lados, longitud de los lados y número de puntos o ángulos.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Empieza a jugar y se integra a un grupo para jugar.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Desarrolla la memoria funcional para resolver problemas y lograr objetivos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Desarrollo físico </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motricidad gruesa:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Participa en secuencias de movimientos con instrucciones de adultos; Usa la percepción para realizar movimientos a través del espacio e interacciones con objetos y personas.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Emparejar figuras</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T6_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  geometría </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Desarrollo físico:</tg_learning-goals_inline-hed>  motricidad gruesa</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Pida a los niños que emparejen figuras con objetos de la vida real que tengan la misma forma. </tg_bullet-directions>
+        <tg_bullet-directions>Ayude a los niños a reconocer similitudes en objetos que tienen la misma forma. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo nos podemos expresar cantando y bailando? </tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y  CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué libro elegiste? ¿Por qué lo elegiste? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué música te gusta bailar? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué puedes hacer con bloques patrón? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes escribir sobre tu canción favorita? ¿Por qué te gusta? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE  CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué puedes dibujar que esté hecho de figuras? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO  ABC </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Con qué letra empieza la palabra <tg_teacher-talk_emphasis_non-ital>canción</tg_teacher-talk_emphasis_non-ital>? ¿Cómo haces esa letra? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿De qué figuras son los bloques que estás usando?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Todo va a estar bien by Cedella Marley, illustrated by Vanessa Brantley-Newton. Text copyright © 2012 by Cedella Marley. Illustrations copyright © 2012 by Vanessa Brantley-Newton. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Chronicle Books LLC. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_1>
+  <day_2>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 2: </tg_week_hed>
+        <tg_topic_hed>Cantar y bailar</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338612028_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro:  <tg_materials-caption_book-title-Ital>Todo va a estar bien</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T6_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T6_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  geometría </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo social </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed>  conversación</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Comparta el Mind Builder <tg_bullet-directions_guiding-question>jugar con otros</tg_bullet-directions_guiding-question> e introduzca vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>esfera</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>invitar</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, asocie el Mind Builder con <tg_bullet-directions_book-title>Todo va a estar bien</tg_bullet-directions_book-title>. </tg_bullet-directions>
+        <tg_bullet-directions>Lea con atención para ver cómo invitar a alguien a jugar y repasar figuras. </tg_bullet-directions>
+        <tg_bullet-directions>Dé una oportunidad de prolongar el juego en la que los niños practiquen invitar a un amigo a jugar. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce, nombra y describe formas bidimensionales comunes —círculo, cuadrado, rectángulo, triángulo— usando palabras relacionadas con el número de lados, longitud de los lados y número de puntos o ángulos; Crea, compone, descompone y habla sobre formas bidimensionales comunes, incluyendo el círculo, el cuadrado, el rectángulo y el triángulo.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Empieza a jugar y se integra a un grupo para jugar.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Se involucra en conversaciones con una variedad de compañeros, turnándose para escuchar y hablar.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Arte:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa diferentes materiales de arte para la exploración y la experiencia sensorial.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Dibujemos juntos</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T6_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+        <graphic href="EC_stock_WritingTools_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Materiales de dibujo</tg_materials-caption>
+        <graphic href="EC_stock_Paper_110023949_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Papel</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  geometría </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo social </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Bellas artes:</tg_learning-goals_inline-hed>  arte</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Ayude a los niños a invitar a un compañero a trabajar juntos y dibujar. </tg_bullet-directions>
+        <tg_bullet-directions>Anime a los niños a trabajar juntos y dibujar tantos objetos como puedan usando una figura básica como el triángulo, el círculo o el cuadrado. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo nos podemos expresar cantando y bailando?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y  CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué figuras ves en ese libro? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Muestra cómo puedes invitar a un nuevo amigo a jugar contigo. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Mira estas piezas. ¿Cuáles son círculos y cuáles son cuadrados? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escribe una nota para invitar a un amigo a jugar. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE  CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo puedes hacer un círculo? ¿Cómo puedes hacer un cuadrado? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Con qué letra empieza <tg_teacher-talk_emphasis_non-ital>música</tg_teacher-talk_emphasis_non-ital>? ¿Con qué letra empieza <tg_teacher-talk_emphasis_non-ital>cuadrado</tg_teacher-talk_emphasis_non-ital>? ¿Puedes escribir esas letras? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué forma de bloque es la mejor para hacer construcciones? ¿Por qué?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Todo va a estar bien by Cedella Marley, illustrated by Vanessa Brantley-Newton. Text copyright © 2012 by Cedella Marley. Illustrations copyright © 2012 by Vanessa Brantley-Newton. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Chronicle Books LLC. Clifford the Big Red DogTM illustration copyright © The Norman Bridwell Trust. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Photos © Shutterstock: crayons  (Lucie Lang), paper (jannoon028), pencils (urfin).</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_2>
+  <day_3>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 2: </tg_week_hed>
+        <tg_topic_hed>Cantar y bailar</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338612028_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro:  <tg_materials-caption_book-title-Ital>Todo va a estar bien</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T6_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T6_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  patrones </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo social </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed>  escritura; conciencia fonológica</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Repase patrones, motive a los niños con una canción e introduzca vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>cubo</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>equivocar</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, repase el libro y pregunte: <tg_bullet-directions_guiding-question>¿De qué manera la música cambia cómo se sienten las personas del libro?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Lea de manera interactiva para una mejor comprensión y para reconocer patrones en las rimas. </tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión y diferencie. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce, nombra y describe formas bidimensionales comunes —círculo, cuadrado, rectángulo, triángulo— usando palabras relacionadas con el número de lados, longitud de los lados y número de puntos o ángulos.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Patrones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce, completa, amplía, duplica y crea patrones comunes, incluyendo A, B, A, B; AA, BB, AA, BB; y ABC, ABC.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Se involucra con adultos confiables y con amigos para trabajar, comunicarse y jugar.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comparte y celebra productos escritos.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conciencia fonológica:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Crea rimas con palabras.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Se involucra en conversaciones con una variedad de compañeros, turnándose para escuchar y hablar.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Patrones: ¡Me equivoqué!</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T6_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Cubos conectores</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  geometría; patrones </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo social </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed>  conversación</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Cree patrones con dos colores de cubos conectores. </tg_bullet-directions>
+        <tg_bullet-directions>Ayude a los niños a identificar un error en el patrón. </tg_bullet-directions>
+        <tg_bullet-directions>Invítelos a corregirlo. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo nos podemos expresar cantando y bailando?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y  CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Hay en tu libro palabras que rimen? ¿Cómo lo sabes? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes representar que tocas música con un instrumento imaginario? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes dibujar figuras? ¿Cuáles? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes escribir un cuento en el que haya rimas? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE  CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo puedes usar figuras para hacer un dibujo? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Oigo los sonidos <tg_teacher-talk_emphasis_non-ital>g </tg_teacher-talk_emphasis_non-ital>y<tg_teacher-talk_emphasis_non-ital> r</tg_teacher-talk_emphasis_non-ital> al principio de <tg_teacher-talk_emphasis_non-ital>granja</tg_teacher-talk_emphasis_non-ital>. ¿Puedes dibujar o escribir las letras <tg_teacher-talk_emphasis_non-ital>g</tg_teacher-talk_emphasis_non-ital> y <tg_teacher-talk_emphasis_non-ital>r</tg_teacher-talk_emphasis_non-ital>? ¿Cómo suenan juntas? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Ves bloques cuadrados? ¿Recuerdas el nombre del objeto que tiene seis caras y son todas cuadradas?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Todo va a estar bien by Cedella Marley, illustrated by Vanessa Brantley-Newton. Text copyright © 2012 by Cedella Marley. Illustrations copyright © 2012 by Vanessa Brantley-Newton. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Chronicle Books LLC. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_3>
+  <day_4>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 2: </tg_week_hed>
+        <tg_topic_hed>Cantar y bailar</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="EC3-5_Flipchart_T6W2_OldMacDonaldsFarm_SPA_Redux_cropped.png" index="1"/>
+        <tg_materials-caption index="1">
+          <tg_materials-caption_book-title-Ital>Papelógrafo de grandes ideas:  El viejo Mac Donald tenía una granja</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T6_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T6_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+        <graphic href="9781338612028_COV_SP_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Libro:  <tg_materials-caption_book-title-Ital>Todo va a estar bien</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> patrones </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed>  conciencia fonológica</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Haga un juego de patrones, detecte la rima en una canción e introduzca el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>granja</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>cabras</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, asocie los textos <tg_bullet-directions_book-title>El viejo Mac Donald tenía una granja</tg_bullet-directions_book-title> y <tg_bullet-directions_book-title>Todo va a estar bien</tg_bullet-directions_book-title>. </tg_bullet-directions>
+        <tg_bullet-directions>Lea de manera interactiva y asocie con patrones mostrando cómo se repiten partes de la canción con cada animal. </tg_bullet-directions>
+        <tg_bullet-directions>Dé la oportunidad de prolongar el juego. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Patrones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce, completa, amplía, duplica y crea patrones comunes, incluyendo A, B, A, B; AA, BB, AA, BB; y ABC, ABC.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Crea, compone, descompone y habla sobre formas bidimensionales comunes, incluyendo el círculo, el cuadrado, el rectángulo y el triángulo; Reconoce, nombra y describe formas bidimensionales comunes —círculo, cuadrado, rectángulo, triángulo— usando palabras relacionadas con el número de lados, longitud de los lados y número de puntos o ángulos.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Empieza a jugar y se integra a un grupo para jugar.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conciencia fonológica:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Crea rimas con palabras.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Construir un patrón con figuras</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T6_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+        <graphic href="EC_stock_PatternBlocks_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Bloques patrón</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> patrones; geometría </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed>  conciencia  fonológica</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Ayude a los niños a invitar amigos a trabajar juntos. </tg_bullet-directions>
+        <tg_bullet-directions>Pida a los niños que construyan patrones ABAB y AABB con figuras simples. </tg_bullet-directions>
+        <tg_bullet-directions>Anime a los niños a continuar los patrones que comenzaron. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo nos podemos expresar cantando y bailando?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y  CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Hay algún animal de granja en tu libro? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Imagina que eres uno de los animales de la granja del viejo Mac Donald. ¿Qué sonido haces? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo puedes hacer un animal de granja con figuras? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes escribir una canción o un cuento que contenga rimas? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE  CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Haz un dibujo que tenga un patrón. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cuál fue el sonido animal que más te gustó? ¿Qué sonidos de letras escuchas en él?  </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Construye torres con el patrón siguiente: torre alta, baja, alta, baja.</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Todo va a estar bien by Cedella Marley, illustrated by Vanessa Brantley-Newton. Text copyright © 2012 by Cedella Marley. Illustrations copyright © 2012 by Vanessa Brantley-Newton. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Chronicle Books LLC. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_4>
+  <day_5>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 2: </tg_week_hed>
+        <tg_topic_hed>Canta y baila</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338612028_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro:  <tg_materials-caption_book-title-Ital>Todo va a estar bien</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T6_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T6_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  geometría, patrones </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed>  conciencia fonológica </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Desarrollo físico:</tg_learning-goals_inline-hed>  motricidad gruesa</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Baile, cante y haga un conteo de figuras. </tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, repase el libro y pregunte: <tg_bullet-directions_guiding-question>¿Qué parte de la canción del libro les recuerda su vida?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Lea y vuelva a narrar de manera interactiva para lograr la participación física y el enfoque en las figuras. </tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión y diferencie según sea necesario. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Patrones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce, completa, amplía, duplica y crea patrones comunes, incluyendo A, B, A, B; AA, BB, AA, BB; y ABC, ABC.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Crea, compone, descompone y habla sobre formas bidimensionales comunes, incluyendo el círculo, el cuadrado, el rectángulo y el triángulo; Reconoce, nombra y describe formas bidimensionales comunes —círculo, cuadrado, rectángulo, triángulo— usando palabras relacionadas con el número de lados, longitud de los lados y número de puntos o ángulos.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica sus propias emociones.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Desarrollo físico </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motricidad gruesa:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Participa en secuencias de movimientos con instrucciones de adultos.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conciencia fonológica:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Crea rimas con palabras.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comparte y celebra productos escritos.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Escritura independiente, dibujar o narrar un cuento</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC3-5_ResponsePrompt_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Hoja de respuesta</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  patrones </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo emocional </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed>  escritura</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Apoye a los niños mientras responden en forma independiente al tema: <tg_bullet-directions_guiding-question>Comparte un momento en el que la música y el baile te hayan hecho sentir feliz</tg_bullet-directions_guiding-question>. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario. </tg_bullet-directions>
+        <tg_bullet-directions>Guarde los escritos para mostrarlos la próxima semana.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo nos podemos expresar cantando y bailando?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y  CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo comparten sus sentimientos las personas y los animales del libro? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes crear un baile para expresar lo que sientes? ¿Qué muestra tu baile? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Crea un patrón de figuras. ¿Qué figura es la siguiente? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escribe una canción sobre ti mismo y sobre cómo te sientes. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE  CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes crear una obra de arte con tu figura preferida? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué sonido escuchas al comienzo de la palabra <tg_teacher-talk_emphasis_non-ital>patrón</tg_teacher-talk_emphasis_non-ital>? ¿Qué letra hace ese sonido? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cuál es la figura más grande que puedes construir?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Todo va a estar bien by Cedella Marley, illustrated by Vanessa Brantley-Newton. Text copyright © 2012 by Cedella Marley. Illustrations copyright © 2012 by Vanessa Brantley-Newton. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Chronicle Books LLC. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_5>
+  <day_1_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Nombra formas comunes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Interactúa y se comunica cada vez más con sus compañeros para iniciar situaciones de juegos de simulación que compartan un plan y una meta común.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.C.4, MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Desarrolla la memoria funcional para resolver problemas y lograr objetivos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Desarrollo físico </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motricidad gruesa:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Coordina secuencias de movimientos para realizar tareas.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IX.A.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_1_texas>
+  <day_2_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Nombra formas comunes </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.C.1);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Crea formas.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Interactúa y se comunica cada vez más con sus compañeros para iniciar situaciones de juegos de simulación que compartan un plan y una meta común.</tg_skills-focus-skill-text>  <tg_skills-focus-skill-code>(TX.I.C.4, MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Desarrolla la memoria funcional para resolver problemas y lograr objetivos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Se involucra en conversaciones de manera adecuada.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.B.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Arte:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa una variedad de materiales de arte y actividades para la experiencia sensorial y la exploración.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VIII.A.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_2_texas>
+  <day_3_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Nombra formas comunes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Patrones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce y crea patrones.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.E.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Muestra que puede iniciar interacciones sociales.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.C.3, MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Alfabetización </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comparte y celebra los productos escritos individuales y los hechos por la clase.</tg_skills-focus-skill-text>  <tg_skills-focus-skill-code>(TX.IV.B.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conciencia fonológica:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Puede reconocer palabras que riman.</tg_skills-focus-skill-text>  <tg_skills-focus-skill-code>(TX.III.B.6)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Se involucra en conversaciones de manera adecuada.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.B.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_3_texas>
+  <day_4_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Nombra formas comunes </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.C.1);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Crea formas.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Patrones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce y crea patrones.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.E.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Muestra que puede iniciar interacciones sociales.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.C.3, MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Alfabetización </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conciencia fonológica:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Puede reconocer palabras que riman.</tg_skills-focus-skill-text>  <tg_skills-focus-skill-code>(TX.III.B.6)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_4_texas>
+  <day_5_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Nombra formas comunes </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.C.1);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Crea formas.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Patrones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce y crea patrones.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.E.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Puede comunicar emociones/sentimientos básicos.</tg_skills-focus-skill-text>  <tg_skills-focus-skill-code>(TX.I.B.2.b, MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Desarrollo físico </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motricidad gruesa:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Coordina secuencias de movimientos para realizar tareas.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IX.A.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Alfabetización </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conciencia fonológica:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Puede reconocer palabras que riman.</tg_skills-focus-skill-text>  <tg_skills-focus-skill-code>(TX.III.B.6)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comparte y celebra los productos escritos individuales y los hechos por la clase.</tg_skills-focus-skill-text>  <tg_skills-focus-skill-code>(TX.IV.B.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_5_texas>
+</teaching-guide>

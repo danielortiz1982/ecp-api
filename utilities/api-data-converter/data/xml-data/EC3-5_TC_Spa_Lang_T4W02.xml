@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="es">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>¿DE VERDAD O NO DE VERDAD?</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos el cuento <ac_teacher-speaking_emphasis_blue>Lola quiere un gato</ac_teacher-speaking_emphasis_blue> y nos enfocamos en hacer y responder preguntas sobre el cuento. Leímos sobre cómo Lola simulaba que su peluche, Dinah, era un gato de verdad para aprender a cuidar a un gato de verdad.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad miraremos imágenes de animales y las clasificaremos en dos grupos:</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-card_run-in_hed>De verdad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Este grupo es para los animales que están vivos, se mueven, respiran, comen y beben.</ac_teacher-speaking></ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-card_run-in_hed>No de verdad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Es para los animales que no son de verdad, como peluches, estatuas o incluso algún tipo de alimento. No están vivos. Se parecen a los de verdad pero no son de verdad.</ac_teacher-speaking></ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Enseñar señales con la mano</ac_teacher-card_run-in_hed>  Pida a los niños que indiquen con un pulgar hacia arriba si la imagen muestra un animal de verdad y un pulgar hacia abajo si no es de verdad. Demuestre.   </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre una tarjeta con imagen y haga la pregunta al dorso; dé apoyo o estímulo según sea necesario.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use la última pregunta al dorso para ampliar la conversación.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Clasificar</ac_teacher-card_run-in_hed>  Dé la tarjeta con imagen a un niño para que la coloque en el grupo correcto.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad usando la siguiente tarjeta con imagen.   </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre animales de verdad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Todas las imágenes de este grupo muestran animales de verdad. ¿Cómo saben que son de verdad?</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre animales que no son de verdad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Todas las imágenes de este grupo muestran animales que no son de verdad. ¿Cómo saben que estos animales no son de verdad?</ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>¿de verdad o no de verdad?</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Muestre tres tarjetas con imagen: dos de animales de verdad y una con un animal que no sea de verdad (p. ej.: un perro y una serpiente de verdad y un gato de peluche). Pregunte: <ac_teacher-talk>¿Cuál no pertenece al grupo? ¿Cómo lo saben?</ac_teacher-talk> Repita con otros grupos de tres tarjetas.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Muestre dos tarjetas con imagen: una con un animal de verdad y la otra con un animal que no sea de verdad (p. ej.: una serpiente de verdad y otra de peluche). Pregunte: <ac_teacher-talk>¿En qué se parecen y en qué se diferencian estos animales?</ac_teacher-talk> Repita con otros pares de tarjetas.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Anime a los niños a usar una respuesta física, además de la hablada. Por ejemplo, invítelos a moverse como el animal que se muestra cuando el animal es real (p. ej.: saltar como un conejo o deslizarse como una serpiente). Estas pistas físicas y visuales apoyarán el desarrollo del lenguaje y los niños podrán participar en la actividad al mismo tiempo que desarrollan sus habilidades lingüisticas.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad gruesa</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Invite a los niños a jugar en el espacio para el grupo grande o en el exterior, donde puedan moverse como lo haría cada animal. Esta actividad dará a los niños la oportunidad de saltar como un conejo, deslizarse como una serpiente, etc. Cuando los niños elijan una tarjeta de un animal que no sea real, pueden copiar la pose de ese animal y permanecer quietos unos momentos. Al usar todo su cuerpo para jugar, los niños desarrollan la memoria y la fuerza.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64412-8</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>QUÉ ME HACE  SENTIR ORGULLOSO</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos el cuento <ac_teacher-speaking_emphasis_blue>Lola quiere un gato</ac_teacher-speaking_emphasis_blue> y nos enfocamos en las cosas que hizo Lola que provocaron que se sintiera orgullosa. Hablamos sobre cómo aprendió lo que necesitaría su gato, cómo practicó cuidar un gato y luego cuidó bien a Makeda.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el Mind Builder</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cuando estamos orgullosos, mostramos las cosas que hacemos bien o hablamos sobre ellas. Lola está orgullosa porque cuida bien a Makeda. Hace eso bien.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad veremos imágenes de niños haciendo cosas de las que se sienten orgullosos. Haremos y responderemos preguntas sobre qué hace que se sienta orgullosa cada persona de las imágenes.</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre una tarjeta de un niño y haga la pregunta al dorso; dé apoyo o estímulo según sea necesario.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use la última pregunta al dorso de la tarjeta para ampliar la conversación.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad usando la siguiente tarjeta con imagen.   </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre expresar orgullo</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hablemos sobre los niños que vimos hoy en las tarjetas. Hablemos sobre qué hizo que esos niños se sintieran orgullosos y qué hace que ustedes se sientan orgullosos. Terminen la oración “Me siento orgulloso cuando <fill-in-the-blank>                              </fill-in-the-blank>”. ¿Cómo demuestran que están orgullosos? ¿Cómo demuestran otras personas que están orgullosas de ustedes? </ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>QUÉ ME HACE  SENTIR ORGULLOSO</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Anime a los niños más pequeños o a los que tienen retraso en el desarrollo a hablar sobre cosas que les gusten. Invítelos a hablar sobre cómo se sienten cuando hacen esas cosas. Explique que ese sentimiento significa que están orgullosos.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Anime a los niños a participar por turnos en conversaciones entre amigos sobre las tarjetas de la actividad. Recuérdeles que mientras una persona habla, la otra escucha. Quien habla debe sostener la tarjeta como recordatorio de esto.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Anime a los niños a usar una respuesta física, además de la hablada, para decir de qué está orgulloso de poder hacer cada niño de las tarjetas de actividad. Por ejemplo, pueden simular atrapar una pelota cuando hablan sobre la tarjeta que muestra a una niña atrapando una pelota. O pueden simular cepillar un perro o dar de comer a un gato cuando ven esas imágenes.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Dé a los niños la opción de dibujar una respuesta a la actividad usando lápices, crayones o marcadores. Los niños pueden dibujar algo que vean en las tarjetas que los haga sentirse orgullosos. Pueden dibujar alguna otra cosa de la que estén orgullosos. Asegúrese de proporcionar una amplia gama de colores para no limitar a los niños. Anímelos a hablar mientras dibujan usando pronombres posesivos, como <ac_teacher-talk>mío, mía, tuyo, tuya</ac_teacher-talk> y <ac_teacher-talk>suyo, suya</ac_teacher-talk>, tanto como sea posible.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64412-8</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>¿DE QUIÉN ES LA MASCOTA?</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos el cuento <ac_teacher-speaking_emphasis_blue>Lola quiere un gato</ac_teacher-speaking_emphasis_blue>. Hicimos y respondimos muchas preguntas sobre la mascota de Lola, la gata Makeda.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad veremos imágenes de niños haciendo distintas cosas por sus mascotas. Haremos y responderemos preguntas sobre de quién son las mascotas y sobre qué hace cada persona por la mascota. </ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre una tarjeta de un niño y haga la pregunta al dorso; dé apoyo o estímulo según sea necesario.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use la última pregunta al dorso de la tarjeta para ampliar la conversación.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad usando la siguiente tarjeta con imagen.   </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre lo que necesitan las mascotas</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hablemos sobre los diferentes niños y mascotas de las imágenes de la actividad de hoy. ¿Qué mascota tiene cada niño y qué necesita esa mascota? Completen estas oraciones: “Ella tiene un(a) <fill-in-the-blank>       </fill-in-the-blank>. Su mascota necesita <fill-in-the-blank>       </fill-in-the-blank>”. “Él tiene un(a) <fill-in-the-blank>       </fill-in-the-blank>. Su mascota necesita <fill-in-the-blank>       </fill-in-the-blank>”. ¿Qué mascota tienen ustedes y qué necesita su mascota? Completen estas oraciones: “Yo tengo un(a) <fill-in-the-blank>       </fill-in-the-blank>. Mi mascota necesita <fill-in-the-blank>       </fill-in-the-blank>”.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>¿de quién es la mascota?</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Para los niños más pequeños o los que tienen retraso en el desarrollo, haga preguntas sobre lo que hay en la imagen. Luego anime a los niños a decir qué ocurre. Invítelos a hablar más sobre lo que ven. Estimule tanta conversación como sea posible.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Anime a los niños a contar cuentos originales sobre los niños y las mascotas que se ven en las tarjetas. Invítelos a usar pronombres posesivos. Pídales que usen las imágenes como punto de partida y luego deje que trabajen juntos para crear sus propios cuentos.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Anime a los niños a usar una respuesta física, además de la hablada, para conversar sobre las mascotas de las tarjetas de actividad. Por ejemplo, pueden estirar la espalda como un gato o simular saltar como un conejo. También pueden simular correr como un perro o nadar como un pez cuando vean esas imágenes.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Dé a los niños la opción de dibujar una respuesta a la actividad usando lápices, crayones o marcadores. Pueden hacer dibujos de ellos mismos, de sus amigos o de miembros de su familia haciendo algo con una mascota, como los niños de las imágenes. Anímelos a describir qué muestran sus dibujos usando pronombres posesivos como <ac_teacher-talk>mío, mía, tuyo, tuya</ac_teacher-talk> y <ac_teacher-talk>suyo, suya</ac_teacher-talk> tanto como sea posible. Proporcione modelos de oraciones.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64412-8</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>¿mascota o animal salvaje?</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos un póster que se titula <ac_teacher-speaking_emphasis_blue>Lo que necesitan las mascotas</ac_teacher-speaking_emphasis_blue>. Aprendimos sobre lo que necesitan las mascotas para mantenerse saludables.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad miraremos imágenes de animales y las clasificaremos en dos grupos:</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-card_run-in_hed>Mascota</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Este grupo es para los animales que pueden vivir en nuestros hogares y que podemos cuidar de ellos.</ac_teacher-speaking></ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-card_run-in_hed>Animal salvaje</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>El otro grupo es para los animales que son salvajes. Esos animales no pueden vivir en nuestros hogares.</ac_teacher-speaking></ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Enseñar señales con la mano</ac_teacher-card_run-in_hed>  Pida a los niños que indiquen con un pulgar hacia arriba si el animal de la foto es una mascota y con un pulgar hacia abajo si no lo es. Demuestre.   </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre una tarjeta con imagen y haga la pregunta al dorso; dé apoyo o estímulo según sea necesario.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use la última pregunta al dorso para ampliar la conversación.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Clasificar</ac_teacher-card_run-in_hed>  Dé la tarjeta con imagen a un niño para que la coloque en la columna “mascota” o “salvaje”.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad usando la siguiente tarjeta con imagen.   </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre animales que son mascotas</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Todas las imágenes de este grupo muestran m<fill-in-the-blank>                   </fill-in-the-blank> <ac_teacher-speaking_emphasis_blue>(mascotas)</ac_teacher-speaking_emphasis_blue>. ¿Cómo saben que estos animales son mascotas?</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre animales que son salvajes</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Todas las imágenes de este grupo muestran animales que son salvajes. ¿Cómo saben que estos animales no pueden ser mascotas?</ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>¿mascota o animal salvaje?</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Muestre tres tarjetas con imagen: dos que muestren mascotas y una con un animal que no sea una mascota (p. ej.: un perro pequeño, un loro y un león). Pregunte: <ac_teacher-talk>¿Cuál no pertenece al grupo?</ac_teacher-talk> Luego pregunte: <ac_teacher-talk>¿Cómo lo sabes?</ac_teacher-talk> Repita con otros grupos de tres tarjetas.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Muestre a los niños dos tarjetas con imagen: una de ellas con un animal que sea una mascotas y la otra con un animal salvaje (p. ej.:  perro y zorro). Pregunte: <ac_teacher-talk>¿En qué se parecen y en qué se diferencian estos animales?</ac_teacher-talk> Repita con otros pares de tarjetas.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Anime a los niños a usar una respuesta física, además de la hablada. Por ejemplo, invítelos a usar las manos para mostrar algo del animal sobre el que están hablando (p. ej.: las manos alrededor de la cara para indicar la melena del león, o una mano doblada delante de la boca para indicar un pico de un ave). Estas pistas físicas y visuales apoyarán el desarrollo del lenguaje y los niños podrán participar en la actividad al tiempo que desarrollan sus habilidades lingüísticas.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad gruesa</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Invite a los niños a hacer esta actividad en el espacio para el grupo grande o en el exterior, donde puedan moverse como lo haría cada animal. Esta actividad les dará la oportunidad de moverse sigilosamente como un león, de andar como un perro o un gato, de mover los brazos como las alas de un ave, etc. Al usar todo su cuerpo para jugar los niños desarrollan la memoria y la fuerza.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64412-8</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

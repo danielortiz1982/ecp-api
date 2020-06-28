@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flip-chart lang="es">
+  <flip_chart-5 day="4">
+    <flip_chart-5_front>
+      <graphic href="EC3-5_Flipchart_T2W1_OurSchoolRules_Spa.jpg"/>
+    </flip_chart-5_front>
+    <flip_chart-5_back>
+      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <flip_chart-theme-text>NUESTRA COMUNIDAD</flip_chart-theme-text>
+          <flip_chart-topic-text>Nuestra escuela </flip_chart-topic-text>
+          <flip_chart-concept-question>¿Qué hacemos en la escuela?</flip_chart-concept-question>
+        </section-block>
+      </masthead>
+      <display-head-section>
+        <section-block type="display_b_1" index="1">
+          <flip_chart-display-head>Las normas de nuestra escuela</flip_chart-display-head>
+        </section-block>
+      </display-head-section>
+      <teacher-facing-section>
+        <section-block type="teacher-facing_b_1" index="1">
+          <flip_chart-teacher-facing-content-box>
+            <flip_chart-teacher-facing-paragraph>Las normas nos ayudan a llevarnos bien. Nos ayudan a trabajar juntos, a tener cuidado ya asegurarnos de que la escuela es el mejor lugar para aprender y para jugar juntos.</flip_chart-teacher-facing-paragraph><flip_chart-teacher-facing-paragraph>Hablemos sobre seis normas de la escuela que son útiles:</flip_chart-teacher-facing-paragraph><flip_chart-teacher-facing-paragraph>
+              <flip_chart-ul class="no-style">
+                <flip_chart-li>
+                  <flip_chart-bold>1.</flip_chart-bold>	Compartimos.</flip_chart-li><flip_chart-li>
+                  <flip_chart-bold>2.</flip_chart-bold>	Limpiamos.</flip_chart-li><flip_chart-li>
+                  <flip_chart-bold>3.</flip_chart-bold>	Nos turnamos.</flip_chart-li><flip_chart-li>
+                  <flip_chart-bold>4.</flip_chart-bold>	Escuchamos.</flip_chart-li><flip_chart-li>
+                  <flip_chart-bold>5.</flip_chart-bold>	Tenemos cuidado.</flip_chart-li><flip_chart-li>
+                  <flip_chart-bold>6.</flip_chart-bold>	Somos amables.</flip_chart-li>
+              </flip_chart-ul>
+            </flip_chart-teacher-facing-paragraph>
+          </flip_chart-teacher-facing-content-box>
+        </section-block>
+      </teacher-facing-section>
+      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <flip_chart-credit-line>Photos ©: top left: spass/Shutterstock; top right: Bob Ebbesen/Alamy Images; center left: Rossario/Shutterstock; center right: mangpor2004/Shutterstock; bottom left: altrendo images/Getty Images; bottom right: Pavel Kobysh/Shutterstock.</flip_chart-credit-line>
+        </section-block>
+      </copyright-section>
+    </flip_chart-5_back>
+  </flip_chart-5>
+</flip-chart>

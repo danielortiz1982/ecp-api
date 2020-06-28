@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./preview-styles.css" type="text/css"?>
+<teaching-guide xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" lang="es">
+  <day_1>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 1: </tg_week_hed>
+        <tg_topic_hed>Contar un cuento</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338616279_CVR_SPA_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>Ricitos de  Oro y los tres osos</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T6_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T6_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  medición </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed>  pensamiento científico</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Desarrolle conocimientos, converse sobre los cuentos de hadas y cuentos fantásticos e introduzca el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>avena</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>mediano</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, presente la pregunta guía: <tg_bullet-directions_guiding-question>¿Cuál es una cosa que hace Ricitos de Oro?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Lea por placer y para entender los tamaños relativos. </tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión y diferencie. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Medición:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Mide, describe y compara la altura y longitud de los objetos; Compara y ordena hasta 5 objetos según un atributo medible.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Adopta otra perspectiva.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Pensamiento científico:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observa, investiga, describe y habla acerca de objetos comunes.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Narra o da distintas versiones de cuentos.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende y usa una cantidad creciente de palabras para etiquetar y describir personas, lugares, cosas y acciones.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conceptos de lenguaje impreso:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Distingue entre letras, palabras e imágenes.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comparte y repite los detalles de un texto.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Poner objetos en orden</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T6_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  medición </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed>  vocabulario</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Pida a los niños que describan los tamaños relativos de sillas, tazones y camas, como se muestra en los tres conjuntos de tarjetas de actividad. </tg_bullet-directions>
+        <tg_bullet-directions>Ayude a los niños a ordenar cada conjunto de tarjetas por tamaño. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Qué cuentos nos gusta contar?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y  CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué libro elegiste? ¿Es más grande que el libro que leímos hoy? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes simular que eres el gran papá oso? ¿Qué tan alto eres? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿En qué se diferencia la mamá osa del bebé oso? ¿Me lo puedes mostrar? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes escribir sobre tu animal favorito? ¿Es más bajo o más alto que el papá oso? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE  CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes dibujar tu escena favorita del cuento de Ricitos de Oro? ¿Qué colores usarás? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes hacer una letra grande? ¿Y una letra pequeña? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¡Construye algo bajo! Ahora, construye algo alto.</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Ricitos de oro y los tres osos by Valeri Gorbachev. Copyright © 2001 by Valeri Gorbachev. Translation copyright © 2021 by Scholastic Inc.  Published by Scholastic Inc. by arrangement with NorthSouth Books, Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_1>
+  <day_2>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 1: </tg_week_hed>
+        <tg_topic_hed>Contar un cuento</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338616279_CVR_SPA_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>Ricitos de  Oro y los tres osos</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T6_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T6_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  patrones </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Bellas artes:</tg_learning-goals_inline-hed>  expresión dramática</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Comparta el Mind Builder <tg_bullet-directions_guiding-question>tomar otra perspectiva</tg_bullet-directions_guiding-question> e introduzca el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>conocido</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>desconocido</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, asocie el Mind Builder con <tg_bullet-directions_book-title>Ricitos de Oro y los tres osos</tg_bullet-directions_book-title>
+          <tg_bullet-directions_guiding-question>.</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Lea atentamente para considerar los sentimientos y las perspectivas de los personajes y repasar el concepto de patrones. </tg_bullet-directions>
+        <tg_bullet-directions>Dé la oportunidad de prolongar el juego. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Patrones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce, completa, amplía, duplica y crea patrones comunes.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Medición:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Compara y ordena hasta 5 objetos según un atributo medible; Mide, describe y compara la altura y longitud de los objetos.</tg_skills-focus-skill-text>  </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comparte ideas y sentimientos; Narra o da distintas versiones de cuentos.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Expresión dramática:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Actúa para recrear y volver a contar historias, estados de ánimo o experiencias.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Adopta otra perspectiva.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>  </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comparte y repite los detalles de un texto.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>¡Perfecto!</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T6_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  medición; patrones </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed>  vocabulario</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Pida a los niños que usen la mano para comparar el tamaño de objetos. </tg_bullet-directions>
+        <tg_bullet-directions>Ayude a los niños a crear patrones de objetos demasiado largos, demasiado cortos y “perfectos”. </tg_bullet-directions>
+        <tg_bullet-directions>Hable de perspectivas. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Qué cuentos nos gusta contar?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y  CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Muestra un personaje en tu cuento que esté triste o feliz. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes actuar como si estuvieras sorprendido? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿En cuántas sillas se sentó Ricitos de Oro antes de encontrar una perfecta? ¿Puedes mostrarlo? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Dibuja una cara. Escribe cómo se siente esa persona. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE  CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Dibuja al bebé oso. ¿Cómo puedes mostrar que es pequeño? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Con qué sonido empieza la palabra oso? ¿Puedes escribir esa letra? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes construir un lugar seguro para que Ricitos de Oro se esconda de los osos?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Ricitos de oro y los tres osos by Valeri Gorbachev. Copyright © 2001 by Valeri Gorbachev. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with NorthSouth Books, Inc. Clifford the Big Red DogTM illustration copyright © The Norman Bridwell Trust. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_2>
+  <day_3>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 1: </tg_week_hed>
+        <tg_topic_hed>Contar un cuento</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338616279_CVR_SPA_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>Ricitos de  Oro y los tres osos</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T6_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T6_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+        <graphic href="EC_stock_PatternBlocks_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Bloques patrón</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="5"/>
+        <tg_materials-caption index="5">Cubos conectores</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  medición; patrones </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> comprensión de lectura en voz alta</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Comparta una estrategia de patrones, juegue a un juego con patrones e introduzca vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>pequeño</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>grande</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, repase <tg_bullet-directions_book-title>Ricitos de Oro y los tres osos</tg_bullet-directions_book-title> y haga la pregunta guía: <tg_bullet-directions_guiding-question>¿Qué hacen los osos cuando llegan a su casa?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Lea en forma interactiva para una mayor comprensión y revise los patrones y la medición. </tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión y diferencie. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Patrones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce, completa, amplía, duplica y crea patrones comunes.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Medición:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Compara y ordena hasta 5 objetos según un atributo medible.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Adopta otra perspectiva.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>  </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Pensamiento científico:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observa, investiga, describe y habla acerca de objetos comunes.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende y usa una cantidad creciente de opuestos.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comparte y repite los detalles de un texto.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Patrones de tamaño II</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T6_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+        <graphic href="EC_stock_PatternBlocks_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Bloques patrón</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  medición; patrones </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed>  pensamiento científico</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Use bloques patrón para demostrar patrones de tamaños.  </tg_bullet-directions>
+        <tg_bullet-directions>Pida a los niños que describan y copien los patrones. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Qué cuentos nos gusta contar?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y  CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cuál es tu libro favorito de nuestra biblioteca? ¿Por qué es  tu favorito? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes encontrar el utensilio más grande en la cocina? ¿Y el más pequeño? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes crear algo pequeño usando cubos conectores? ¿Puedes hacerlo más grande? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Nombra tus animales favoritos, del más grande al más pequeño. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE  CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes usar bloques para crear un patrón grande-pequeño-grande-pequeño? ¿Por qué comenzaste con ese bloque? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO  ABC </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escribe tu letra favorita. ¿Puedes escribirla más grande? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes construir escalones? ¿Cuál será el más pequeño?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Ricitos de oro y los tres osos by Valeri Gorbachev. Copyright © 2001 by Valeri Gorbachev. Translation copyright © 2021 by Scholastic Inc.  Published by Scholastic Inc. by arrangement with NorthSouth Books, Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_3>
+  <day_4>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 1: </tg_week_hed>
+        <tg_topic_hed>Contar un cuento</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="EC3-5_Flipchart_T6W1_TheVoiceInRabbitsHouse_SPAN_Redux_cropped.png" index="1"/>
+        <tg_materials-caption index="1">
+          <tg_materials-caption_book-title-Ital>Papelógrafo de grandes ideas:  La voz en casa de Conejo</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T6_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="9780439375528_CVR_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Libro: <tg_materials-caption_book-title-Ital>Ricitos de Oro y los tres osos</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="VC Redux Spa T6_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  medición </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Bellas artes:</tg_learning-goals_inline-hed>  expresión dramática</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Repase el concepto de cuentos de hadas y cuento fantásticos, juegue a un juego con mediciones e introduzca vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>leopardo</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>rinoceronte</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, asocie los textos <tg_bullet-directions_book-title>La voz en casa de Conejo </tg_bullet-directions_book-title>y <tg_bullet-directions_book-title>Ricitos de Oro y los tres osos</tg_bullet-directions_book-title>. </tg_bullet-directions>
+        <tg_bullet-directions>Lea en forma interactiva y asocie con los tamaños relativos. </tg_bullet-directions>
+        <tg_bullet-directions>Dé la oportunidad de prolongar el juego. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Medición:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Mide, describe y compara la altura y longitud de los objetos; Compara y ordena hasta 5 objetos según un atributo medible.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Adopta otra perspectiva.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>  </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comparte ideas y sentimientos; Narra o da distintas versiones de cuentos.</tg_skills-focus-skill-text>  </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Expresión dramática:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Actúa para recrear y volver a contar historias, estados de ánimo o experiencias.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comparte y repite los detalles de un texto.</tg_skills-focus-skill-text>  </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conceptos de lenguaje impreso:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Distingue entre letras, palabras e imágenes.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>¿Qué tan grande es mi casa?</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T6_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Cubos conectores</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  medición </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed>  comprensión de lectura en voz alta</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Ayude a los niños a comparar el tamaño de los personajes del cuento. </tg_bullet-directions>
+        <tg_bullet-directions>Pida a los niños que usen cubos conectores para construir casas adecuadas al tamaño de cada personaje. </tg_bullet-directions>
+        <tg_bullet-directions>Hable de perspectiva. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Qué cuentos nos gusta contar?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y  CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Di un cuento que te gustaría escuchar más de una vez. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Representa a tu animal favorito. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cuántos animales puedes encontrar en la historia? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Dibuja y nombra un animal de la historia que te gustaría tener como mascota. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE  CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes hacer un animal de la historia? ¿Qué materiales usarás? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Con qué sonido empieza la palabra conejo? ¿Puedes dibujar la letra que hace ese sonido? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo es la casa de Conejo? ¿Puedes construirla?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Ricitos de oro y los tres osos by Valeri Gorbachev. Copyright © 2001 by Valeri Gorbachev. Translation copyright © 2021 by Scholastic Inc.  Published by Scholastic Inc. by arrangement with NorthSouth Books, Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_4>
+  <day_5>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 1: </tg_week_hed>
+        <tg_topic_hed>Contar un cuento</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338616279_CVR_SPA_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>Ricitos de  Oro y los tres osos</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T6_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T6_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Cubos conectores</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> medición </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> conversación </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed>  comprensión de lectura en voz alta</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Desarrolle conocimientos de matemáticas, haga un juego con capacidades e introduzca vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>vacío</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>lleno</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, repase el libro y pregunte: <tg_bullet-directions_guiding-question>Si los osos los invitaran a su casa, ¿qué harían ustedes allí?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Lea y vuelva a narrar en forma interactiva para una participación física y un enfoque en la medición. </tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión y diferencie. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Medición:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Mide, describe y compara la capacidad o la cantidad que se puede colocar dentro de un objeto, usando unidades similares y palabras como “vacío” y “lleno”.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Adopta otra perspectiva.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>  </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Pensamiento científico:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observa, investiga, describe y habla acerca de objetos comunes.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comparte y repite los detalles de un texto.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende y usa una cantidad creciente de palabras para etiquetar y describir personas, lugares, cosas y acciones.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comparte ideas y sentimientos.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Escritura independiente, dibujar o narrar un cuento</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC3-5_ResponsePrompt_cropped.png" index="0"/>
+        <tg_materials-caption index="0">Hoja de respuesta</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  medición </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed>  escritura; comprensión de lectura en voz alta</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Apoye a los niños mientras responden en forma independiente a la pregunta de esta semana: <tg_bullet-directions_guiding-question>¿Cuál es tu parte favorita del cuento de esta semana?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario. </tg_bullet-directions>
+        <tg_bullet-directions>Guarde los escritos de los niños para mostrarlos la próxima semana.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Qué cuentos nos gusta contar?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y  CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué libro te gustaría leer después? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes simular que eres uno de los osos? Muestra cómo te sientes cuando ves a Ricitos de Oro. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Crees que los osos reales comen avena? ¿Qué crees que comen los osos reales? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes escribir sobre cómo se sintió Ricitos de Oro cuando vio a los tres osos? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE  CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Dibuja tu personaje favorito del cuento. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Traza la palabra bebé con el dedo. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo crees que es la casa de Ricitos de Oro? ¿Puedes construirla?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Ricitos de oro y los tres osos by Valeri Gorbachev. Copyright © 2001 by Valeri Gorbachev. Translation copyright © 2021 by Scholastic Inc.  Published by Scholastic Inc. by arrangement with NorthSouth Books, Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_5>
+  <day_1_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Medición:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce y compara alturas o longitudes de personas u objetos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.D.1)</tg_skills-focus-skill-code>  </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra que comprende que otros tienen perspectivas y sentimientos diferentes a los propios.</tg_skills-focus-skill-text>  <tg_skills-focus-skill-code>(TX.I.D.1, MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Pensamiento científico:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observa, investiga, describe y discute propiedades y características de objetos comunes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.A.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa una gran variedad de palabras para nombrar y describir personas, lugares, cosas y acciones.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Alfabetización </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Vuelve a contar o representa un cuento después de ser leído en voz alta.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_1_texas>
+  <day_2_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Patrones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce y crea patrones.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.E.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Medición:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce y compara alturas o longitudes de personas u objetos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.D.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra que comprende que otros tienen perspectivas y sentimientos diferentes a los propios.</tg_skills-focus-skill-text>  <tg_skills-focus-skill-code>(TX.I.D.1, MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Alfabetización </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Vuelve a contar o representa un cuento después de ser leído en voz alta.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Pensamiento científico:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observa, investiga, describe y discute propiedades y características de objetos comunes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.A.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa una gran variedad de palabras para nombrar y describir personas, lugares, cosas y acciones.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_2_texas>
+  <day_3_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Patrones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce y crea patrones.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.E.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Medición:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce y compara alturas o longitudes de personas u objetos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.D.1)</tg_skills-focus-skill-code>  </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra que comprende que otros tienen perspectivas y sentimientos diferentes a los propios.</tg_skills-focus-skill-text>  <tg_skills-focus-skill-code>(TX.I.D.1, MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Pensamiento científico:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observa, investiga, describe y discute propiedades y características de objetos comunes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.A.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa una gran variedad de palabras para nombrar y describir personas, lugares, cosas y acciones.</tg_skills-focus-skill-text>  <tg_skills-focus-skill-code>(TX.II.D.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Alfabetización </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Vuelve a contar o representa un cuento después de ser leído en voz alta.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.1)</tg_skills-focus-skill-code>  </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_3_texas>
+  <day_4_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Medición:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce y compara alturas o longitudes de personas u objetos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.D.1)</tg_skills-focus-skill-code>  </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra que comprende que otros tienen perspectivas y sentimientos diferentes a los propios.</tg_skills-focus-skill-text>  <tg_skills-focus-skill-code>(TX.I.D.1, MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa una gran variedad de palabras para nombrar y describir personas, lugares, cosas y acciones.</tg_skills-focus-skill-text>  <tg_skills-focus-skill-code>(TX.II.D.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Expresión dramática:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Crea o recrea historias, estados de  ánimo o experiencias a través  de las representaciones teatrales.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VIII.C.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Alfabetización </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Vuelve a contar o representa un cuento después de ser leído en voz alta.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.1)</tg_skills-focus-skill-code>  </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_4_texas>
+  <day_5_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Medición:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce cuánto se puede colocar dentro de un objeto.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.D.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra que comprende que otros tienen perspectivas y sentimientos diferentes a los propios.</tg_skills-focus-skill-text>  <tg_skills-focus-skill-code>(TX.I.D.1, MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Pensamiento científico:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observa, investiga, describe y discute propiedades y características de objetos comunes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.A.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa una gran variedad de palabras para nombrar y describir personas, lugares, cosas y acciones.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Alfabetización </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Vuelve a contar o representa un cuento después de ser leído en voz alta.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_5_texas>
+</teaching-guide>

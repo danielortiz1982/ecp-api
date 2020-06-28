@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity-cards lang="es">
+  <ac_card-1 day="1">
+    <ac_card-1_front>
+      <graphic href="EC3-5_AC_Spa_Lang_T6W02D1_C1_605478620_cropped.png"/>
+    </ac_card-1_front>
+    <ac_card-1_back>
+      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>Pasar un Buen rato Juntos</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_1" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Miren la imagen. ¿Están los amigos pasando un buen rato?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_1" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Sí, los amigos pasan un buen rato b<fill-in-the-blank>                     </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(bailando)</ac_teacher-talk-emphasis_non-ital>. </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_1" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Creen que los niños se divierten?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_1" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué actividades divertidas pueden hacer con música?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66308-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Photographee.eu/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-1_back>
+  </ac_card-1>
+  <ac_card-2 day="1">
+    <ac_card-2_front>
+      <graphic href="EC3-5_AC_Spa_Lang_T6W02D1_C2_101790544_cropped.png"/>
+    </ac_card-2_front>
+    <ac_card-2_back>
+      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>Pasar un Buen rato Juntos</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_2" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Miren la imagen. ¿Está la familia pasando un buen rato juntos?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_2" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Sí, la familia pasa un buen rato mirando una p<fill-in-the-blank>                     </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(película)</ac_teacher-talk-emphasis_non-ital>. </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_2" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Creen que la familia está contenta de estar todos juntos? ¿Por qué lo saben?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_2" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué películas les divierte ver?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66308-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Karramba Production/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-2_back>
+  </ac_card-2>
+  <ac_card-3 day="1">
+    <ac_card-3_front>
+      <graphic href="EC3-5_AC_Spa_Lang_T6W02D1_C3_513215383_cropped.png"/>
+    </ac_card-3_front>
+    <ac_card-3_back>
+      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>Pasar un Buen rato Juntos</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_3" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Miren la imagen. ¿Están los hermanos pasando un buen rato juntos?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_3" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>No, los hermanos no están pasando un buen rato.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_3" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Cómo saben que los hermanos no están pasando un buen rato?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_3" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Cómo se sienten cuando discuten con un amigo o un familiar?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66308-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Yiorgos GR/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-3_back>
+  </ac_card-3>
+  <ac_card-4 day="1">
+    <ac_card-4_front>
+      <graphic href="EC3-5_AC_Spa_Lang_T6W02D1_C4_146763434_cropped.png"/>
+    </ac_card-4_front>
+    <ac_card-4_back>
+      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>Pasar un Buen rato Juntos</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_4" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Están los niños pasando un buen rato juntos?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_4" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Sí, los niños están pasando un buen rato tocando m<fill-in-the-blank>                  </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(música)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_4" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Creen que es más importante lo que hace un niño que lo que hace otro?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_4" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué es lo más importante cuando quieren pasar un buen rato con sus amigos?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66308-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © sirtravelalot/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-4_back>
+  </ac_card-4>
+  <ac_card-5 day="1">
+    <ac_card-5_front>
+      <graphic href="EC3-5_AC_Spa_Lang_T6W02D1_C5_1528108655_cropped.png"/>
+    </ac_card-5_front>
+    <ac_card-5_back>
+      <masthead>
+        <section-block type="masthead_b_5" index="1">
+          <ac_header-game-card>Pasar un Buen rato Juntos</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_5" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Miren la imagen. ¿Están los niños pasando un buen rato juntos?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_5" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>No. Los niños están ab<fill-in-the-blank>                        </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(aburridos)</ac_teacher-talk-emphasis_non-ital>. </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_5" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Cómo saben que los niños no están pasando un buen rato?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_5" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué hacen ustedes cuando se sienten aburridos?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_5" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66308-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Inside Creative House/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-5_back>
+  </ac_card-5>
+  <ac_card-6 day="1">
+    <ac_card-6_front>
+      <graphic href="EC3-5_AC_Spa_Lang_T6W02D1_C6_1572343600_cropped.png"/>
+    </ac_card-6_front>
+    <ac_card-6_back>
+      <masthead>
+        <section-block type="masthead_b_6" index="1">
+          <ac_header-game-card>Pasar un Buen rato Juntos</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_6" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Miren la imagen. ¿Creen que la familia está pasando un buen rato?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_6" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>No, la mamá está enojada y r<fill-in-the-blank>                  </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(regaña)</ac_teacher-talk-emphasis_non-ital> a los niños. </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_6" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Por qué está enojada la mamá?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_6" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué podrían hacer los niños para que todos pudieran pasar un buen rato juntos?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_6" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66308-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Yuliia D/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-6_back>
+  </ac_card-6>
+  <ac_card-7 day="2">
+    <ac_card-7_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T6W02D2_C1_108850601_cropped.png"/>
+    </ac_card-7_front>
+    <ac_card-7_back>
+      <masthead>
+        <section-block type="masthead_b_7" index="1">
+          <ac_header-game-card>¿Qué ocurrirÁ después?</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_7" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>La niña está en la playa. ¿Qué quiere construir?   </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_7" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>La niña va a construir un c<fill-in-the-blank>                     </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(castillo)</ac_teacher-talk-emphasis_non-ital> de arena.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_7" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Cómo saben qué va a hacer la niña?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_7" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué otras actividades les gusta hacer en la playa?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_7" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66308-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Gvictoria/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-7_back>
+  </ac_card-7>
+  <ac_card-8 day="2">
+    <ac_card-8_front>
+      <graphic href="EC3-5_AC_Spa_Lang_T6W02D2_C2_314871770_cropped.png"/>
+    </ac_card-8_front>
+    <ac_card-8_back>
+      <masthead>
+        <section-block type="masthead_b_8" index="1">
+          <ac_header-game-card>¿Qué ocurrirÁ después?</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_8" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Es hora de ir a la escuela. ¿Qué va a hacer el niño? </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_8" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>El niño va a subir al au<fill-in-the-blank>                  </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(autobús)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_8" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Cómo saben qué va a hacer al niño?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_8" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Cómo vienen ustedes a la escuela todos los días?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_8" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66308-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Stuart Monk/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-8_back>
+  </ac_card-8>
+  <ac_card-9 day="2">
+    <ac_card-9_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T6W02D2_C3_1292355577_cropped.png"/>
+    </ac_card-9_front>
+    <ac_card-9_back>
+      <masthead>
+        <section-block type="masthead_b_9" index="1">
+          <ac_header-game-card>¿Qué ocurrirÁ después?</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_9" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Estos niños están entusiasmados. ¿Qué van a hacer?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_9" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Los niños van a ir al p<fill-in-the-blank>               </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(parque)</ac_teacher-talk-emphasis_non-ital> de juegos.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_9" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Cómo saben a dónde van a ir los niños?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_9" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué es lo que más les gusta hacer en el parque de juegos?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_9" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66308-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Kid Dog Travel/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-9_back>
+  </ac_card-9>
+  <ac_card-10 day="2">
+    <ac_card-10_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T6W02D2_C4_1222606696_cropped.png"/>
+    </ac_card-10_front>
+    <ac_card-10_back>
+      <masthead>
+        <section-block type="masthead_b_10" index="1">
+          <ac_header-game-card>¿Qué ocurrirÁ después?</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_10" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Este padre está ayudando a su hija. ¿Qué va a hacer la niña?  </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_10" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Va a trepar a la r<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(roca)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_10" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Cómo saben qué va a trepar a la roca?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_10" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿A dónde les gusta trepar?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_10" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66308-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Zivica Kerkez/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-10_back>
+  </ac_card-10>
+</activity-cards>

@@ -1,0 +1,2692 @@
+[{
+    "declaration": {
+      "attributes": {
+        "version": "1.0",
+        "encoding": "UTF-8"
+      }
+    },
+    "elements": [
+      {
+        "type": "element",
+        "name": "teacher-activity-cards",
+        "attributes": {
+          "lang": "es",
+          "module":"math",
+          "week":"week_002",
+          "theme":"theme_008"
+        },
+        "elements": [
+          {
+            "type": "element",
+            "name": "ac_card-1",
+            "attributes": {
+              "day": "1"
+            },
+            "elements": [
+              {
+                "type": "element",
+                "name": "ac_card-1_front",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_f_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "¿cuántos patos?"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "instructions",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "instructions_f_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Instrucciones"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "before-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "before_f_1",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Reunir los materiales"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Necesitará cinco cubos conectores amarillos y materiales, como bloques o libros, para representar un puente. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Asociar con el grupo grande"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Cuando leímos "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "Patos, al agua"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": ", contamos la cantidad de patitos en el puente y la cantidad de patitos que cayó al agua, debajo del puente."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Repasar el vocabulario"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Repasemos las palabras "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "cayó"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": " y "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "debajo"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": "."
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " Use las tarjetas de vocabulario "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk-emphasis",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "cayó"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " y "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk-emphasis",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "debajo"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " para repasar las palabras. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Explicar la actividad"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "En esta actividad, usaremos cinco cubos conectores para mostrar los cinco patos que cruzan el puente. A medida que los patos se caigan, diremos cuántos están aún en el puente y cuántos están debajo del puente."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "during-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "during_f_1",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Preparar"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Construya un pequeño puente usando bloques o libros y coloque los cinco cubos conectores amarillos en la parte superior. Pregunte: "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "¿Cuántos patitos hay en el puente?"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " Pida a los niños que cuenten los cubos conectores en voz alta. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Caer"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Pida a un niño que mueva un cubo debajo del puente. "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Había cinco patitos en el puente. ¡Entonces uno se cayó! ¿Cuántos patitos hay ahora en el puente? ¿Cuántos hay debajo? Vamos a contar y ver."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Repetir"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Continúe pidiendo a los niños que muevan un cubo a la vez debajo del puente. Pídales que digan cada vez cuántos patitos hay en el puente y cuántos en el agua. Pregunte el número total de patos, enfatizando que cada combinación es igual a cinco patos en total. "
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "after-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "after_f_1",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Conversar"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Hable con los niños sobre los conceptos matemáticos de la actividad. "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Contamos los patitos en distintos órdenes. ¿Esto cambió el número total de patitos?"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "name": "ac_card-1_back",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_b_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "¿cuántos patos?"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "differentiation-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Diferenciación"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Apoye "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Comience con tres cubos conectores. Demuestre moviendo un cubo debajo del puente y diga en voz alta la cantidad de patitos: "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "Había tres patitos en el puente. Uno cayó debajo del puente. Si cuento uno de tres, obtengo dos. Quedan dos patitos sobre el puente."
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Estimule "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Estimule a los niños para que muevan más de un patito, cada vez, debajo del puente. También puede cambiar la actividad haciendo que algunos patitos “vuelen” hacia arriba del puente."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "modifications-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Modificaciones"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Alumnos multilingües "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Repase el vocabulario clave, como "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk-emphasis",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "patitos, puente"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": " y "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk-emphasis",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "sobre"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": ". Toque cada cubo para mostrar dónde desea que los niños comiencen a contar, y cuente junto con ellos para ayudar a reforzar el vocabulario numérico. "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Estimulación sensorial "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Para ayudar a que los niños con necesidades sensoriales se concentren en la actividad, ponga música relajante para atenuar los ruidos de fondo. También puede brindar guantes a los niños que tengan dificultades para tocar los cubos conectores con sus propias manos u ofrézcales mover los patitos por ellos."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "copyright-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "copyright_b_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_back_copyright_line",
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "isbn",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "978-1-338-66418-8"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": ". TM ® & © Scholastic Inc. All rights reserved."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "name": "ac_card-2",
+            "attributes": {
+              "day": "2"
+            },
+            "elements": [
+              {
+                "type": "element",
+                "name": "ac_card-2_front",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_f_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "patos en fila"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "instructions",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "instructions_f_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Instrucciones"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "before-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "before_f_2",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Reunir los materiales"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Para esta actividad, necesitará alrededor de treinta cubos conectores. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Asociar con el grupo grande"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Cuando leímos "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "Patos, al agua"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": ", hablamos de hacer grupos iguales y usar el trabajo en equipo para crear cosas nuevas."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Repasar el vocabulario"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Repasemos las palabras "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "trabajan en equipo"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": " y "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "cooperan"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": "."
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " Use las tarjetas de vocabulario "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk-emphasis",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "trabajan en equipo"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " y "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk-emphasis",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "cooperan"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " para repasar las palabras. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Explicar la actividad"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "En esta actividad, usaremos cubos conectores para representar patitos. Trabajaremos con compañeros para dividir los patitos en dos grupos con el mismo número en cada grupo."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "during-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "during_f_2",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Preparar"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Haga parejas y dé ocho cubos conectores a cada pareja. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Agrupar"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Pida a los compañeros que cooperen y usen el trabajo en equipo para dividir los cubos conectores en dos grupos iguales. Una vez que los niños hayan terminado, pregunte a cada pareja: "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "¿Cómo separaron a sus patitos en dos grupos? ¿Cómo pueden saber que hay la misma cantidad de patitos en cada grupo? ¿Pueden contar para estar seguros de que las cantidades son iguales?"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Repetir"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Dé a cada pareja dos cubos conectores más, de modo que tengan un total de 10. Pida que dividan los 10 patitos en dos grupos iguales y, otra vez, pida a cada pareja que describa cómo lo hizo. "
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "after-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "after_f_2",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Conversar sobre grupos iguales"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "¿Qué fue lo más fácil al momento de separar tus patitos en dos grupos con la misma cantidad? ¿Qué fue lo más difícil? ¿Cómo cooperaste con tu compañero? ¿Crees que la actividad fue más fácil porque hicieron el trabajo en equipo?"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "name": "ac_card-2_back",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_b_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "patos en fila"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "differentiation-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Diferenciación"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Apoye "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Dé a cada pareja de niños cuatro cubos conectores para comenzar y, luego, pase a seis. Demuestre cómo separa cuatro cubos conectores en grupos iguales mientras dice en voz alta: "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "Si muevo un cubo a otro grupo, tengo uno aquí y tres allí. ¿Qué pasa si muevo dos?"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Estimule "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Estimule a los niños para que separen sus cubos en más de dos grupos iguales (ocho cubos en cuatro grupos de dos, diez cubos en cinco grupos de dos). Pregunte: "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "¿Cuántos grupos iguales pueden formar?"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "modifications-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Modificaciones"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Alumnos multilingües "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "De ser posible, ponga a los alumnos multilingües en parejas con niños que tengan el mismo idioma del hogar. Los niños pueden sentirse más cómodos trabajando con un compañero con el que pueden hablar con relativa facilidad. Al describir la tarea, use la palabra "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk-emphasis",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "igual"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": " y comparta el cognado "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk-emphasis",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "equal"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": " con los anglohablantes. "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Apoyo para el déficit de atención "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Pida a las parejas que trabajen en diferentes áreas del salón para que no se distraigan con lo que hacen los demás compañeros. Si los niños necesitan aumentar la estrategia de enfoque, anímelos para que cuenten los cubos conectores separándolos en grupos de distinto número."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "copyright-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "copyright_b_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_back_copyright_line",
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "isbn",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "978-1-338-66418-8"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": ". TM ® & © Scholastic Inc. All rights reserved."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "name": "ac_card-3",
+            "attributes": {
+              "day": "3"
+            },
+            "elements": [
+              {
+                "type": "element",
+                "name": "ac_card-3_front",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_f_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "¿arriba O abajo?"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "instructions",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "instructions_f_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Instrucciones"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "before-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "before_f_3",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Asociar con el grupo grande"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Cuando leímos "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "Patos, al agua"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": ", hablamos de dónde estaban los patitos en la página y usamos las palabras "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "arriba"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": " y "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "abajo"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": "."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Repasar el vocabulario"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Repasemos las palabras "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "arriba"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": " y "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "abajo"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": "."
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " Use las tarjetas de vocabulario "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk-emphasis",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "arriba"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " y "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk-emphasis",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "abajo"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " para repasar las palabras. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Explicar la actividad"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "En esta actividad les mostraré tarjetas de actividades con imágenes que muestran algo o a alguien yendo hacia arriba o hacia abajo. Ustedes me van a decir si las imágenes muestran"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "arriba o abajo."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "during-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "during_f_3",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Preguntar"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Muestre a los niños la primera tarjeta de actividad. Pregunte si la imagen indica una acción hacia "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk-emphasis",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "arriba"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " o hacia "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk-emphasis",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "abajo"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": ", y estimule a los niños para que expliquen cómo pueden saberlo. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Ampliar"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Pida a los niños que describan algo más que pueda ir hacia arriba o hacia abajo o que pueda subir o bajar de un modo similar a lo que muestra la imagen. Anime a los niños para que usen sus propias experiencias a la hora de responder. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Repetir"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Continúe la actividad hasta que haya mostrado todas las tarjetas de actividad. Haga que los niños repasen, por segunda vez, las tarjetas. Esta vez pídales que creen una pila para "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk-emphasis",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "arriba"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " y otra para "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk-emphasis",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "abajo"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": ". Estimule a los niños para que indiquen cuál pila tiene más tarjetas. "
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "after-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "after_f_3",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Conversar sobre las palabras de ubicación"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "¿Fue fácil saber qué imágenes mostraban "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "arriba"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": " o "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "abajo"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": "? ¿Qué fue difícil? ¿Qué otras palabras de ubicación podrían usar para describir estas imágenes?"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "name": "ac_card-3_back",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_b_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "¿arriba O abajo?"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "differentiation-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Diferenciación"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Apoye "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Cuando muestre cada tarjeta a los niños, recorra con el dedo la imagen para demostrar la trayectoria del objeto, animal o persona en ella. Demuestre, pensando en voz alta, qué dirección ve: "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "Este pájaro está frente al agua. Eso significa que está volando hacia abajo."
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Estimule "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Desafíe a los niños para que clasifiquen las tarjetas en dos grupos:"
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": " arriba"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": " y "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "abajo"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": ". Pregúnteles si es posible clasificar nueve tarjetas en dos grupos iguales y pídales que expliquen por qué no."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "modifications-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Modificaciones"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Alumnos multilingües "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "A medida que dice las palabras "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk-emphasis",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "arriba"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": " y "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk-emphasis",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "abajo"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": ", haga gestos con las manos como, por ejemplo, levantar una mano en el aire o inclinarla hacia el suelo para reforzar los términos. Anime a los niños para que también respondan usando gestos con las manos. "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Desarrollo de la motricidad gruesa "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Pida a los niños que actúen moviéndose hacia arriba o hacia abajo como el objeto, animal o persona de la imagen. Pueden extender los brazos para volar como un avión, moverse como un globo que flota o saltar hacia abajo como un gato."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "copyright-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "copyright_b_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_back_copyright_line",
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "isbn",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "978-1-338-66418-8"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": ". TM ® & © Scholastic Inc. All rights reserved."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "name": "ac_card-4",
+            "attributes": {
+              "day": "4"
+            },
+            "elements": [
+              {
+                "type": "element",
+                "name": "ac_card-4_front",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_f_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "carrera a la meta"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "instructions",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "instructions_f_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Instrucciones"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "before-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "before_f_4",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Reunir los materiales"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Para esta actividad, necesitará cinco fichas de dos colores y cinta adhesiva para crear una línea de meta. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Asociar con el grupo grande"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Cuando leímos "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "Me gusta competir"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": ", aprendimos de las carreras y practicamos contar."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Explicar la actividad"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "En esta actividad, usaremos fichas para representar a los corredores. Nos turnaremos para moverlos hacia la meta y para contar cuántos corredores permanecen en la carrera."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "during-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "during_f_4",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Preparar"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Forme con cinta adhesiva una meta en la mesa. Disponga, en el otro extremo de la mesa, las cinco fichas de dos colores como para comenzar una carrera. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Primer lugar"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Invite a un niño para que mueva uno de los corredores a la meta. Pregunte: "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "¿Cuántos corredores quedan en la carrera?"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " Luego, pídale que cuente las cuatro fichas restantes. Pida a otro niño que cuente las fichas en un orden diferente. "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "¿Todavía hay cuatro corredores?"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Repetir"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Continúe invitando a los niños a mover corredores a la meta. Pídales que digan cada vez cuántos corredores quedan y pida a dos niños más que los cuenten. A medida que cada corredor cruza la meta, pídales que digan cuántos corredores han terminado y cuántos aún no han corrido.   "
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "after-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "after_f_4",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Conversar sobre la carrera"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "¿Cuántos corredores hubo en total? A pesar de que los corredores se estaban moviendo, ¿había siempre cinco en total? ¿Qué les pareció llevar una ficha a la meta? ¿Les gustaría correr? ¿Por qué sí o por qué no?"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "name": "ac_card-4_back",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_b_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "carrera a la meta"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "differentiation-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Diferenciación"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Apoye "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Cree una gráfica de cinco cuadros con cinta adhesiva en la mesa. Use el lado rojo de la ficha para los corredores en la línea de salida y voltee el corredor a amarillo una vez que cruzó la meta. Anime a los niños a usar la gráfica para ver cuántos corrieron y cuántos no."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Estimule "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Use diez fichas de dos colores y estimule a los niños para que muevan, a la vez, más de un “corredor” hacia la meta."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "modifications-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Modificaciones"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Alumnos multilingües "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Repase el vocabulario clave como "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk-emphasis",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "carrera, corredor"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": " y "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk-emphasis",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "meta"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": ", así como  los números del uno al cinco. Use tarjetas de números para invitar a los niños a que muestren la tarjeta de número que tiene el número que corresponde a los corredores de cada grupo. "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Desarrollo de la motricidad gruesa "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Si el espacio lo permite, pida a los niños que actúen como si fueran las fichas. Seleccione a los niños para “competir” en una meta instalada en el salón o afuera, y pida a los niños que digan y cuenten cuántos niños han corrido ya y cuántos aún no. También puede ubicar las fichas en una mesa más larga o en el piso, y animar a los niños para que caminen con la ficha hacia la meta designada."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "copyright-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "copyright_b_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_back_copyright_line",
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "isbn",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "978-1-338-66418-8"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": ". TM ® & © Scholastic Inc. All rights reserved."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }]

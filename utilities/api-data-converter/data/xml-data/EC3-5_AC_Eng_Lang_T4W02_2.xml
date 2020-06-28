@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity-cards lang="en">
+  <ac_card-1 day="3">
+    <ac_card-1_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T4W02D3_C1_631800041_cropped.png"/>
+    </ac_card-1_front>
+    <ac_card-1_back>
+      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>Whose Pet is it? </ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_1" index="1">
+          <ac_ask-extend-hed>Ask</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Look at the boy and his dog. Whose dog is it?   </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_1" index="1">
+          <ac_support-challenge-hed>Support</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>The dog is h<fill-in-the-blank>  </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(his)</ac_teacher-talk-emphasis_non-ital>.  </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_1" index="1">
+          <ac_support-challenge-hed>Challenge</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>What is the boy doing for his dog?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_1" index="1">
+          <ac_ask-extend-hed>Extend</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>What else can the boy do to take care of his dog?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-64411-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Oksana Kuzmina/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-1_back>
+  </ac_card-1>
+  <ac_card-2 day="3">
+    <ac_card-2_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T4W02D3_C2_115907386_edited_cropped.png"/>
+    </ac_card-2_front>
+    <ac_card-2_back>
+      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>WHOSE PET IS IT? </ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_2" index="1">
+          <ac_ask-extend-hed>Ask</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Look at the girl and the cat. Whose cat is it?  </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_2" index="1">
+          <ac_support-challenge-hed>Support</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>The cat is h<fill-in-the-blank>   </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(hers)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_2" index="1">
+          <ac_support-challenge-hed>Challenge</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>What is the girl doing for her cat?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_2" index="1">
+          <ac_ask-extend-hed>Extend</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>What else can the girl do to care for the cat?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-64411-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © xavier gallego morell/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-2_back>
+  </ac_card-2>
+  <ac_card-3 day="3">
+    <ac_card-3_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T4W02D3_C3_1349757065_cropped.png"/>
+    </ac_card-3_front>
+    <ac_card-3_back>
+      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>WHOSE PET IS IT?</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_3" index="1">
+          <ac_ask-extend-hed>Ask</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Look at the boy and the fish. Whose fish is it? </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_3" index="1">
+          <ac_support-challenge-hed>Support</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>The fish is h<fill-in-the-blank>   </fill-in-the-blank>
+            <ac_teacher-talk-emphasis_non-ital>(his)</ac_teacher-talk-emphasis_non-ital>. </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_3" index="1">
+          <ac_support-challenge-hed>Challenge</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>What is the boy doing for his fish?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_3" index="1">
+          <ac_ask-extend-hed>Extend</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>What else can the boy do to take care of the fish?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-64411-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Pixel-Shot/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-3_back>
+  </ac_card-3>
+  <ac_card-4 day="3">
+    <ac_card-4_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T4W02D3_C4_191933360_cropped.png"/>
+    </ac_card-4_front>
+    <ac_card-4_back>
+      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>WHOSE PET IS IT? </ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_4" index="1">
+          <ac_ask-extend-hed>Ask</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Look at the children and the rabbit. Whose rabbit is it? </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_4" index="1">
+          <ac_support-challenge-hed>Support</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>The rabbit is th<fill-in-the-blank>    </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(theirs)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_4" index="1">
+          <ac_support-challenge-hed>Challenge</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>What are the children doing for their rabbit?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_4" index="1">
+          <ac_ask-extend-hed>Extend</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>What else can the children do to take care of their rabbit?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-64411-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © BIGANDT.COM/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-4_back>
+  </ac_card-4>
+  <ac_card-5 day="4">
+    <ac_card-5_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T4W02D4_C1_1306698205_cropped.png"/>
+    </ac_card-5_front>
+    <ac_card-5_back>
+      <masthead>
+        <section-block type="masthead_b_5" index="1">
+          <ac_header-game-card>PET or wild animal? </ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_5" index="1">
+          <ac_ask-extend-hed>Ask</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Look at this lion family. Are these animals pets?  </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_5" index="1">
+          <ac_support-challenge-hed>Support</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Lions are w<fill-in-the-blank>   </fill-in-the-blank> . <ac_teacher-talk-emphasis_non-ital>(wild)</ac_teacher-talk-emphasis_non-ital> Lions are not pets. </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_5" index="1">
+          <ac_support-challenge-hed>Challenge</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>What other animal is a wild animal?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_5" index="1">
+          <ac_ask-extend-hed>Extend</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>How do lions get what they need to stay healthy?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_5" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-64411-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Nicci Auchincloss/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-5_back>
+  </ac_card-5>
+  <ac_card-6 day="4">
+    <ac_card-6_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T4W02D4_C2_561938974_cropped.png"/>
+    </ac_card-6_front>
+    <ac_card-6_back>
+      <masthead>
+        <section-block type="masthead_b_6" index="1">
+          <ac_header-game-card>PET or wild animal? </ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_6" index="1">
+          <ac_ask-extend-hed>Ask</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Look at this kitten. Can this kitten be a pet?  </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_6" index="1">
+          <ac_support-challenge-hed>Support</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>This kitten can l<fill-in-the-blank>   </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(live)</ac_teacher-talk-emphasis_non-ital> in a house. This kitten can be a pet.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_6" index="1">
+          <ac_support-challenge-hed>Challenge</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>What other animals can be pets?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_6" index="1">
+          <ac_ask-extend-hed>Extend</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Why is a kitten a good pet?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_6" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-64411-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © dezy/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-6_back>
+  </ac_card-6>
+  <ac_card-7 day="4">
+    <ac_card-7_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T4W02D4_C3_744120373_cropped.png"/>
+    </ac_card-7_front>
+    <ac_card-7_back>
+      <masthead>
+        <section-block type="masthead_b_7" index="1">
+          <ac_header-game-card>PET or wild animal? </ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_7" index="1">
+          <ac_ask-extend-hed>Ask</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Look at this fox. Can this fox be a pet?   </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_7" index="1">
+          <ac_support-challenge-hed>Support</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>This fox lives in the  w<fill-in-the-blank>    </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(woods)</ac_teacher-talk-emphasis_non-ital>. This fox cannot be a pet.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_7" index="1">
+          <ac_support-challenge-hed>Challenge</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Why might a fox not be a good pet?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_7" index="1">
+          <ac_ask-extend-hed>Extend</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>What other animals live in the woods?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_7" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-64411-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Milan Zygmunt/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-7_back>
+  </ac_card-7>
+  <ac_card-8 day="4">
+    <ac_card-8_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T4W02D4_C4_406266316_cropped.png"/>
+    </ac_card-8_front>
+    <ac_card-8_back>
+      <masthead>
+        <section-block type="masthead_b_8" index="1">
+          <ac_header-game-card>PET or wild animal? </ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_8" index="1">
+          <ac_ask-extend-hed>Ask</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Look at this small dog. Can this dog be a pet?   </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_8" index="1">
+          <ac_support-challenge-hed>Support</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>This dog lives in a h<fill-in-the-blank>    </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(house)</ac_teacher-talk-emphasis_non-ital>. This dog can be a pet.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_8" index="1">
+          <ac_support-challenge-hed>Challenge</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Why is a dog a good pet?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_8" index="1">
+          <ac_ask-extend-hed>Extend</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>What does a pet dog need in order to be healthy?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_8" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-64411-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © anat chant/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-8_back>
+  </ac_card-8>
+</activity-cards>

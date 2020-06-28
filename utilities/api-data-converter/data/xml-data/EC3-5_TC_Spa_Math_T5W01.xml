@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="es">  <ac_card-1 day="1">    <ac_card-1_front>       <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>¿QUÉ viene luego?</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Para esta actividad, necesitará cubos conectores de dos o tres colores diferentes. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos el cuento <ac_teacher-speaking_emphasis_blue>Tengo ritmo.</ac_teacher-speaking_emphasis_blue> Hablamos sobre algunos de los patrones que encontramos en el cuento. Ahora vamos a ver si podemos descubrir qué viene luego en un patrón.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el vocabulario</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Repasemos la palabra <ac_teacher-speaking_emphasis_blue>patrón.</ac_teacher-speaking_emphasis_blue>
+              </ac_teacher-speaking> Use la tarjeta de vocabulario <ac_teacher-talk>patrón</ac_teacher-talk> para volver a enseñar la palabra. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, haré un patrón con cubos conectores. Ustedes observarán el patrón y dirán qué color viene luego.</ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preparar</ac_teacher-card_run-in_hed>  Haga un patrón ABAB o AABB con cubos de dos colores. Asegúrese de que el patrón se repita al menos tres veces. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¿Qué color viene luego? ¡Agreguen el siguiente color!</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe hasta que cada niño haya agregado un cubo. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Pida a un niño que cree un nuevo patrón con los cubos conectores. Trabajen juntos para decidir qué color viene luego. Felicite a los niños por su trabajo para decidir lo que sigue. </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre patrones</ac_teacher-card_run-in_hed>  Pida a los niños que expliquen cómo se dieron cuenta de qué venia a continuación. Explique que podemos hablar sobre un patrón diciendo qué vemos: azul, amarillo, azul, amarillo o círculo, cuadrado, círculo, cuadrado. También le podemos asignar letras a cada parte del patrón. Azul, amarillo, azul, amarillo es un patrón ABAB. Azul, azul, amarillo, amarillo es un patrón AABB. Al hablar de patrones, use letras además de las descripciones. </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>¿QUÉ viene luego?</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="1">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Si los niños tienen dificultades para determinar el patrón, agregue otro conjunto de cubos conectores. Explique en detalle qué es el patrón y qué color vendrá a continuación. Señale cada cubo conector y pida al niño que diga el color.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Agregue un tercer color al patrón de cubos conectores. Cree patrones ABC ABC con los cubos conectores y estimule a los niños para que descubran qué viene luego cuando hay tres colores de cubos en lugar de dos.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Repase los nombres de colores en español. Mientras los niños identifican los patrones, anímelos a decir los nombres de los colores en español o en su lengua materna, como se sientan más cómodos. Confirme sus elecciones en español para reforzar los nombres de los colores en español. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad gruesa </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Para una versión ampliada de la actividad, en lugar de pedir a los niños que creen sus propios patrones con cubos, pídales que creen patrones de dos movimientos diferentes, como dar un pisotón y contonearse.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65744-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>       <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>HACEN FALTA DOS</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>A medida que leíamos <ac_teacher-speaking_emphasis_blue>Tengo ritmo,</ac_teacher-speaking_emphasis_blue> hablamos sobre cómo la niña hace ritmos. Cuando la niña trabaja con otros, todos juntos pueden hacer ritmos y patrones más complicados.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el vocabulario</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Repasemos la palabra <ac_teacher-speaking_emphasis_blue>trabajar.</ac_teacher-speaking_emphasis_blue>
+              </ac_teacher-speaking> Use la tarjeta de vocabulario <ac_teacher-talk>trabajar</ac_teacher-talk> para volver a enseñar la palabra. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, trabajaremos con un amigo para crear un patrón de movimientos, como un baile. Uno de ustedes añadirá un movimiento, como un pisotón, paso. El otro agregará un movimiento diferente, como un salto. Juntos, harán un patrón ABAB con los dos movimientos: pisotón, salto, pisotón, salto.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Enseñar</ac_teacher-card_run-in_hed>  Demuestre cómo pedir a un amigo que trabaje con nosotros. Pregunte a un niño: “¿Trabajarás conmigo, por favor?” y guíelo para que responda diciendo: “Sí”. Luego guíe a los niños para que practiquen este intercambio con sus compañeros. </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Demostrar</ac_teacher-card_run-in_hed>  Repita el diálogo y pida a otro niño que trabaje con usted. Haga un movimiento, como  un golpecito en la cabeza. Pida a su compañero que agregue otro, como un pisotón. Juntos, repitan un movimiento y luego el otro para crear un patrón ABAB. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Amplíar</ac_teacher-card_run-in_hed>  Pida a las parejas que enseñen sus patrones al grupo y pidan a los otros niños en el círculo que lo repitan; por ejemplo: bajar la cabeza, tocarse el hombro, bajar la cabeza, tocarse el hombro. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Pida a los niños que busquen nuevos patrones; asegúrese de que presenten nuevos patrones de movimientos quienes antes los repitieron.   </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre trabajar juntos</ac_teacher-card_run-in_hed>  Pida a los niños que digan por qué trabajar con un amigo es divertido. Pregunte cómo trabajar con amigos hizo que crear patrones fuese más divertido. </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>HACEN FALTA DOS</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Ayude a los niños a encontrar patrones con los cuales trabajar y asegúrese de que todos tengan un compañero. Si los niños no quieren trabajar juntos, explique por qué es lindo trabajar con alguien nuevo para aprender cosas nuevas.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Invite a los niños a crear un patrón usando gestos en dos partes (un movimiento de cabeza seguido de un movimiento de hombro; un golpecito en la nariz seguido de un golpecito en el codo). Cada niño debe recordar y hacer un gesto en dos partes para crear un patrón de cuatro partes.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Use esta actividad para enseñar palabras nuevas como “golpecito” y “pisotón”. Describa cada gesto después de realizarlo. Luego, invite a los niños a describirlo en su lengua materna. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Ayude a los niños a desarrollar movimientos de motricidad fina, como tocarse la nariz. Si los niños tienen dificultad con un gesto que involucra el desarrollo de la motricidad fina, repítalo despacio mientras el niño imita sus movimienitos.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65744-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>       <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>CAMBIAR EL PATRÓN</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Para esta actividad, necesitará cubos conectores de dos colores para cada niño. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos el cuento <ac_teacher-speaking_emphasis_blue>Tengo ritmo.</ac_teacher-speaking_emphasis_blue> Hablamos de cómo la niña en el cuento crea patrones de movimientos y sonidos con diferentes partes del cuerpo. También practicamos sumar y restar uno. Ahora vamos a sumar y restar un cubo del patrón.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, les daré una fila de cubos conectores. Ustedes mirarán el patrón y contarán el número de cubos en la fila. Digan qué color debería venir luego y súmenlo. Digan el nuevo total.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preparar</ac_teacher-card_run-in_hed>  Haga patrones ABAB con cubos conectores de dos colores para cada niño. Asegúrese de que el patrón se repita dos o tres veces. Ponga sobre la mesa cubos adicionales de cada color. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¿Cuántos cubos hay en su patrón? ¿Qué color venir luego? Agreguen un cubo de ese color. ¿Cuántos cubos hay en total?</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Pida a los niños que quiten un cubo del otro lado de la fila. Retire el último cubo que se agregó. Vuelva a contar y, luego, guíe a los niños para que digan cuántos cubos hay ahora.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre patrones</ac_teacher-card_run-in_hed>  Pregunte a los niños cómo cambió el patrón cuando se agregaron y se quitaron cubos conectores. Recuérdeles que podemos describir un patrón diciendo qué vemos y que también podemos asignar una letra a cada parte del patrón. Negro, marrón, negro, marrón es un patrón ABAB. Negro, negro, marrón, marrón es un patrón AABB. Anímelos a usar letras además de las descripciones cuando hablen de patrones. </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>CAMBIAR EL PATRÓN</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Permita que los niños se concentren solo en agregar y quitar usando cubos de un solo color. Eliminar el elemento del patrón reduce la carga cognitiva.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida a los niños que creen sus propios patrones y que luego vuelvan a hacer la actividad siguiendo las mismas instrucciones.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Antes de la actividad, repase los números y los colores en español e inglés y pida a los niños que los digan en su lengua materna. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Usar cubos conectores sirve para desarrollar la motricidad fina de los niños. Conectar y desconectar los cubos los ayudará a desarrollar de manera natural las habilidades de motricidad fina.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65744-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>       <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>detrás de la cortina: patrones</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Para esta actividad, necesitará cubos conectores de diferentes colores y una carpeta o un libro para usar como “cortina”. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos y cantamos <ac_teacher-speaking_emphasis_blue>Cabeza, hombros, rodillas y pies.</ac_teacher-speaking_emphasis_blue> Luego, inventamos nuestra propia versión de la canción. Ahora, crearemos un patrón con los cubos siguiendo mis instrucciones; luego, ustedes harán su propio patrón.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Enseñar</ac_teacher-card_run-in_hed>  Recuerde que se puede asignar una letra a cada parte de un patrón. Azul, rojo, azul, rojo es ABAB. Azul, azul, rojo, rojo es AABB. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, haré patrones con cubos detrás de esta cortina. Les diré cuál es el patrón, pero no se lo mostraré. Ustedes harán el mismo patrón del otro lado de la cortina. Luego, levantaré la cortina ¡y veremos si son iguales!</ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preparar</ac_teacher-card_run-in_hed>  Haga un patrón ABAB con cubos marrones y negros, repitiéndolo al menos dos veces. Mantenga el patrón oculto detrás de la cortina. Deje sobre la mesa cubos de todos los colores para los niños. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hice un patrón ABAB con marrón y negro. ¿Pueden hacer un patrón ABAB con marrón y negro?</ac_teacher-speaking> Pida a los niños que hagan el patrón. Luego, levante la cortina. Compare los patrones y ayúdelos a corregir cualquier malentendido. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe con colores diferentes y patrones ABAB o AABB. Luego, pida a los niños que creen patrones detrás de la cortina para que usted trate de hacer uno que coincida. </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre patrones</ac_teacher-card_run-in_hed>  Pregunte a los niños cómo decidieron con qué cubo empezar cuando crearon patrones. </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>detrás de la cortina: patrones</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Si a los niños les cuesta recordar qué tienen que hacer detrás de la cortina, ayúdelos con estrategias para recordar instrucciones. Repase los pasos de la actividad y diga que pueden preguntarle siempre que no estén seguros.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida al niño que haga un patrón más difícil para que usted lo copie. Pida al niño que le diga qué colores tiene y qué patrón es. Si su patrón no coincide con el del niño, haga preguntas para ayudarlo a determinar qué causó la diferencia.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Tenga presente que algunos idiomas diferencian colores que otros no. Por ejemplo, muchos idiomas no diferencian entre el rosa y el rojo. En inglés se le dice azul por igual al celeste y al azul marino, pero en ruso son dos colores distintos. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad gruesa </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Para reforzar los nombres de las partes del cuerpo y desarrollar la motricidad gruesa, pida a los niños que hagan un patrón tocándose dos partes del cuerpo, como hombros y rodillas.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65744-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity-cards lang="en">
+  <ac_card-1 day="2">
+    <ac_card-1_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T6W03D2_C2_346595618_cropped.png"/>
+    </ac_card-1_front>
+    <ac_card-1_back>
+      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>Tell a story </ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_1" index="1">
+          <ac_ask-extend-hed>Ask</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>What are these children doing?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_1" index="1">
+          <ac_support-challenge-hed>Support</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>The children are winning a r<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(race)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_1" index="1">
+          <ac_support-challenge-hed>Challenge</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>How do you think it feels to win a race?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_1" index="1">
+          <ac_ask-extend-hed>Extend</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>What other kinds of games can people win?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65183-6</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Robert Kneschke/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-1_back>
+  </ac_card-1>
+  <ac_card-2 day="2">
+    <ac_card-2_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T6W03D2_C1_248219041_cropped.png"/>
+    </ac_card-2_front>
+    <ac_card-2_back>
+      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>Tell a story</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_2" index="1">
+          <ac_ask-extend-hed>Ask</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Why do you think this person is happy?   </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_2" index="1">
+          <ac_support-challenge-hed>Support</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>This person won a pr<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(prize)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_2" index="1">
+          <ac_support-challenge-hed>Challenge</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>How do you think it feels to win a prize?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_2" index="1">
+          <ac_ask-extend-hed>Extend</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>What are some different kinds of prizes?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65183-6</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Maxim Ibragimov/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-2_back>
+  </ac_card-2>
+  <ac_card-3 day="2">
+    <ac_card-3_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T6W03D2_C3_412873774_cropped.png"/>
+    </ac_card-3_front>
+    <ac_card-3_back>
+      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>Tell a story</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_3" index="1">
+          <ac_ask-extend-hed>Ask</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Why are these friends happy and proud?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_3" index="1">
+          <ac_support-challenge-hed>Support</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>These friends are doing well in sch<fill-in-the-blank>               </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(school)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_3" index="1">
+          <ac_support-challenge-hed>Challenge</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>How do you feel when you master something new at school?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_3" index="1">
+          <ac_ask-extend-hed>Extend</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>How do you think the teacher feels about these students?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65183-6</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © GagliardiPhotography/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-3_back>
+  </ac_card-3>
+  <ac_card-4 day="2">
+    <ac_card-4_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T6W03D2_C4_472138861_cropped.png"/>
+    </ac_card-4_front>
+    <ac_card-4_back>
+      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>Tell a story </ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_4" index="1">
+          <ac_ask-extend-hed>Ask</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>What is this child doing?   </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_4" index="1">
+          <ac_support-challenge-hed>Support</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>This child is learning to ride a b<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(bike)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_4" index="1">
+          <ac_support-challenge-hed>Challenge</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Why is it hard to learn to ride a bike?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_4" index="1">
+          <ac_ask-extend-hed>Extend</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>How do you think the child will feel after learning to ride the bike?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65183-6</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Microgen/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-4_back>
+  </ac_card-4>
+  <ac_card-5 day="2">
+    <ac_card-5_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T6W03D2_C5_795071890_cropped.png"/>
+    </ac_card-5_front>
+    <ac_card-5_back>
+      <masthead>
+        <section-block type="masthead_b_5" index="1">
+          <ac_header-game-card>Tell a story</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_5" index="1">
+          <ac_ask-extend-hed>Ask</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>What did this child make?   </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_5" index="1">
+          <ac_support-challenge-hed>Support</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>This child made a p<fill-in-the-blank>                  </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(painting)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_5" index="1">
+          <ac_support-challenge-hed>Challenge</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>How can you tell that this child is proud of her art?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_5" index="1">
+          <ac_ask-extend-hed>Extend</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>How would you feel if you had made this art?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_5" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65183-6</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Africa Studio/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-5_back>
+  </ac_card-5>
+  <ac_card-6 day="2">
+    <ac_card-6_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T6W03D2_C6_144020620_cropped.png"/>
+    </ac_card-6_front>
+    <ac_card-6_back>
+      <masthead>
+        <section-block type="masthead_b_6" index="1">
+          <ac_header-game-card>Tell a story </ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_6" index="1">
+          <ac_ask-extend-hed>Ask</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>What did this person do?    </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_6" index="1">
+          <ac_support-challenge-hed>Support</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>This person climbed a m<fill-in-the-blank>                  </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(mountain)</ac_teacher-talk-emphasis_non-ital>. </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_6" index="1">
+          <ac_support-challenge-hed>Challenge</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>How can you tell that this person is proud?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_6" index="1">
+          <ac_ask-extend-hed>Extend</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Why would a mountain climber feel proud?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_6" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65183-6</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Sirtravelalot/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-6_back>
+  </ac_card-6>
+</activity-cards>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="es">  <ac_card-1 day="1">    <ac_card-1_front>       <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>¡VAMOS A COMPARAR!</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Para esta actividad, necesitará objetos del salón de clases de diferentes tamaños y pesos, como un lápiz, una taza, una muñeca y un libro. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cuando leímos <ac_teacher-speaking_emphasis_blue>El subibaja</ac_teacher-speaking_emphasis_blue>, comparamos los tamaños y pesos de los personajes.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, compararemos objetos de nuestro salón de clases. Les pediré que comparen dos objetos a la vez. Me dirán cuál es más grande y, luego, cuál es más pesado.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Comparar tamaño</ac_teacher-card_run-in_hed>  Elija dos objetos y pida a un niño que los compare por tamaño. Anime al niño para que coloque los objetos, uno al lado del otro y diga cuál es más grande. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Comparar peso</ac_teacher-card_run-in_hed>  Pida al niño que compare los mismos dos objetos por su peso. Anime al niño para que sostenga un objeto en cada mano y diga cuál es más pesado. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Pídale a otro niño que compare un conjunto diferente de objetos. Repita hasta que todos los niños hayan tenido la oportunidad de comparar múltiples conjuntos de objetos. </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre comparar objetos</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¿Fue más fácil comparar objetos por tamaño o por peso? ¿Qué objetos fueron los más difíciles de comparar?</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>Conversen sobre si el peso se relacionó siempre con el tamaño: <ac_teacher-speaking>¿Fueron los objetos más grandes también los más pesados? ¿Eso siempre fue así?</ac_teacher-speaking> (Un libro que es más grande que una taza, pero es más fino y liviano; un libro que es más pequeño que un animal de peluche, pero es más denso; etc.). </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>¡VAMOS A COMPARAR!</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="1">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Muestre los objetos a comparar colocándolos juntos según el tamaño, y sostenga uno en cada mano según el peso. Diga mientras compara: <ac_teacher-talk>Este lápiz no es tan largo como este libro. ¡El libro es más grande! Es más fácil levantar el lápiz que el libro. ¡El libro es más pesado!</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Estimule a los niños para que comparen más de dos objetos a la vez y para que los coloquen de mayor a menor y luego de más ligero a más pesado.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Repase el vocabulario clave, como <ac_teacher-talk>pequeño, grande, pesado</ac_teacher-talk> y <ac_teacher-talk>ligero</ac_teacher-talk>. Recuerde a los niños que el sufijo <ac_teacher-talk>-ísimo</ac_teacher-talk> es un superlativo para “más” y “menos”: <ac_teacher-talk>Este peluche es pequeñísimo</ac_teacher-talk>. Según sea necesario, use oraciones como: <ac_teacher-talk>Es más difícil sostener en alto el libro. Eso quiere decir que es más p</ac_teacher-talk>
+            <fill-in-the-blank>       </fill-in-the-blank>. <ac_teacher-talk>(pesado)</ac_teacher-talk> </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Estimulación sensorial </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Elija objetos de color parecido o mate. Para los niños puede ser más fácil comparar objetos por tamaño. Proporcione guantes a los niños  para que los usen mientras agarran los objetos para compararlos, si no les gusta la idea de tocarlos directamente, y evite los colores brillantes para que los niños no se distraigan.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66304-4</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>       <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>CONSTRUIMOS UN SUBIBAJA</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Para esta actividad, necesitará cubos conectores y bloques para armar, específicamente cilindros pequeños y rectángulos largos y delgados. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cuando leímos <ac_teacher-speaking_emphasis_blue>El subibaja</ac_teacher-speaking_emphasis_blue>, hablamos de la importancia de trabajar juntos y como equipo.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, tú y un compañero trabajarán en equipo para construir un subibaja con bloques para armar. Luego, practicarán equilibrar cubos conectores en él.</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Construir</ac_teacher-card_run-in_hed>  Dé a cada pareja una combinación de bloques de armar y guíelos para que construyan un subibaja. (La forma más sencilla es colocar un bloque rectangular largo y delgado en la parte superior de un cilindro corto). </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Equilibrar</ac_teacher-card_run-in_hed>  Una vez que cada pareja haya creado un subibaja, dé cubos conectores a los niños. Pídales que coloquen cantidades variables de cubos conectores a cada lado del subibaja para equilibrarlo. Guíe a los niños para que comprueben que se debe colocar el mismo número de cubos de cada lado para que el balancín se equilibre. </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Comparar</ac_teacher-card_run-in_hed>  Pida a las parejas que cuenten cómo construyeron sus subibajas. Compare los tamaños de los subibajas que crearon y los bloques usados para crearlos: <ac_teacher-speaking>¿Fue más fácil hacer un subibaja con un bloque más pequeño en el centro y uno más largo en la parte superior? ¿Por qué creen que fue así?</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre trabajar en equipo</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¿Cómo fue trabajar con su compañero de clases? ¿Alcanzaron sus metas? ¿Qué fue lo más difícil de trabajar juntos? ¿Trabajar juntos facilitó el logro de sus metas?</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>CONSTRUIMOS UN SUBIBAJA</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Demuestre cómo construir un subibaja con un rectángulo largo y delgado, y un cilindro pequeño. Anime a los niños a trabajar con sus   parejas para copiar sus diseños.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida a los niños que usen cubos conectores para un lado del subibaja y fichas de dos colores para el otro. Estimúlelos para que descubran cuántas fichas se necesitan con el fin de equilibrar un cubo conector.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Repase el vocabulario clave, como <ac_teacher-talk>subibaja, equipo</ac_teacher-talk> y <ac_teacher-talk>meta</ac_teacher-talk>. Anime a los niños a usar gestos con las manos y a señalar los bloques con los que quieren construir mientras trabajan con sus parejas. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Apoyo para el déficit de atención </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Pida a cada pareja que trabaje en un área separada, para que los niños no se distraigan con lo que hacen las demás parejas.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66304-4</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>       <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>vamos a EQUILIBRARLO</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Para esta actividad, necesitará una balanza, cubos conectores y varios objetos pequeños del salón de clases. Si no tiene una balanza, puede hacer una con dos tazas con agujeros para pasar una cuerda, un pedazo de cuerda y una percha de plástico. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cuando leímos <ac_teacher-speaking_emphasis_blue>El subibaja</ac_teacher-speaking_emphasis_blue>, hablamos de cómo podemos saber qué lado de un subibaja soporta más peso. También practicamos contar uno más o menos en un grupo.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, vamos a usar una balanza para saber qué objetos son más pesados que otros. Una balanza funciona como un subibaja: el lado más ligero sube y el lado más pesado baja. Luego, agregaremos y eliminaremos un objeto de la balanza cada vez y conoceremos qué sucede.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Pesar</ac_teacher-card_run-in_hed>  Coloque un cubo conector en un lado de la balanza y un objeto de la clase del otro lado. Pregunte a los niños, <ac_teacher-speaking>¿Cuál pesa más? ¿Cuál menos? ¿Cómo lo saben?</ac_teacher-speaking> Repita este ejercicio con otros objetos de la clase, pesando cada uno en comparación con el cubo conector. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Sumar y restar</ac_teacher-card_run-in_hed>  Pida a los niños que experimenten agregando y quitando objetos y cubos conectores, uno por uno, de la balanza. Cada vez que se agrega o elimina algo, pregunte: <ac_teacher-speaking>¿Cuántos objetos hay ahora en este lado? ¿Qué lado tiene más objetos?</ac_teacher-speaking> Anime a los niños a contar los objetos de ambos lados. Luego, pregunte, <ac_teacher-speaking>¿Qué lado es más pesado?</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre pesar</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¿Qué objeto fue el más pesado? ¿Un objeto fue siempre más ligero en comparación con otros objetos? ¿Tiene relación el orden en que contamos los objetos?</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>vamos a EQUILIBRARLO</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida que se enfoquen en los objetos más pesados y los más ligeros. Coloque el objeto del salón de clases en un lado de la balanza y un cubo conector en el otro. Guíe a los niños para que contesten usando este marco: <ac_teacher-talk>El</ac_teacher-talk> <fill-in-the-blank>   </fill-in-the-blank> <ac_teacher-talk>es más pesado que el</ac_teacher-talk> <fill-in-the-blank>   </fill-in-the-blank>. Repita con el resto.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Estimule a los niños a que primero adivinen y luego cuenten el número de cubos conectores que igualarán el peso de cada objeto del salón de clases que equilibran la balanza.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Repase el vocabulario clave, como <ac_teacher-talk>más, menos, pesar, sumar</ac_teacher-talk> y <ac_teacher-talk>restar</ac_teacher-talk>. Anime a los niños para que cuenten los objetos de cada lado y que señalen cuál es el lado más pesado. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Pida a los niños que lo ayuden a crear la balanza enhebrando la cuerda a través de las dos tazas. Luego, pídales que usen tenacillas para colocar y quitar objetos de la balanza.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66304-4</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>       <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>¿CUÁNTAS YUCAS?</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Para esta actividad, necesitará alrededor de 10 cubos conectores para cada niño. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cuando leímos <ac_teacher-speaking_emphasis_blue>La gran yuca enorme</ac_teacher-speaking_emphasis_blue>, contamos la cantidad de personajes que intentaron levantar la yuca.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, ¡Simularán que plantan yuca! Les daré a cada uno 10 cubos conectores para usar como si fueran las plantas de yuca. Les diré cuántas necesitan plantar y cuántas arrancar para la cena. Luego, contaremos cuántas yucas tenemos en total.</ac_teacher-speaking>
+              <ac_teacher-talk> </ac_teacher-talk>
+            </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Plantar</ac_teacher-card_run-in_hed>  Dé a cada niño 10 cubos conectores. <ac_teacher-speaking>Para comenzar todos vamos a plantar cinco yucas.</ac_teacher-speaking> Guíe a los niños para que coloquen cinco cubos conectores en fila sobre la mesa. <ac_teacher-speaking>¡Vamos a contarlos nuevamente para estar seguros de que tenemos cinco!</ac_teacher-speaking> Pida a los niños que cuenten los cubos en un orden distinto al de la fila. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hora de cenar</ac_teacher-card_run-in_hed>  Pida a un niño que “arranque” una planta de yuca para la cena. Guíe al niño a quitar un cubo. <ac_teacher-speaking>¿Cuántas yucas quedan?</ac_teacher-speaking> Pídale que cuente los cubos en un orden distinto al de la fila para confirmar. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Plantar más</ac_teacher-card_run-in_hed>  Pida a otro niño que siembre una yuca más. Guíe al niño a colocar un sexto cubo en la fila. <ac_teacher-speaking>¿Cuántas yucas hay ahora?</ac_teacher-speaking> Guíe al niño a contar los cubos en un orden distinto al de la fila para confirmar. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe pidiendo que “arranquen” o “planten” yuca una a la vez, siempre preguntando cuántas hay y sugiriendo que, para estar seguros, cuenten los cubos en un orden distinto del de la fila.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre cantidades</ac_teacher-card_run-in_hed>  Recuerde a los niños que comenzaron con cinco plantas de yuca. Pregunte: <ac_teacher-speaking>Ahora, ¿tienen más o menos cantidad de yuca? ¿Cómo lo saben?</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>¿CUÁNTAS YUCAS?</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Cuente la “yuca” junto con los niños, demostrando que se llega a la misma cantidad independientemente del orden en que se cuenta. Comience plantando (sumando) nuevos cubos, y pase a “arrancarlos” (quitarlos) cuando los niños estén listos.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida que “arranquen” y “planten” más de un cubo conector cada vez. Estimule a los niños a que arranquen o planten cubos para alcanzar un número determinado: <ac_teacher-talk>¡Tienen dos yucas, pero necesitarán cinco yucas para cenar esta noche! ¿Cuántas más necesitan plantar?</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Revise el vocabulario clave, como <ac_teacher-talk>arrancar, más, menos, igual, cantidad, yuca</ac_teacher-talk> y <ac_teacher-talk>plantar</ac_teacher-talk>. Pida a los niños que digan cuántas yucas tienen diciendo el número, y que muestren el número con los dedos o señalen la tarjeta de números con el número correcto. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad gruesa </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Pida a los niños que usen todo su cuerpo para representar que tiran con fuerza, al igual que los personajes de la tabla, cada vez que“arrancan” un cubo y que actúen como que cavan en el suelo cuando “plantan” un cubo.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66304-4</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

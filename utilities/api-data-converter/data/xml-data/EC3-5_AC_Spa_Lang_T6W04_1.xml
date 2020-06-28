@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity-cards lang="es">
+  <ac_card-1 day="1">
+    <ac_card-1_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T6W04D1_C2_134000042_cropped.png"/>
+    </ac_card-1_front>
+    <ac_card-1_back>
+      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>EN BUSCA DE LAS LETRAS</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_1" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Esta persona está haciendo la letra L. ¿Es esta letra recta o curva?   </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_1" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Esta letra es re<fill-in-the-blank>   </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(recta)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_1" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Qué otras letras son rectas?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_1" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué letras de su nombre son rectas?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66320-4</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Robynleigh/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-1_back>
+  </ac_card-1>
+  <ac_card-2 day="1">
+    <ac_card-2_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T6W04D1_C1_134773025_cropped.png"/>
+    </ac_card-2_front>
+    <ac_card-2_back>
+      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>EN BUSCA DE LAS LETRAS</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_2" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Esta persona está haciendo la letra C. ¿Es esta letra recta o curva?  </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_2" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Esta letra es c<fill-in-the-blank>    </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(curva)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_2" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Qué otras letras son curvas?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_2" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué letras de su nombre son curvas?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66320-4</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Robynleigh/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-2_back>
+  </ac_card-2>
+  <ac_card-3 day="3">
+    <ac_card-3_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T6W04D3_C1_1354956860_cropped.png"/>
+    </ac_card-3_front>
+    <ac_card-3_back>
+      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>Ruby Construye UN Fuerte</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_3" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Esto es un triciclo. ¿Usa Ruby un triciclo para construir su fuerte? </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_3" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Ruby no usa un tr<fill-in-the-blank>      </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(triciclo)</ac_teacher-talk-emphasis_non-ital> para construir su fuerte.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_3" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Qué se hace con un triciclo?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_3" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Por qué Ruby no necesita un triciclo para hacer su fuerte?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66320-4</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Pixels.Dot/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-3_back>
+  </ac_card-3>
+  <ac_card-4 day="3">
+    <ac_card-4_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T6W04D3_C2_1308769804_cropped.png"/>
+    </ac_card-4_front>
+    <ac_card-4_back>
+      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>Ruby Construye UN Fuerte</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_4" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Estas piezas de madera se llaman tablas. ¿Usa Ruby tablas para construir su fuerte?  </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_4" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Ruby usa t<fill-in-the-blank>     </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(tablas)</ac_teacher-talk-emphasis_non-ital> para construir su fuerte. </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_4" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Cómo saben que Ruby usa tablas para construir su fuerte?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_4" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Cómo usa Ruby las tablas para construir su fuerte?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66320-4</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Petrychenko Anton/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-4_back>
+  </ac_card-4>
+  <ac_card-5 day="3">
+    <ac_card-5_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T6W04D3_C3_649504537_cropped.png"/>
+    </ac_card-5_front>
+    <ac_card-5_back>
+      <masthead>
+        <section-block type="masthead_b_5" index="1">
+          <ac_header-game-card>Ruby Construye UN Fuerte</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_5" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Esto es un vaso de limonada. ¿Usa Ruby limonada para construir su fuerte?  </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_5" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Ruby no usa l<fill-in-the-blank>       </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(limonada)</ac_teacher-talk-emphasis_non-ital> para construir su fuerte. </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_5" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Recuerdan quién estaba bebiendo limonada y no ayudaba a Ruby?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_5" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Cuándo beberían ustedes limonada? ¿Por qué?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_5" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66320-4</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © JeniFoto/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-5_back>
+  </ac_card-5>
+  <ac_card-6 day="3">
+    <ac_card-6_front>
+      <graphic href="file:///Volumes/ActiveProducts/Product/Early%20Childhood/3-5%20Curriculum/2021/3-5%20Curriculum%20Activity%20Card%20Packs%20English/Art/Theme%206/EC3-5_AC_Eng_Lang_T6W04D3_C4_178540256.jpg"/>
+    </ac_card-6_front>
+    <ac_card-6_back>
+      <masthead>
+        <section-block type="masthead_b_6" index="1">
+          <ac_header-game-card>Ruby Construye UN Fuerte</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_6" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Esto es una sierra. ¿Usa Ruby una sierra para construir su fuerte?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_6" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Ruby usa una s<fill-in-the-blank>     </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(sierra)</ac_teacher-talk-emphasis_non-ital> para construir su fuerte.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_6" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Quién ayuda a Ruby a usar una sierra para construir su fuerte?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_6" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Por qué creen que la madre de Ruby la ayuda a cortar las tablas?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_6" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66320-4</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Thomas Hecker/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-6_back>
+  </ac_card-6>
+  <ac_card-7 day="3">
+    <ac_card-7_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T6W04D3_C5_1111545812_cropped.png"/>
+    </ac_card-7_front>
+    <ac_card-7_back>
+      <masthead>
+        <section-block type="masthead_b_7" index="1">
+          <ac_header-game-card>Ruby Construye UN Fuerte</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_7" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Esto es un patito de goma. ¿Usa Ruby un patito de goma para construir su fuerte?  </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_7" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Ruby no usa un patito de g<fill-in-the-blank>   </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(goma)</ac_teacher-talk-emphasis_non-ital> para construir su fuerte.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_7" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Recuerdan quién jugaba con un patito de goma en lugar de ayudar a Ruby?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_7" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Dónde podrían ver un patito de goma? ¿Por qué?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_7" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66320-4</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Jane Karren Baker/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-7_back>
+  </ac_card-7>
+  <ac_card-8 day="3">
+    <ac_card-8_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T6W04D3_C6_318179150_cropped.png"/>
+    </ac_card-8_front>
+    <ac_card-8_back>
+      <masthead>
+        <section-block type="masthead_b_8" index="1">
+          <ac_header-game-card>Ruby Construye UN Fuerte</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_8" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Esto es un martillo. ¿Usa Ruby un martillo para construir su fuerte?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_8" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Ruby usa un m<fill-in-the-blank>       </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(martillo)</ac_teacher-talk-emphasis_non-ital> para construir su fuerte.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_8" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Cómo saben que Ruby usa un martillo?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_8" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Para qué usa Ruby el martillo?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_8" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66320-4</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Khlungcenter/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-8_back>
+  </ac_card-8>
+</activity-cards>

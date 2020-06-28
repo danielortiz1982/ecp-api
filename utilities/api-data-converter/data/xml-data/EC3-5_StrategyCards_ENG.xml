@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_cards lang="en">
+  <strategy-card-1>
+    <graphic href="StrategyCards_image_01.svg" hex="008E83"/>
+    <section-block>
+      <strategy-head>Listen and Remember</strategy-head>
+    </section-block>
+    <section-block>
+      <strategy-body>When you listen and remember, you pay special attention to the important things the author says and try to remember them.</strategy-body>
+    </section-block>
+    <isbn-section>
+      <strategy-body>
+        <isbn>978-1-338-64639-9</isbn>
+      </strategy-body>
+    </isbn-section>
+  </strategy-card-1>
+  <strategy-card-2>
+    <graphic href="StrategyCards_image_02.svg" hex="DB0010"/>
+    <section-block>
+      <strategy-head>Make a Prediction</strategy-head>
+    </section-block>
+    <section-block>
+      <strategy-body>When you make a smart guess about what’s going to happen later, you make a prediction.</strategy-body>
+    </section-block>
+    <isbn-section>
+      <strategy-body>
+        <isbn>978-1-338-64639-9</isbn>
+      </strategy-body>
+    </isbn-section>
+  </strategy-card-2>
+  <strategy-card-3>
+    <graphic href="StrategyCards_image_03.svg" hex="984A9C"/>
+    <section-block>
+      <strategy-head>Make an Inference</strategy-head>
+    </section-block>
+    <section-block>
+      <strategy-body>When you use clues in the book and your background knowledge to make a smart guess, you make an inference.</strategy-body>
+    </section-block>
+    <isbn-section>
+      <strategy-body>
+        <isbn>978-1-338-64639-9</isbn>
+      </strategy-body>
+    </isbn-section>
+  </strategy-card-3>
+  <strategy-card-4>
+    <graphic href="StrategyCards_image_04.svg" hex="F15D22"/>
+    <section-block>
+      <strategy-head>Ask Questions</strategy-head>
+    </section-block>
+    <section-block>
+      <strategy-body>When you wonder about something in a book, you ask questions because you want to know more.</strategy-body>
+    </section-block>
+    <isbn-section>
+      <strategy-body>
+        <isbn>978-1-338-64639-9</isbn>
+      </strategy-body>
+    </isbn-section>
+  </strategy-card-4>
+  <strategy-card-5>
+    <graphic href="StrategyCards_image_05.svg" hex="0054A6"/>
+    <section-block>
+      <strategy-head>Make a Connection</strategy-head>
+    </section-block>
+    <section-block>
+      <strategy-body>When something from a book reminds you of your own life, you make a connection.</strategy-body>
+    </section-block>
+    <isbn-section>
+      <strategy-body>
+        <isbn>978-1-338-64639-9</isbn>
+      </strategy-body>
+    </isbn-section>
+  </strategy-card-5>
+  <strategy-card-6>
+    <graphic href="StrategyCards_image_06.svg" hex="288641"/>
+    <section-block>
+      <strategy-head>Use Background Knowledge</strategy-head>
+    </section-block>
+    <section-block>
+      <strategy-body>When you use your background knowledge, you use what you already know to understand a book.</strategy-body>
+    </section-block>
+    <isbn-section>
+      <strategy-body>
+        <isbn>978-1-338-64639-9</isbn>
+      </strategy-body>
+    </isbn-section>
+  </strategy-card-6>
+  <strategy-card-7>
+    <graphic href="StrategyCards_image_07.svg" hex="552A7E"/>
+    <section-block>
+      <strategy-head>Multiple Meaning</strategy-head>
+    </section-block>
+    <section-block>
+      <strategy-body>When a word can be used to mean different things, you think about which meaning fits best.</strategy-body>
+    </section-block>
+    <isbn-section>
+      <strategy-body>
+        <isbn>978-1-338-64639-9</isbn>
+      </strategy-body>
+    </isbn-section>
+  </strategy-card-7>
+  <strategy-card-8>
+    <graphic href="StrategyCards_image_08.svg" hex="0099BC"/>
+    <section-block>
+      <strategy-head>Cognate</strategy-head>
+    </section-block>
+    <section-block>
+      <strategy-body>When a word in English and a word in Spanish sound alike and have the same meaning, we say they are cognates.</strategy-body>
+    </section-block>
+    <isbn-section>
+      <strategy-body>
+        <isbn>978-1-338-64639-9</isbn>
+      </strategy-body>
+    </isbn-section>
+  </strategy-card-8>
+  <strategy-card-9>
+    <graphic href="StrategyCards_image_09.svg" hex="648212"/>
+    <section-block>
+      <strategy-head>Make a Smart Conclusion</strategy-head>
+    </section-block>
+    <section-block>
+      <strategy-body>When you put ideas from the book together and come up with a new idea, you make a smart conclusion.</strategy-body>
+    </section-block>
+    <isbn-section>
+      <strategy-body>
+        <isbn>978-1-338-64639-9</isbn>
+      </strategy-body>
+    </isbn-section>
+  </strategy-card-9>
+</strategy_cards>

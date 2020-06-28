@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity-cards lang="es">
+  <ac_card-1 day="4">
+    <ac_card-1_front>
+      <graphic href="EC3-5_AC_Eng_Language_T2W01D4_C6_134734016_cropped.png"/>
+    </ac_card-1_front>
+    <ac_card-1_back>
+      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>qué hacemos en la escuela </ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_1" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Dibujamos en la escuela? </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_1" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Sí, en la escuela d<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(dibujamos)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_1" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Qué usan para dibujar en la escuela?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_1" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué les gusta dibujar o pintar en la escuela? ¿Por qué?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65727-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © realpeople/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-1_back>
+  </ac_card-1>
+  <ac_card-2 day="4">
+    <ac_card-2_front>
+      <graphic href="EC3-5_AC_Eng_Language_T2W01D4_C7_313386131_cropped.png"/>
+    </ac_card-2_front>
+    <ac_card-2_back>
+      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>qué hacemos en la escuela </ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_2" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Limpiamos en la escuela? </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_2" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Sí, en la escuela l<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(limpiamos)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_2" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Cómo limpiamos en la escuela?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_2" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Dónde más podemos limpiar? ¿Cómo limpiaríamos?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65727-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Gergely Zsolnai/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-2_back>
+  </ac_card-2>
+  <ac_card-3 day="4">
+    <ac_card-3_front>
+      <graphic href="EC3-5_AC_Eng_Language_T2W01D4_C8_641754271_cropped.png"/>
+    </ac_card-3_front>
+    <ac_card-3_back>
+      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>qué hacemos en la escuela </ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_3" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>En la escuela, ¿escuchamos a la maestra?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_3" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Sí, e<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(escuchamos)</ac_teacher-talk-emphasis_non-ital> a la maestra.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_3" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Por qué es importante escuchar al maestro?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_3" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿A quién más tenemos que escuchar? ¿Por qué?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65727-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Monkey Business Images/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-3_back>
+  </ac_card-3>
+</activity-cards>

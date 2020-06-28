@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./preview-styles.css" type="text/css"?>
+<teaching-guide xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" lang="es">
+  <day_1>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 4:</tg_week_hed>
+        <tg_topic_hed>Vehículos en acción</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338614800_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro:<tg_materials-caption_book-title-Ital>¡A construir a toda marcha!</tg_materials-caption_book-title-Ital></tg_materials-caption>
+        <graphic href="LGC Redux T2_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T2_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> comprensión de lectura en voz alta </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> función ejecutiva</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para presentar las letras <tg_bullet-directions_emphasis_Ital>Ii </tg_bullet-directions_emphasis_Ital>y <tg_bullet-directions_emphasis_Ital>Jj</tg_bullet-directions_emphasis_Ital>, hacer participar a los niños dando palmas y presentar el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>medidas</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento presentando el libro y preguntando: <tg_bullet-directions_guiding-question>¿Qué tipo de camiones usan estos constructores?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Lea para disfrutar y comprender.</tg_bullet-directions>
+        <tg_bullet-directions>Verifique la comprensión; diferencie según requiera.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa información para describir.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conocimiento del abecedario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica al menos 20 letras mayúsculas y 20 letras minúsculas aisladas.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica y resuelve problemas.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y el espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Investiga, describe y habla acerca de los materiales de la tierra y de sus usos.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>El abecedario: i, j</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC3-5_AlphabetBook_COV_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libros del abecedario</tg_materials-caption>
+        <graphic href="AlphabetCards_Spa_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjetas del abecedario</tg_materials-caption>
+        <graphic href="AC_Redux_Eng_Lit_T2_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de actividad</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> comprensión de lectura en voz alta; conocimiento del abecedario</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Enseñe las letras <tg_bullet-directions_emphasis_Ital>Ii</tg_bullet-directions_emphasis_Ital> y <tg_bullet-directions_emphasis_Ital>Jj.</tg_bullet-directions_emphasis_Ital></tg_bullet-directions>
+        <tg_bullet-directions>Lea <tg_bullet-directions_book-title>Investiga el insecto y Julia.</tg_bullet-directions_book-title></tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique, según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Qué tipos de vehículos conocemos? ¿Cómo nos ayudan?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué tipos de vehículos hay en el libro? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Imagina que tocas un instrumento. ¿Cuál sería?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes dibujar un patio con columpios? ¿Cuántos columpios dibujaste? Vamos a contar y ver si podemos emparejar una ficha con cada uno. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes escribir una canción sobre carros? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué parte del parque de juegos te gusta más? Dibújalo.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes encontrar las letras <tg_teacher-talk_emphasis_non-ital>I</tg_teacher-talk_emphasis_non-ital> y <tg_teacher-talk_emphasis_non-ital>J</tg_teacher-talk_emphasis_non-ital> en la pila de letras magnéticas?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué puedes usar para hacer un camión? ¡Vamos a intentarlo! </tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. ¡A construir a toda marcha! by Jean Reidy, illustrated by Leo Timmers. Text copyright © 2016 by Jean Reidy. Illustrations copyright © 2016 by Leo Timmers. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Bloomsbury Children’s Books. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_1>
+  <day_2>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 4:</tg_week_hed>
+        <tg_topic_hed>Vehículos en acción</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338614800_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro:<tg_materials-caption_book-title-Ital>¡A construir a toda marcha!</tg_materials-caption_book-title-Ital></tg_materials-caption>
+        <graphic href="LGC Redux T2_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T2_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> comprensión de lectura en voz alta</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> motivación y creatividad; función ejecutiva</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para compartir el Mind Builder <tg_bullet-directions_book-title>usa la imaginación</tg_bullet-directions_book-title> y las palabras de vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>imaginación</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>construir</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento asociando el Mind Builder con <tg_bullet-directions_book-title>¡A construir a toda marcha!</tg_bullet-directions_book-title> </tg_bullet-directions>
+        <tg_bullet-directions>Haga una lectura atenta para hacer hablar sobre cuándo el autor y el ilustrador usan su imaginación. </tg_bullet-directions>
+        <tg_bullet-directions>Ofrezca una oportunidad para prolongar el juego. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa información para describir.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la imaginación para pensar sobre algo o visualizarlo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica y resuelve problemas.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y el espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Investiga, describe y habla acerca de los materiales de la tierra y de sus usos.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Arte:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa el arte para expresarse.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Un patio para jugar</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC_stock_PlayDough_cropped.png" index="1"/>
+        <tg_materials-caption index="1">masilla</tg_materials-caption>
+        <graphic href="AC_Redux_Eng_Lit_T2_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjetas de actividad</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> motivación y creatividad</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> ciencias de la Tierra y el espacio</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Bellas artes:</tg_learning-goals_inline-hed> arte</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Use la imaginación de los niños y persevere en la tarea de construir parte de un parque de juegos imaginario. </tg_bullet-directions>
+        <tg_bullet-directions>Invite a los niños a hacer una parte del parque de juegos para contribuir con el todo. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique, según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Qué tipos de vehículos conocemos? ¿Cómo nos ayudan?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Crees que el autor del libro tiene buena imaginación? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Usa tu imaginación para imaginar que eres un personaje de <tg_teacher-talk_emphasis_non-ital>¡A construir a toda marcha!</tg_teacher-talk_emphasis_non-ital> ¿Quién serías?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cuántos tipos diferentes de máquinas grandes para construir ves en el libro? ¡Vamos a usar fichas y ver si podemos emparejarlas!</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Muéstrame cómo escribes tu nombre en mi pizarrón.  </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes esculpir un animal imaginario? ¿Cómo es?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes hacer las letras <tg_teacher-talk_emphasis_non-ital>I</tg_teacher-talk_emphasis_non-ital> y <tg_teacher-talk_emphasis_non-ital>J</tg_teacher-talk_emphasis_non-ital> con masilla?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¡Vamos a hacer una pista de carreras para nuestros carros y camiones! Luego, podemos jugar a las carreras por turnos. </tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. ¡A construir a toda marcha! by Jean Reidy, illustrated by Leo Timmers. Text copyright © 2016 by Jean Reidy. Illustrations copyright © 2016 by Leo Timmers. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Bloomsbury Children’s Books. Clifford the Big Red Dog™ illustration copyright © The Norman Bridwell Trust. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Photos © Shutterstock: crayons (Lucie Lang), pencils (urfin).</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_2>
+  <day_3>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 4:</tg_week_hed>
+        <tg_topic_hed>Vehículos en acción</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338614800_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro:<tg_materials-caption_book-title-Ital>¡A construir a toda marcha!</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T2_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T2_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+        <graphic href="EC_StrategyCards ListenRemenber_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Tarjeta de estrategia Escuchar y recordar</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> comprensión de lectura en voz alta</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> ciencias de la Tierra y el espacio</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para compartir las habilidades de comprensión de escuchar, recordar y volver a narrar. Presente el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>plan</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento repasando el libro y preguntando: <tg_bullet-directions_guiding-question>¿Cómo usan los contructores los materiales de la tierra?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Haga una lectura para profundizar la comprensión. </tg_bullet-directions>
+        <tg_bullet-directions>Verifique la comprensión; diferencie según requiera. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria. </tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa información para describir.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conciencia fonológica:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica palabras que riman.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la imaginación para pensar sobre algo o visualizarlo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica y resuelve problemas.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y el espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Investiga, describe y habla acerca de los materiales de la tierra y de sus usos.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>¡Cosas que andan!</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lit_T2_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> comprensión de la lectura en voz alta</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> función ejecutiva</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Ayude a los niños a identificar imágenes de cosas que andan.</tg_bullet-directions>
+        <tg_bullet-directions>Invite a los niños a hacer conexiones entre las cosas que andan.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique, según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Qué tipos de vehículos conocemos? ¿Cómo nos ayudan?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Por qué te gusta este libro? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo puedes imaginar que eres un constructor? Vamos a verlo. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué animal que construye es tu favorito? ¿Qué sabes sobre ese animal?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo puedes escribir un cuento sobre lo que te gusta hacer en el parque de juegos?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo puedes usar materiales para hacer un vehículo de construcción?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Con qué letra comienza la palabra insecto? ¿Puedes escribirla?  </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo puedes hacer un balancín? ¿Qué materiales de estos podemos usar? </tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. ¡A construir a toda marcha! by Jean Reidy, illustrated by Leo Timmers. Text copyright © 2016 by Jean Reidy. Illustrations copyright © 2016 by Leo Timmers. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Bloomsbury Children’s Books. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_3>
+  <day_4>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 4:</tg_week_hed>
+        <tg_topic_hed>Vehículos en acción</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="EC3-5_Flipchart_T2W4_TheWheelsOnTheBus_Span_Redux_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Papelógrafo de grandes ideas:<tg_materials-caption_book-title-Ital>Las ruedas del autobús</tg_materials-caption_book-title-Ital></tg_materials-caption>
+        <graphic href="LGC Redux T2_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T2_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+        <graphic href="9781338614800_COV_SP_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Libro:<tg_materials-caption_book-title-Ital>¡A construir a toda marcha!</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> comprensión de lectura en voz alta; conciencia fonológica</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para hablar de vehículos con ritmos y presentar el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>alas</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>motor</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Inicie la hora del cuento asociando los textos <tg_bullet-directions_book-title>Las ruedas del autobús</tg_bullet-directions_book-title> y <tg_bullet-directions_book-title>¡A construir a toda marcha!</tg_bullet-directions_book-title></tg_bullet-directions>
+        <tg_bullet-directions>Haga una lectura atenta y responda: <tg_bullet-directions_guiding-question>¿Qué tipos de vehículos conocemos? ¿Cómo nos ayudan?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Ofrezca una oportunidad para prolongar el juego.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria. </tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa información para describir.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conciencia fonológica:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica palabras que riman.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la imaginación para pensar sobre algo o visualizarlo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>¡Nos congelamos rimando!</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC3-5_Flipchart_T2W4_TheWheelsOnTheBus_Span_Redux_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Papelógrafo de grandes ideas</tg_materials-caption>
+        <graphic href="AC_Redux_Eng_Lit_T2_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjetas de actividad</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> conciencia fonológica</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Invite a los niños a escuchar e identificar las palabras que riman.</tg_bullet-directions>
+        <tg_bullet-directions>Anime a los niños a seguir las instrucciones. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique, según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Qué tipos de vehículos conocemos? ¿Cómo nos ayudan?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Compara este cuento con el de <tg_teacher-talk_emphasis_non-ital>Las ruedas del autobús.</tg_teacher-talk_emphasis_non-ital></tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Vamos a imaginar que subimos juntos al autobús. ¡Yo seré el conductor! ¿Quién eres tú? ¿Adónde vas?</tg_ind-center_teacher-talk><tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes ordenar los animales del libro de mayor a menor?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¡Vamos a escribir una nota de agradecimento a los constructores del parque! Dime qué escribir.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Haz una pintura. Moja las ruedas de carritos y camiones de juguete en la pintura y hazlos correr sobre papel. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escribe con un crayón y un marcador. ¿Con cuál es más fácil?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Vamos a construir tres toboganes: ¡grande, más grande y muy grande! ¡Podemos usar bloques, piezas u otros materiales!</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. ¡A construir a toda marcha! by Jean Reidy, illustrated by Leo Timmers. Text copyright © 2016 by Jean Reidy. Illustrations copyright © 2016 by Leo Timmers. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Bloomsbury Children’s Books. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_4>
+  <day_5>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 8:</tg_week_hed>
+        <tg_topic_hed>Vehículos en acción</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338614800_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro:<tg_materials-caption_book-title-Ital>¡A construir a toda marcha!</tg_materials-caption_book-title-Ital></tg_materials-caption>
+        <graphic href="LGC Redux T2_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande </tg_materials-caption>
+        <graphic href="VC Redux Spa T2_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> comprensión de lectura en voz alta</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> motivación y creatividad</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> ciencias de la Tierra y el espacio</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para imaginar y representar. Presente el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>apilar</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento repasando el superlibro <tg_bullet-directions_book-title>¡A construir a toda marcha!</tg_bullet-directions_book-title> y pregunte: <tg_bullet-directions_guiding-question>¿Qué hacen los constructores cada día?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Lea y vuelva a narrar de manera interactiva. </tg_bullet-directions>
+        <tg_bullet-directions>Verifique la comprensión y diferencie, según sea necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa información para describir.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Escribe con propósitos diferentes.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la imaginación para pensar sobre algo o visualizarlo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y el espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Investiga, describe y habla acerca de los materiales de la tierra y de sus usos.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Música:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Canta, toca un instrumento musical y se mueve al ritmo en las actividades de clase.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Escritura independiente, dibujar o narrar un cuento</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC3-5_ResponsePrompt_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Hoja de respuesta</tg_materials-caption>
+        <graphic href="EC_stock_WritingTools_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Materiales de escritura</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> comprensión de lectura en voz alta</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> motivación y creatividad </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> ciencias de la Tierra y el espacio</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Apoye a los niños para que respondan de manera independiente a la pregunta de esta semana: <tg_bullet-directions_guiding-question>¿Cómo nos ayudan los vehículos a llegar de un lugar a otro?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique, según sea necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Guarde los trabajos de los niños para mostrarlos la próxima semana. </tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Qué tipos de vehículos conocemos? ¿Cómo nos ayudan?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¡Imagina que estás en este libro! ¿Qué dirías y harías?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Imagina que eres un científico. ¿Qué te gustaría estudiar? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Vamos a clasificar nuestros objetos de la naturaleza. ¿Cuáles vienen de los árboles? ¿Cuáles vienen de la tierra? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Imagina un cuento en el que un carro puede hablar. Haz un dibujo y escribe lo que dice. Te ayudaré con las palabras. Luego, comparte tu cuento.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¡Vamos a pintar estas rocas como si fueran insectos! ¿Se convertirán las rocas en seres vivos? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes hacer las letras <tg_teacher-talk_emphasis_non-ital>I</tg_teacher-talk_emphasis_non-ital> y <tg_teacher-talk_emphasis_non-ital>J</tg_teacher-talk_emphasis_non-ital> con crema de afeitar? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¡Haz un nuevo juego mecánico  para el parque de juegos! Usa piezas o bloques. </tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. ¡A construir a toda marcha! by Jean Reidy, illustrated by Leo Timmers. Text copyright © 2016 by Jean Reidy. Illustrations copyright © 2016 by Leo Timmers. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Bloomsbury Children’s Books. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_5>
+  <day_1_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Alfabetización</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la información aprendida de los libros describiendo, relacionando, categorizando o comparando y contrastando.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conocimiento del abecedario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Nombra al menos 20 letras mayúsculas y al menos 20 minúsculas en el idioma de instrucción.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.C.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Muestra iniciativa en situaciones independientes y es persistente para intentar resolver problemas.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.A.4, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencia</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y el espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observa, investiga, describe y discute los materiales de la tierra y sus propiedades y usos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.C.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_1_texas>
+  <day_2_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Alfabetización</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la información aprendida de los libros describiendo, relacionando, categorizando o comparando y contrastando.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Muestra iniciativa en situaciones independientes y es persistente para intentar resolver problemas.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.A.4, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la imaginación para pensar sobre algo o visualizarlo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencia</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y el espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observa, investiga, describe y discute los materiales de la tierra y sus propiedades y usos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.C.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Arte:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa el arte como una forma de autoexpresión y representación creativa.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VIII.A.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_2_texas>
+  <day_3_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Alfabetización</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la información aprendida de los libros describiendo, relacionando, categorizando o comparando y contrastando.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conciencia fonológica:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Puede reconocer palabras que riman.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.B.6)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Muestra iniciativa en situaciones independientes y es persistente para intentar resolver problemas.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.A.4, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la imaginación para pensar sobre algo o visualizarlo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencia</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y el espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observa, investiga, describe y discute los materiales de la tierra y sus propiedades y usos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.C.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_3_texas>
+  <day_4_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Alfabetización</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la información aprendida de los libros describiendo, relacionando, categorizando o comparando y contrastando.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conciencia fonológica:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Puede reconocer palabras que riman.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.B.6)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la imaginación para pensar sobre algo o visualizarlo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_4_texas>
+  <day_5_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Alfabetización</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la información aprendida de los libros describiendo, relacionando, categorizando o comparando y contrastando.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Escribe en forma independiente para comunicar sus ideas con varios fines.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IV.A.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la imaginación para pensar sobre algo o visualizarlo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y el espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observa, investiga, describe y discute los materiales de la tierra y sus propiedades y usos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.C.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Música:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Participa en las actividades de música del salón de clases, inclusive cantar, tocar instrumentos musicales y seguir el ritmo con movimiento.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VIII.B.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_5_texas>
+</teaching-guide>

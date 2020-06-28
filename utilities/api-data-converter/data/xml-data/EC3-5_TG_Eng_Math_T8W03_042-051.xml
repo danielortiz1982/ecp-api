@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./preview-styles.css" type="text/css"?>
+<teaching-guide xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" lang="en">
+  <day_1>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 3:</tg_week_hed>
+        <tg_topic_hed>Growing Up</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338611366_COV_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Big Book: <tg_materials-caption_book-title-Ital>I Want to Grow</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T8_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large Group Card </tg_materials-caption>
+        <graphic href="EC_stock_ruler_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Rulers</tg_materials-caption>
+        <graphic href="VC Redux Eng T8_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Vocabulary Cards </tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Measurement; Classification</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Motivation and Creativity</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed> Vocabulary; Sentence Structure</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to build math background, engage children with a measurement activity, and introduce vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>equal</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>ruler</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Begin Story Time by asking, <tg_bullet-directions_guiding-question>What is one way Herb tries to grow taller?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Read for enjoyment and understanding, with a focus on measurement.</tg_bullet-directions>
+        <tg_bullet-directions>Check understanding. Differentiate as needed. </tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Measure, describe, and compare height and length of objects using like units and words like “small,” “big,” “short,” “tall,” and “long”; Know the purpose of common measuring tools (e.</tg_skills-focus-skill-text>g., ruler, scale, measuring cup/spoon); <tg_skills-focus-skill-text>Use formal or informal measurement tools (e.</tg_skills-focus-skill-text>g., balance scale, cups, blocks, paper clips, etc.) to observe and describe length.</tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Classification:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Collect, organize, and present data graphically.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivation and Creativity:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Talk and share.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Sentence Structure:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use sentences with multiple phrases.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Understand and use a growing number of math words.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Measure Up!</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T8_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Activity Card</tg_materials-caption>
+        <graphic href="EC_stock_ruler_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Ruler</tg_materials-caption>
+        <graphic href="EC_stock_Blocks_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Classroom Objects</tg_materials-caption>
+        <graphic href="EC_stock_ChartPaper_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Chart Paper</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Measurement</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Motivation and Creativity</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed> Vocabulary</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Have children measure and compare the heights of classroom objects.</tg_bullet-directions>
+        <tg_bullet-directions>Guide children to practice using a ruler and graphing results.</tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>How have we changed? </tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND LISTENING CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Find one thing on the page that is tall. How do you know it is tall?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND LEARN CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What is the highest thing you can reach in the kitchen? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND SCIENCE CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>How can you use a ruler to measure the plants we grew?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S CORNER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Draw Herb and Muriel at the beginning of the book. How can you show that Herb is shorter?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY STATION</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you make the clay longer like Muriel did?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Use your finger to trace the letter <tg_teacher-talk_emphasis_non-ital>R</tg_teacher-talk_emphasis_non-ital> for <tg_teacher-talk_emphasis_non-ital>ruler</tg_teacher-talk_emphasis_non-ital>.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What can you do to make your tower taller? </tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. I Want to Grow by Ged Adamson. Copyright © 2017 by Ged Adamson. Published by Scholastic Inc. by arrangement with Boyds Mills Press, an imprint of Highlights.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Photos © Shutterstock.</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_1>
+  <day_2>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 3:</tg_week_hed>
+        <tg_topic_hed>Growing Up</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338611366_COV_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Big Book: <tg_materials-caption_book-title-Ital>I Want to Grow</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T8_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large Group Card </tg_materials-caption>
+        <graphic href="VC Redux Eng T8_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Vocabulary Card </tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Measurement; Classification</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Motivation and Creativity</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed> Vocabulary; Sentence Structure</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to share the Mind Builder <tg_bullet-directions_guiding-question>talk and share</tg_bullet-directions_guiding-question> and introduce vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>share</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Begin Story Time by connecting the Mind Builder to <tg_bullet-directions_book-title>I Want to Grow.</tg_bullet-directions_book-title></tg_bullet-directions>
+        <tg_bullet-directions>Read closely to talk about how the characters share their thoughts and to review classification.</tg_bullet-directions>
+        <tg_bullet-directions>Offer an extended play opportunity.</tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Measure, describe, and compare height and length of objects using like units and words like “small,” “big,” “short,” “tall,” and “long.</tg_skills-focus-skill-text>”</tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Classification:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Collect, organize, and present data graphically.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivation and Creativity:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Talk and share.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Sentence Structure:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use sentences with multiple phrases.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Understand and use a growing number of math words.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Tall or Short?</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T8_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Activity Cards</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Measurement; Classification</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Motivation and Creativity</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed> Vocabulary; Sentence Structure</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Have children describe an object on an Activity Card as tall or short.</tg_bullet-directions>
+        <tg_bullet-directions>Encourage children to discuss their own experiences.</tg_bullet-directions>
+        <tg_bullet-directions>Guide children to graph results.</tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>How have we changed? </tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND LISTENING CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Is there anything on this page that can grow? Point to it.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND LEARN CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What happens if you stand on a step? Do you look taller or shorter?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND SCIENCE CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you use a ruler to draw a straight line?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S CORNER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Write a story about a very short animal. Where does it live?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY STATION</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Use clay to make two objects. Which is shorter?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>How many letters are in the word <tg_teacher-talk_emphasis_non-ital>ruler</tg_teacher-talk_emphasis_non-ital>?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you use blocks to measure the height of an object? How?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. I Want to Grow by Ged Adamson. Copyright © 2017 by Ged Adamson. Published by Scholastic Inc. by arrangement with Boyds Mills Press, an imprint of Highlights. Clifford the Big Red DogTM illustration copyright © The Norman Bridwell Trust. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_2>
+  <day_3>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 3:</tg_week_hed>
+        <tg_topic_hed>Growing Up</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338611366_COV_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Big Book: <tg_materials-caption_book-title-Ital>I Want to Grow</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T8_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large Group Card </tg_materials-caption>
+        <graphic href="VC Redux Eng T8_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Vocabulary Card </tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Measurement; Classification</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Motivation and Creativity</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed> Vocabulary; Sentence Structure</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to build math background, engage children with song, and introduce vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>height</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Begin Story Time by revisiting <tg_bullet-directions_book-title>I Want to Grow</tg_bullet-directions_book-title> and asking the guiding question, <tg_bullet-directions_guiding-question>How can Herb and Muriel tell that they have grown?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Read interactively for deeper comprehension and to review height.</tg_bullet-directions>
+        <tg_bullet-directions>Check understanding. Differentiate as needed.</tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Measure, describe, and compare height and length of objects using like units and words like “small,” “big,” “short,” “tall,” and “long”; Know the purpose of common measuring tools (e.</tg_skills-focus-skill-text>g., ruler, scale, measuring cup/spoon); <tg_skills-focus-skill-text>Use formal or informal measurement tools (e.</tg_skills-focus-skill-text>g., balance scale, cups, blocks, paper clips, etc.) to observe and describe length.</tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Classification:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Collect, organize, and present data graphically.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivation and Creativity:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Talk and share.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Sentence Structure:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use sentences with multiple phrases.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Understand and use a growing number of math words.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>We Grew!</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T8_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Activity Card</tg_materials-caption>
+        <graphic href="EC_stock_ChartPaper_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Height Chart from 3.3</tg_materials-caption>
+        <graphic href="EC_stock_MeasuringTape_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tape Measure</tg_materials-caption>
+        <graphic href="EC_stock_PostIts_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Sticky Notes</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Measurement; Classification</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Motivation and Creativity</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed> Vocabulary</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Remeasure children’s heights, recording the data on the height chart from Theme 3, Week 3.</tg_bullet-directions>
+        <tg_bullet-directions>Guide children to compare their initial height to their current height.</tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>How have we changed? </tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND LISTENING CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Is the character in this book tall? How can you tell?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND LEARN CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Construction workers measure a lot. Pretend that you are building something and measuring it with a tool.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND SCIENCE CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Is this block taller or shorter than a ruler?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S CORNER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Describe another way Herb could have tried to make himself taller.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY STATION</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Design some shoes that would make you look taller.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What sound do you hear at the start of the word <tg_teacher-talk_emphasis_non-ital>height</tg_teacher-talk_emphasis_non-ital>? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Build a tall bridge and a short boat. Can the boat go under the bridge?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. I Want to Grow by Ged Adamson. Copyright © 2017 by Ged Adamson. Published by Scholastic Inc. by arrangement with Boyds Mills Press, an imprint of Highlights.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Photos © Shutterstock.</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_3>
+  <day_4>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 3:</tg_week_hed>
+        <tg_topic_hed>Growing Up</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="EC_FC_Eng_T8W3_redux_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Big Chart of Big Ideas: <tg_materials-caption_book-title-Ital>What We Have Learned</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T8_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large Group Card </tg_materials-caption>
+        <graphic href="9781338611366_COV_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Big Book:<tg_materials-caption_book-title-Ital>I Want to Grow</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="VC Redux Eng T8_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Vocabulary Card </tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Measurement; Classification</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Motivation and Creativity</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed> Vocabulary; Sentence Structure</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to discuss this week’s discoveries, engage children with an investigating activity, and introduce vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>investigate</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>discover</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Begin Story Time by connecting the texts <tg_bullet-directions_book-title>What We Have Learned</tg_bullet-directions_book-title> and <tg_bullet-directions_book-title>I Want to Grow.</tg_bullet-directions_book-title></tg_bullet-directions>
+        <tg_bullet-directions>Read closely to connect to this week’s concept question, <tg_bullet-directions_guiding-question>How have we changed?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Offer an extended play opportunity.</tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option. </tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Measure, describe, and compare height and length of objects using like units and words like “small,” “big,” “short,” “tall,” and “long.</tg_skills-focus-skill-text>”</tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Classification:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Collect, organize, and present data graphically.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivation and Creativity:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Talk and share.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Sentence Structure:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use sentences with multiple phrases.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Understand and use a growing number of math words.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>What Can We Discover?</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T8_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Activity Card</tg_materials-caption>
+        <graphic href="EC_stock_PostIts_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Sticky Notes</tg_materials-caption>
+        <graphic href="EC_stock_ChartPaper_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Chart Paper</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Classification</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Motivation and Creativity</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed> Vocabulary; Sentence Structure</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Have children ask a partner a question to learn more about them.</tg_bullet-directions>
+        <tg_bullet-directions>Guide children to graph their partner’s answer and discover something about their friends by comparing responses.</tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>How have we changed? </tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND LISTENING CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Do you think you are shorter or taller than the character in this book? Why do you think that?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND LEARN CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Pretend to be a firefighter. What kind of equipment will you need to reach the top of tall buildings?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND SCIENCE CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you arrange these objects from shortest to tallest?</tg_ind-center_teacher-talk><tg_ind-center_hed>WRITER’S CORNER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What is something you look forward to doing when you are taller?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY STATION</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What was your favorite thing that you learned this year? Can you create a picture of it?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Which letter appears more than once in <tg_teacher-talk_emphasis_non-ital>tall</tg_teacher-talk_emphasis_non-ital>? Circle it.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Build two towers. Which is shorter?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. I Want to Grow by Ged Adamson. Copyright © 2017 by Ged Adamson. Published by Scholastic Inc. by arrangement with Boyds Mills Press, an imprint of Highlights.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Photos © Shutterstock.</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_4>
+  <day_5>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 3:</tg_week_hed>
+        <tg_topic_hed>Growing Up</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338611366_COV_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Big Book: <tg_materials-caption_book-title-Ital>I Want to Grow</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T8_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large Group Card </tg_materials-caption>
+        <graphic href="EC_stock_PostIts_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Sticky Notes</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Measurement; Classification</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Motivation and Creativity</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed> Vocabulary; Sentence Structure</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to make a graph of children’s favorite characters and engage children in a dancing activity.</tg_bullet-directions>
+        <tg_bullet-directions>Start Story Time by revisiting the book <tg_bullet-directions_book-title>I Want to Grow</tg_bullet-directions_book-title> and asking, <tg_bullet-directions_guiding-question>How has Herb changed at the end of the book?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Read and retell interactively for physical engagement and to review classification.</tg_bullet-directions>
+        <tg_bullet-directions>Check understanding. Differentiate as needed.</tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Measure, describe, and compare height and length of objects using like units and words like “small,” “big,” “short,” “tall,” and “long.</tg_skills-focus-skill-text>”</tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Classification:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Collect, organize, and present data graphically.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivation and Creativity:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Talk and share.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Sentence Structure:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use sentences with multiple phrases.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Understand and use a growing number of math words.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Literacy</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Writing:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Write for different purposes.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Independent Writing, Drawing, or Storytelling</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC3-5_ResponsePrompt_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Response Prompt</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Measurement</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Motivation and Creativity</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed> Sentence Structure; Vocabulary</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Literacy:</tg_learning-goals_inline-hed> Writing</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this lesson, you will:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Support children as they independently respond to this week’s prompt: <tg_bullet-directions_guiding-question>How have you changed since starting preschool?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed.</tg_bullet-directions>
+        <tg_bullet-directions>Save children’s writing to display next week.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>How have we changed? </tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND LISTENING CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>How does the character change in this book?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND LEARN CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Pretend that you are as short as an ant! What will you do? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND SCIENCE CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Imagine you have found a new type of flower. What tool will you use to measure it?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S CORNER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Imagine you grew as tall as a building overnight! Write a story about what you would do.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY STATION</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Make a new type of flower no one has seen before. How tall is it?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Create a name for a new flower you just discovered. What letter does it start with?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Use blocks to create a pot for your new flower. How tall will your pot have to be for the flower to fit?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. I Want to Grow by Ged Adamson. Copyright © 2017 by Ged Adamson. Published by Scholastic Inc. by arrangement with Boyds Mills Press, an imprint of Highlights.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_5>
+  <day_1_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Recognize and compare heights or lengths of people or objects.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.D.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Classification:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Collect data and organize it in a graphic representation.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.E.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivation and Creativity:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Talk and share.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Sentence Structure:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use sentences with more than one phrase.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.E.3)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demonstrate understanding of terms used in the instructional language of the classroom.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_1_texas>
+  <day_2_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Recognize and compare heights or lengths of people or objects.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.D.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Classification:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Collect data and organize it in a graphic representation.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.E.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivation and Creativity:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Talk and share.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Sentence Structure:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use sentences with more than one phrase.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.E.3)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demonstrate understanding of terms used in the instructional language of the classroom.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_2_texas>
+  <day_3_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Recognize and compare heights or lengths of people or objects.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.D.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Classification:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Collect data and organize it in a graphic representation.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.E.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivation and Creativity:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Talk and share.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Sentence Structure:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use sentences with more than one phrase.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.E.3)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demonstrate understanding of terms used in the instructional language of the classroom.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_3_texas>
+  <day_4_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Recognize and compare heights or lengths of people or objects.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.D.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Classification:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Collect data and organize it in a graphic representation.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.E.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivation and Creativity:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Talk and share.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Sentence Structure:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use sentences with more than one phrase.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.E.3)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demonstrate understanding of terms used in the instructional language of the classroom.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_4_texas>
+  <day_5_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Recognize and compare heights or lengths of people or objects.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.D.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Classification:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Collect data and organize it in a graphic representation.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.E.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivation and Creativity:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Talk and share.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Sentence Structure:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use sentences with more than one phrase.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.E.3)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demonstrate understanding of terms used in the instructional language of the classroom.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Literacy</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Writing:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Independently write to communicate ideas for a variety of purposes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IV.A.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_5_texas>
+</teaching-guide>

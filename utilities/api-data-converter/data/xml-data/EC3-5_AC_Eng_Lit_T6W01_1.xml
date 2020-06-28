@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity-cards lang="en">
+  <ac_card-1 day="3">
+    <ac_card-1_front>
+      <graphic href="EC3-5_AC_Eng_Lit_T6W01D3_C1_523131904_cropped.png"/>
+    </ac_card-1_front>
+    <ac_card-1_back>
+      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>One or Two </ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_1" index="1">
+          <ac_ask-extend-hed>Ask</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>How many apples do you see? </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_1" index="1">
+          <ac_support-challenge-hed>Support</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>I see one ap<fill-in-the-blank>            </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(apple)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_1" index="1">
+          <ac_support-challenge-hed>Challenge</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>What color is this apple?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_1" index="1">
+          <ac_ask-extend-hed>Extend</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Would you say the shape of an apple is almost like a circle or almost like a square?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65178-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Bergamont/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-1_back>
+  </ac_card-1>
+  <ac_card-2 day="3">
+    <ac_card-2_front>
+      <graphic href="EC3-5_AC_Eng_Lit_T6W01D3_C2_1422421295_cropped.png"/>
+    </ac_card-2_front>
+    <ac_card-2_back>
+      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>One or Two</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_2" index="1">
+          <ac_ask-extend-hed>Ask</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>How many apples do you see?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_2" index="1">
+          <ac_support-challenge-hed>Support</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>I see two ap<fill-in-the-blank>               </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(apples)</ac_teacher-talk-emphasis_non-ital>. </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_2" index="1">
+          <ac_support-challenge-hed>Challenge</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>What do apples grow on?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_2" index="1">
+          <ac_ask-extend-hed>Extend</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Are apples crunchy or soft? What color are the apples you eat?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65178-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Lora liu/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-2_back>
+  </ac_card-2>
+  <ac_card-3 day="3">
+    <ac_card-3_front>
+      <graphic href="EC3-5_AC_Eng_Lit_T6W01D3_C3_1051974098_cropped.png"/>
+    </ac_card-3_front>
+    <ac_card-3_back>
+      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>One or two</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_3" index="1">
+          <ac_ask-extend-hed>Ask</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>How many mangoes do you see?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_3" index="1">
+          <ac_support-challenge-hed>Support</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>I see one m<fill-in-the-blank>            </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(mango)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_3" index="1">
+          <ac_support-challenge-hed>Challenge</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>What color is this mango?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_3" index="1">
+          <ac_ask-extend-hed>Extend</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>A mango is sweet. What other fruits are sweet?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65178-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Jiang Hongyan/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-3_back>
+  </ac_card-3>
+  <ac_card-4 day="3">
+    <ac_card-4_front>
+      <graphic href="EC3-5_AC_Eng_Lit_T6W01D3_C4_85566514_cropped.png"/>
+    </ac_card-4_front>
+    <ac_card-4_back>
+      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>One or two</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_4" index="1">
+          <ac_ask-extend-hed>Ask</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>How many mangoes do you see?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_4" index="1">
+          <ac_support-challenge-hed>Support</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>I see two m<fill-in-the-blank>                  </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(mangoes)</ac_teacher-talk-emphasis_non-ital>. </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_4" index="1">
+          <ac_support-challenge-hed>Challenge</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>What colors are these mangoes?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_4" index="1">
+          <ac_ask-extend-hed>Extend</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>A mango is delicious. Why would pieces of a mango be good to put in a fruit salad? </ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65178-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Glenn Price/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-4_back>
+  </ac_card-4>
+  <ac_card-5 day="3">
+    <ac_card-5_front>
+      <graphic href="EC3-5_AC_Eng_Lit_T6W01D3_C5_84284302_cropped.png"/>
+    </ac_card-5_front>
+    <ac_card-5_back>
+      <masthead>
+        <section-block type="masthead_b_5" index="1">
+          <ac_header-game-card>one or two</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_5" index="1">
+          <ac_ask-extend-hed>Ask</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>How many oranges do you see? </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_5" index="1">
+          <ac_support-challenge-hed>Support</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>I see one o<fill-in-the-blank>               </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(orange)</ac_teacher-talk-emphasis_non-ital>. </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_5" index="1">
+          <ac_support-challenge-hed>Challenge</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>What color is this orange?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_5" index="1">
+          <ac_ask-extend-hed>Extend</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Tell what an orange looks and feels like.</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_5" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65178-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Maks Narodenko/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-5_back>
+  </ac_card-5>
+  <ac_card-6 day="3">
+    <ac_card-6_front>
+      <graphic href="EC3-5_AC_Eng_Lit_T6W01D3_C6_369201374_cropped.png"/>
+    </ac_card-6_front>
+    <ac_card-6_back>
+      <masthead>
+        <section-block type="masthead_b_6" index="1">
+          <ac_header-game-card>one or two</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_6" index="1">
+          <ac_ask-extend-hed>Ask</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>How many oranges do you see?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_6" index="1">
+          <ac_support-challenge-hed>Support</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>I see t<fill-in-the-blank>      </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(two)</ac_teacher-talk-emphasis_non-ital> oranges.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_6" index="1">
+          <ac_support-challenge-hed>Challenge</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>What do oranges grow on?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_6" index="1">
+          <ac_ask-extend-hed>Extend</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>People squeeze oranges to get their juice. Do you like to drink orange juice?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_6" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65178-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © MrBright/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-6_back>
+  </ac_card-6>
+</activity-cards>

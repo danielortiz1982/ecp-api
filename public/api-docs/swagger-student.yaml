@@ -1,0 +1,418 @@
+openapi: "3.0.0"
+info:
+  version: "1.6.0"
+  title: "ECP Content API"
+  description: "Nodejs MongoDB RESTful API for managing ecp modules, student, teacher and pages"
+  license:
+    name: "ISC"
+    url: "https://opensource.org/licenses/ISC"
+
+servers:
+  - url: "/{server}/{version}"
+    variables:
+      server:
+        default: ecp-api
+      version:
+        enum:
+          - v1
+          - v2
+          - v3
+        default: v3
+
+components:
+  parameters:
+    langName:
+        in: path
+        name: languageName
+        required: true
+        schema:
+          type: string
+          enum: [en, es]
+        description: "String values 'en' for English and 'es' for Spanish"
+    studentID:
+        in: path
+        name: studentID
+        required: true
+        schema:
+          type: string
+          example: "001"
+        description: "Id in form of 3 digit string"
+
+  schemas:
+    get_response_body_pair_relationships:
+      type: array
+      items:
+        type: object
+        properties:
+          _id: 
+            type: string
+            example: "5ea70f7145483876b1b2ba63"
+          pairslpid: 
+            type: string
+            example: "10603480"
+          lang:
+            type: string
+            example: "en"
+          pairtitle:
+            type: string
+            example: "Dinosaur"
+          epubtitle:
+            type: string
+            example: "Is It a Dinosaur?"
+          epuborigfilename:
+            type: string
+            example: "10603481.epub"
+          ebookfilename:
+            type: string
+            example: "10603481"
+          epubADAfilename:
+            type: string
+            example: "RF_prek_ebk0005b_is_it_a_dinosaur"
+          videotitle:
+            type: string
+            example: "Danny and the Dinosaur"
+          videocover:
+            type: string
+            example: "bk0019sce.jpg"
+          videofilename:
+            type: string
+            example: "bk0019sve.mov"
+          videoADAfilename:
+            type: string
+            example: "bk0019svwe.mov"
+          
+    get_response_body_pair_collection:
+      type: array
+      items:
+        type: object
+        properties:
+          _id: 
+            type: string
+            example: "5e7a18fa6b2879004ad78f88"
+          language: 
+            type: string
+            example: "en"
+          themes:
+            type: array
+            items:
+              type: object
+              properties:
+                pairs:
+                  allOf:
+                      - $ref: "#/components/schemas/get_response_body_pair_collection_object"
+                      - $ref: "#/components/schemas/get_response_body_pair_collection_object"
+                      - type: object
+                _id:
+                  type: string
+                  example: "5e3c62515b77d907e65419b7"
+                id:
+                  type: integer
+                  example: 1
+                style: 
+                  type: string
+                  example: "style1"
+                backgroundImage:
+                  type: string
+                  example: "/assets/images/backgrounds/T1.png"
+                themeBackground:
+                  type: string
+                  example: "/assets/images/themes/T1_Me_You.png"
+                subheaderColor:
+                  type: string
+                  example: "rgba(44, 110, 170, 1)"
+                title:
+                  type: string
+                  example: "Me and You"
+           
+    
+    get_response_body_pair_collection_object:
+      type: object
+      properties:
+        book:
+          $ref: "#/components/schemas/get_response_body_pair_collection_book"
+        story:
+          $ref: "#/components/schemas/get_response_body_pair_collection_story"
+        _id:
+          type: string
+          example: "5e3c62515b77d907e65419b8"
+        id:
+          type: integer
+          example: 1
+    get_response_body_pair_collection_book:
+        type: object
+        properties:
+          filename: 
+            type: string
+            example: "10603487"
+          ADAfilename: 
+            type: string
+            example: "RE_prek_ebk0100b_lets_be_friends"
+          id:
+            type: integer
+            example: 1
+          thumbnail:
+            type: string
+            example: "10603530.jpg"
+          title:
+            type: string
+            example: "Let's Be Friends"
+
+    get_response_body_pair_collection_story:
+        type: object
+        properties:
+          id:
+            type: integer
+            example: 1
+          poster:
+            type: string
+            example: "bk0108sce.jpg"
+          readAlong:
+            type: string
+            example: "bk0108svwe.mov"
+          thumbnail:
+            type: string
+            example: "bk0108sce.jpg"
+          title:
+            type: string
+            example: "Hi, Fly Guy!"
+          video:
+            type: string
+            example: "bk0108sve.mov"
+  
+    json_attributes:
+      type: object
+      properties:
+        id:
+          type: integer
+        pairs:
+          type: array
+          items:
+            type: object
+            properties:
+              book:
+                type: object
+                properties:
+                  config:
+                    type: object
+                    properties:
+                      pathToReader: 
+                        type: string
+                      epub:
+                        type: string
+                      plugins:
+                        type: array
+                        items:
+                          type: string
+                      skin:
+                        type: object
+                        properties:
+                          stylesheet:
+                            type: string
+                          name:
+                            type: string
+                      withCredentials:
+                        type: boolean
+                      autoHideDelay:
+                        type: integer
+                      autoHideFullscreen:
+                        type: boolean
+                      autoHideNormal:
+                        type: boolean
+                      autoHideOverlapsContent:
+                        type: boolean
+                      scroll:
+                        type: string
+                      highlightColor:
+                        type: string
+                  configOveride:
+                    type: object
+                    properties:
+                      readAloud:
+                        type: object
+                        properties:
+                          enabled: 
+                            type: boolean
+                          autoPageTurn:
+                            type: boolean
+                          oneClickAutoplay:
+                            type: boolean
+                          autoRTM:
+                            type: boolean
+                  id:
+                    type: integer
+                  story:
+                    type: object
+                    properties:
+                      id:
+                        type: integer
+                      poster:
+                        type: string
+                      readAlong:
+                        type: string
+                      thumbnail:
+                        type: string
+                      title:
+                        type: string
+                      video:
+                        type: string
+        style:
+          type: string
+        backgroundImage:
+          type: string
+        themeBackground:
+          type: string
+        subheaderColor:
+          type: string
+        title: 
+          type: string
+                      
+                          
+            
+    post_request_body:
+      type: array
+      items:
+        required:
+          - elements
+        properties:
+          elements:
+            $ref: "#/components/schemas/json_attributes"
+
+                  
+          
+
+paths:
+  /student/rels:
+      get:  
+        tags:
+            - Student
+        summary: "Gets all Student pair relationships"
+        description: "Returns an array containing JSON content for all Student pair relationships" 
+        parameters: []
+        responses:
+            200:
+              description: "Returns an array containing JSON content for Student content"
+              content:
+                application/json:
+                  schema: 
+                    $ref: "#/components/schemas/get_response_body_pair_relationships"
+            400:
+              description: "Bad Request Response Code" 
+  /student/rels/{languageName}:
+      get:  
+        tags:
+            - Student
+        summary: "Gets all Student pair relationships"
+        description: "Returns an array containing JSON content for all Student pair relationships" 
+        parameters:
+        - $ref: "#/components/parameters/langName"
+        responses:
+            200:
+              description: "Returns an array containing JSON content for Student content"
+              content:
+                application/json:
+                  schema: 
+                    $ref: "#/components/schemas/get_response_body_pair_relationships"
+            400:
+              description: "Bad Request Response Code" 
+
+  /student/collections:
+    get:  
+      tags:
+          - Student
+      summary: "Gets all Student content"
+      description: "Returns an array containing JSON content for all Student content" 
+      parameters: []
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Student content"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body_pair_collection"
+          400:
+            description: "Bad Request Response Code" 
+    post:
+        tags:
+          - Student
+        summary: "Post Student content"
+        description: "Send an array containing JSON content for Student content"
+        requestBody:
+          required: true
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/post_request_body"
+        responses:
+          201:
+              description: "Returns an array containing JSON content for Student content"
+              content:
+                application/json:
+                  schema: 
+                    $ref: "#/components/schemas/get_response_body_pair_collection"
+
+  /student/collections/{studentID}:
+    get:  
+      tags:
+          - Student
+      summary: "Gets all Student content by ID"
+      description: "Returns an array containing JSON content for all Student content given student ID" 
+      parameters:
+        - $ref: "#/components/parameters/studentID"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Student content given student ID"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body_pair_collection"
+          400:
+            description: "Bad Request Response Code" 
+    delete:
+        tags:
+          - Student
+        summary: "Delete Student content by ID"
+        description: "Send a studentID to delete selected student content given student ID"
+        parameters:
+          - $ref: "#/components/parameters/studentID"
+        responses:
+          201:
+              description: ""
+              content:
+                application/json:
+                  schema: 
+                    $ref: "#/components/schemas/get_response_body_pair_collection"
+    put:
+        tags:
+          - Student
+        summary: "Put Student content by ID"
+        description: "Send an array containing JSON content for Student content given student ID"
+        parameters:
+          - $ref: "#/components/parameters/studentID"
+        responses:
+          201:
+              description: "Returns an array containing JSON content for Student content"
+              content:
+                application/json:
+                  schema: 
+                    $ref: "#/components/schemas/get_response_body_pair_collection"
+  
+  /student/collections/language/{languageName}:
+    get:  
+      tags:
+          - Student
+      summary: "Gets all Student content given language"
+      description: "Returns an array containing JSON content for all Student content given language" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Student content given language"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body_pair_collection"
+          400:
+            description: "Bad Request Response Code" 
+
+
+    

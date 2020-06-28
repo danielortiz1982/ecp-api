@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity-cards lang="es">
+  <ac_card-1 day="3">
+    <ac_card-1_front>
+      <graphic href="EC3-5_AC_Eng_LIT_T4W02D3_C1_1021296670_cropped.png"/>
+    </ac_card-1_front>
+    <ac_card-1_back>
+      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>PERRO  TERAPÉUTICO</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_1" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Miren este perro terapéutico. ¿Qué lleva puesto?   </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_1" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>El perro lleva un s<fill-in-the-blank>       </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(sombrero)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_1" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Por qué lleva este perro un sombrero de graduación?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_1" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué crees que aprendió este perro en la escuela terapéutica? </ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-64414-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Ni_racha/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-1_back>
+  </ac_card-1>
+  <ac_card-2 day="3">
+    <ac_card-2_front>
+      <graphic href="EC3-5_AC_Eng_LIT_T4W02D3_C2_1292497114_cropped.png"/>
+    </ac_card-2_front>
+    <ac_card-2_back>
+      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>PERRO TERAPÉUTICO</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_2" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Miren el perro. ¿Creen que este perro es amistoso?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_2" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Este perro es<fill-in-the-blank>      </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(amistoso)</ac_teacher-talk-emphasis_non-ital>. </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_2" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Por qué un perro terapéutico debe ser amistoso? </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_2" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Quién quiere tener un perro terapéutico amistoso? </ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-64414-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Natalia Fedosova/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-2_back>
+  </ac_card-2>
+  <ac_card-3 day="3">
+    <ac_card-3_front>
+      <graphic href="EC3-5_AC_Eng_LIT_T4W02D3_C3_144116002_cropped.png"/>
+    </ac_card-3_front>
+    <ac_card-3_back>
+      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>PERRO TERAPÉUTICO</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_3" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Miren este perro. ¿Qué está haciendo?   </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_3" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>El perro está s<fill-in-the-blank>      </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(sentado)</ac_teacher-talk-emphasis_non-ital>. </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_3" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Creen que los perros terapéuticos tienen que saber cuándo sentarse? ¿Por qué?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_3" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Por qué creen que un perro terapéutico tiene que saber escuchar y seguir instrucciones?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-64414-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © rebeccaashworth/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-3_back>
+  </ac_card-3>
+  <ac_card-4 day="3">
+    <ac_card-4_front>
+      <graphic href="EC3-5_AC_Eng_LIT_T4W02D3_C5_1222280014_cropped.png"/>
+    </ac_card-4_front>
+    <ac_card-4_back>
+      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>PERRO TERAPÉUTICO</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_4" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Miren el perro. ¿Qué le está diciendo el niño que haga?   </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_4" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>El niño le está diciendo al perro que se qu<fill-in-the-blank>   </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(quede)</ac_teacher-talk-emphasis_non-ital> quieto sin moverse del sitio.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_4" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Creen que los perros terapéuticos tienen que conocer la orden “quieto”?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_4" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Cuáles son otras órdenes que creen que los perros terapéuticos deberían saber?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-64414-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © olga staseeva owl/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-4_back>
+  </ac_card-4>
+  <ac_card-5 day="3">
+    <ac_card-5_front>
+      <graphic href="EC3-5_AC_Eng_LIT_T4W02D3_C6_12409660_cropped.png"/>
+    </ac_card-5_front>
+    <ac_card-5_back>
+      <masthead>
+        <section-block type="masthead_b_5" index="1">
+          <ac_header-game-card>PERRO terapéutico</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_5" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué ven en esta imagen?   </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_5" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Veo un perro y una n<fill-in-the-blank>    </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(niña)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_5" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Se lleva bien el perro con la niña?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_5" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Por qué un perro terapéutico y otros perros tienen que estar entrenados para estar con niños?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_5" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-64414-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © sonya etchison/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-5_back>
+  </ac_card-5>
+  <ac_card-6 day="3">
+    <ac_card-6_front>
+      <graphic href="EC3-5_AC_Eng_LIT_T4W02D3_C7_1014969289_cropped.png"/>
+    </ac_card-6_front>
+    <ac_card-6_back>
+      <masthead>
+        <section-block type="masthead_b_6" index="1">
+          <ac_header-game-card>PERRO TERAPÉUTICO</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_6" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Junto a quién está el perro?   </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_6" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>El perro está junto a una persona en si<fill-in-the-blank>        </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(silla de ruedas)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_6" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Cómo puede ayudar el perro terapéutico a la niña en la silla de ruedas?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_6" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿A dónde crees que van la niña y el perro? </ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_6" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-64414-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Africa Studio/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-6_back>
+  </ac_card-6>
+</activity-cards>

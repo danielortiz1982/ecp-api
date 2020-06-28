@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="es">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>EMPAREJAR LAS CARACTERÍSTICAS DE LOS animalES</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Para esta actividad necesitará un grupo de objetos, como botones o piedras.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy, mientras leíamos <ac_teacher-speaking_emphasis_blue>Propio de los animales,</ac_teacher-speaking_emphasis_blue> hablamos sobre cómo clasificar animales según sus características, por ejemplo, si tienen o no tienen pelo.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Enseñar</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, clasificaremos primero objetos como botones o piedras y luego clasificaremos animales.</ac_teacher-speaking> Comente con los niños diferentes maneras en que pueden clasificar objetos: según tamaño, color o forma.  </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preparar</ac_teacher-card_run-in_hed>  Coloque el grupo de objetos sin ordenar sobre la mesa.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¿Cómo deberíamos clasificar estos objetos?</ac_teacher-speaking> Invite a los niños a clasificar el conjunto según un atributo.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Jugar</ac_teacher-card_run-in_hed>  Muestre una tarjeta de actividad por vez. Haga la pregunta que está al dorso, ofreciendo estímulo o apoyo según sea necesario.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Clasificar</ac_teacher-card_run-in_hed>  Invite a los niños a que se turnen para clasificar las tarjetas de actividad según diferentes atributos, por ejemplo, verde y no verde, o dos patas y más patas. Una vez clasificadas las tarjetas, pida a los niños que cuenten las tarjetas que hay en cada grupo.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Pida a los niños que vuelvan a clasificar usando un atributo diferente. Cada niño tendrá un turno para elegir un atributo. </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre clasificar</ac_teacher-card_run-in_hed>  Pida a los niños que comenten sobre las diferentes maneras en que clasificaron objetos y tarjetas. Ayúdelos a comprender que los objetos se pueden clasificar en diferentes categorías y que las categorías pueden cambiar según los objetos. </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>EMPAREJAR LAS CARACTERÍSTICAS DE LOS animalES</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="1">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Simplifique la actividad usando menos manipulativos o tarjetas. Determine qué atributo usará para clasificar y demuestre la actividad mientras piensa en voz alta. Por ejemplo: <ac_teacher-talk>Busco todos los animales que son verdes. ¿Es verde este animal? ¡Sí! Lo pondré en esta pila.</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida a los niños que combinen los botones y las tarjetas de actividad en un conjunto. Anímelos a clasificar este conjunto nuevo y más diverso.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Comience la actividad repasando las tarjetas de actividad, los nombres de los animales y sus características. También puede animar a los niños a usar los nombres o las características de los animales en su lengua materna mientras clasifican las tarjetas.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad gruesa</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Durante la actividad, pida a cada niño del grupo que sostenga una tarjeta con imagen. En lugar de clasificar simplemente tarjetas, pida a los niños que representen ser el animal de la tarjeta y que se clasifiquen físicamente en dos grupos.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64428-9</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>BUSCAR por Qué</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Antes de comenzar, reúna las tarjetas de actividad.</ac_teacher-card-body>
+            <ac_teacher-card-body>Preparar  Si es posible, busque y marque como favoritos varios sitios de Internet adecuados para los niños. Como alternativa a la búsqueda en línea, reúna varios libros de referencia sobre animales.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Mientras leíamos <ac_teacher-speaking_emphasis_blue>Propio de los animales,</ac_teacher-speaking_emphasis_blue> hablamos sobre cómo el libro nos ayudó a aprender más sobre los animales. Una forma de aprender más es buscar respuestas a las preguntas sobre las que tenemos curiosidad.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el vocabulario</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Repasemos la palabra curioso.</ac_teacher-speaking> Use la tarjeta de vocabulario <ac_teacher-talk>curioso</ac_teacher-talk> para repasar la palabra.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Voy a entregar a cada uno de ustedes una tarjeta que tiene un animal. Pensarán en algo que se preguntan sobre ese animal. Luego buscaremos la respuesta juntos.</ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preparar</ac_teacher-card_run-in_hed>  Entregue una tarjeta de animales a cada niño y verifique que cada niño sepa cuál es el animal de su tarjeta. Dé tiempo para que observen y piense en lo que se preguntan sobre ese animal.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Pregunte</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¿Qué se preguntan sobre su animal? ¿Pueden compartir una pregunta de “por qué” sobre el animal?</ac_teacher-speaking> Comente la pregunta y posibles respuestas. Piense en voz alta mientras busca la respuesta.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe hasta que cada niño haya hecho una pregunta.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre clasificar</ac_teacher-card_run-in_hed>  Recuerde a los niños cómo practicaron clasificar animales según sus características, como color o número de patas. Ahora que saben más sobre cada animal, pídales que piensen formas nuevas de clasificarlos, como según lo que comen o cuando duermen. </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>BUSCAR por Qué</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Para simplificar la actividad, seleccione una tarjeta de animales y ayude a los niños a hacer preguntas, como grupo, sobre ese animal.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida a los niños que piensen en más preguntas ahora que tienen las respuestas a la primera pregunta. ¿Qué otras cosas se preguntan? Por ejemplo, si descubrieron que las cebras usan la cola para espantar a las moscas, se pueden preguntar si los perros también usan su cola para espantar a las moscas.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Para los niños que hablan inglés, señale que <ac_teacher-talk>curious</ac_teacher-talk> y <ac_teacher-talk>curioso</ac_teacher-talk> son cognados. La investigación demuestra que los niños en edad preescolar se benefician de la instrucción explícita de palabras que son cognados. El conocimiento de los cognados ayuda a los niños a adquirir una segunda lengua.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Apoyo al discurso</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Los niños pueden tener dificultades para encontrar las palabras adecuadas para responder preguntas. Anímelos a hacer gestos. Dé a los niños tiempo para pensar sus palabras. Puede repetir o reformular las preguntas para que sea más fácil responderlas, y dar partes de oraciones para que los niños las completen.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64428-9</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>¡DAME PATITOS!</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Para esta actividad, necesitará cubos conectores que representen patos.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Mientras leíamos <ac_teacher-speaking_emphasis_blue>Propio de los animales,</ac_teacher-speaking_emphasis_blue> hablamos sobre las características de los animales. Algunos animales tienen las mismas características y otros tienen características diferentes.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el vocabulario</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Repasemos las palabras <ac_teacher-speaking_emphasis_blue>igual</ac_teacher-speaking_emphasis_blue> y <ac_teacher-speaking_emphasis_blue>diferente</ac_teacher-speaking_emphasis_blue>.</ac_teacher-speaking> Use las tarjetas de vocabulario <ac_teacher-talk>igual</ac_teacher-talk> y <ac_teacher-talk>diferente</ac_teacher-talk> para repasar las palabras.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Enseñar</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, vamos a usar patos para practicar cómo contar y hablar de grupos que son iguales y diferentes.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preparar</ac_teacher-card_run-in_hed>  Alinee 10 cubos conectores “patos” y pida a un niño que cuente cierta cantidad de patos y los coloque aparte.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Cuando haya dos grupos, pida a otro niño que cuente ambos grupos y que diga si el número de patos en cada grupo es igual o diferente. Luego, pida al primer niño que regrese los patos a su lugar y que cuente todo el grupo otra vez. <ac_teacher-speaking>¿Sigue habiendo 10 patos?</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Haga la actividad de nuevo para que todos los niños tengan la oportunidad de contar y comparar los dos grupos de patos. </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre el número 10</ac_teacher-card_run-in_hed>  Comente que todos los grupos tienen 10 patos en total, sin importar cómo se cuenten los 10 cubos. Recuerde a los niños que pueden separar el número 10 de diferentes maneras y que el orden en que contamos no afecta al número de patos que hay en total. </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>¡DAME PATITOS!</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Para simplificar esta actividad, use seis patos. Pida a los niños que cuenten los patos con usted. Divida los patos en dos grupos y pida a los niños que cuenten el total en cada grupo. Luego pregunte si los dos grupos son iguales o diferentes.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Invite a los niños a completar las oraciones matemáticas para demostrar que los dos grupos de patos suman 10. Por ejemplo:<fill-in-the-blank>   </fill-in-the-blank> + <fill-in-the-blank>   </fill-in-the-blank> = 10</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Repase los nombres de los números del 1 al 10 para apoyar a los alumnos multilingües. Para los niños que hablan inglés, mencione que <ac_teacher-talk>different</ac_teacher-talk> y <ac_teacher-talk>diferente</ac_teacher-talk> son cognados.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Para hacer participar más a los niños y ayudarlos a fortalecer su motricidad fina, invítelos a dibujar patos para usar esos dibujos durante la actividad en lugar de los cubos conectores.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64428-9</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>REPRESENTAR: SALTO DE RANA</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Para cada pareja de niños, necesitará un número par de cubos conectores para representar las “ranas” y un papel azul que represente el estanque.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy, mientras leíamos <ac_teacher-speaking_emphasis_blue>Propio de los animales,</ac_teacher-speaking_emphasis_blue> separamos las patas de los animales en dos grupos con la misma cantidad de patas en cada uno.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar el juego</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, vamos a separar ranas en dos grupos iguales. Algunas se quedarán nadando dentro del estanque y otras saldrán para afuera.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preparar</ac_teacher-card_run-in_hed>  Proporcione papeles azules y cubos conectores a cada pareja de niños y explique lo que representa cada uno.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Uno de ustedes colocará todas las ranas en el estanque.</ac_teacher-speaking>  <ac_teacher-speaking>Luego decidirá cuántas saldrán y cuantas premanecerán en el estanque para que los grupos sean iguales. El otro compañero contará ambos grupos de ranas y dirá si los dos grupos tienen la misma cantidad de ranas.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Recoja todas las ranas. Distribuya un número diferente, también par, de cubos conectores a cada pareja. Pida a las parejas que intercambien roles. </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre grupos iguales</ac_teacher-card_run-in_hed>  Hable con los niños sobre lo que sucede cuando separan objetos en grupos iguales. Ayude a los niños a darse cuenta de que el número en cada grupo es el mismo, o igual. Asocie el concepto con compartir y cómo se puede dividir algo, como un bocadillo o un juguete, entre un niño y un amigo para que ambos tengan la misma cantidad. </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>REPRESENTAR: SALTO DE RANA</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Proporcione apoyo adicional animando a los niños a usar los dedos para contar. Guíelos para que cuenten las ranas usando las dos manos: con una mostrarán las ranas que están dentro del estanque y con la otra representarán las ranas que saltaron afuera.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Invite a los niños a escribir numerales para representar los dos grupos de ranas y el número total de ranas. Escriba una oración matemática que se vea así: <fill-in-the-blank>    </fill-in-the-blank> + <fill-in-the-blank>    </fill-in-the-blank> = <fill-in-the-blank>    </fill-in-the-blank>.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Comience la actividad con el repaso de los nombres de los números del <ac_teacher-talk-emphasis>uno</ac_teacher-talk-emphasis> al <ac_teacher-talk-emphasis>diez</ac_teacher-talk-emphasis>. Puede pedir a los niños que usen los nombres de los números en su lengua materna cuando cuentan.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Como apoyo a las necesidades de motricidad fina de los niños en cada grupo, considere usar manipulables más grandes o más pequeños. También puede invitar a los niños a dibujar sus propias ranas y recortarlas para usarlas como piezas en la actividad.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64428-9</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="es">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>EL JUEGO DE LOS TAMAÑOS</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cuando leímos <ac_teacher-speaking_emphasis_blue>Clifford el gran perro colorado, </ac_teacher-speaking_emphasis_blue>hablamos sobre el tamaño de Clifford. Algunas cosas son pequeñas y otras, como Clifford, ¡son muy grandes!</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, compararemos el tamaño de distintas cosas y personas en el salón de clases.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Demostrar</ac_teacher-card_run-in_hed>  Diga su propio nombre y dé la instrucción: <ac_teacher-speaking>Camina hacia algo más alto que tú.</ac_teacher-speaking> Luego, haga la acción. </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Pedir</ac_teacher-card_run-in_hed>  Diga un nombre y dé una de las siguientes instrucciones:</ac_teacher-card-body>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-speaking>Acércate a algo que sea más alto que tú.</ac_teacher-speaking></ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-speaking>Párate junto a algo que sea más bajo que tú.</ac_teacher-speaking></ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-speaking>Halla algo que sea más pequeño que tu mano y levántalo.</ac_teacher-speaking></ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-speaking>Simula levantar algo que sea más grande que tú.</ac_teacher-speaking></ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-body>Espere a que un niño termine antes de llamar al próximo niño.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Pida a los niños que formen una fila por orden de altura, del más bajo al más alto. Luego, pregunte:</ac_teacher-card-body>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-speaking>¿Quién es más alto que [nombre del niño]?</ac_teacher-speaking></ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-speaking>¿Quién es más bajo que [nombre del niño]?</ac_teacher-speaking></ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-speaking>¿Quién es el más alto?</ac_teacher-speaking></ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-speaking>¿Quién es el más bajo?</ac_teacher-speaking>   </ac_teacher-card-teacher_talk_bulleted>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre el tamaño</ac_teacher-card_run-in_hed>  Invite a los niños a comentar sobre otras maneras para medir los objetos o las personas en el salón.</ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>EL JUEGO DE LOS TAMAÑOS</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="1">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Para simplificar la actividad, coloque a los niños en fila ordenados por altura (en lugar de pedirles que lo hagan por sí solos) y comente las diferencias de altura antes de hacer preguntas.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida a los niños que piensen sus propias preguntas sobre el tamaño de los objetos para hacerse preguntas unos a otros.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Antes de comenzar, acompañe las palabras de tamaño <ac_teacher-talk>grande</ac_teacher-talk>, <ac_teacher-talk>pequeño</ac_teacher-talk>, <ac_teacher-talk>alto</ac_teacher-talk> y <ac_teacher-talk>bajo</ac_teacher-talk> con gestos que indiquen su significado. Pida a los niños que repitan las palabras e imiten sus gestos. También puede animar a los niños a usar estas palabras en su lengua materna mientras imitan sus gestos.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>En lugar de que los niños se muevan y se comparen con objetos, pídales que tomen objetos de un conjunto de objetos colocados sobre la mesa. Indique a los niños que seleccionen objetos más pequeños o más grandes que otro objeto que usted nombre. También puede invitar a los niños a hacer dibujos de objetos que son más pequeños o más grandes que los que se nombran.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64416-6</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>MÁS ALTO YMÁS PEQUEÑO</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Para esta actividad, necesitará 15 cubos conectores para cada pareja de niños.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy, al volver a leer <ac_teacher-speaking_emphasis_blue>Clifford el gran perro colorado,</ac_teacher-speaking_emphasis_blue> aprendimos que Clifford es más grande que una casa, una bañera y un carro. Emilia Isabel puede verlo detrás de la casa, porque la casa es más pequeña que Clifford.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, cada uno compartirá 15 cubos conectores con un amigo. Primero, uno de ustedes hará una torre más alta. El otro, hará una torre más pequeña. Luego cambiarán.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Demostrar la comparación</ac_teacher-card_run-in_hed>  Muestre cómo construir una torre “más alta” con más de la mitad de los 15 cubos conectores y una torre más pequeña con menos cubos.  </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Pedir</ac_teacher-card_run-in_hed>  Pida a un niño de cada pareja que construya una torre más alta y al otro que construya una más pequeña. Si el número de niños en el grupo es impar, trabaje con un niño. Cuando todos hayan terminado las torres, ayude a las parejas a comparar las alturas colocándolas una al lado de la otra.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Pida a los niños que cambien de roles, de modo que el que construyó la torre más alta construya una torre más pequeña y viceversa. Ayude a los niños a comparar las alturas nuevamente.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Pida a los niños que pongan los bloques uno al lado del otro en pares para construir dos edificios anchos en lugar de altos. Ayúdelos a comparar para ver cuál es más grande que el otro.   </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre alturas</ac_teacher-card_run-in_hed>  Recuerde a los niños la definición de <ac_teacher-talk>altura</ac_teacher-talk>. Pida a los niños que comenten las alturas de las diferentes torres que hicieron y que las comparen con las alturas de otros objetos del salón. </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>MÁS ALTO YMÁS PEQUEÑO</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Algunos niños pueden frustrarse durante la actividad. Anímelos a usar la habilidad de Mind Builder para reformular el relato para persistir y continuar. Recuérdeles que ambos compañeros se turnarán para construir un edificio más alto.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida a los niños que cuenten los cubos en cada torre para medir la altura de cada una. Anime a los niños a comparar las medidas. Por ejemplo: Esta torre tiene 12 cubos de altura. Esta torre tiene 3 cubos de altura. La primera torre es más alta.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Explique que la palabra <ac_teacher-talk>torre</ac_teacher-talk> describe un edificio alto y delgado. Dé ejemplos de torres que los niños hayan visto en lugares cercanos o muestre imágenes de torres.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad gruesa</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Para que los niños fortalezcan sus habilidades de motricidad gruesa, pídales que sostengan los brazos al lado de los brazos de otros niños y que comparen las alturas. Luego, pídales que encuentren nuevos compañeros. Los niños pueden sostener las manos juntas y separadas para mostrar anchos más pequeños y más grandes.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64416-6</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>PESADO O LIVIANO</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Para esta actividad, necesitará varios objetos de diferentes alturas. Puede incluir barras de pegamento, lápices, piedras, pelotas pequeñas, pisapapeles, libros, etc. Coloque los objetos en fila sobre la mesa.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy, mientras leíamos <ac_teacher-speaking_emphasis_blue>Clifford el gran perro colorado,</ac_teacher-speaking_emphasis_blue> hablamos de pesado y liviano. Ahora vamos a comparar diferentes objetos y a decidir si son pesados o livianos. Repasemos las palabras <ac_teacher-speaking_emphasis_blue>pesado</ac_teacher-speaking_emphasis_blue> y <ac_teacher-speaking_emphasis_blue>liviano</ac_teacher-speaking_emphasis_blue>.</ac_teacher-speaking> Use las tarjetas de vocabulario <ac_teacher-talk>pesado</ac_teacher-talk> y <ac_teacher-talk>liviano</ac_teacher-talk> para repasar las palabras.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, vamos a levantar algunos objetos y ver cuáles son pesados y cuáles son livianos.</ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Pedir</ac_teacher-card_run-in_hed>  Diga a un niño que elija un objeto del conjunto. Luego, pídale que levante un segundo objeto que sea más pesado que el primero. El niño debe “pesar” los objetos con la mano y decidir cuál es más pesado. El niño debe colocar el objeto más pesado en la mesa.</ac_teacher-card-body>
+            <ac_teacher-card-body>Luego, pídale que levante un objeto que crea que es más liviano que el primero. El niño debe repetir la actividad de “pesar”.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Pida a cada niño que repita la actividad con diferentes objetos.   </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre liviano y pesado</ac_teacher-card_run-in_hed>  Invite a los niños a hablar sobre los diferentes objetos que pesaron. <ac_teacher-speaking>¿Qué objetos eran pesados? ¿Qué objetos eran livianos? ¿Pueden saber lo ligero o pesado que es un objeto con solo mirarlo? ¿Por qué?</ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>PESADO O LIVIANO</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Para simplificar esta actividad, preseleccione los dos objetos que el niño sostendrá y pídale simplemente que determine cuál es más pesado y cuál es más liviano. Haga preguntas guía para asegurarse de que los niños entiendan la diferencia entre pesado y liviano.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Una vez terminada la actividad, invite a los niños a ordenar los objetos del más liviano al más pesado. Anime a los niños a describir los tamaños y pesos relativos de los objetos mientras lo hacen.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Es posible que algunos niños ya se sientan cómodos con los conceptos de más y menos en español. O sugiera que usen las palabras para <ac_teacher-talk>más</ac_teacher-talk> y <ac_teacher-talk>menos</ac_teacher-talk> en inglés o en su lengua materna, si es otra. Conecte el concepto <ac_teacher-talk>más</ac_teacher-talk> con <ac_teacher-talk>pesado</ac_teacher-talk> y <ac_teacher-talk>menos</ac_teacher-talk> con <ac_teacher-talk>liviano</ac_teacher-talk>, y permita que los alumnos multilingües usen ambos.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Apoyo a la conversación</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Las actividades en grupos pequeños refuerzan las habilidades lingüísticas de los niños. También ayudan a que los niños más callados se sientan más seguros para participar en conversaciones porque hay menos niños. Guíe a los niños con preguntas abiertas como: “¿Qué pueden decirme sobre este objeto?”.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64416-6</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>COMPARA Y ORDENA</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Para esta actividad, necesitará botones de atributos u otros materiales, como piedras, para que los niños los clasifiquen.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Leímos <ac_teacher-speaking_emphasis_blue>Lo que necesitan las mascotas</ac_teacher-speaking_emphasis_blue> y vimos a los niños con sus mascotas. Ahora, volvamos a mirar las imágenes y pensemos en el tamaño de cada animal.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En este juego, compararemos el tamaño de distintas mascotas. Determinarán cuál es más pequeña y cuál es más grande.</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preparar</ac_teacher-card_run-in_hed>  Coloque las tarjetas de actividad en la mesa.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Pedir</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Estas imágenes muestran a niños y sus mascotas. Vamos a ordenar las mascotas de la más pequeña a la más grande. Comiencen con la mascota más pequeña. ¿Cuál es la siguiente? Continúen en orden. La última debe ser la más grande.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Pida a los niños que ordenen las imágenes de los animales en dos categorías. Anime a los niños a que piensen en otras categorías para las mismas tarjetas.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Ponga una pila de botones de atributos en el centro de la mesa. Pida a los niños que los ordenen según cualquier atributo que elijan. Haga preguntas mientras los ordenan.   </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre comparar</ac_teacher-card_run-in_hed>  Pida a los niños que expliquen las maneras en que organizaron las tarjetas de animales y por qué lo hicieron así. Luego, conversen sobre cómo ordenaron los botones de atributos. Pregunte: <ac_teacher-speaking>¿Qué fue igual al organizar los animales y los botones? ¿Qué fue diferente?</ac_teacher-speaking> Guíe a los niños para que expliquen su razonamiento. </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>COMPARA Y ORDENA</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Limite las tarjetas de actividad a tres animales: hámster, conejo y perro. Ayude a los niños a medir qué tan grande es cada animal separando las manos para mostrar el tamaño aproximado. Pida a los niños que ordenen los animales en pequeño, mediano y grande.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida a los niños que combinen las tarjetas de actividad y los botones, y que formen un nuevo conjunto. Anímelos a ordenar este nuevo conjunto en categorías que no incluyan animales ni botones.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Repase los nombres de los animales en inglés o en la lengua materna de los niños. Pida y anime a los niños a que llamen a los animales por nombres más específicos, como loro en lugar de ave; nombres alternativos, como conejito para conejo; o animales similares, como cobayo para hámster.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad gruesa</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Pida a los niños que representen tener en brazos a cada animal de las tarjetas. También pueden representar distintas actividades como alimentar y bañar a la mascota. Esta actividad sirve para desarrollar la motricidad gruesa de los niños y además ayuda a los niños a determinar tamaños relativos.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64416-6</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

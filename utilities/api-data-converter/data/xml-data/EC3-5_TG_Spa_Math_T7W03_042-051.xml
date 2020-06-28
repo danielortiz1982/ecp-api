@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./preview-styles.css" type="text/css"?>
+<teaching-guide xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" lang="es">
+  <day_1>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 3:</tg_week_hed>
+        <tg_topic_hed>El cuidado de las plantas</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338619317_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>Lola planta un jardín</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T7_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T7_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Cubos conectores</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> operaciones; contar</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> estructura de la oración</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Desarrolle los conocimientos de matemáticas, motive a los niños con una canción infantil e introduzca el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>semillas</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>jardín</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, presente el libro y pregunte: <tg_bullet-directions_guiding-question>¿Cuál es una cosa que pone Lola en su jardín?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Lea de forma interactiva por placer y centrándose en las operaciones.</tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión y diferencie.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operaciones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa estrategias informales para separar hasta 10 objetos en dos conjuntos iguales.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende que el orden en que los objetos están organizados o contados no afecta el conteo total.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Intenta ayudar a que otros hagan las cosas mejor o de manera más fácil.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Estructura de la oración:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la concordancia entre sujeto y verbo; Usa plurales regulares e irregulares; Usa pronombres; Usa posesivos.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Hace predicciones.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Pensamiento científico:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observa, investiga, describe y habla acerca de objetos comunes.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Plantamos dos grupos</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T7_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Cubos conectores</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> operaciones; contar</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> pensamiento científico</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Pida a los niños que planten números iguales de cubos conectores en dos áreas de un “jardín”.</tg_bullet-directions>
+        <tg_bullet-directions>Ayude a los niños a contar las “semillas” en distinto orden para demostrar que el conteo sigue siendo el mismo.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con próposito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo podemos ayudar a que las plantas crezcan?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Sobre qué planta te gustaría leer?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Simula que eres un jardinero. ¿Qué tarea hacen los jardineros?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cuántas flores te gustaría tener en tu jardín? ¿Puedes contarlas?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escribe la palabra <tg_teacher-talk_emphasis_non-ital>jardín</tg_teacher-talk_emphasis_non-ital> y decórala con flores.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Haz un dibujo de una flor. ¿Cuántos pétalos tiene?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué sonido oyes al comienzo de la palabra <tg_teacher-talk_emphasis_non-ital>jardín</tg_teacher-talk_emphasis_non-ital>? ¿Puedes dibujar la letra que lo hace?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¡Construye un jardín donde tus plantas puedan crecer grandes y fuertes!</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Lola planta un jardín by Anna McQuinn, illustrated by Rosalind Beardshaw. Text copyright © 2014 by Anna McQuinn. Illustrations copyright © 2014 by Rosalind Beardshaw. Translation copyright © 2017 by Charlesbridge Publishing, Inc. Published by Scholastic Inc. by arrangement with Charlesbridge Publishing, Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_1>
+  <day_2>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 3:</tg_week_hed>
+        <tg_topic_hed>El cuidado de las plantas</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338619317_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>Lola planta un jardín</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T7_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T7_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> patrones; contar</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> comprensión de la lectura en voz alta</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Tecnología:</tg_learning-goals_inline-hed> usos</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Comparta el Mind Builder <tg_bullet-directions_emphasis_Ital>intentar ayudar a los demás</tg_bullet-directions_emphasis_Ital> e introduzca el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>plan</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, asocie el Mind Builder con <tg_bullet-directions_book-title>Lola planta un jardín</tg_bullet-directions_book-title>.</tg_bullet-directions>
+        <tg_bullet-directions>Lea atentamente para hablar sobre cómo se ayudan los personajes entre sí e identificar patrones. </tg_bullet-directions>
+        <tg_bullet-directions>Dé la oportunidad de prolongar el juego. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Patrones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce, completa, amplía, duplica y crea patrones.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuenta en voz alta objetos del 1 al 10 de uno en uno; Usa el último número contado para mostrar “cuántos” objetos hay en un conjunto; Cuenta el mismo número de objetos diferentes, para ver que la cantidad es la misma aun cuando los objetos son diferentes.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Medición:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa dinero simulado en juegos, gana dinero por su trabajo, y usa dinero para comprar bienes y servicios.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Intenta ayudar a que otros hagan las cosas mejor o de manera más fácil.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body><tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Hace inferencias.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Pensamiento científico:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observa, investiga, describe y habla acerca de objetos comunes.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Tecnología</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Usos:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa las herramientas y recursos digitales de forma segura.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Un plan para un jardín</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T7_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+        <graphic href="EC_stock_PatternBlocks_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Bloques patrón</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> patrones; contar</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> pensamiento científico</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Pida a los niños que hagan un plan para un jardín usando los bloques patrón.</tg_bullet-directions>
+        <tg_bullet-directions>Ayude a los niños a contar cinco bloques de cada color y a crear un patrón ABAB.</tg_bullet-directions>
+        <tg_bullet-directions>Hable de maneras de mostrar que se preocupan por los demás.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con próposito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo podemos ayudar a que las plantas crezcan?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Hay una planta en este libro?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Simula que le das una flor a alguien a quien quieres.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Usa dinero de juguete para simular que compras un regalo para el cumpleaños de alguien.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escribe sobre algo lindo que hayas hecho por alguien.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Dibuja dos flores distintas. ¿Cómo las plantarías?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Con qué dos letras empieza la palabra <tg_teacher-talk_emphasis_non-ital>flor</tg_teacher-talk_emphasis_non-ital>? ¿Puedes mostrarme cómo se escriben?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Construye una cerca para tu jardín.</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Lola planta un jardín by Anna McQuinn, illustrated by Rosalind Beardshaw. Text copyright © 2014 by Anna McQuinn. Illustrations copyright © 2014 by Rosalind Beardshaw. Translation copyright © 2017 by Charlesbridge Publishing, Inc. Published by Scholastic Inc. by arrangement with Charlesbridge Publishing, Inc. Clifford the Big Red DogTM illustration copyright © The Norman Bridwell Trust. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_2>
+  <day_3>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 3:</tg_week_hed>
+        <tg_topic_hed>El cuidado de las plantas</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338619317_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>Lola planta un jardín</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T7_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T7_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Cubos conectores</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> medición; operaciones</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> pensamiento científico</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Comparta una estrategia de medición, motive a los niños con una búsqueda de tamaños e introduzca el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>alto</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>bajo</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, pregunte: <tg_bullet-directions_guiding-question>¿Cuál es una cosa que hace Lola para cuidar su jardín?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Lea de forma interactiva para una lograr una mayor comprensión y repasar la medición.</tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión y diferencie según sea necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Medición:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Mide, describe y compara la altura y longitud de los objetos usando unidades similares y palabras como “pequeño”, “grande”, “bajo”, “alto” y “largo”.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operaciones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa los dedos, objetos o dibujos para demostrar verbalmente una suma o resta de un conjunto de hasta 5 objetos.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Intenta ayudar a que otros hagan las cosas mejor o de manera más fácil.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Hace inferencias.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Pensamiento científico:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observa, investiga, describe y habla acerca de objetos comunes.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>¿Cuántas semillas hay?</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T7_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Cubos conectores</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> operaciones; medición</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> pensamiento científico</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Pida a los niños que “planten” una cantidad determinada de cubos conectores.</tg_bullet-directions>
+        <tg_bullet-directions>Ayude a los niños a que sumen y resten para hallar cuántas “semillas” quedan para plantar.</tg_bullet-directions>
+        <tg_bullet-directions>Hable sobre medición. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con próposito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo podemos ayudar a que las plantas crezcan?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Te gusta leer libros sobre plantas? ¿Por qué lo dices?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Simula ser un jardinero. ¿Qué plantas? ¿Por qué?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo puedes usar los cubos conectores para medir la altura de este objeto?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escribe un cuento sobre una flor muy alta.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Por qué elegiste esos colores para dibujar tu flor?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué sonido oyes al final de la palabra <tg_teacher-talk_emphasis_non-ital>alto</tg_teacher-talk_emphasis_non-ital>? ¿Puedes escribir la letra que hace ese sonido?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes construir un jardín con flores altas y flores bajas usando esos materiales?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Lola planta un jardín by Anna McQuinn, illustrated by Rosalind Beardshaw. Text copyright © 2014 by Anna McQuinn. Illustrations copyright © 2014 by Rosalind Beardshaw. Translation copyright © 2017 by Charlesbridge Publishing, Inc. Published by Scholastic Inc. by arrangement with Charlesbridge Publishing, Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_3>
+  <day_4>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 3:</tg_week_hed>
+        <tg_topic_hed>El cuidado de las plantas</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="EC3-5_Flipchart_T7W3_JackandBeanstalk_Spa_REDUX_cropped.png" index="1"/>
+        <tg_materials-caption index="1">
+          <tg_materials-caption_book-title-Ital>Papelógrafo de grandes ideas: Juan y los frijoles mágicos</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T7_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T7_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+        <graphic href="EC_stock_PlantingMaterials_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Materiales para plantar</tg_materials-caption>
+        <graphic href="9781338619317_COV_SP_cropped.png" index="5"/>
+        <tg_materials-caption index="5">Libro: <tg_materials-caption_book-title-Ital>Lola planta un jardín</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> medición; patrones; contar</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> comprensión de la lectura en voz alta</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Motive a los niños con un juego e introduzca el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>tallo</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>subió</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, asocie los textos <tg_bullet-directions_book-title>Juan y los frijoles mágicos</tg_bullet-directions_book-title> y <tg_bullet-directions_book-title>Lola planta un jardín.</tg_bullet-directions_book-title></tg_bullet-directions>
+        <tg_bullet-directions>Lea de manera interactiva y asocie con la medición comparando las alturas de los elementos y los personajes en el papelógrafo.</tg_bullet-directions>
+        <tg_bullet-directions>Dé la oportunidad de prolongar el juego.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Medición:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Mide, describe y compara la altura y longitud de los objetos usando unidades similares y palabras como “pequeño”, “grande”, “bajo”, “alto” y “largo”; Usa dinero simulado en juegos, gana dinero por su trabajo, y usa dinero para comprar bienes y servicios.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Patrones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce, completa, amplía, duplica y crea patrones comunes.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa el último número contado para mostrar “cuántos” objetos hay en un conjunto.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Intenta ayudar a que otros hagan las cosas mejor o de manera más fácil.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Hace predicciones; Hace inferencias.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Pensamiento científico:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observa, investiga, describe y habla acerca de objetos comunes.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Construimos un tallo</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T7_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Cubos conectores</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> medición; patrones; contar</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> pensamiento científico</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Pida a los niños que construyan “tallos” usando los cubos conectores para crear patrones repetidos.</tg_bullet-directions>
+        <tg_bullet-directions>Ayude a los niños a medir y comparar sus tallos, usando los cubos conectores como unidades de medición.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con próposito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo podemos ayudar a que las plantas crezcan?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué piensas acerca de las plantas de ese libro?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Simula ser un gigante. ¿Eres más alto que un árbol?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Usa el dinero de juguetes para simular que compras frijoles para plantar.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Preferirías plantar un jardín como Lola o un frijol como Juan? Escribe por qué.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes dibujar una mata de frijoles que sea más alta que una casa?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes buscar en el salón de clases algo que comience con el mismo sonido de <tg_teacher-talk_emphasis_non-ital>frijol</tg_teacher-talk_emphasis_non-ital>?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Construye algunas casas. ¿Puedes ordenarlas de la más alta a la más baja?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Lola planta un jardín by Anna McQuinn, illustrated by Rosalind Beardshaw. Text copyright © 2014 by Anna McQuinn. Illustrations copyright © 2014 by Rosalind Beardshaw. Translation copyright © 2017 by Charlesbridge Publishing, Inc. Published by Scholastic Inc. by arrangement with Charlesbridge Publishing, Inc. Photo © Noam Armonn/Shutterstock.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_4>
+  <day_5>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 3:</tg_week_hed>
+        <tg_topic_hed>El cuidado de las plantas</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338619317_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>Lola planta un jardín</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T7_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T7_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> medición; contar</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> estructura de la oración</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Asocie con el lenguaje y represente una escena del jardín.</tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, pregunte: <tg_bullet-directions_guiding-question>¿Qué pasos puedes seguir para plantar y cuidar un jardín?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Vuelva a leer y a narrar de manera interactiva para lograr el compromiso físico y contar los elementos en el libro.</tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión y diferencie según sea necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Medición:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Mide, describe y compara la altura y longitud de los objetos usando unidades similares y palabras como “pequeño”, “grande”, “bajo”, “alto” y “largo”.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa el último número contado para mostrar “cuántos” objetos hay en un conjunto; Comprende que el orden en que los objetos están organizados o contados no afecta el conteo total.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Intenta ayudar a que otros hagan las cosas mejor o de manera más fácil.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Estructura de la oración:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa tiempo pretérito regular e irregular.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Escribe con propósitos diferentes.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Pensamiento científico:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observa, investiga, describe y habla acerca de objetos comunes.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Escritura independiente, dibujar o narrar cuentos</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC3-5_ResponsePrompt_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Hoja de respuesta</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> medición</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> escritura</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> pensamiento científico</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Ayude a los niños mientras responden de manera independiente al tema de esta semana: <tg_bullet-directions_guiding-question>¿Cómo decorarías tu propio jardín?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Guarde los escritos de los niños para exponerlos la próxima semana.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con próposito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo podemos ayudar a que las plantas crezcan?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué clase de libro te gustaría leer a continuación?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Simula ser un científico que estudia las plantas. ¿Qué planta estás estudiando?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Imagina una flor que nadie haya visto jamás. ¿Qué altura tiene? ¿Cuántos pétalos tiene?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escribe un cuento de un jardinero que descubre una nueva flor.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Imagina un nuevo tipo de flor. ¿Qué usarás para crearla?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Elige un nombre para tu nueva flor. ¿Con qué letra comienza?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Construye un jardín para una flor que nadie haya visto antes.</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Lola planta un jardín by Anna McQuinn, illustrated by Rosalind Beardshaw. Text copyright © 2014 by Anna McQuinn. Illustrations copyright © 2014 by Rosalind Beardshaw. Translation copyright © 2017 by Charlesbridge Publishing, Inc. Published by Scholastic Inc. by arrangement with Charlesbridge Publishing, Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_5>
+  <day_1_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operaciones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa estrategias informales para separar hasta 10 objetos en grupos iguales.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.B.3)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra que entiende que cuando cuenta, los objetos se pueden elegir en cualquier orden.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.6)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra empatía y preocupación por los demás.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.C.6, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Estructura de la oración:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa plurales, pasados regulares, pronombres personales y posesivos y concordancia sujeto-verbo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.E.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Alfabetización</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Hará inferencias y predicciones acerca del texto.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.4)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Pensamiento científico:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observa, investiga, describe y discute propiedades y características de objetos comunes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.A.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_1_texas>
+  <day_2_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Patrones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce y crea patrones.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.E.3)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuenta 1-10 objetos, contando cada objeto una sola vez </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.A.3);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Cuenta hasta 10 objetos y demuestra que lo último que contó indica la cantidad de objetos que se contaron.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.5)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra empatía y preocupación por los demás.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.C.6, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Alfabetización</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Hará inferencias y predicciones acerca del texto.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.4)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Pensamiento científico:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observa, investiga, describe y discute propiedades y características de objetos comunes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.A.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Tecnología</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Usos:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Practica el comportamiento seguro mientras usa herramientas digitales y recursos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.X.A.5)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_2_texas>
+  <day_3_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operaciones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa objetos concretos, crea modelos en imágenes y comparte un problema con un planteamiento oral para agregar hasta 5 objetos </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.B.1);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Usa modelos concretos o hace un problema con un planteamiento oral para restar 0-5 objetos de un conjunto.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.B.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Medición:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce y compara alturas o longitudes de personas u objetos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.D.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra empatía y preocupación por los demás.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.C.6, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Alfabetización</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Hará inferencias y predicciones acerca del texto.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.4)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Pensamiento científico:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observa, investiga, describe y discute propiedades y características de objetos comunes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.A.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_3_texas>
+  <day_4_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Medición:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce y compara alturas o longitudes de personas u objetos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.D.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Patrones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce y crea patrones.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.E.3)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuenta hasta 10 objetos y demuestra que lo último que contó indica la cantidad de objetos que se contaron.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.5)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra empatía y preocupación por los demás.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.C.6, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Alfabetización</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Hará inferencias y predicciones acerca del texto.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.4)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Pensamiento científico:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observa, investiga, describe y discute propiedades y características de objetos comunes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.A.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_4_texas>
+  <day_5_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Medición:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce y compara alturas o longitudes de personas u objetos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.D.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuenta hasta 10 objetos y demuestra que lo último que contó indica la cantidad de objetos que se contaron </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.A.5);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Demuestra que entiende que cuando cuenta, los objetos se pueden elegir en cualquier orden.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.6)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra empatía y preocupación por los demás.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.C.6, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Estructura de la oración:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa plurales, pasados regulares, pronombres personales y posesivos y concordancia sujeto-verbo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.E.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Alfabetización</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Escribe en forma independiente para comunicar sus ideas con varios fines.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IV.A.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Pensamiento científico:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observa, investiga, describe y discute propiedades y características de objetos comunes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.A.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_5_texas>
+</teaching-guide>

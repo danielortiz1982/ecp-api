@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="en">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>Pictures and Letters</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Gather Materials  </ac_teacher-card_run-in_hed>Alphabet Cards</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Today we read the story <ac_teacher-speaking_emphasis_blue>Be Who You Are.</ac_teacher-speaking_emphasis_blue> We also had fun with “The Alphabet Song.” Let’s explore letters a little more!</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity  </ac_teacher-card_run-in_hed>Let’s look at this set of Alphabet Cards and see what’s on them. I will show you a card and you will tell me what you see. Then I will turn over the card and together we will name the letter we see. </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Display  </ac_teacher-card_run-in_hed>Present the card that shows an apple.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>What do you see on this Alphabet Card? Now I will turn over the card. Together, let’s name the letter we see. This letter is an uppercase A.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat</ac_teacher-card_run-in_hed>  Repeat with the letters <ac_teacher-talk>Bb, Cc, DD, </ac_teacher-talk>and<ac_teacher-talk> Ee. </ac_teacher-talk>
+            </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About the Alphabet Cards  </ac_teacher-card_run-in_hed>Present all the cards with the picture side up and ask:</ac_teacher-card-body>
+            <ac_teacher-card-teacher_talk_bulleted>What do you like about these Alphabet Cards? </ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>Which picture is your favorite?</ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-body>Then turn over the cards so the alphabet letters show and ask: </ac_teacher-card-body>
+            <ac_teacher-card-teacher_talk_bulleted>Which letter is your favorite? </ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-body>Repeat this activity at other times to introduce the remaining letters of the alphabet.</ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>Pictures and Letters</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="2">
+          <ac_diff_support-challenge_heds>Support<ac_teacher-speaking/>
+          </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>For children who need additional support, before you do the activity you might name the picture and have the children repeat it and then name the letter and have them repeat it. Then do the activity as written.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="3">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>For an additional challenge, these children might be ready for more letters of the alphabet. Continue on from <ac_teacher-talk>Ee</ac_teacher-talk> or use the letters that begin the children’s names. You might point out that the word that names the picture begins with the letter that is on the back of the card and say, for example, “A is for apple.”</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="2">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Note that not all alphabets have the same letters as the English alphabet. If children name letters in their home language, acknowledge their answer and then state the letter name in English. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Sensory Support</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Some children may benefit from sensory support. Have them trace each letter with a finger after naming the letter. You may also want to provide those children with magnetic letters to hold and trace.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64374-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>Name That Feeling</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Gather Materials</ac_teacher-card_run-in_hed>  Activity Cards for<ac_teacher-talk> sad, happy, proud, </ac_teacher-talk>and<ac_teacher-talk> angry</ac_teacher-talk></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group </ac_teacher-card_run-in_hed> <ac_teacher-speaking>Today we reread the story <ac_teacher-speaking_emphasis_blue>Be Who You Are.</ac_teacher-speaking_emphasis_blue> We talked about feelings, and we learned that we have different feelings at different times.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Review Mind Builder</ac_teacher-card_run-in_hed>  Use the Vocabulary Card to reteach the word <ac_teacher-talk>feelings</ac_teacher-talk>. Remind children that we can describe our feelings using words such as <ac_teacher-talk>sad, happy, proud </ac_teacher-talk>or<ac_teacher-talk> angry.</ac_teacher-talk> Let children know that sharing our feelings is part of being the special people we are.  </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Let’s see if you can guess the feelings that the children in the pictures show with their faces. I will tell you a story about each child. Then, try to guess how she or he feels. </ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask  </ac_teacher-card_run-in_hed>Show one Activity Card at a time. Ask the questions on the back of the card, offering help as needed.  </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Extend  </ac_teacher-card_run-in_hed>Use the last question on the back of the card to help children make connections to other situations. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat  </ac_teacher-card_run-in_hed>Continue until you have discussed all four feelings.    </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Extend  </ac_teacher-card_run-in_hed>Model creating a story as follows: <ac_teacher-speaking>I met my friend. She gave me a big, big hug. What feeling do you think I had? </ac_teacher-speaking>Have children guess the feeling. Then invite children to create stories for the group. Have other children take turns guessing the feeling.</ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>Name That Feeling</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="2">
+          <ac_diff_support-challenge_heds>Support<ac_teacher-speaking/>
+          </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Support children who have trouble naming the feeling by asking questions, such as: <ac_teacher-talk>Do you think you would feel like smiling if you couldn’t find something? Do you think you might feel like crying if you couldn’t find something?</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="3">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>For a challenge, have children make their own stories using words that describe other feelings, such as <ac_teacher-talk>annoyed</ac_teacher-talk>, <ac_teacher-talk>surprised</ac_teacher-talk>, or <ac_teacher-talk>excited</ac_teacher-talk>. </ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="2">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Invite multilingual learners to respond in their home languages with words that name feelings. Acknowledge their answers, and then repeat the words that name feelings in English while pointing to the word on the card. Encourage children to repeat the English word.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Gross Motor Development</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Invite children to make facial expressions to match each picture such as smiling (happy), frowning (sad), folding their arms (angry), and showing something (proud). This kind of physical connection can help children “feel” each emotion. </ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64374-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>Just LIKE ME</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Prepare Ahead</ac_teacher-card_run-in_hed>  Create six pairs of index cards that show smiley-type simple faces that show the same feelings. Keep the circles the same, but change the expressions by changing the mouths or eyes.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Today we reread the story <ac_teacher-speaking_emphasis_blue>Be Who You Are</ac_teacher-speaking_emphasis_blue>. We learned that sometimes you are like other children and sometimes you are not. </ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>  In this activity, you will look for pairs of faces that show the same feelings and pairs of faces that do not.</ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Match  </ac_teacher-card_run-in_hed>Place the cards face down on the table. Have children take turns choosing two cards. Then ask:</ac_teacher-card-body>
+            <ac_teacher-card-teacher_talk_bulleted>Do these faces show the same feeling? </ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>Do they show different feelings?</ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-body>If the cards are alike, invite the child to take them from the table. Continue until all the pairs are matched.   </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Extend</ac_teacher-card_run-in_hed>  Ask children to tell how they are like the other children at the table. Prompt them with questions, such as, “John likes to look at books. Do you like to look at books like John does?”   </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>Just Like Me</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="2">
+          <ac_diff_support-challenge_heds>Support</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Support children who have trouble noticing how the faces are alike and different. Ask questions to support their thinking, such as, “These faces both show frowns. Their mouths look sad. These faces are alike.” </ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="3">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds><ac_teacher-card-body>For a challenge, give children sets of cards. Have them draw two  faces that are alike and then add them to the activity set and play the again.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="2">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Invite multilingual learners to respond in their home languages with words that name feelings. Acknowledge their answers, and then repeat the words that name feelings in English as they find pairs of cards that match. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Gross Motor Development</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>In this activity, children match faces that are the same. To encourage gross motor development, invite children to match your movements. Demonstrate a movement and then ask children to do it with you so they are moving “just like you.” Include movements for arms and hands.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64374-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>I LIKE TO . . .</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>  Today we read the poster<ac_teacher-speaking_emphasis_blue> I like to . . .</ac_teacher-speaking_emphasis_blue> and looked at pictures and labels that go with the poem we listened to. For example, for the picture of the boy reading, we saw the label “read a book.”</ac_teacher-speaking>
+            </ac_teacher-card-body><ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Now we will take turns sharing what we like to do. For this activity, you will act out what you like to do. You won’t tell us what you are doing. You will just show us by your actions. Your friends in the group will try to guess what you like to do.   </ac_teacher-speaking>    </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Who would like to go first and show what you like to do? Remember, you will just show us, but you won’t tell us. You won’t even say a word. </ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Do the Activity </ac_teacher-card_run-in_hed> Invite children to take turns acting out what they like to do. When each child is finished say: <ac_teacher-speaking>Who can guess what  <fill-in-the-blank>      </fill-in-the-blank> likes to do? </ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>Call on children to guess. The first person who guesses correctly gets the next turn to act out what she or he likes to do.  </ac_teacher-card-body>
+            <ac_teacher-card-body>Finally, recall what the children did and have children clap if they like to do the same thing. For example say: “Roberto likes to fly a kite. Clap if you like to do that, too.”  </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Share Ideas  </ac_teacher-card_run-in_hed>Talk about all the things the children showed about what they like to do.   </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>i like to . . .</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="2">
+          <ac_diff_support-challenge_heds>Support<ac_teacher-speaking/>
+          </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Some children may need help with guessing the activity that their friends are acting out. You may want to help by giving clues, such as “I think Mia is holding a book. What do you think she is showing that she likes to do?”</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="3">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>You might wish to extend the activity by having children draw pictures to show the things they like to do. Then have children present their drawings to each other and talk about them. </ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="2">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Children may be able to guess what the child is acting out, but not be able to communicate it. Help a child by giving him the language he needs or by giving a starter sentence to complete, such as “I think <fill-in-the-blank>    </fill-in-the-blank> likes to <fill-in-the-blank>    </fill-in-the-blank>.”</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Gross Motor Development</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Encourage gross motor development by inviting children to act out the activities they like to do outdoors. Prompt children by saying, “What do you like to do in the playground? In the park?” Friends work together to guess the activity.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64374-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

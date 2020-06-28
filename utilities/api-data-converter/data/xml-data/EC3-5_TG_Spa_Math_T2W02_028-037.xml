@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./preview-styles.css" type="text/css"?>
+<teaching-guide xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" lang="es">
+  <day_1>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 2: </tg_week_hed>
+        <tg_topic_hed>El lugar donde vivimos</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338633894_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Superlibro:  <tg_materials-caption_book-title-Ital>Las formas de la ciudad</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T2_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T2_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario </tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> geometría </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed> motivación y creatividad; función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> vocabulario </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Estudios sociales:</tg_learning-goals_inline-hed> geografía</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para desarrollar conocimientos, cantar con los niños e introducir vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>figuras</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>cuadrados</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Inicie la hora del cuento preguntando: <tg_bullet-directions_guiding-question>¿Qué cosas parecidas a formas pueden ver en la ciudad?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Lea haciendo pausas para enfocarse en las formas. </tg_bullet-directions>
+        <tg_bullet-directions>Verifique la comprensión, diferenciando según sea necesario. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce, nombra y describe formas bidimensionales comunes (círculo, cuadrado, rectángulo, triángulo) usando palabras relacionadas con el número de lados, longitud de los lados y número de puntos o ángulos.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Explica que la forma se mantiene igual,  aun si cambia su tamaño o posición.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Piensa de manera simbólica.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Clasifica y organiza para agrupar y ordenar elementos.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende y usa varios tipos de palabras.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Estudios sociales </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geografía :</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica y crea características comunes del medio ambiente, tales como colinas, ríos, carreteras, lagos y edificios de vivienda.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Encontrar los cuadrados</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T2_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> geometría </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed> motivación y creatividad; función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> vocabulario</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:  </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Pida a los niños que encuentren cuadrados en las fotos.  </tg_bullet-directions>
+        <tg_bullet-directions>Ayúdelos a reconocer que la posición de un cuadrado no afecta a  su forma. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique, según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo es el lugar donde vivimos?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO  DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Ves algún cuadrado en el libro? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN  Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Dónde puedes encontrar  un cuadrado en la cocina? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Cuenta el número de lados en  un cuadrado. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Dibuja algo del salón de clases que sea cuadrado. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE  CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes hacer un cuadrado con estos materiales? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO  ABC  </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Los cuadrados tienen cuatro lados. ¿Qué letra oyes al comienzo de <tg_teacher-talk_emphasis_non-ital>cuatro</tg_teacher-talk_emphasis_non-ital>? ¡Dibújala! </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué formas ves en estas figuras geométricas? </tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Las formas de la ciudad by Diana Murray, illustrated by Bryan Collier. Text copyright © 2016 by Diana Murray. Illustrations copyright © 2016 by Bryan Collier. Cover copyright © 2016 by Hachette Book Group, Inc. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Little, Brown and Company, a division of Hachette Book Group, Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_1>
+  <day_2>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 2: </tg_week_hed>
+        <tg_topic_hed>El lugar donde vivimos</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338633894_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Superlibro: <tg_materials-caption_book-title-Ital>Las formas de la ciudad</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T2_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T2_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario </tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> geometría </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed> motivación y creatividad; función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> vocabulario </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Estudios sociales:</tg_learning-goals_inline-hed> geografía; ciudadanía </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Arte:</tg_learning-goals_inline-hed> arte</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para comentar el Mind Builder <tg_bullet-directions_guiding-question>clasifica y organiza</tg_bullet-directions_guiding-question>
+          <tg_bullet-directions_book-title>,</tg_bullet-directions_book-title> y presentar el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>agrupas</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>rectángulo</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento relacionando el Mind Builder con <tg_bullet-directions_book-title>Las formas de la ciudad.</tg_bullet-directions_book-title> </tg_bullet-directions>
+        <tg_bullet-directions>Haga una lectura atenta para clasificar, organizar  y repasar formas. </tg_bullet-directions>
+        <tg_bullet-directions>Ofrezca la oportunidad de realizar el juego ampliado. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce, nombra y describe formas bidimensionales comunes usando palabras relacionadas con el número de lados, longitud y puntos o ángulos.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Explica que la forma se  mantiene igual, aun si cambia su tamaño o posición; combina formas para crear imágenes o diseños.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y  creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Piensa de manera simbólica.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Clasifica para agrupar y ordenar.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Arte:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa materiales de arte para la exploración y experiencia sensorial.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende y usa varios tipos de palabras.</tg_skills-focus-skill-text>  </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Estudios sociales </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geografía:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica y crea características comunes del medio ambiente, tales como colinas, ríos, carreteras, lagos y ediificios de vivienda.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciudadanía:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica la bandera de los Estados Unidos y del estado donde vive.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>¿Es o no es un rectángulo?</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T2_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> geometría </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed> motivación y creatividad; función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> vocabulario</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:  </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Pida a los niños que agrupen los rectángulos. </tg_bullet-directions>
+        <tg_bullet-directions>Comente que los cuadrados son un tipo  de rectángulo. </tg_bullet-directions>
+        <tg_bullet-directions>Anime a los niños a agrupar las tarjetas según otro criterio. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique, según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo es el lugar donde vivimos?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO  DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Ves algún rectángulo en el libro? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN  Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Cuando juegas en la tienda, ¿ves algo con forma de rectángulo? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Haz un rectángulo en el geoplano. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Dibuja algo del salón de clases que tenga forma de rectángulo. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE  CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Haz un rectángulo con cualquier material. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO  ABC  </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Dibuja un rectángulo alrededor de la letra R. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Usa figuras geométricas para hacer un edificio con forma rectangular.</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Las formas de la ciudad by Diana Murray, illustrated by Bryan Collier. Text copyright © 2016 by Diana Murray. Illustrations copyright © 2016 by Bryan Collier. Cover copyright © 2016 by Hachette Book Group, Inc. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Little, Brown and Company, a division of Hachette Book Group, Inc. Clifford the Big Red Dog™ illustration copyright © The Norman Bridwell Trust. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_2>
+  <day_3>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 2: </tg_week_hed>
+        <tg_topic_hed>El lugar donde vivimos</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338633894_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Superlibro: <tg_materials-caption_book-title-Ital>Las formas de la ciudad</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T2_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T2_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario </tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> geometría </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed> motivación y creatividad; función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> vocabulario </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Estudios sociales:</tg_learning-goals_inline-hed> geografía</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para comentar las formas tridimensionales, jugar a un juego con formas e introducir vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>triángulo</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>círculo</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Inicie la hora del cuento releyendo <tg_bullet-directions_book-title>Las formas de la ciudad</tg_bullet-directions_book-title> y haga la pregunta guía: <tg_bullet-directions_guiding-question>¿En qué parte de la ciudad encuentran figuras la niña y la paloma?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Lea para profundizar y repasar geometría. </tg_bullet-directions>
+        <tg_bullet-directions>Verifique la comprensión; diferencie según requiera. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text> Comienza a reconocer formas tridimensionales; las describe como pelotas, cajas, latas y conos.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce, nombra y describe formas bidimensionales comunes usando palabras relacionadas con el número de lados, longitud y puntos o ángulos.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Explica que la forma se mantiene igual, aun si cambia su tamaño o posición; combina formas para crear imágenes o diseños.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Estudios sociales </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geografía :</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica y crea características comunes del medio ambiente, como colinas, ríos, carreteras, lagos y edificios de vivienda.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Piensa de manera simbólica.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Clasifica para agrupar y ordenar elementos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende y usa varios tipos de palabras.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Encontrar el error: formas</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T2_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> geometría </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed> motivación y creatividad; función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> vocabulario</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Identifique formas en tarjetas de actividades  y cometa “errores” de vez en cuando. </tg_bullet-directions>
+        <tg_bullet-directions>Anime a los niños para que corrijan sus errores y expliquen por qué. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique, según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo es el lugar donde vivimos?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO  DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Busca en el libro algo con forma de círculo o triángulo. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN  Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Hay alguna herramienta que tenga forma de círculo? ¿Hay alguna herramienta que tenga forma de triángulo?  </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué figuras geométricas representan triángulos? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escribe sobre tu cosa favorita con forma de círculo. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE  CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Haz un cuadrado con cualquier material. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO  ABC  </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Los triángulos contienen lados rectos. ¿Los círculos son curvos. ¿La letra C tiene líneas rectas o curvas? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes agrupar las figuras geométricas por su forma?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Las formas de la ciudad by Diana Murray, illustrated by Bryan Collier. Text copyright © 2016 by Diana Murray. Illustrations copyright © 2016 by Bryan Collier. Cover copyright © 2016 by Hachette Book Group, Inc. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Little, Brown and Company, a division of Hachette Book Group, Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_3>
+  <day_4>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 2: </tg_week_hed>
+        <tg_topic_hed>El lugar donde vivimos</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="EC3-5_Flipchart_T2W2_OurNeighbourhood_ReduxSPAN_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Papelógrafo de grandes ideas:  <tg_materials-caption_book-title-Ital>Nuestro vecindario</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T2_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="9781338633894_COV_SP_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Superlibro: Las formas de la ciudad</tg_materials-caption>
+        <graphic href="VC Redux Spa T2_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> geometría </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed> motivación y creatividad; función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> vocabulario </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Estudios sociales:</tg_learning-goals_inline-hed> geografía</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Durante la hora del círculo, hable sobre dónde vivimos, involúcrelos en un juego y presente el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>el correo</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>biblioteca</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento conectando los textos <tg_bullet-directions_book-title>Nuestro vecindario </tg_bullet-directions_book-title>y <tg_bullet-directions_book-title>Las formas de la ciudad.</tg_bullet-directions_book-title> </tg_bullet-directions>
+        <tg_bullet-directions>Haga una lectura atenta para conectar el texto con la pregunta: <tg_bullet-directions_book-title>¿Cómo es el lugar donde vivimos?</tg_bullet-directions_book-title> </tg_bullet-directions>
+        <tg_bullet-directions>Ofrezca prolongar el juego ampliado. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce, nombra y describe formas bidimensionales comunes (círculo, cuadrado, rectángulo, triángulo) usando palabras relacionadas con el número de lados, longitud y puntos o ángulos.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Combina formas para crear imágenes o diseños.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Piensa de manera simbólica.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Clasifica para agrupar y ordenar elementos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario: </tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Comprende y usa varios tipos de palabras.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Estudios sociales </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geografía :</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica y crea características comunes del medio ambiente, como colinas, ríos, carreteras, lagos y edificios de vivienda.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>¡Encuéntrenme una forma!</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T2_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  geometría </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed>  motivación y creatividad; función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> vocabulario</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:  </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Pida a los niños que busquen formas en el salón de clases.  </tg_bullet-directions>
+        <tg_bullet-directions>Guíe a los niños para  que repitan el nombre de la forma. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique, según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo es el lugar donde vivimos?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO  DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿En qué se parece el lugar del cuento a tu vecindario?  ¿En qué se diferencia? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN  Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Jueguen a la oficina de correos. ¿De qué forma son los sobres  de las cartas?  </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué forma tienen las figuras geométricas? ¿Cuántas hay? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cuál es tu lugar favorito en la comunidad? ¿Qué haces allí? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE  CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes dibujar tu forma favorita? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO  ABC  </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Elige un lugar en tu vecindario. ¿Qué letra oyes al principio de ese lugar? ¿Puedes dibujarla? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Construye una casa con figuras gemétricas.</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Las formas de la ciudad by Diana Murray, illustrated by Bryan Collier. Text copyright © 2016 by Diana Murray. Illustrations copyright © 2016 by Bryan Collier. Cover copyright © 2016 by Hachette Book Group, Inc. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Little, Brown and Company, a division of Hachette Book Group, Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_4>
+  <day_5>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 2: </tg_week_hed>
+        <tg_topic_hed>El lugar donde vivimos</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338633894_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Superlibro  <tg_materials-caption_book-title-Ital>Las formas de la ciudad</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T2_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T2_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjeta de vocabulario</tg_materials-caption>
+        <graphic href="EC_stock_ColoredPaper_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Papel de póster</tg_materials-caption>
+        <graphic href="EC_stock_WritingTools_cropped.png" index="5"/>
+        <tg_materials-caption index="5">Lápices  de colores</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> geometría </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed> motivación y creatividad; función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> vocabulario </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Estudios sociales:</tg_learning-goals_inline-hed>  geografía </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Arte:</tg_learning-goals_inline-hed> arte</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para conectar con las bellas artes y presentar el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>rascacielos</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Inicie la hora del cuento repasando el superlibro y pregunte: <tg_bullet-directions_guiding-question>¿Cómo podemos usar formas para dibujar las cosas que vemos en nuestro vecindario?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Lea y vuelva a narrar de manera interactiva, enfocándose en las formas. </tg_bullet-directions>
+        <tg_bullet-directions>Verifique la comprensión; diferencie según requiera. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce, nombra y describe formas bidimensionales comunes (círculo, cuadrado, rectángulo, triángulo) usando palabras relacionadas con el número de lados, longitud, puntos o ángulos.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Combina formas para crear imágenes o diseños.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Piensa de manera simbólica.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Clasifica y organiza para agrupar y ordenar elementos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario: </tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Comprende y usa varios tipos de palabras. </tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Estudios sociales </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geografía:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica y crea características comunes del medio ambiente, tales como colinas, ríos, carreteras, lagos y edificios de vivienda.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Arte:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa diferentes materiales para la exploración y la experiencia sensorial.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Escritura independiente, dibujar o narrar un cuento</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC3-5_ResponsePrompt_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Hoja de respuesta</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> geometría </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed> motivación y creatividad; función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> vocabulario </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> escritura</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Apoye a los niños en su intento por responder a la propuesta de la semana: <tg_bullet-directions_guiding-question>Escribe un cuento sobre buscar tu forma favorita en tu vecindario.</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique, según sea necesario. </tg_bullet-directions>
+        <tg_bullet-directions>Guarde los escritos de los niños para mostrarlos la próxima semana.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo es el lugar donde vivimos?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO  DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Dónde vive este personaje? ¿En qué se parece al lugar donde tu vives? ¿En qué se diferencia?  </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN  Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Imagina que eres un rascacielos. ¿Qué forma tienen tus ventanas? ¿Y tu techo? ¿Cuánto mides? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS  </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Agrupa las figuras geométricas de acuerdo a su forma. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Si pudieras construir tu propio rascacielos, ¿cómo sería? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE  CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Haz un dibujo de  tu propio rascacielos. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO  ABC  </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué letra oyes al principio de <tg_teacher-talk_emphasis_non-ital>rascacielos</tg_teacher-talk_emphasis_non-ital>? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Construye con figuras geométricas el rascacielos más alto que puedas.</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Las formas de la ciudad by Diana Murray, illustrated by Bryan Collier. Text copyright © 2016 by Diana Murray. Illustrations copyright © 2016 by Bryan Collier. Cover copyright © 2016 by Hachette Book Group, Inc. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Little, Brown and Company, a division of Hachette Book Group, Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_5>
+  <day_1_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Nombra formas comunes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Desliza, da vuelta y gira formas para demostrar que la forma permanece igual.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.4)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Piensa de manera simbólica.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Clasifica y organiza para agrupar y ordenar elementos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa un vocabulario amplio para hablar, agregando varias palabras nuevas por día.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.4)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Estudios sociales </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geografía:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>El niño identifica y crea características comunes en el ambiente natural.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VII.C.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_1_texas>
+  <day_2_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Nombra formas comunes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Desliza, da vuelta y gira formas para demostrar que la forma permanece igual.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.4)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Crea formas.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Piensa de manera simbólica.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Clasifica y organiza para agrupar y ordenar elementos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Arte:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa una variedad de materiales de arte y actividades para la experiencia sensorial y la exploración.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VIII.A.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Estudios sociales </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geografía:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica y crea características comunes en el ambiente natural.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VII.C.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciudadanía:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica banderas de Estados Unidos y de Texas.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VII.D.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_2_texas>
+  <day_3_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Nombra formas comunes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Desliza, da vuelta y gira formas para demostrar que la forma permanece igual.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.4)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Crea formas.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Piensa de manera simbólica.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Clasifica y organiza para agrupar y ordenar elementos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa un vocabulario amplio para hablar, agregando varias palabras nuevas por día.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.4)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Estudios sociales </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geografía:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica y crea características comunes en el ambiente natural.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VII.C.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_3_texas>
+  <day_4_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Nombra formas comunes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Crea formas.</tg_skills-focus-skill-text>  <tg_skills-focus-skill-code>(TX.V.C.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa un vocabulario amplio para hablar, agregando varias palabras nuevas por día.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.4)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Piensa de manera simbólica.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Clasifica y organiza para agrupar y ordenar elementos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Estudios sociales </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geografía:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica y crea características comunes en el ambiente natural.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VII.C.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_4_texas>
+  <day_5_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Nombra formas comunes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Crea formas.</tg_skills-focus-skill-text>  <tg_skills-focus-skill-code>(TX.V.C.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa un vocabulario amplio para hablar, agregando varias palabras nuevas por día.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.4)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Piensa de manera simbólica.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Clasifica y organiza para agrupar y ordenar elementos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Estudios sociales </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geografía:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica y crea características comunes en el ambiente natural.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VII.C.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Arte:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa una variedad de materiales para la experiencia personal y la exploración.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VIII.A 1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_5_texas>
+</teaching-guide>

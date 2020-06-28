@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flip-chart lang="es">
+  <flip_chart-9 day="4">
+    <flip_chart-9_front>
+      <graphic href="EC3-5_Flipchart_T3W1_SeeHearTasteSmellAndTouch_Spa.jpg"/>
+    </flip_chart-9_front>
+    <flip_chart-9_back>
+      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <flip_chart-theme-text>VAMOS A INVESTIGAR</flip_chart-theme-text>
+          <flip_chart-topic-text>Los cinco sentidos</flip_chart-topic-text>
+          <flip_chart-concept-question>¿Qué podemos aprender con nuestros cinco sentidos?</flip_chart-concept-question>
+        </section-block>
+      </masthead>
+      <display-head-section>
+        <section-block type="display_b_1" index="1">
+          <flip_chart-display-head> ¡Ver! ¡Oír! ¡Probar!   ¡Oler! ¡Tocar!</flip_chart-display-head>
+        </section-block>
+      </display-head-section>
+      <teacher-facing-section>
+        <section-block type="teacher-facing_b_1" index="1">
+          <flip_chart-teacher-facing-content-box>
+            <flip_chart-centered-content type="centered">
+              <flip_chart-teacher-facing-paragraph>
+                <flip_chart-bold>¿Qué puedo ver con los ojos?</flip_chart-bold>
+                <flip_chart-br> </flip_chart-br><flip_chart-teacher-direction-text>[poner las manos alrededor de los ojos como si fueran binoculares]</flip_chart-teacher-direction-text>
+                <flip_chart-br> </flip_chart-br>En el cielo las estrellas. <flip_chart-teacher-direction-text>[mirar hacia arriba con una mano encima de los ojos]</flip_chart-teacher-direction-text>
+                <flip_chart-br> </flip_chart-br>En lo alto un edificio que destella. <flip_chart-teacher-direction-text>[levantar la mano hacia arriba de la cabeza  sugiriendo algo en lo “alto”]</flip_chart-teacher-direction-text></flip_chart-teacher-facing-paragraph>
+              <flip_chart-teacher-facing-paragraph>
+                <flip_chart-bold>¿Qué puedo oír con los oídos?</flip_chart-bold> <flip_chart-teacher-direction-text>[poner las manos alrededor de los oídos]</flip_chart-teacher-direction-text>
+                <flip_chart-br> </flip_chart-br>Una campana sonando. <flip_chart-teacher-direction-text>[simular que toca una campanilla]</flip_chart-teacher-direction-text>
+                <flip_chart-br> </flip_chart-br>Un pájaro cantando. <flip_chart-teacher-direction-text>[decir “pío, pío, pío”]</flip_chart-teacher-direction-text></flip_chart-teacher-facing-paragraph>
+              <flip_chart-teacher-facing-paragraph>
+                <flip_chart-bold>¿Qué puedo probar con la lengua?</flip_chart-bold> <flip_chart-teacher-direction-text>[chupar los labios]</flip_chart-teacher-direction-text>
+                <flip_chart-br> </flip_chart-br>Una dulce fresa. <flip_chart-teacher-direction-text>[poner una mano arriba de la boca como</flip_chart-teacher-direction-text>
+                <flip_chart-br> </flip_chart-br><flip_chart-teacher-direction-text>si estuviera comiendo una fresa]</flip_chart-teacher-direction-text>
+                <flip_chart-br> </flip_chart-br>Una agria cereza. <flip_chart-teacher-direction-text>[hacer una cara de sabor agrio]</flip_chart-teacher-direction-text></flip_chart-teacher-facing-paragraph>
+              <flip_chart-teacher-facing-paragraph>
+                <flip_chart-bold>¿Qué puedo oler con la nariz?</flip_chart-bold> <flip_chart-teacher-direction-text>[hacer un gesto de oler]</flip_chart-teacher-direction-text>
+                <flip_chart-br> </flip_chart-br>Un zapato oloroso. <flip_chart-teacher-direction-text>[tapar la nariz, haciendo una cara]</flip_chart-teacher-direction-text>
+                <flip_chart-br> </flip_chart-br>Un guisado delicioso. <flip_chart-teacher-direction-text>[sobar el abdomen]</flip_chart-teacher-direction-text>
+              </flip_chart-teacher-facing-paragraph><flip_chart-teacher-facing-paragraph>
+                <flip_chart-bold>¿Qué puedo tocar con las manos?</flip_chart-bold> <flip_chart-teacher-direction-text>[tocar un brazo]</flip_chart-teacher-direction-text>
+                <flip_chart-br> </flip_chart-br>Mi suéter suave por el frío clima. <flip_chart-teacher-direction-text>[tocar la manga]</flip_chart-teacher-direction-text>
+                <flip_chart-br> </flip_chart-br>Una pluma encima. <flip_chart-teacher-direction-text>[pretender un cosquilleo</flip_chart-teacher-direction-text>
+                <flip_chart-br> </flip_chart-br><flip_chart-teacher-direction-text>con una pluma]</flip_chart-teacher-direction-text>
+              </flip_chart-teacher-facing-paragraph><flip_chart-teacher-facing-paragraph>
+                <flip_chart-bold>¡Ver! ¡Oír! ¡Probar! ¡Oler! ¡Tocar!</flip_chart-bold>
+                <flip_chart-br> </flip_chart-br><flip_chart-teacher-direction-text>[señalar los ojos, los oídos, la lengua,</flip_chart-teacher-direction-text>
+                <flip_chart-br> </flip_chart-br><flip_chart-teacher-direction-text>la nariz y la mano]</flip_chart-teacher-direction-text>
+                <flip_chart-br> </flip_chart-br>
+              </flip_chart-teacher-facing-paragraph> <flip_chart-teacher-facing-paragraph>
+                <flip_chart-bold>¡Mis cinco sentidos me dicen mucho!</flip_chart-bold>
+              </flip_chart-teacher-facing-paragraph>
+            </flip_chart-centered-content>
+          </flip_chart-teacher-facing-content-box>
+        </section-block>
+      </teacher-facing-section>
+      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <flip_chart-credit-line>Photo © leungchopan/Shutterstock.  Icons by The Noun Project.</flip_chart-credit-line>
+        </section-block>
+      </copyright-section>
+    </flip_chart-9_back>
+  </flip_chart-9>
+</flip-chart>

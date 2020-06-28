@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="es">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>Imágenes y letras</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales </ac_teacher-card_run-in_hed>Necesitará tarjetas del abecedario.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed> <ac_teacher-speaking>Hoy leímos el cuento <ac_teacher-speaking_emphasis_blue>Sé feliz como eres.</ac_teacher-speaking_emphasis_blue> También nos divertimos con La canción del abecedario. ¡Vamos a explorar un poco más las letras!</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Vamos a mirar estas tarjetas del abecedarioy ver qué hay en ellas. Les voy a mostrar una tarjeta y ustedes me dirán lo que ven. Después, le voy a dar vuelta y juntos vamos a nombrar la letra que vemos.</ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Mostrar </ac_teacher-card_run-in_hed>Presente la tarjeta que muestra un auto.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>¿Qué ven en esta tarjeta del abecedario? Ahora le voy a dar vuelta. Juntos, vamos a nombrar la letra que vemos. Esta letra es una <ac_teacher-speaking_emphasis_blue>A</ac_teacher-speaking_emphasis_blue> mayúscula.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir </ac_teacher-card_run-in_hed>Repita para las letras <ac_teacher-talk>Bb</ac_teacher-talk>, <ac_teacher-talk>Cc</ac_teacher-talk>, <ac_teacher-talk>Dd</ac_teacher-talk>, y <ac_teacher-talk>Ee</ac_teacher-talk>. </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre las tarjetas del abecedario </ac_teacher-card_run-in_hed>Coloque todas las tarjetas con las imágenes hacia arriba y pregunte:</ac_teacher-card-body>
+            <ac_teacher-card-teacher_talk_bulleted>¿Qué les gusta de estas tarjetas del abecedario?</ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>¿Cuál es su imagen favorita?</ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-body>Luego, dé vuelta a las tarjetas del abecedario y pregunte:</ac_teacher-card-body>
+            <ac_teacher-card-teacher_talk_bulleted>¿Cuál es su letra favorita?  </ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-body>Repita la actividad en otros momentos para presentar el resto de las letras del abecedario.</ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>Imágenes y letras</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Para los niños que necesitan apoyo extra, antes de la actividad puede nombrar la imagen y pedirles que repitan; luego, diga el nombre de la letra y pídales que lo repitan. Siga con la actividad tal como está escrita.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Estos niños quizás estén preparados para reconocer otras letrasdel abecedario. Siga desde la <ac_teacher-talk>Ee</ac_teacher-talk> o use letras con las que empiezan los nombres de los niños. Señale que el nombre de la imagen inicia con la letra que está en el reverso de la tarjeta y diga: “A de auto”.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>No todos los abecedarios tienen las mismas letras que el abecedario del español. Si los niños nombran las letras en su propio idioma, acepte su respuesta y luego diga el nombre de la letra en español.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Estimulación sensorial</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>A algunos niños puede resultarles útil la estimulación sensorial. Pídales que repasen la letra con un dedo después de nombrarla. También puede proporcionarles letras magnéticas para la actividad.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64375-6</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>¡ADIVINEN CÓMOME SIENTO!</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed> Use las tarjetas de actividad para triste, alegre, orgulloso y enojado.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed> <ac_teacher-speaking>Hoy volvimos a leer el cuento <ac_teacher-speaking_emphasis_blue>Sé feliz como eres.</ac_teacher-speaking_emphasis_blue> Hablamos sobre los sentimientos y aprendimos que tenemos sentimientos diferentes en momentos diferentes.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar Mind Builder</ac_teacher-card_run-in_hed> Use la tarjeta de vocabulario para volvera enseñar la palabra <ac_teacher-talk>sentimientos</ac_teacher-talk>. Recuerde a los niños que compartir nuestros sentimientos es una parte de ser las personas especialesque somos.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed> <ac_teacher-speaking>Hoy vamos a ver si ustedes pueden adivinar los sentimientos que muestran las caras de los niños de las imágenes.Yo les diré qué le pasó a cada niño y, luego, veremos si pueden adivinar cómo se siente.</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar </ac_teacher-card_run-in_hed>Muestre una tarjeta de actividad a la vez. Haga la pregunta que está al reverso y ofrezca ayuda si es necesario.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Profundizar </ac_teacher-card_run-in_hed>Use la última pregunta del reverso de la tarjeta para ayudar a los niños a asociar.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir </ac_teacher-card_run-in_hed>Continúe, hasta que hayan conversado sobre los cuatro sentimientos.    </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Profundizar</ac_teacher-card_run-in_hed>  Demuestre cómo crear un cuento: <ac_teacher-speaking>Me encontré con mi amiga. Me dio un abrazo grande, grande. ¿Cómo creen que me sentí?</ac_teacher-speaking> Pida a los niños que adivinen el sentimiento. Luego, invítelosa crear sus cuentos. Pida a otros niños que se turnen para adivinarlos sentimientos. </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>¡ADIVINEN CÓMOME SIENTO!</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Apoye a los niños que tengan dificultad para identificar el sentimiento, haciendo preguntas como: <ac_teacher-talk>¿Creen que sonreiríansi eso pasara? ¿Creen que llorarían si eso pasara?</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>A modo de estímulo, pida a los niños que creen sus propios cuentos usando palabras que describan otros sentimientos, como <ac_teacher-talk>molesto, sorprendido</ac_teacher-talk> o <ac_teacher-talk>entusiasmado</ac_teacher-talk>.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Permita que los alumnos multilingües respondan con palabras de su lengua materna que describan sentimientos. Acepte sus respuestas y, luego, repita las palabras que describen sentimientos en español mientras señala la palabra en la tarjeta. Anime a los niños a repetir la palabra en español.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad gruesa</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Invite a los niños a hacer expresiones faciales que se correspondan con cada imagen, como sonreír (alegre), fruncir el ceño (triste), cruzar los brazos (enojado) y mostrar algo (orgulloso). Este tipo de conexión física puede ayudar a los niños a “vivir” cada sentimiento.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64375-6</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>IGUAL QUE YO</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preparar </ac_teacher-card_run-in_hed>Forme seis pares de tarjetas de notas con caras simples, del tipo de las caritas sonrientes, que muestren los mismos sentimientos. Mantenga los círculos iguales, pero cambie las expresiones, variando las bocas o los ojos.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Hoy volvimos a leer el cuento <ac_teacher-speaking_emphasis_blue>Sé feliz como eres</ac_teacher-speaking_emphasis_blue>. Aprendimos que a veces somos como otros, y a veces no.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed> <ac_teacher-speaking>En esta actividad, ustedes buscarán pares de caras que muestren los mismos sentimientos y pares de caras que no.</ac_teacher-speaking>      </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Emparejar </ac_teacher-card_run-in_hed>Coloque las tarjetas bocabajo sobre la mesa. Pida a los niños que se turnen para elegir dos tarjetas. Luego, pregunte:</ac_teacher-card-body>
+            <ac_teacher-card-teacher_talk_bulleted>¿Estas caras muestran el mismo sentimiento?</ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>¿Muestran sentimientos diferentes?</ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-body>Si las tarjetas son iguales, invite a los niños a quitarlas de la mesa. Continúe hasta emparejar todos los pares. </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Profundizar</ac_teacher-card_run-in_hed> Pida a los niños que digan en qué se parecen a los otros niños de su mesa. Guíelos con preguntas como: <ac_teacher-speaking>A Juan le gusta ver libros. ¿A ustedes les gusta ver libros como a Juan? </ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>IGUAL QUE YO</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Apoye a los niños a los que les cuesta trabajo distinguir si las caras son parecidas o diferentes. Haga comentarios para apoyarlos en su pensamiento, como: <ac_teacher-talk>Estas dos caras tienen el ceño fruncido.Las bocas se ven tristes.</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>A modo de estímulo, reparta tarjetas a los niños. Pídales que dibujen dos caras o cosas que sean parecidas.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Permita que los alumnos multilingües respondan con palabras de su lengua materna que describan sentimientos. Acepte sus respuestas y, luego, repita las palabras en español mientras los niños buscan pares de tarjetas que muestren esos sentimientos.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad gruesa</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>En esta actividad, los niños emparejan caras similares. Para estimular el desarrollo de la motricidad gruesa, invítelos a imitar los movimientos que usted haga. Demuestre un movimiento y, luego, pida a los niños que lo hagan junto con usted al mismo tiempo. Incluya movimientos para los brazos y las manos.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64375-6</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>ME GUSTA…</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed> <ac_teacher-speaking>Hoy leímos el papelógrafo <ac_teacher-speaking_emphasis_blue>Me gusta...</ac_teacher-speaking_emphasis_blue> y vimos las imágenes y las etiquetas que van con el poema. Por ejemplo, junto con la imagen del niño que lee, vimos la etiqueta Leer un libro.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed> <ac_teacher-speaking>Hoy nos vamos a turnar para compartir lo que nos gusta. En esta actividad, ustedes van a representar lo que les gusta hacer. Nos lo van a mostrar. Sus amigos del grupo tratarán de adivinar qué es lo que les gusta a ustedes, viéndolos actuar.</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>¿Quién quiere pasar primero a mostrar lo que le gusta hacer? Recuerden, solo lo mostrarán, pero no nos lo dirán. No dirán ni una palabra.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hacer la actividad</ac_teacher-card_run-in_hed> Invite a los niños a turnarse para actuar frente a sus amigos lo que les gusta hacer. Cuando termine cada niño, diga:<ac_teacher-speaking>¿Quién adivina lo que le gusta hacer a<fill-in-the-blank>                 </fill-in-the-blank>?</ac_teacher-speaking> Llame a los niños para que adivinen. Al primero que adivine, le tocará el turno de representar lo que le gusta hacer.</ac_teacher-card-body>
+            <ac_teacher-card-body>Por último, repase lo que hicieron los niños y pídales que aplaudan si les gusta hacer lo mismo. Por ejemplo, diga: <ac_teacher-speaking>A Roberto le gusta jugar con la pelota. Aplaudan si a ustedes también les gusta hacer eso.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Compartir la idea </ac_teacher-card_run-in_hed>Hablen sobre todas las cosas que los niños representaron de lo que les gusta hacer. </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>ME GUSTA…</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Algunos niños pueden necesitar apoyo para adivinar la actividad que sus amigos están representando. Puede ayudarlos ofreciendo pistas como: <ac_teacher-talk>Me parece que Julio tiene un libro en las manos. ¿Qué creen que está mostrando que le gusta hacer?</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Podrá profundizar en la actividad pidiendo a los niños que creen dibujos para mostrar lo que les gusta hacer. Después, pueden mostrárselos unos a otros y hablar sobre ellos.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Los niños tal vez adivinen la actividad que están representando sus amigos, pero quizás no puedan comunicarlo. Compártales las palabras que necesitan o diga una oración para que la completen, como: <ac_teacher-speaking>Me parece que a <fill-in-the-blank>             </fill-in-the-blank> le gusta <fill-in-the-blank>             </fill-in-the-blank>.</ac_teacher-speaking>
+          </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad gruesa</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Estimule el desarrollo de la motricidad gruesa invitando a los niños a representar actividades que les gusta hacer al aire libre. Anímelos, diciendo: <ac_teacher-speaking>¿Qué les gusta hacer en el patio de juegos?</ac_teacher-speaking> Los niños deberán trabajar juntos para adivinar la actividad.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64375-6</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

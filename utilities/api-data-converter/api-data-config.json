@@ -1,0 +1,11 @@
+{
+    "xml": {
+        "path": "data/xml-data"
+    },
+    "excel": {
+        "path": "data/excel-data"
+    },
+    "json": {
+        "path": "data/json-data"
+    }
+}

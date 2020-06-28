@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./preview-styles.css" type="text/css"?>
+<teaching-guide xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" lang="es">
+  <day_1>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 4:</tg_week_hed>
+        <tg_topic_hed>Proteger nuestra Tierra</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338610222_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>¡Sigan a ese camión!</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T7_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T7_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+        <graphic href="EC_stock_PatternBlocks_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Bloques patrón</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> geometría</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> vocabulario</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Desarrolle los conocimientos, motive a los niños con una canción e introduzca vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>basura</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>residuos</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, presente el libro y pregunte: <tg_bullet-directions_guiding-question>¿A dónde va la basura?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Lea por placer, y señale las figuras diferentes en el libro.</tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión y diferencie según sea necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce, nombra y describe formas bidimensionales comunes —círculo, cuadrado, rectángulo, triángulo— usando palabras relacionadas con el número de lados, longitud de los lados y número de puntos o ángulos.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body><tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Sigue reglas y rutinas de la escuela.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Desarrolla la memoria funcional para resolver problemas y lograr objetivos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body><tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende y usa varios tipos de palabras.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Emparejar: Figuras planas</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T7_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> geometría</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>Función ejecutiva</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Muestre a los niños tres figuras diferentes que deben identificar y nombrar.</tg_bullet-directions>
+        <tg_bullet-directions>Pida a los niños que identifiquen figuras y sus atributos en una actividad de emparejar.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con próposito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo podemos cuidar nuestro mundo?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué libro elegiste? ¿De qué se trata el libro?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Simula conducir un camión de basura. ¿A dónde vas?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes hacer la figura de un círculo con los dedos? ¿Qué hace que sea un círculo?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes escribir sobre qué pasa con la basura después de que la tiramos?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué figuras ves en tu creación?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué letra ves dos veces en la palabra <tg_teacher-talk_emphasis_non-ital>basura</tg_teacher-talk_emphasis_non-ital>?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué estás construyendo? ¿Puedes hacer la figura de un cuadrado con bloques?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. ¡Sigan a ese camión!: Un viaje al vertedero by Bridget Heos, illustrated by Alex Westgate. Copyright © 2017 by Amicus. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with The Creative Company dba Amicus Publishing.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_1>
+  <day_2>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 4:</tg_week_hed>
+        <tg_topic_hed>Proteger nuestra Tierra</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338610222_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>¡Sigan a ese camión!</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T7_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T7_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> geometría</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Tecnología:</tg_learning-goals_inline-hed> usos</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Comparta el Mind Builder <tg_bullet-directions_emphasis_Ital>seguir reglas y rutinas</tg_bullet-directions_emphasis_Ital> e introduzca el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>comunidad</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, asocie el Mind Builder con <tg_bullet-directions_book-title>¡Sigan a ese camión!</tg_bullet-directions_book-title></tg_bullet-directions>
+        <tg_bullet-directions>Lea atentamente para reforzar cómo seguir reglas y rutinas y para reconocer figuras.</tg_bullet-directions>
+        <tg_bullet-directions>Dé la oportunidad de prolongar el juego.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce, nombra y describe formas bidimensionales comunes —círculo, cuadrado, rectángulo, triángulo— usando palabras relacionadas con el número de lados, longitud de los lados y número de puntos o ángulos.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Sigue reglas y rutinas de la escuela.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Tecnología</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Usos:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa tecnología para buscar información; Usa las herramientas y recursos digitales de forma segura; Demuestra comprensión de tecnología usual y de cómo esta afecta la vida de las personas.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Arte:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa diferentes materiales de arte para la exploración y la experiencia sensorial.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>¡Sigue esa regla!</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T7_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+        <graphic href="EC_stock_PatternBlocks_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Bloques patrón</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> geometría</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Bellas artes:</tg_learning-goals_inline-hed> arte</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Pida a los niños que sigan una regla para crear una imagen con bloques patrón.</tg_bullet-directions>
+        <tg_bullet-directions>Pida a los niños que incluyan un número determinado de una figura específica en su trabajo.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con próposito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo podemos cuidar nuestro mundo?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué comunidad aparece en ese libro?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Simula que sigues la rutina de un camión de basura.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes mostrarme algunos círculos y cuadrados en el salón?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo es tu comunidad? ¿Puedes escribir sobre ella?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Dibuja una figura. ¿Qué figura hiciste?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué sonido escuchas al principio del nombre de tu figura favorita?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Por qué hiciste esta figura con esos bloques?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. ¡Sigan a ese camión!: Un viaje al vertedero by Bridget Heos, illustrated by Alex Westgate. Copyright © 2017 by Amicus. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with The Creative Company dba Amicus Publishing. Clifford the Big Red DogTM illustration copyright © The Norman Bridwell Trust.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_2>
+  <day_3>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 4:</tg_week_hed>
+        <tg_topic_hed>Proteger nuestra Tierra</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338610222_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>¡Sigan a ese camión!</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T7_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T7_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+        <graphic href="EC_stock_Blocks_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Objetos del salón de clases</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> geometría</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed>vocabulario</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Hable sobre figuras sólidas, pida a los niños que identifiquen figuras e introduzca el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>vertedero</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>figura sólida</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, repase el libro y pregunte: <tg_bullet-directions_guiding-question>¿Qué pasa con la basura después de que se recoge?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Lea de forma interactiva para comprender mejor y explorar más las figuras en el libro.</tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión y diferencie según sea necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comienza a reconocer formas tridimensionales, describiéndolas como pelotas, cajas, latas y conos.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body><tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Sigue reglas y rutinas de la escuela.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Desarrolla la memoria funcional para resolver problemas y lograr objetivos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body><tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende y usa varios tipos de palabras.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Empareja la figura</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T7_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> geometría</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>función ejecutiva</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed>vocabulario</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Pida a los niños que identifiquen y nombren objetos que sean figuras sólidas.</tg_bullet-directions>
+        <tg_bullet-directions>Pida a los niños que identifiquen figuras y sus atributos en una actividad de emparejar.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con próposito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo podemos cuidar nuestro mundo?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes mostrarme algunas figuras en ese libro?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Actúa como si fueras una pelota que rebota. ¿Qué forma tienes?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Intenta poner dos triángulos juntos para formar otra figura.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escribe sobre el trabajo de un conductor del camión de basura.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes hacer un dibujo que tenga círculos y cuadrados?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes encontrar tres cosas en el salón que empiecen con el mismo sonido que pelota?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué puedes construir con bloques en forma de caja?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. ¡Sigan a ese camión!: Un viaje al vertedero by Bridget Heos, illustrated by Alex Westgate. Copyright © 2017 by Amicus. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with The Creative Company dba Amicus Publishing. Photo © Nenov Brothers Images/Shutterstock.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_3>
+  <day_4>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 4:</tg_week_hed>
+        <tg_topic_hed>Proteger nuestra Tierra</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="EC3-5_Flipchart_T7W4_YouCanHelp_SPAN_Redux_cropped.png" index="1"/>
+        <tg_materials-caption index="1">
+          <tg_materials-caption_book-title-Ital>Papelógrafo de grandes ideas: ¡Tú puedes ayudar!</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T7_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T7_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+        <graphic href="9781338610222_COV_SP_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Libro:<tg_materials-caption_book-title-Ital> ¡Sigan a ese camión!</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="EC_stock_ArtSupplies_cropped.png" index="5"/>
+        <tg_materials-caption index="5">Materiales de dibujo y papel</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> geometría</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> ciencias de la Tierra y el espacio; ciencias de la vida</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Converse sobre cómo proteger la Tierra e introduzca vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>Tierra</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>reciclar</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, asocie los textos<tg_bullet-directions_book-title> ¡Sigan a ese camión!</tg_bullet-directions_book-title> y <tg_bullet-directions_book-title>¡Tú puedes ayudar!</tg_bullet-directions_book-title></tg_bullet-directions>
+        <tg_bullet-directions>Lea de forma interactiva y asocie con la geometría señalando diferentes figuras. </tg_bullet-directions>
+        <tg_bullet-directions>Dé la oportunidad de prolongar el juego.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comienza a reconocer formas tridimensionales, describiéndolas como pelotas, cajas, latas y conos.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Sigue reglas y rutinas de la escuela.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y el espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra comprensión sobre el cuidado del planeta y su importancia.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la vida:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica, investiga, habla y describe la relación que hay entre plantas y animales, y su medio ambiente.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Tecnología</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Usos:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa tecnología para buscar información; Usa las herramientas y recursos digitales de forma segura; Demuestra comprensión de tecnología usual y de cómo esta afecta la vida de las personas.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Encuentra la figura</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T7_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+        <graphic href="EC_stock_Balls_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Elementos del salón de clases</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> geometría</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> ciencias de la Tierra y el espacio; ciencias de la vida</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Repase imágenes de figuras sólidas con los niños.</tg_bullet-directions>
+        <tg_bullet-directions>Pida a los niños que encuentren ejemplos de figuras sólidas en el salón de clases y que las describan.</tg_bullet-directions>
+        <tg_bullet-directions>Conversen sobre artículos reciclables.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con próposito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo podemos cuidar nuestro mundo?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cuál fue tu parte favorita de ese cuento?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué sonidos harías si fueras un camión de basura? ¿Cuál es la mejor parte de ser un camión de basura?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Esta figura es más grande que esta. ¿Son las dos triángulos?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escribe sobre la Tierra.  ¿Qué tiene de especial?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Haz un dibujo con dos de tus figuras favoritas.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Dibuja una letra. ¿Puedes pensar en algo en el salón de clases que empiece con esa letra?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Con qué figuras sólidas estás construyendo?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. ¡Sigan a ese camión!: Un viaje al vertedero by Bridget Heos, illustrated by Alex Westgate. Copyright © 2017 by Amicus. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with The Creative Company dba Amicus Publishing. Photo © Aleksey Sagitov/Shutterstock.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Photo © New Africa/Shutterstock.</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_4>
+  <day_5>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 4:</tg_week_hed>
+        <tg_topic_hed>Proteger nuestra Tierra</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338610222_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro:<tg_materials-caption_book-title-Ital>¡Sigan a ese camión!</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T7_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T7_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> geometría</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> estructura de la oración</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> ciencias de la Tierra y el espacio; ciencias de la vida</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Asocie el libro con el lenguaje y juegue un juego de adivinanzas sobre figuras con los niños.</tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, repase el libro y pregunte: <tg_bullet-directions_guiding-question>¿Cómo podemos hacer menos basura?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Vuelva a leer y a narrar el cuento de forma interactiva para estimular la participación física y enfocarse en las figuras.</tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión y diferencie según sea necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce, nombra y describe formas bidimensionales comunes —círculo, cuadrado, rectángulo, triángulo— usando palabras relacionadas con el número de lados, longitud de los lados y número de puntos o ángulos; Comienza a reconocer formas tridimensionales, describiéndolas como pelotas, cajas, latas y conos.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Sigue reglas y rutinas de la escuela.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Estructura de la oración:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa formas verbales cada vez más complejas.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y el espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra comprensión sobre el cuidado del planeta y su importancia.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la vida:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica, investiga, habla y describe la relación que hay entre plantas y animales, y su medio ambiente.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Escritura independiente, dibujar o narrar cuentos</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC3-5_ResponsePrompt_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Hoja de respuesta</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> geometría</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> estructura de la oración</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Apoye a los niños mientras responden de manera independiente al tema de esta semana: <tg_bullet-directions_guiding-question>¿Qué podemos hacer para proteger la Tierra?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Guarde los escritos de los niños para exponerlos la próxima semana.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con próposito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo podemos cuidar nuestro mundo?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué tipo de libro crees que quieres leer a continuación?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué elemento puedes hacer con una caja de cartón? ¿Puedes pensar en algo más?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué figura es esta? ¿Qué figura crearás si combinas figuras?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escribe un cuento sobre el cuidado de la Tierra.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes crear una imagen de un camión de basura? ¿Qué figuras hay en él?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué sonidos escuchas en la palabra basura? Escribe todas las letras que escuchas.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Construye un lugar donde las personas puedan reciclar sus cosas viejas.</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. ¡Sigan a ese camión!: Un viaje al vertedero by Bridget Heos, illustrated by Alex Westgate. Copyright © 2017 by Amicus. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with The Creative Company dba Amicus Publishing.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_5>
+  <day_1_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Nombra formas comunes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Sigue las reglas y las rutinas del salón de clases con recordatorios ocasionales del maestro.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.B.1.a, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Desarrolla la memoria funcional para resolver problemas y lograr objetivos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body><tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa un vocabulario amplio para hablar, agregando varias palabras nuevas por día.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.4)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_1_texas>
+  <day_2_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Nombra formas comunes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Sigue las reglas y las rutinas del salón de clases con recordatorios ocasionales del maestro.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.B.1.a, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Tecnología</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Usos:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Utiliza tecnología para acceder a información adecuada </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.X.A.4);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Practica el comportamiento seguro mientras usa herramientas digitales y recursos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.X.A.5)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Arte:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa una variedad de materiales de arte y actividades para la experiencia sensorial y la exploración.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VIII.A.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_2_texas>
+  <day_3_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Nombra formas comunes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Sigue las reglas y las rutinas del salón de clases con recordatorios ocasionales del maestro.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.B.1.a, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Desarrolla la memoria funcional para resolver problemas y lograr objetivos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body><tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa un vocabulario amplio para hablar, agregando varias palabras nuevas por día.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.4)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_3_texas>
+  <day_4_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Nombra formas comunes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Sigue las reglas y las rutinas del salón de clases con recordatorios ocasionales del maestro.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.B.1.a, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y el espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra la importancia de cuidar el medioambiente y el planeta.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.C.4)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la vida:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observa, investiga, describe y discute la relación de organismos con sus investigaciones.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.B.3)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Tecnología</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Usos:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Utiliza tecnología para acceder a información adecuada </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.X.A.4);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Practica el comportamiento seguro mientras usa herramientas digitales y recursos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.X.A.5)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_4_texas>
+  <day_5_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometría:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Nombra formas comunes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Sigue las reglas y las rutinas del salón de clases con recordatorios ocasionales del maestro.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.B.1.a, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Estructura de la oración:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa palabras individuales y frases simples para comunicar significado en las situaciones sociales.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.E.7)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y el espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra la importancia de cuidar el medioambiente y el planeta.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.C.4)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la vida:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observa, investiga, describe y discute la relación de organismos con sus investigaciones.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.B.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_5_texas>
+</teaching-guide>

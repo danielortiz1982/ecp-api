@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="en">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>Give me 3!</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Gather Materials</ac_teacher-card_run-in_hed>  For this activity, you will need enough Two-Color Counters for each child to have three.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>  When we read <ac_teacher-speaking_emphasis_blue>I Know Numbers!</ac_teacher-speaking_emphasis_blue>, we saw so many examples of numbers and how you might use them. Now we’re going to practice counting.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>In this activity, you will give me the number of counters I ask for.</ac_teacher-speaking> Before the activity, practice rote counting with the group. Count aloud slowly from 1–10 and repeat. Count to 20 if children are proficient counters.</ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Set Up</ac_teacher-card_run-in_hed>  Give each child three Two-Color Counters. Give children a few minutes to look at and touch the counters. Children are naturally curious about new materials—giving them an opportunity to explore the materials before you start playing will help them focus on the actual activity.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask</ac_teacher-card_run-in_hed>  Choose a number from 1 to 3 and say, “give me [that number].” For example: <ac_teacher-speaking>Give me one counter. Find one counter from your pile of counters and slide it over to me.</ac_teacher-speaking> Each child should count out that number of counters from the pile and hand you that number. Check that you received the correct number of counters by counting aloud.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat</ac_teacher-card_run-in_hed>  Continue by asking for two and three counters. If time allows, ask a child to be the person who says “give me <fill-in-the-blank>      </fill-in-the-blank>.”</ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Counting</ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>  How did you feel when you found the right number of counters? Did you feel proud? How did you know when you had the right number of counters?</ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>Give me 3!</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="2">
+          <ac_diff_support-challenge_heds>Support<ac_teacher-speaking/>
+          </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Give each child two Two-Color Counters. Only ask for one or two counters at a time. Guide children to count each counter by pointing to it.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="3">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Extend the total number of counters that you ask for to five. To make the activity even more challenging, give each child 10 Two-Color Counters to choose up to five from.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="2">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Give children many opportunities to practice counting in English throughout the day. Before beginning this activity, review numbers 1–10 in English, using number cards as a visual aid, and then review numbers 1–10 in their home language.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Gross Motor Support</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Add a gross motor component to the game by asking children to hop on one foot for each of the numbers of Two-Color Counters you ask for. Encourage children to count aloud as they hop.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64377-0</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>Number Band</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>  When we read <ac_teacher-speaking_emphasis_blue>I Know Numbers</ac_teacher-speaking_emphasis_blue>, we talked about how we use numbers in our lives. Now we will use numbers to practice counting.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Model Counting</ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>  Before we play “Number Band,” let’s review counting to 10 out loud together.</ac_teacher-speaking> Count aloud slowly from 1 to 10 and have children count with you. Repeat several times, until children are able to count to 10 chorally.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>  In this activity, we are going to have some fun with counting aloud. We will form a number band and sing some numbers!</ac_teacher-speaking> One child counts or sings “1, 2, 3.” Then, the next child counts or sings “1, 2, 3” and so on until all the children in the group have a turn. Then continue with higher numbers.</ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask</ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>  Who can sing the numbers from one to three?</ac_teacher-speaking> Give each child in the group a chance to sing or say “1, 2, 3.”</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Extend</ac_teacher-card_run-in_hed>  Ask the children to sing or say the numbers from one to five.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat</ac_teacher-card_run-in_hed>  Continue the activity until each child has sung or said the numbers from one to as high as they feel comfortable with.</ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Counting</ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>  What is the biggest number you think you can count to?</ac_teacher-speaking> Encourage children to practice their counting skills throughout the day, like when they’re waiting to use the water fountain or when they are walking home from school.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Feeling Proud</ac_teacher-card_run-in_hed>  Relate children’s hard work in this game to the vocabulary word proud. <ac_teacher-speaking>Are you proud of how well you count? How does that feel?</ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>NUMBER Band </ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="2">
+          <ac_diff_support-challenge_heds>Support</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Limit the highest number you count to until 3, 4, or 5. Instead of having children sing the numbers independently, sing together chorally. Use different, possibly silly, voices for each round to keep it fun.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="3">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Ask children to go around the circle and count the next number aloud. The first child says 1, the child sitting beside her says 2, and so on until you reach 10, or as high as the children can count.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="2">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Before playing Number Band, review the English words for numbers 1 through 10 with children. Use number cards as a visual support to connect the image of the numeral to each number word.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Attention Support</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Help children stay on task by limiting environmental distractions. For children who are easily distracted, place their chairs with their backs to the classroom so that children won’t be distracted by other things going on in the classroom.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64377-0</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>Heavy or light? </ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>  On page 5 of <ac_teacher-speaking_emphasis_blue>I Know Numbers!</ac_teacher-speaking_emphasis_blue>, we saw a person standing on a scale, weighing herself. One way we use numbers is to measure our weight. We can talk about weight by asking ourselves, “Is it heavy or light?”</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Revisit the Vocabulary</ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>  We learned the word <ac_teacher-speaking_emphasis_blue>weight</ac_teacher-speaking_emphasis_blue>. Review the weight vocabulary card.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>  In this activity, you will look at pictures and say what objects you see. After we name all of the objects, we are going to put them in order from lightest to heaviest—from the least weight to the most weight.</ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask</ac_teacher-card_run-in_hed>  Show each Activity Card one at a time and ask children to identify what object they see.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Extend</ac_teacher-card_run-in_hed>  Ask, <ac_teacher-speaking>Is this heavy or light?</ac_teacher-speaking> This is a relative question (one child may think the bananas are heavy while a different child may think they are light)—the important thing is that children are talking about weight and using words like: weigh, weight, heavy, heavier, light, lighter.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat</ac_teacher-card_run-in_hed>  Continue the activity until each child has had at least one turn.    </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Weight</ac_teacher-card_run-in_hed>  Ask children which picture shows the lightest object and which shows the heaviest. After deciding which is lightest and heaviest, place each picture card on opposite ends of an imaginary spectrum. Show the remaining four cards one at a time, asking children to explain their placement of each item on the spectrum. </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>Heavy or light?</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="2">
+          <ac_diff_support-challenge_heds>Support</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>To simplify this activity, show two cards at a time, and compare only those two items. Alternately, to make the activity more concrete, gather 4–6 classroom objects and have children do the activity with physical items.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="3">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Ask each child to name an object not shown on the picture cards, and challenge them to determine where on the light-to-heavy spectrum they would place that object.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="2">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>For children who are very new to learning English, pair them with other children who speak the same home language for this and other initial activities. Talking about the content in their home language helps children feel more relaxed and eager to participate.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Gross Motor Development</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Have each child hold up one of the picture cards with the photo facing the rest of the group. Instead of placing the cards on the table from lightest to heaviest, have children line up in that order.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64377-0</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>The Tallest Tower</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Gather Materials</ac_teacher-card_run-in_hed>  For this activity, you will need several Connecting Cubes for each child.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>  When we read the poster <ac_teacher-speaking_emphasis_blue>What I Like</ac_teacher-speaking_emphasis_blue>, we talked about many activities that we like to do. One activity was playing with blocks.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>  In this activity, we will build towers using Connecting Cubes. Then, we will compare our towers to see which ones are taller and which ones are shorter.</ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Set Up</ac_teacher-card_run-in_hed>  Have children build towers using Connecting Cubes. Encourage them to be creative and use any number of cubes they would like. Use three connecting cubes to build a tower of your own.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask</ac_teacher-card_run-in_hed>  When children have finished building, ask one child to compare the size of her tower to the size of your tower. <ac_teacher-speaking>Is your tower shorter or taller than mine?</ac_teacher-speaking> Stand your tower next to the child’s tower to make a side-by-side comparison.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Extend</ac_teacher-card_run-in_hed>  Have children compare towers with the child next to them. Encourage children to make a side-by-side comparison and say which one is taller and which one is shorter.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat</ac_teacher-card_run-in_hed>  Have children continue to build new towers of different heights, and ask children to compare their new towers.</ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Height</ac_teacher-card_run-in_hed>  Have children describe how they knew which tower was taller or shorter each time. <ac_teacher-speaking>How can you tell if both towers are the same height?</ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>The Tallest Tower</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="2">
+          <ac_diff_support-challenge_heds>Support</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Give each child only five Connecting Cubes. When demonstrating, build your own tower with three cubes and give the child two cubes to build her own.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="3">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Choose three or more cube towers and have children put them in order from tallest to shortest.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="2">
+          <ac_mod_teacher-card_d_hed>Multilingual Support</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Review size terms before starting the activity. Encourage children to pair hand gestures with each term to strengthen correlation, such as a hand high in the air for “taller” and a hand close to the ground for “shorter.”</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Attention Support</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Give each child a set of 10 Connecting Cubes and have them work with their backs to each other before comparing, if necessary. Working with their own materials independently can help children organize their thoughts and workspace, increasing their attention to detail.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64377-0</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

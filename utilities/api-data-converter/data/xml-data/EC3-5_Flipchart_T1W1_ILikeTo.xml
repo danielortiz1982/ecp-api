@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flip-chart lang="en">
+  <flip_chart-1 day="4">
+    <flip_chart-1_front>
+      <graphic href="EC3-5_Flipchart_T1W1_ILikeTo.jpg"/>
+    </flip_chart-1_front>
+    <flip_chart-1_back>
+      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <flip_chart-theme-text>ME AND YOU</flip_chart-theme-text>
+          <flip_chart-topic-text>All About Me</flip_chart-topic-text>
+          <flip_chart-concept-question>What makes us who we are?</flip_chart-concept-question>
+        </section-block>
+      </masthead>
+      <display-head-section>
+        <section-block type="display_b_1" index="1">
+          <flip_chart-display-head>I like to . . . </flip_chart-display-head>
+        </section-block>
+      </display-head-section>
+      <teacher-facing-section>
+        <section-block type="teacher-facing_b_1" index="1">
+          <flip_chart-teacher-facing-content-box>
+            <flip_chart-centered-content type="centered">
+              <flip_chart-teacher-facing-paragraph>!My favorite book sits on the shelf.<flip_chart-br> </flip_chart-br> One day I’ll read it by myself.</flip_chart-teacher-facing-paragraph>
+              <flip_chart-teacher-facing-paragraph>You run fast. I run slow.<flip_chart-br> </flip_chart-br>I like to catch. You like to throw.</flip_chart-teacher-facing-paragraph>
+              <flip_chart-teacher-facing-paragraph>I like to feed our classroom bunny.<flip_chart-br> </flip_chart-br>Her wiggly nose is very funny.</flip_chart-teacher-facing-paragraph>
+              <flip_chart-teacher-facing-paragraph>I draw four lines and make a square.<flip_chart-br> </flip_chart-br>I trace a circle and draw a bear.</flip_chart-teacher-facing-paragraph>
+              <flip_chart-teacher-facing-paragraph>We find a bin of wooden blocks.<flip_chart-br> </flip_chart-br>We make a tower and then fill a box.</flip_chart-teacher-facing-paragraph>
+              <flip_chart-teacher-facing-paragraph>Our stomachs rumble. It’s time to eat.<flip_chart-br> </flip_chart-br>Here comes the pizza! What a treat</flip_chart-teacher-facing-paragraph>
+            </flip_chart-centered-content>
+          </flip_chart-teacher-facing-content-box>
+        </section-block>
+      </teacher-facing-section>
+      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <flip_chart-credit-line>Photos ©: top left: Blend Images-JGI/Jamie Grill/Getty Images; top right: hanapon1002/Getty Images; center left: Zurijeta/Shutterstock; center right: PeopleImages/Getty Images; bottom left: FatCamera/Getty Images; bottom right: SeventyFour/Shutterstock.  </flip_chart-credit-line>
+        </section-block>
+      </copyright-section>
+    </flip_chart-1_back>
+  </flip_chart-1>
+</flip-chart>

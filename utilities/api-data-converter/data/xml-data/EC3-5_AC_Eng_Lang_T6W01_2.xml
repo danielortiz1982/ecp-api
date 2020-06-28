@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity-cards lang="en">
+  <ac_card-1 day="3">
+    <ac_card-1_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T6W01D3_C1_1055518097_cropped.png"/>
+    </ac_card-1_front>
+    <ac_card-1_back>
+      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>Is it quiet?</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_1" index="1">
+          <ac_ask-extend-hed>Ask</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>What is this a picture of? Does this place look quiet?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_1" index="1">
+          <ac_support-challenge-hed>Support</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>This is a c<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(city)</ac_teacher-talk-emphasis_non-ital>. It does not look q<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(quiet)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_1" index="1">
+          <ac_support-challenge-hed>Challenge</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>What are some other places that are not quiet?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_1" index="1">
+          <ac_ask-extend-hed>Extend</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Do you like being in quiet or not quiet places?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65177-5</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved. © David Garraza/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-1_back>
+  </ac_card-1>
+  <ac_card-2 day="3">
+    <ac_card-2_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T6W01D3_C2_714058630_cropped.png"/>
+    </ac_card-2_front>
+    <ac_card-2_back>
+      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>is it quiet?</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_2" index="1">
+          <ac_ask-extend-hed>Ask</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Does this place look quiet or not quiet?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_2" index="1">
+          <ac_support-challenge-hed>Support</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>This place is not q<fill-in-the-blank>            </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(quiet)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_2" index="1">
+          <ac_support-challenge-hed>Challenge</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Can you think of something that would make a loud noise in this place?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_2" index="1">
+          <ac_ask-extend-hed>Extend</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Do you live in a quiet place or a not quiet place?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65177-5</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved. © Keep Smiling Photography/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-2_back>
+  </ac_card-2>
+  <ac_card-3 day="3">
+    <ac_card-3_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T6W01D3_C3_11075512_cropped.png"/>
+    </ac_card-3_front>
+    <ac_card-3_back>
+      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>is it quiet?</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_3" index="1">
+          <ac_ask-extend-hed>Ask</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Look at this picture. Is this a quiet animal or not a quiet animal?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_3" index="1">
+          <ac_support-challenge-hed>Support</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>This is not a qu<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(quiet)</ac_teacher-talk-emphasis_non-ital> animal.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_3" index="1">
+          <ac_support-challenge-hed>Challenge</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>What is the sound a lion makes?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_3" index="1">
+          <ac_ask-extend-hed>Extend</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Can you name another animal that is not quiet?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65177-5</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved. © Peter Betts/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-3_back>
+  </ac_card-3>
+  <ac_card-4 day="3">
+    <ac_card-4_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T6W01D3_C4_1230454609_cropped.png"/>
+    </ac_card-4_front>
+    <ac_card-4_back>
+      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>is it quiet?</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_4" index="1">
+          <ac_ask-extend-hed>Ask</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Look at the picture. Is this a quiet animal or a loud animal?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_4" index="1">
+          <ac_support-challenge-hed>Support</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>This is a qu<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(quiet)</ac_teacher-talk-emphasis_non-ital> animal.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_4" index="1">
+          <ac_support-challenge-hed>Challenge</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Can you name another animal that is quiet?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_4" index="1">
+          <ac_ask-extend-hed>Extend</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>What are some pet animals that are quiet?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65177-5</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved. © Siripon2202/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-4_back>
+  </ac_card-4>
+  <ac_card-5 day="3">
+    <ac_card-5_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T6W01D3_C5_1383727625_cropped.png"/>
+    </ac_card-5_front>
+    <ac_card-5_back>
+      <masthead>
+        <section-block type="masthead_b_5" index="1">
+          <ac_header-game-card>is it quiet?</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_5" index="1">
+          <ac_ask-extend-hed>Ask</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Look at the picture. What is the boy doing? Is it quiet?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_5" index="1">
+          <ac_support-challenge-hed>Support</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>The boy is sl<fill-in-the-blank>                  </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(sleeping)</ac_teacher-talk-emphasis_non-ital>. It is qu<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(quiet)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_5" index="1">
+          <ac_support-challenge-hed>Challenge</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>What would happen if something or someone made a loud noise?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_5" index="1">
+          <ac_ask-extend-hed>Extend</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Why is it important to be quiet when someone is sleeping?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_5" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65177-5</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved. © Naisakorn/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-5_back>
+  </ac_card-5>
+  <ac_card-6 day="3">
+    <ac_card-6_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T6W01D3_C6_150544307_cropped.png"/>
+    </ac_card-6_front>
+    <ac_card-6_back>
+      <masthead>
+        <section-block type="masthead_b_6" index="1">
+          <ac_header-game-card>is it quiet?</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_6" index="1">
+          <ac_ask-extend-hed>Ask</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Look at the picture. Where are the people in the picture? Is this place quiet or not quiet?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_6" index="1">
+          <ac_support-challenge-hed>Support</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>They are at a p<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(park)</ac_teacher-talk-emphasis_non-ital>. A park is not q<fill-in-the-blank>            </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(quiet)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_6" index="1">
+          <ac_support-challenge-hed>Challenge</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Why is it okay to not be quiet at a park?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_6" index="1">
+          <ac_ask-extend-hed>Extend</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>When do you need to be quiet? When is it okay to not be quiet?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_6" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65177-5</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved. © 2xSamara.com/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-6_back>
+  </ac_card-6>
+</activity-cards>

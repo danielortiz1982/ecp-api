@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity-cards lang="es">
+  <ac_card-1 day="2">
+    <ac_card-1_front>
+      <graphic href="EC3-5_AC_Eng_Language_T2W02_D2_C6_210165820_cropped.png"/>
+    </ac_card-1_front>
+    <ac_card-1_back>
+      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card> ¿QUÉ VEN?</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_1" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Miren la imagen. ¿Qué ven?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_1" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Vemos a un niño con las manos d<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(detrás)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_1" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Dónde está parado el niño?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_1" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué pueden contarnos de las manos de los otros niños?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65731-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © wavebreakmedia/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-1_back>
+  </ac_card-1>
+  <ac_card-2 day="2">
+    <ac_card-2_front>
+      <graphic href="EC3-5_AC_Eng_Language_T2W02_D2_C7_210165820_cropped.png"/>
+    </ac_card-2_front>
+    <ac_card-2_back>
+      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card> ¿QUÉ VEN?</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_2" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Miren la imagen. ¿Qué ven?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_2" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Vemos tr<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(tres)</ac_teacher-talk-emphasis_non-ital> niñas.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_2" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Cuántos niños ven?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_2" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué pueden contarnos de las tres niñas?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65731-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © wavebreakmedia/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-2_back>
+  </ac_card-2>
+  <ac_card-3 day="2">
+    <ac_card-3_front>
+      <graphic href="EC3-5_AC_Eng_Language_T2W02_D2_C8_210165820_cropped.png"/>
+    </ac_card-3_front>
+    <ac_card-3_back>
+      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card> ¿QUÉ VEN? </ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_3" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Miren la imagen. ¿Qué ven? </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_3" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Vemos niños f<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(felices)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_3" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Cómo saben que los niños están felices?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_3" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué más ven en los niños de la imagen?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65731-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © wavebreakmedia/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-3_back>
+  </ac_card-3>
+  <ac_card-4 day="4">
+    <ac_card-4_front>
+      <graphic href="EC3-5_AC_Eng_Language_T2W02_D4_C1-80472229_cropped.png"/>
+    </ac_card-4_front>
+    <ac_card-4_back>
+      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card> ¿DÓNDE ESTOY? </ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_4" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Miren la imagen. ¿Dónde está el niño?   </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_4" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>El niño está en la cl<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(clase)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_4" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Cómo saben que el niño está en la clase?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_4" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Describan lo que ven en la imagen. ¿Qué está haciendo el niño?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65731-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Polka Dot/Getty Images.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-4_back>
+  </ac_card-4>
+  <ac_card-5 day="4">
+    <ac_card-5_front>
+      <graphic href="EC3-5_AC_Eng_Language_T2W02_D4_C2_1183910194_cropped.png"/>
+    </ac_card-5_front>
+    <ac_card-5_back>
+      <masthead>
+        <section-block type="masthead_b_5" index="1">
+          <ac_header-game-card> ¿DÓNDE ESTOY?</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_5" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Miren la imagen. ¿Dónde está la niña?  </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_5" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>La niña está en el patio de r<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(recreo)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_5" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Cómo saben que la niña está en el patio de recreo?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_5" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Describan lo que ven en la imagen. ¿Qué está haciendo la niña?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_5" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65731-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.© Zabavna/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-5_back>
+  </ac_card-5>
+  <ac_card-6 day="4">
+    <ac_card-6_front>
+      <graphic href="EC3-5_AC_Eng_Language_T2W02_D4_C3_1528454957_cropped.png"/>
+    </ac_card-6_front>
+    <ac_card-6_back>
+      <masthead>
+        <section-block type="masthead_b_6" index="1">
+          <ac_header-game-card> ¿DÓNDE ESTOY? </ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_6" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Miren la imagen. ¿Dónde están los niños?  </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_6" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Los niños están en el a<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(autobús)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_6" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Cómo saben que los niños están en el autobús?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_6" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Describan lo que ven en la imagen. ¿Qué están haciendo los niños?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_6" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65731-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © kali9/Getty Images.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-6_back>
+  </ac_card-6>
+  <ac_card-7 day="4">
+    <ac_card-7_front>
+      <graphic href="EC3-5_AC_Eng_Language_T2W02_D4_C4-78809993_cropped.png"/>
+    </ac_card-7_front>
+    <ac_card-7_back>
+      <masthead>
+        <section-block type="masthead_b_7" index="1">
+          <ac_header-game-card> ¿DÓNDE ESTOY? </ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_7" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Miren la imagen. ¿Dónde está el niño? </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_7" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>El niño está en la pl<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(playa)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_7" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Cómo saben que el niño está en la playa?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_7" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Describan lo que ven en la imagen. ¿Qué está haciendo el niño?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_7" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65731-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Fuse/Getty Images.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-7_back>
+  </ac_card-7>
+  <ac_card-8 day="4">
+    <ac_card-8_front>
+      <graphic href="EC3-5_AC_Eng_Language_T2W02_D4_C5_610914800_cropped.png"/>
+    </ac_card-8_front>
+    <ac_card-8_back>
+      <masthead>
+        <section-block type="masthead_b_8" index="1">
+          <ac_header-game-card> ¿DÓNDE ESTOY? </ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_8" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Miren la imagen. ¿Dónde está la familia? </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_8" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>La familia está en el p<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(parque)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_8" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Cómo saben que la familia está en el parque?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_8" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Describan lo que ven en la imagen. ¿Qué está haciendo la familia?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_8" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65731-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Monkey Business Images/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-8_back>
+  </ac_card-8>
+  <ac_card-9 day="4">
+    <ac_card-9_front>
+      <graphic href="EC3-5_AC_Eng_Language_T2W02_D4_C6-78489231_cropped.png"/>
+    </ac_card-9_front>
+    <ac_card-9_back>
+      <masthead>
+        <section-block type="masthead_b_9" index="1">
+          <ac_header-game-card> ¿DÓnde estOY? </ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_9" index="1">
+          <ac_ask-extend-hed>Pregunte</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Miren la imagen. ¿Dónde está el niño?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_9" index="1">
+          <ac_support-challenge-hed>Apoye</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>El niño está en la b<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(biblioteca)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_9" index="1">
+          <ac_support-challenge-hed>Estimule</ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Cómo saben que el niño está en la biblioteca?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_9" index="1">
+          <ac_ask-extend-hed>Amplíe</ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Describan lo que ven en la imagen. ¿Qué está haciendo el niño?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_9" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65731-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Comstock/Getty Images.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-9_back>
+  </ac_card-9>
+</activity-cards>

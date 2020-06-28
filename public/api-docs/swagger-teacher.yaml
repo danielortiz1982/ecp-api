@@ -1,0 +1,1813 @@
+openapi: "3.0.0"
+info:
+  version: "1.6.0"
+  title: "ECP Content API"
+  description: "Nodejs MongoDB RESTful API for managing ecp modules, student, teacher and pages"
+  license:
+    name: "ISC"
+    url: "https://opensource.org/licenses/ISC"
+
+servers:
+  - url: "/{server}/{version}"
+    variables:
+      server:
+        default: ecp-api
+      version:
+        enum:
+          - v1
+          - v2
+          - v3
+        default: v3
+
+components:
+  parameters:
+    langName:
+        in: path
+        name: languageName
+        required: true
+        schema:
+          type: string
+          enum: [en, es]
+        description: "String values 'en' for English and 'es' for Spanish"
+    moduleName:
+        in: path
+        name: moduleName
+        required: true
+        schema:
+          type: string
+          enum: [language, literature, math]
+        description: "String values 'language', 'literacy', and 'math'"
+    weekID:
+        in: path
+        name: weekID
+        required: true
+        schema:
+          type: string
+          enum: [week_001, week_002, week_003, week_004]
+        description: "String values in the format of week_000"
+    themeID:
+        in: path
+        name: themeID
+        required: true
+        schema:
+          type: string
+          example: theme_001
+        description: "String value 'theme_' with number in 3 digit format '001'"
+    skillID:
+        in: path
+        name: skillID
+        required: true
+        schema:
+          type: string
+          example: skill_001
+        description: "String value 'theme_' with number in 3 digit format '001'"
+    lessonID:
+        in: path
+        name: lessonID
+        required: true
+        schema:
+          type: string
+          example: lesson_001
+        description: "String value 'theme_' with number in 3 digit format '001'"
+
+  schemas:
+    get_response_body:
+      type: array
+      items:
+        type: object
+        properties:
+          _id: 
+            type: string
+            example: "5e67d84fa5ab78631192ee6c"
+          elements:
+            type: array
+            items:
+              $ref: "#/components/schemas/json_attributes" 
+    json_attributes:
+      type: object
+      properties:
+        lang:
+          type: string
+          example: "en"
+        module:
+          type: string
+          example: "language"
+        week:
+          type: string
+          example: "week_0001"
+        theme:
+          type: string
+          example: "theme_0001"
+    post_request_body:
+      type: array
+      items:
+        required:
+          - elements
+        properties:
+          elements:
+            $ref: "#/components/schemas/json_attributes"
+    post_response_body:
+        type: object
+        properties:
+          result:
+            type: object
+            properties:
+              ok:
+                type: integer
+                example: 1
+              n:
+                type: integer
+                example: 1
+          ops:
+            type: array
+            items:
+              $ref: "#/components/schemas/json_attributes"
+          _id:
+              type: string
+              example: "5e67d84fa5ab78631192ee6d"
+
+paths:
+  # Activity Cards
+  /teacher/activity-cards:
+    get:
+      tags:
+        - Activity Cards
+      summary: "Gets all Activity Card content"
+      description: "Returns an  array containing JSON content for all Activity Card content"
+      parameters: []
+      responses:
+        200:
+          description: "Returns an array containing JSON content for all Activity Card content"
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/get_response_body"
+        400:
+          description: "Bad Request Response Code"
+
+  /teacher/activity-cards/{languageName}:
+    get:
+      tags:
+        - Activity Cards
+      summary: "Gets all Activity Card content"
+      description: "Returns an  array containing JSON content Activity Card content specified by language"
+      parameters:
+        - $ref: "#/components/parameters/langName"
+      responses:
+        200:
+          description: "Returns an array containing JSON content for all Activity Card content"
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/get_response_body"
+        400:
+          description: "Bad Request Response Code"
+
+  /teacher/activity-cards/{languageName}/{moduleName}:
+    get:
+      tags:
+        - Activity Cards
+      summary: "Gets all Activity Card content"
+      description: "Returns an  array containing JSON content Activity Card content specified by language and module"
+      parameters:
+        - $ref: "#/components/parameters/langName"
+        - $ref: "#/components/parameters/moduleName"
+      responses:
+        200:
+          description: "Returns an  array containing JSON content Activity Card content specified by language and module"
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/get_response_body"
+        400:
+          description: "Bad Request Response Code"
+
+  /teacher/activity-cards/{languageName}/{moduleName}/{weekID}:
+    get:
+      tags:
+        - Activity Cards
+      summary: "Gets all Activity Card content"
+      description: "Returns an  array containing JSON content Activity Card content specified by language, module, and week"
+      parameters:
+        - $ref: "#/components/parameters/langName"
+        - $ref: "#/components/parameters/moduleName"
+        - $ref: "#/components/parameters/weekID"
+      responses:
+        200:
+          description: "Returns an  array containing JSON content Activity Card content specified by language, module, and week"
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/get_response_body"
+        400:
+          description: "Bad Request Response Code"
+
+  /teacher/activity-cards/{languageName}/{moduleName}/{weekID}/{themeID}:
+    get:
+      tags:
+        - Activity Cards
+      summary: "Gets all Activity Card content"
+      description: "Returns an  array containing JSON content Activity Card content specified by language, module, week, and theme"
+      parameters:
+        - $ref: "#/components/parameters/langName"
+        - $ref: "#/components/parameters/moduleName"
+        - $ref: "#/components/parameters/weekID"
+        - $ref: "#/components/parameters/themeID"
+      responses:
+        200:
+          description: "Returns an  array containing JSON content Activity Card content specified by language, module, week, and theme"
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/get_response_body"
+        400:
+          description: "Bad Request Response Code"
+
+  # Alphabet Cards 
+  /teacher/alphabet-cards:
+    get:
+      tags:
+        - Alphabet Cards
+      summary: "Gets all Alphabet Card content"
+      description: "Returns an  array containing JSON content for all Alphabet Card content"
+      parameters: []
+      responses:
+        200:
+          description: "Returns an array containing JSON content for all Alphabet Card content"
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/get_response_body"
+        400:
+          description: "Bad Request Response Code"
+
+  /teacher/alphabet-cards/{languageName}:
+    get:
+      tags:
+        - Alphabet Cards
+      summary: "Gets all Alphabet Card content"
+      description: "Returns an  array containing JSON content for Alphabet Card content specified by language"
+      parameters: 
+        - $ref: "#/components/parameters/langName"
+      responses:
+        200:
+          description: "Returns an array containing JSON content for all Alphabet Card content specified by language"
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/get_response_body"
+        400:
+          description: "Bad Request Response Code"
+
+  /teacher/alphabet-cards/{languageName}/{moduleName}:
+    get:
+      tags:
+        - Alphabet Cards
+      summary: "Gets all Alphabet Card content"
+      description: "Returns an  array containing JSON content for Alphabet Card content specified by language and module"
+      parameters: 
+        - $ref: "#/components/parameters/langName"
+        - $ref: "#/components/parameters/moduleName"
+      responses:
+        200:
+          description: "Returns an array containing JSON content for all Alphabet Card content specified by language and module"
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/get_response_body"
+        400:
+          description: "Bad Request Response Code"
+  
+  /teacher/alphabet-cards/{languageName}/{moduleName}/{weekID}:
+    get:
+      tags:
+        - Alphabet Cards
+      summary: "Gets all Alphabet Card content"
+      description: "Returns an  array containing JSON content for Alphabet Card content specified by language, module, and week"
+      parameters: 
+        - $ref: "#/components/parameters/langName"
+        - $ref: "#/components/parameters/moduleName"
+        - $ref: "#/components/parameters/weekID"
+      responses:
+        200:
+          description: "Returns an array containing JSON content for all Alphabet Card content specified by language, module, and week"
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/get_response_body"
+        400:
+          description: "Bad Request Response Code"
+
+  /teacher/alphabet-cards/{languageName}/{moduleName}/{weekID}/{themeID}:
+    get:
+      tags:
+        - Alphabet Cards
+      summary: "Gets all Alphabet Card content"
+      description: "Returns an  array containing JSON content for Alphabet Card content specified by language, module, week, and theme"
+      parameters: 
+        - $ref: "#/components/parameters/langName"
+        - $ref: "#/components/parameters/moduleName"
+        - $ref: "#/components/parameters/weekID"
+        - $ref: "#/components/parameters/themeID"
+      responses:
+        200:
+          description: "Returns an array containing JSON content for all Alphabet Card content specified by language, module, week, and theme"
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/get_response_body"
+        400:
+          description: "Bad Request Response Code"
+
+  # Audio Resources
+
+  /teacher/audio-res:
+    get:
+      tags:
+        - Audio Resources
+      summary: "Gets all Alphabet Card content"
+      description: "Returns an  array containing JSON content for all Audio Resources content"
+      parameters: []
+      responses:
+        200:
+          description: "Returns an array containing JSON content for all Audio Resources content"
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/get_response_body"
+        400:
+          description: "Bad Request Response Code"
+  
+  /teacher/audio-res/{languageName}:
+    get:
+      tags:
+        - Audio Resources
+      summary: "Gets all Alphabet Card content"
+      description: "Returns an array containing JSON content for Audio Resources content specified by language"
+      parameters:
+        - $ref: "#/components/parameters/langName"
+      responses:
+        200:
+          description: "Returns an array containing JSON content for Audio Resources content specified by language"
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/get_response_body"
+        400:
+          description: "Bad Request Response Code"
+  
+  /teacher/audio-res/post:
+    post:
+      tags:
+        - Audio Resources
+      summary: "Post Audio Resources content"
+      description: "Send an array containing JSON content for Audio Resources"
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/post_request_body"
+      responses:
+        200:
+            description: "Returns an array containing JSON content for Audio Resources"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/post_response_body"
+    
+  # Days Skills
+  /teacher/days-skills:
+    get:
+      tags: 
+        - Days Skills
+      summary: "Gets all Days Skills content"
+      description: "Returns an array containing JSON content for the Days Skills page"
+      parameters: []
+      responses:
+        200:
+          description: "Returns an array containing JSON content for the Days Skills page"
+          content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+        400:
+            description: "Bad Request Response Code"
+
+  /teacher/days-skills/{skillID}:
+    get:
+      tags: 
+        - Days Skills
+      summary: "Gets all Days Skills content"
+      description: "Returns an array containing JSON content for the Days Skills page"
+      parameters:
+        - $ref: "#/components/parameters/skillID"
+      responses:
+        200:
+          description: "Returns an array containing JSON content for the Days Skills page"
+          content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+        400:
+            description: "Bad Request Response Code"
+
+  /teacher/days-skills/post:
+    post:
+      tags:
+        - Days Skills
+      summary: "Post Days Skills content"
+      description: "Send an array containing JSON content for Days Skills"
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/post_request_body"
+      responses:
+        200:
+            description: "Returns an array containing JSON content for Days Skills"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/post_response_body"
+
+  # Flip Charts
+  /teacher/flip-charts:
+    get:
+      tags:
+        - Flip Charts
+      summary: "Get Flip Charts content"
+      description: "Get an array containing JSON content for Flip Charts"
+      parameters: []
+      responses:
+        200:
+          description: "Returns an array containing JSON content for Flop Charts"
+          content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+        400:
+            description: "Bad Request Response Code"
+      
+  /teacher/flip-charts/{languageName}:
+    get:
+      tags:
+        - Flip Charts
+      summary: "Get Flip Charts content"
+      description: "Get an array containing JSON content for Flip Charts specified by language"
+      parameters:
+        - $ref: "#/components/parameters/langName"
+      responses:
+        200:
+          description: "Returns an array containing JSON content for Flip Charts specified by language"
+          content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+        400:
+            description: "Bad Request Response Code"
+
+  /teacher/flip-charts/{languageName}/{moduleName}:
+    get:
+      tags:
+        - Flip Charts
+      summary: "Get Flip Charts content"
+      description: "Get an array containing JSON content for Flip Charts specified by language and module"
+      parameters:
+        - $ref: "#/components/parameters/langName"
+        - $ref: "#/components/parameters/moduleName"
+      responses:
+        200:
+          description: "Returns an array containing JSON content for Flip Charts specified by language and module"
+          content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+        400:
+            description: "Bad Request Response Code"
+  
+  /teacher/flip-charts/{languageName}/{moduleName}/{weekID}:
+    get:
+      tags:
+        - Flip Charts
+      summary: "Get Flip Charts content"
+      description: "Get an array containing JSON content for Flip Charts specified by language, module, and week"
+      parameters:
+        - $ref: "#/components/parameters/langName"
+        - $ref: "#/components/parameters/moduleName"
+        - $ref: "#/components/parameters/weekID"
+      responses:
+        200:
+          description: "Returns an array containing JSON content for Flip Charts specified by language, module, and week"
+          content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+        400:
+            description: "Bad Request Response Code"
+  
+  /teacher/flip-charts/{languageName}/{moduleName}/{weekID}/{themeID}:
+    get:
+      tags:
+        - Flip Charts
+      summary: "Get Flip Charts content"
+      description: "Get an array containing JSON content for Flip Charts specified by language, module, week, and theme"
+      parameters:
+        - $ref: "#/components/parameters/langName"
+        - $ref: "#/components/parameters/moduleName"
+        - $ref: "#/components/parameters/weekID"
+        - $ref: "#/components/parameters/themeID"
+      responses:
+        200:
+          description: "Returns an array containing JSON content for Flip Charts specified by language, module, week, and theme"
+          content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+        400:
+            description: "Bad Request Response Code"
+
+  # Homepage Tips
+  /teacher/homepage-tips:
+    get:
+      tags:
+        - Homepage Tips
+      summary: "Get Homepage Tips content"
+      description: "Get an array containing JSON content for Homepage Tips"
+      parameters: []
+      responses:
+        200:
+          description: "Returns an array containing JSON content for Homepage Tips"
+          content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+        400:
+            description: "Bad Request Response Code"
+
+  /teacher/homepage-tips/{languageName}:
+    get:
+      tags:
+        - Homepage Tips
+      summary: "Get Homepage Tips content specified by language"
+      description: "Get an array containing JSON content for Homepage Tips specified by language"
+      parameters: 
+        - $ref: "#/components/parameters/langName"
+      responses:
+        200:
+          description: "Returns an array containing JSON content for Homepage Tips specified by language"
+          content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+        400:
+            description: "Bad Request Response Code"
+  
+  /teacher/homepage-tips/post:
+    post:
+      tags:
+        - Homepage Tips
+      summary: "Post Homepage Tips content"
+      description: "Send an array containing JSON content for Homepage Tips"
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/post_request_body"
+      responses:
+        200:
+            description: "Returns an array containing JSON content for Homepage Tips"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/post_response_body" 
+    
+  # Large Group Cards
+  /teacher/large-group-card:
+    get:
+      tags:
+        - Large Group Card
+      summary: "Get Large Group Card content"
+      description: "Get an array containing JSON content for Large Group Card content"
+      parameters: []
+      responses:
+        200:
+          description: "Returns an array containing JSON content for Large Group Card content"
+          content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+        400:
+            description: "Bad Request Response Code"          
+
+  /teacher/large-group-card/{languageName}:
+    get:
+      tags:
+        - Large Group Card
+      summary: "Gets all Large Group Card content given language"
+      description: "Returns an array containing JSON content for all Large Group Card content specified by language" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Large Group Cadr content specified by language"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code"
+
+  /teacher/large-group-card/{languageName}/{moduleName}:
+    get:
+      tags:
+        - Large Group Card
+      summary: "Gets all Large Group Card content given language and module"
+      description: "Returns an array containing JSON content for all Large Group Card content specified by language and module" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+        - $ref: "#/components/parameters/moduleName"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Large Group Cadr content specified by language and module"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code"
+
+  /teacher/large-group-card/{languageName}/{moduleName}/{weekID}:
+    get:
+      tags:
+        - Large Group Card
+      summary: "Gets all Large Group Card content given language, module, and week"
+      description: "Returns an array containing JSON content for all Large Group Card content specified by language, module, and week" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+        - $ref: "#/components/parameters/moduleName"
+        - $ref: "#/components/parameters/weekID"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Large Group Cadr content specified by language, module, and week"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code"
+
+  /teacher/large-group-card/{languageName}/{moduleName}/{weekID}/{themeID}:
+    get:
+      tags:
+        - Large Group Card
+      summary: "Gets all Large Group Card content given language, module, week, and theme"
+      description: "Returns an array containing JSON content for all Large Group Card content for specified language" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+        - $ref: "#/components/parameters/moduleName"
+        - $ref: "#/components/parameters/weekID"
+        - $ref: "#/components/parameters/themeID"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Large Group Card content specified by language, module, theme, and week"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code"
+            
+  # Lesson Days  
+  /teacher/lesson-days:
+      get:
+        tags:
+          - Lesson Days
+        summary: "Gets all Large Group Card content given language, module, week, and theme"
+        description: "Returns an array containing JSON content for all lesson days content" 
+        parameters: []
+        responses:
+            200:
+              description: "Returns an array containing JSON content for lesson days content"
+              content:
+                application/json:
+                  schema: 
+                    $ref: "#/components/schemas/get_response_body"
+            400:
+              description: "Bad Request Response Code"
+  
+  /teacher/lesson-days/{languageName}:
+    get:  
+      tags:
+          - Lesson Days
+      summary: "Gets all Lesson Days content given language"
+      description: "Returns an array containing JSON content for all Lesson Days content specified by language" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Lesson Days content specified by language"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code"
+
+  /teacher/lesson-days/{languageName}/{lessonID}:
+    get:  
+      tags:
+          - Lesson Days
+      summary: "Gets all Lesson Days content given language and lessonID"
+      description: "Returns an array containing JSON content for all Lesson Days content specified by language and lessonID" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+        - $ref: "#/components/parameters/lessonID"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Lesson Days content specified by language and lessonID"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code"
+  
+  /teacher/lesson-days/post:
+    post:
+      tags:
+        - Lesson Days
+      summary: "Post Lesson Days content"
+      description: "Send an array containing JSON content for Lesson Days"
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/post_request_body"
+      responses:
+        200:
+            description: "Returns an array containing JSON content for Lesson Days"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/post_response_body" 
+
+  # Modules
+  /teacher/modules:
+    get:
+      tags:
+        - Modules
+      summary: "Get Module content"
+      description: "Get an array containing JSON content for Module content"
+      parameters: []
+      responses:
+        200:
+          description: "Returns an array containing JSON content for Module content"
+          content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+        400:
+            description: "Bad Request Response Code" 
+
+  /teacher/modules/{languageName}:
+    get:  
+      tags:
+          - Modules
+      summary: "Gets all Modules content given language"
+      description: "Returns an array containing JSON content for all Modules content specified by language" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Modules content specified by language"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code"
+
+  /teacher/modules/post:
+    post:
+      tags:
+        - Modules
+      summary: "Post Modules content"
+      description: "Send an array containing JSON content for Modules"
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/post_request_body"
+      responses:
+        200:
+            description: "Returns an array containing JSON content for Modules"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/post_response_body" 
+
+  # Number Cards
+  /teacher/number-cards:
+    get:  
+      tags:
+          - Number Cards
+      summary: "Gets all Number Cards content"
+      description: "Returns an array containing JSON content for all Number Cards content" 
+      parameters: []
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Number Cards content"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code"
+
+  /teacher/number-cards/{languageName}:
+    get:  
+      tags:
+          - Number Cards
+      summary: "Gets all Number Cards content given language"
+      description: "Returns an array containing JSON content for all Number Cards content specified by language" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Number Cards content specified by language"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code"
+
+  # Resource Categories
+  /teacher/resource-categories:
+    get:
+      tags:
+        - Resource Categories
+      summary: "Get Resource Categories content"
+      description: "Get an array containing JSON content for Resource Categories content"
+      parameters: []
+      responses:
+        200:
+          description: "Returns an array containing JSON content for Resource Categories content"
+          content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+        400:
+            description: "Bad Request Response Code" 
+
+  /teacher/resource-categories/{languageName}:
+    get:  
+      tags:
+          - Resource Categories
+      summary: "Gets all Resource Categories content given language"
+      description: "Returns an array containing JSON content for all Resource Categories content specified by language" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Resource Categories content specified by language"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code"
+
+  /teacher/resource-categories/post:
+    post:
+      tags:
+        - Resource Categories
+      summary: "Post Resource Categories content"
+      description: "Send an array containing JSON content for Resource Categories"
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/post_request_body"
+      responses:
+        200:
+            description: "Returns an array containing JSON content for Resource Categories"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/post_response_body" 
+
+  # Resource Hierarchy
+  /teacher/resource-hierarchy:
+    get:
+      tags:
+        - Resource Hierarchy
+      summary: "Get Resource Hierarchy content"
+      description: "Get an array containing JSON content for Resource Hierarchy content"
+      parameters: []
+      responses:
+        200:
+          description: "Returns an array containing JSON content for Resource Hierarchy content"
+          content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+        400:
+            description: "Bad Request Response Code" 
+
+  /teacher/resource-hierarchy/{languageName}:
+    get:  
+      tags:
+          - Resource Hierarchy
+      summary: "Gets all Resource Hierarchy content given language"
+      description: "Returns an array containing JSON content for all Resource Hierarchy content specified by language" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Resource Hierarchy content specified by language"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code"
+
+  /teacher/resource-hierarchy/post:
+    post:
+      tags:
+        - Resource Hierarchy
+      summary: "Post Resource Hierarchy content"
+      description: "Send an array containing JSON content for Resource Hierarchy"
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/post_request_body"
+      responses:
+        200:
+            description: "Returns an array containing JSON content for Resource Hierarchy"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/post_response_body" 
+
+  # Resources
+  /teacher/resources:
+    get:
+      tags:
+        - Resources
+      summary: "Get Resources content"
+      description: "Get an array containing JSON content for Resources content"
+      parameters: []
+      responses:
+        200:
+          description: "Returns an array containing JSON content for Resources content"
+          content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+        400:
+            description: "Bad Request Response Code" 
+
+  /teacher/resources/{languageName}:
+    get:  
+      tags:
+          - Resources
+      summary: "Gets all Resources content given language"
+      description: "Returns an array containing JSON content for Resources content specified by language" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Resources content specified by language"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code"
+
+  /teacher/resources/post:
+    post:
+      tags:
+        - Resources
+      summary: "Post Resources content"
+      description: "Send an array containing JSON content for Resources"
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/post_request_body"
+      responses:
+        200:
+            description: "Returns an array containing JSON content for Resources"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/post_response_body"
+
+  # Schol Skills
+  /teacher/schol-skills:
+    get:
+      tags:
+        - Schol Skills
+      summary: "Get Schol Skills content"
+      description: "Get an array containing JSON content for Schol Skills content"
+      parameters: []
+      responses:
+        200:
+          description: "Returns an array containing JSON content for Schol Skills content"
+          content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+        400:
+            description: "Bad Request Response Code" 
+
+  /teacher/schol-skills/{languageName}:
+    get:  
+      tags:
+          - Schol Skills
+      summary: "Gets all Schol Skills content given language"
+      description: "Returns an array containing JSON content for Schol Skills content specified by language" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Schol Skills content specified by language"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code"
+
+  /teacher/schol-skills/post:
+    post:
+      tags:
+        - Schol Skills
+      summary: "Post Schol Skills content"
+      description: "Send an array containing JSON content for Schol Skills"
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/post_request_body"
+      responses:
+        200:
+            description: "Returns an array containing JSON content for Schol Skills"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/post_response_body"
+
+  # State Skills
+  /teacher/state-skills:
+    get:
+      tags:
+        - State Skills
+      summary: "Get State Skills content"
+      description: "Get an array containing JSON content for State Skills content"
+      parameters: []
+      responses:
+        200:
+          description: "Returns an array containing JSON content for State Skills content"
+          content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+        400:
+            description: "Bad Request Response Code" 
+
+  /teacher/state-skills/{languageName}:
+    get:  
+      tags:
+          - State Skills
+      summary: "Gets all State Skills content given language"
+      description: "Returns an array containing JSON content for State Skills content specified by language" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for State Skills content specified by language"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code"
+
+  /teacher/state-skills/post:
+    post:
+      tags:
+        - State Skills
+      summary: "Post State Skills content"
+      description: "Send an array containing JSON content for State Skills"
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/post_request_body"
+      responses:
+        200:
+            description: "Returns an array containing JSON content for State Skills"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/post_response_body"
+
+  # Strategy Cards
+  /teacher/strategy-cards:
+    get:  
+      tags:
+          - Strategy Cards
+      summary: "Gets all Strategy Cards content"
+      description: "Returns an array containing JSON content for Strategy Cards content" 
+      parameters: []
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Strategy Cards content"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code"
+
+  /teacher/strategy-cards/{languageName}:
+    get:  
+      tags:
+          - Strategy Cards
+      summary: "Gets all Strategy Cards content given language"
+      description: "Returns an array containing JSON content for Strategy Cards content specified by language" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Strategy Cards content specified by language"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code"
+
+  # Teacher Cards
+  /teacher/teacher-cards:
+    get:  
+      tags:
+          - Teacher Cards
+      summary: "Gets all Teacher Cards content"
+      description: "Returns an array containing JSON content for all Teacher Cards content" 
+      parameters: []
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Teacher Cards Content"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code"
+
+  /teacher/teacher-cards/{languageName}:
+    get:  
+      tags:
+          - Teacher Cards
+      summary: "Gets all Teacher Cards content given a language and module"
+      description: Returns an array containing JSON content for Teacher Cards Content specified by language and module" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Teacher Cards Content specified by language and module"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code"
+                  
+  /teacher/teacher-cards/{languageName}/{moduleName}:
+    get:  
+      tags:
+          - Teacher Cards
+      summary: "Gets all Teacher Cards content given a language and module"
+      description: Returns an array containing JSON content for Teacher Cards Content specified by language and module" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+        - $ref: "#/components/parameters/moduleName"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Teacher Cards Content specified by language and module"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code"
+
+  /teacher/teacher-cards/{languageName}/{moduleName}/{weekID}:
+    get:  
+      tags:
+          - Teacher Cards
+      summary: "Gets all Teacher Cards content given a language, module, and theme"
+      description: Returns an array containing JSON content for Teacher Cards Content specified by language, module, and theme" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+        - $ref: "#/components/parameters/moduleName"
+        - $ref: "#/components/parameters/weekID"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Teacher Cards Content specified by language, module, and theme"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code"
+
+  /teacher/teacher-cards/{languageName}/{moduleName}/{weekID}/{themeID}:
+    get:  
+      tags:
+          - Teacher Cards
+      summary: "Gets all Teacher Cards content given language, module, week, and theme"
+      description: "Returns an array containing JSON content for all Teacher Cards content specified by language, module, theme, and week" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+        - $ref: "#/components/parameters/moduleName"
+        - $ref: "#/components/parameters/weekID"
+        - $ref: "#/components/parameters/themeID"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Teacher Cards content specified by language, module, theme, and week"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code"
+
+  # Teacher's Guide
+  /teacher/teacher-guides:
+    get:  
+      tags:
+          - Teacher's Guide
+      summary: "Gets all Teacher's Guide content"
+      description: "Returns an array containing JSON content for all Teacher's Guide content" 
+      parameters: []
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Teacher's Guide Content"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code"
+
+  /teacher/teacher-guides/{languageName}:
+    get:  
+      tags:
+          - Teacher's Guide
+      summary: "Gets all Teacher's Guide content given a language and module"
+      description: Returns an array containing JSON content for Teacher's Guide Content specified by language and module" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Teacher's Guide Content specified by language and module"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code"
+                  
+  /teacher/teacher-guides/{languageName}/{moduleName}:
+    get:  
+      tags:
+          - Teacher's Guide
+      summary: "Gets all Teacher's Guide content given a language and module"
+      description: Returns an array containing JSON content for Teacher's Guide Content specified by language and module" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+        - $ref: "#/components/parameters/moduleName"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Teacher's Guide Content specified by language and module"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code"
+
+  /teacher/teacher-guides/{languageName}/{moduleName}/{weekID}:
+    get:  
+      tags:
+          - Teacher's Guide
+      summary: "Gets all Teacher's Guide content given a language, module, and theme"
+      description: Returns an array containing JSON content for Teacher's Guide Content specified by language, module, and theme" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+        - $ref: "#/components/parameters/moduleName"
+        - $ref: "#/components/parameters/weekID"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Teacher's Guide Content specified by language, module, and theme"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code"
+
+  /teacher/teacher-guides/{languageName}/{moduleName}/{weekID}/{themeID}:
+    get:  
+      tags:
+          - Teacher's Guide
+      summary: "Gets all Teacher's Guide content given language, module, week, and theme"
+      description: "Returns an array containing JSON content for all Teacher's Guide content specified by language, module, theme, and week" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+        - $ref: "#/components/parameters/moduleName"
+        - $ref: "#/components/parameters/weekID"
+        - $ref: "#/components/parameters/themeID"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Teacher's Guide content specified by language, module, theme, and week"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code"
+
+  # Themes
+  /teacher/themes:
+    get:
+      tags:
+        - Themes
+      summary: "Get Themes content"
+      description: "Get an array containing JSON content for Themes content"
+      parameters: []
+      responses:
+        200:
+          description: "Returns an array containing JSON content for Themes content"
+          content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+        400:
+            description: "Bad Request Response Code" 
+
+  /teacher/themes/{languageName}:
+    get:  
+      tags:
+          - Themes
+      summary: "Gets all Themes content given language"
+      description: "Returns an array containing JSON content for Themes content specified by language" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Themes content specified by language"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code"
+
+  /teacher/themes/post:
+    post:
+      tags:
+        - Themes
+      summary: "Post Themes content"
+      description: "Send an array containing JSON content for Themes"
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/post_request_body"
+      responses:
+        200:
+            description: "Returns an array containing JSON content for Themes"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/post_response_body"
+
+  # Vocabulary Cards  
+  /teacher/vocabulary-cards:
+    get:  
+      tags:
+          - Vocabulary Cards
+      summary: "Gets all Vocabulary Cards content"
+      description: "Returns an array containing JSON content for all Vocabulary Cards content" 
+      parameters: []
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Vocabulary Cards content"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code" 
+    
+  /teacher/vocabulary-cards/{languageName}:
+    get:  
+      tags:
+          - Vocabulary Cards
+      summary: "Gets all Vocabulary Cards content given language"
+      description: "Returns an array containing JSON content for all Vocabulary Cards content specified by language" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Vocabulary Cards content specified by language"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code" 
+
+  /teacher/vocabulary-cards/{languageName}/{moduleName}:
+    get:  
+      tags:
+          - Vocabulary Cards
+      summary: "Gets all Vocabulary Cards content given language, and module"
+      description: "Returns an array containing JSON content for all Vocabulary Cards content specified by language, and module" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+        - $ref: "#/components/parameters/moduleName"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Vocabulary Cards content specified by language, and module"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code" 
+
+  /teacher/vocabulary-cards/{languageName}/{moduleName}/{weekID}:
+    get:  
+      tags:
+          - Vocabulary Cards
+      summary: "Gets all Vocabulary Cards content given language, module, and week"
+      description: "Returns an array containing JSON content for all Vocabulary Cards content specified by language, module, and week" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+        - $ref: "#/components/parameters/moduleName"
+        - $ref: "#/components/parameters/weekID"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Vocabulary Cards content specified by language, module, and week"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code" 
+
+  /teacher/vocabulary-cards/{languageName}/{moduleName}/{weekID}/{themeID}:
+    get:  
+      tags:
+          - Vocabulary Cards
+      summary: "Gets all Vocabulary Cards content given language, module, week, and theme"
+      description: "Returns an array containing JSON content for all Vocabulary Cards content specified by language, module, theme, and week" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+        - $ref: "#/components/parameters/moduleName"
+        - $ref: "#/components/parameters/weekID"
+        - $ref: "#/components/parameters/themeID"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Vocabulary Cards content specified by language, module, theme, and week"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code" 
+  
+  # Week At A Glance
+  /teacher/wag:
+    get:  
+      tags:
+          - Week At A Glance
+      summary: "Gets all Week At A Glance content"
+      description: "Returns an array containing JSON content for all Week At A Glance content" 
+      parameters: []
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Week At A Glance content"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code" 
+
+  /teacher/wag/{languageName}:
+    get:  
+      tags:
+          - Week At A Glance
+      summary: "Gets all Week At A Glance content given language"
+      description: "Returns an array containing JSON content for all Week At A Glance content specified by language" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Week At A Glance content specified by language"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code" 
+
+  /teacher/wag/{languageName}/{moduleName}:
+    get:  
+      tags:
+          - Week At A Glance
+      summary: "Gets all Week At A Glance content given language and module"
+      description: "Returns an array containing JSON content for all Week At A Glance content specified by language and module" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+        - $ref: "#/components/parameters/moduleName"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Week At A Glance content specified by language and module"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code" 
+
+  /teacher/wag/{languageName}/{moduleName}/{weekID}:
+    get:  
+      tags:
+          - Week At A Glance
+      summary: "Gets all Week At A Glance content given language, module, and week"
+      description: "Returns an array containing JSON content for all Week At A Glance content specified by language, module, and week" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+        - $ref: "#/components/parameters/moduleName"
+        - $ref: "#/components/parameters/weekID"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Week At A Glance content specified by language, module, and week"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code" 
+
+  /teacher/wag/{languageName}/{moduleName}/{weekID}/{themeID}:
+    get:  
+      tags:
+          - Week At A Glance
+      summary: "Gets all Week At A Glance content given language, module, week, and theme"
+      description: "Returns an array containing JSON content for all Week At A Glance content specified by language, module, theme, and week" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+        - $ref: "#/components/parameters/moduleName"
+        - $ref: "#/components/parameters/weekID"
+        - $ref: "#/components/parameters/themeID"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Week At A Glance content specified by language, module, theme, and week"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code" 
+
+  # Week Mod
+  /teacher/week-mod-xml:
+      get:  
+        tags:
+            - Week Mod
+        summary: "Gets all Week Mod content"
+        description: "Returns an array containing JSON content for all Week Mod content" 
+        parameters: []
+        responses:
+            200:
+              description: "Returns an array containing JSON content for Week Mod content"
+              content:
+                application/json:
+                  schema: 
+                    $ref: "#/components/schemas/get_response_body"
+            400:
+              description: "Bad Request Response Code"
+  /teacher/week-mod-xml/post:
+      post:
+        tags:
+          - Week Mod
+        summary: "Post Week Mod content"
+        description: "Send an array containing JSON content for Week Mod"
+        requestBody:
+          required: true
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/post_request_body"
+        responses:
+          200:
+              description: "Returns an array containing JSON content for Week Mod"
+              content:
+                application/json:
+                  schema: 
+                    $ref: "#/components/schemas/post_response_body"
+  
+  # Week At A Glance Week Files
+  /teacher/week-wag-files:
+    get:  
+      tags:
+          - Week Files for Week At A Glance
+      summary: "Gets all Week Files for Week At A Glance"
+      description: "Returns an array containing JSON content for all Week Files for Week At A Glance" 
+      parameters: []
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Week Files for Week At A Glance"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code" 
+  
+  /teacher/week-wag-files/{languageName}:
+    get:  
+      tags:
+          - Week Files for Week At A Glance
+      summary: "Gets all Week Files for Week At A Glance given language"
+      description: "Returns an array containing JSON content for all Week Files for Week At A Glance specified by language" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Week Files for Week At A Glance specified by language"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code" 
+  
+  /teacher/week-wag-files/{languageName}/{moduleName}:
+    get:  
+      tags:
+          - Week Files for Week At A Glance
+      summary: "Gets all Week Files for Week At A Glance given language and module"
+      description: "Returns an array containing JSON content for all Week Files for Week At A Glance specified by language and module" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+        - $ref: "#/components/parameters/moduleName"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Week Files for Week At A Glance specified by language and module"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code" 
+  
+  /teacher/week-wag-files/{languageName}/{moduleName}/{weekID}:
+    get:  
+      tags:
+          - Week Files for Week At A Glance
+      summary: "Gets all Week Files for Week At A Glance given language, module, and week"
+      description: "Returns an array containing JSON content for all Week Files for Week At A Glance specified by language, module, and week" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+        - $ref: "#/components/parameters/moduleName"
+        - $ref: "#/components/parameters/weekID"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Week Files for Week At A Glance specified by language, module, and week"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code" 
+  
+  /teacher/week-wag-files/{languageName}/{moduleName}/{weekID}/{themeID}:
+    get:  
+      tags:
+          - Week Files for Week At A Glance
+      summary: "Gets all Week Files for Week At A Glance given language, module, week, and theme"
+      description: "Returns an array containing JSON content for all Week Files for Week At A Glance specified by language, module, theme, and week" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+        - $ref: "#/components/parameters/moduleName"
+        - $ref: "#/components/parameters/weekID"
+        - $ref: "#/components/parameters/themeID"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Week Files for Week At A Glance specified by language, module, theme, and week"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code" 
+  
+  /teacher/week-wag-files/post:
+    post:
+      tags:
+        - Week Files for Week At A Glance
+      summary: "Post Week Files fo Week At A Glance"
+      description: "Send an array containing JSON content for Week Files fo Week At A Glance"
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/post_request_body"
+      responses:
+        200:
+            description: "Returns an array containing JSON content for Week Files fo Week At A Glance"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/post_response_body"
+  
+  # Weeks
+  /teacher/weeks:
+    get:  
+      tags:
+          - Weeks
+      summary: "Gets all Weeks content"
+      description: "Returns an array containing JSON content for all Weeks content" 
+      parameters: []
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Weeks content"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code" 
+  
+  /teacher/weeks/{languageName}:
+    get:  
+      tags:
+          - Weeks
+      summary: "Gets all Weeks content given language"
+      description: "Returns an array containing JSON content for all Weeks content specified by language" 
+      parameters:
+        - $ref: "#/components/parameters/langName"
+      responses:
+          200:
+            description: "Returns an array containing JSON content for Weeks content specified by language"
+            content:
+              application/json:
+                schema: 
+                  $ref: "#/components/schemas/get_response_body"
+          400:
+            description: "Bad Request Response Code" 
+  
+  /teacher/weeks/post:
+      post:
+        tags:
+          - Week Mod
+        summary: "Post Weeks content"
+        description: "Send an array containing JSON content for Weeks content"
+        requestBody:
+          required: true
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/post_request_body"
+        responses:
+          200:
+              description: "Returns an array containing JSON content for Weeks content"
+              content:
+                application/json:
+                  schema: 
+                    $ref: "#/components/schemas/post_response_body"

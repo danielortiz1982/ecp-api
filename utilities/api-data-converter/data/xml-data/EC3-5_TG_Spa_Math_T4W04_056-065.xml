@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./preview-styles.css" type="text/css"?>
+<teaching-guide xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" lang="es">
+  <day_1>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 4: </tg_week_hed>
+        <tg_topic_hed>Características de los animales</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338602784_cov_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>Propio de los animales</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="EC_RAC_Lang_4_4_redux_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T4_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  clasificación; contar </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed>  ciencias de la vida</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Desarrolle los conocimientos, anime a los niños con una canción e introduzca vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>características</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>clasificar</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, presente el libro y pregunte: <tg_bullet-directions_guiding-question>¿Qué características tienen algunos animales del libro?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Lea por placer y señale cómo clasificar animales según sus atributos. </tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión, diferenciando según sea necesario. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Clasificación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>describe y clasifica objetos según similitudes y diferencias.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Contar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>usa el último número contado para mostrar “cuántos” objetos hay en un conjunto cuando estos están organizados (hasta 10) en una línea, en una matriz rectangular, en un círculo, o (hasta 5) esparcidos.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>clasifica y organiza para agrupar y ordenar elementos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la vida:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>identifica, investiga, habla y describe las partes de diferentes plantas y animales.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Emparejar las características de los animales</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lang_T4_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+        <graphic href="EC_stock_stones_65183455_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Colección</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  clasificación; contar </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed>  ciencias de la vida</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Estimule a los niños a clasificar manipulativos por atributos. </tg_bullet-directions>
+        <tg_bullet-directions>Comente las características de cada animal y pida a los niños que clasifiquen las tarjetas de actividad según las características de los animales. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Qué partes del cuerpo tienen los animales? ¿Cómo las usan?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y  CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué libro elegiste? ¿Por qué lo elegiste? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes representar a un animal? ¿Qué animal representaste? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cuántos hay en el grupo? ¿Cómo lo sabes?  </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes escribir sobre un animal? ¿Cuáles son algunas cosas que sabes sobre ese animal? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE  CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué figuras ves? ¿Cuántas figuras hay en la página? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO  ABC </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué letra hiciste? ¿Cómo la hiciste? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué estás construyendo? ¿Cuántos bloques usaste hasta ahora?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Propio de los animales by Penelope Arlon and Tory Gordon-Harris. Copyright © 2021, 2015 by Scholastic Inc. Translation copyright © 2021, 2015 by Scholastic Inc. Published by Scholastic Inc.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_1>
+  <day_2>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 4: </tg_week_hed>
+        <tg_topic_hed>Características de los animales</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338602784_cov_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro:  <tg_materials-caption_book-title-Ital>Propio de los animales</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="EC_RAC_Lang_4_4_redux_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T4_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjeta de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  contar; clasificación </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  motivación y creatividad </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed>  ciencias de la vida</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Comparta el Mind Builder <tg_bullet-directions_guiding-question>mostrar curiosidad </tg_bullet-directions_guiding-question>e introduzca vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>curioso</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, asocie el Mind Builder con <tg_bullet-directions_book-title>Propio de los animales</tg_bullet-directions_book-title>. </tg_bullet-directions>
+        <tg_bullet-directions>Lea atentamente para poner atención y hablar sobre el Mind Builder y repasar el conteo. </tg_bullet-directions>
+        <tg_bullet-directions>Ofrezca una oportunidad de prolongar el juego. </tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión, diferenciando según sea necesario. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Clasificación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>describe y clasifica objetos según similitudes y diferencias.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Contar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>usa el último número contado para mostrar “cuántos” objetos hay en un conjunto cuando estos están organizados (hasta 10) en una línea, en una matriz rectangular, en un círculo, o (hasta 5) esparcidos.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>demuestra curiosidad al hacer preguntas de “por qué” para aprender más.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Tecnología </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Programas y herramientas:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>usa aplicaciones y programas digitales de aprendizaje.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la vida:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>identifica, investiga, habla y describe las partes de diferentes plantas y animales.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Buscar por qué</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lang_T4_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+        <graphic href="EC_stock_Computer_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Internet o libros de referencia</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  clasificación  </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  motivación y creatividad </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Tecnología:</tg_learning-goals_inline-hed> programas y herramientas</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Anime a los niños a hacer preguntas con “por qué” sobre los animales en las tarjetas. </tg_bullet-directions>
+        <tg_bullet-directions>Busque respuestas a las preguntas de los niños. </tg_bullet-directions>
+        <tg_bullet-directions>Determine nuevas maneras de clasificar según la información recientemente aprendida. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Qué partes del cuerpo tienen los animales? ¿Cómo las usan?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y  CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué despierta tu curiosidad en este libro? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué animal puedes representar? ¿Por qué decidiste actuar como ese animal?  </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Por qué es útil usar las manos para contar hasta 10? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes escribir sobre una característica de un animal por la que te sientes curioso? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE  CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Por qué elegiste esos colores? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO  ABC </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes encontrar algo en el salón que empiece con el sonido /y/ o /z/? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Por qué usas esos materiales para construir el animal?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Propio de los animales by Penelope Arlon and Tory Gordon-Harris. Copyright © 2021, 2015 by Scholastic Inc. Translation copyright © 2021, 2015 by Scholastic Inc. Published by Scholastic Inc. Clifford the Big Red DogTM illustration copyright © The Norman Bridwell Trust.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Photo © Igor Kyrlytsya/Shutterstock.</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_2>
+  <day_3>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 4: </tg_week_hed>
+        <tg_topic_hed>Características de los animales</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338602784_cov_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro:  <tg_materials-caption_book-title-Ital>Propio de los animales</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="EC_RAC_Lang_4_4_redux_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T4_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  clasificación; contar </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed>  motivación y creatividad; función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed>  ciencias de la vida</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Haga una actividad de clasificación, repase el conteo de 10 e introduzca vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>igual</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>diferente</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Para comenzar la hora del cuento, repase <tg_bullet-directions_book-title>Propio de los animales</tg_bullet-directions_book-title> y haga la pregunta guía: <tg_bullet-directions_guiding-question>¿Cómo usan sus características los animales de este libro?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Lea de manera interactiva para lograr mayor comprensión y para clasificar las características en iguales y diferentes. </tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión y diferencie. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Clasificación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>describe y clasifica objetos según similitudes y diferencias.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Contar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>usa el último número contado para mostrar “cuántos” objetos hay en un conjunto cuando estos están organizados (hasta 10) en una línea, en una matriz rectangular, en un círculo, o (hasta 5) esparcidos.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operaciones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>usa estrategias informales para separar hasta 10 objetos en dos conjuntos iguales, o hasta 5 objetos en dos conjuntos de cualquier cantidad.</tg_skills-focus-skill-text>  </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>demuestra curiosidad al hacer preguntas de “por qué” para aprender más.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>clasifica y organiza para agrupar y ordenar elementos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la vida:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>identifica, investiga, habla y describe las partes de diferentes plantas y animales.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>¡Dame patitos!</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lang_T4_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de  actividad</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Cubos conectores</tg_materials-caption>
+        <graphic href="VC Redux Spa T4_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  contar; clasificación; operaciones </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed>  motivación y creatividad; función ejecutiva</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Pida a los niños que practiquen contar un número específico de “patos” de un grupo de diez patos. </tg_bullet-directions>
+        <tg_bullet-directions>Guíe a los niños para clasificar los grupos de “patos” como “iguales” y “diferentes” según el número de cada grupo. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Qué partes del cuerpo tienen los animales? ¿Cómo las usan?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y  CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué características de animales puedes encontrar en este libro? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo puedes representar a una araña? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué dos números puedes sumar para tener 10 cubos conectores en total? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes escribir sobre un animal con características asombrosas? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE  CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes dibujar una historia sobre animales que luzcan diferentes? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO  ABC </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué sonido oyes al principio del nombre de tu animal favorito? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué materiales podemos agregar a este animal para mostrar sus características?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Propio de los animales by Penelope Arlon and Tory Gordon-Harris. Copyright © 2021, 2015 by Scholastic Inc. Translation copyright © 2021, 2015 by Scholastic Inc. Published by Scholastic Inc.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_3>
+  <day_4>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 4: </tg_week_hed>
+        <tg_topic_hed>Características de los animales</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="EC3-5_Flipchart_T4W4_FantasticFeetSPAN_Redux_cropped.png" index="1"/>
+        <tg_materials-caption index="1">
+          <tg_materials-caption_book-title-Ital>Papelógrafo de grandes ideas: ¡Vaya patas!</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="EC_RAC_Lang_4_4_redux_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T4_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+        <graphic href="9781338602784_cov_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Libro: <tg_materials-caption_book-title-Ital>Propio de los animales</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  contar; operaciones </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  motivación y creatividad </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed>  ciencias de la vida</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Lea sobre las patas de los animales, asocie con las operaciones, haga un juego de patrones e introduzca nuevo vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>pie</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>patas</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, asocie los textos <tg_bullet-directions_book-title>¡Vaya patas!</tg_bullet-directions_book-title> y <tg_bullet-directions_book-title>Propio de los animales</tg_bullet-directions_book-title>. </tg_bullet-directions>
+        <tg_bullet-directions>Lea de manera interactiva y conecte con operaciones al separar patas de animales en grupos iguales.  </tg_bullet-directions>
+        <tg_bullet-directions>Ofrezca la oportunidad de prolongar el juego. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Contar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>usa el último número contado para mostrar “cuántos” objetos hay en un conjunto cuando estos están organizados (hasta 10) en una línea, en una matriz rectangular, en un círculo, o (hasta 5) esparcidos.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operaciones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>usa estrategias informales para separar hasta 10 objetos en dos conjuntos iguales, o hasta 5 objetos en dos conjuntos de cualquier cantidad.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>demuestra curiosidad al hacer preguntas de “por qué” para aprender más.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la vida:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>identifica, investiga, habla y describe las partes de diferentes plantas y animales.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Desarrollo físico </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motricidad fina:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>experimenta con una variedad de destrezas motoras finas, pero puede carecer de fuerza y control.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Representar: salto de rana</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lang_T4_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de  actividad</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Cubos conectores</tg_materials-caption>
+        <graphic href="EC_stock_BluePaper_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Papel azul</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  operaciones </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  motivación y creatividad </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Desarrollo físico:</tg_learning-goals_inline-hed>  motricidad fina</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Guíe a los niños para separar los cubos conectores en grupos iguales de “ranas”. </tg_bullet-directions>
+        <tg_bullet-directions>Pida a los niños que cuenten el número de cubos que hay en cada grupo y que comparen. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Qué partes del cuerpo tienen los animales? ¿Cómo las usan?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y  CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué te parece ese libro? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Por qué decidiste representar este animal y no otro? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo puedes separar estos en grupos iguales? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué escribirías primero y por qué? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE  CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Por qué elegiste esos colores? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO  ABC </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Si miras alrededor del salón, ¿puedes encontrar más ejemplos con esa letra? ¿Cuántos hay? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes hacer que tu creación sea más sólida para que no se caiga?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Propio de los animales by Penelope Arlon and Tory Gordon-Harris. Copyright © 2021, 2015 by Scholastic Inc. Translation copyright © 2021, 2015 by Scholastic Inc. Published by Scholastic Inc.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_4>
+  <day_5>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 4: </tg_week_hed>
+        <tg_topic_hed>Características de los animales</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338602784_cov_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro:  <tg_materials-caption_book-title-Ital>Propio de los animales</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="EC_RAC_Lang_4_4_redux_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T4_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  operaciones; contar </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  motivación y creatividad </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed>  pensamiento científico; ciencias de la vida</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Asocie el libro con el pensamiento científico y amplíe el juego de patrones sobre animales. </tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, repase el libro y pregunte: <tg_bullet-directions_guiding-question>¿Cuáles son algunas características de los animales que ustedes también tienen?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Lea y vuelva a narrar de forma interactiva para lograr la participación física y el enfoque en las operaciones. </tg_bullet-directions>
+        <tg_bullet-directions>Verifique la comprensión y diferencie. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Contar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>usa el último número contado para mostrar “cuántos” objetos hay en un conjunto cuando estos están organizados (hasta 10) en una línea, en una matriz rectangular, en un círculo, o (hasta 5) esparcidos.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operaciones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>usa estrategias informales para separar hasta 10 objetos en dos conjuntos iguales, o hasta 5 objetos en dos conjuntos de cualquier cantidad.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la vida:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>identifica, investiga, habla y describe las partes de diferentes plantas y animales.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Pensamiento científico:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>observa, investiga, describe y habla acerca de objetos comunes.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>demuestra curiosidad al hacer preguntas de “por qué” para aprender más; hace conexiones entre situaciones.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>comparte verbalmente el significado de la propia escritura.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Escritura independiente, dibujar o narrar cuentos</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC3-5_ResponsePrompt_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Hoja de respuesta</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  contar; operaciones </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  motivación y creatividad </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> escritura</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Apoye a los niños mientras responden de forma independiente a la pregunta: <tg_bullet-directions_guiding-question>¿Cuáles son algunas características de los animales que ustedes también tienen?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique. </tg_bullet-directions>
+        <tg_bullet-directions>Guarde los escritos de los niños para exhibirlos la semana próxima.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Qué partes del cuerpo tienen los animales? ¿Cómo las usan?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y  CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué tipo de libro te gustaría leer luego? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Representa un animal que nunca nadie haya visto. ¿Cómo lo harás? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Veo cuatro ratones. ¿Cómo los puedo dividir en dos grupos iguales? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué historia puedes contar sobre el animal que inventaste? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE  CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes dibujar un animal que nunca nadie haya visto? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO  ABC </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Invéntale un nombre a tu animal. ¿Con qué sonido comienza el nombre? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué ideas tienes para crear un animal o su casa? ¿Qué usarás?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Propio de los animales by Penelope Arlon and Tory Gordon-Harris. Copyright © 2021, 2015 by Scholastic Inc. Translation copyright © 2021, 2015 by Scholastic Inc. Published by Scholastic Inc.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_5>
+  <day_1_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Clasificación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>clasifica objetos iguales y diferentes en grupos y usa lenguaje para describir cómo los grupos son similares y diferentes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.E.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Contar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>cuenta hasta 10 objetos y demuestra que lo último que contó indica la cantidad de objetos que se contaron.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.5)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>clasifica y organiza para agrupar y ordenar elementos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la vida:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>observa, investiga, describe y discute las características de los organismos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.B.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_1_texas>
+  <day_2_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Contar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>cuenta hasta 10 objetos y demuestra que lo último que contó indica la cantidad de objetos que se contaron.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.5)</tg_skills-focus-skill-code>  </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Clasificación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>clasifica objetos iguales y diferentes en grupos y usa lenguaje para describir cómo los grupos son similares y diferentes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.E.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>demuestra curiosidad al hacer preguntas de “por qué” para aprender más.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Tecnología </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Programas y herramientas:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>abre y navega a través de aplicaciones digitales y programas de aprendizaje.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.X.A.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la vida:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>observa, investiga, describe y discute las características de los organismos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.B.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_2_texas>
+  <day_3_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Clasificación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>clasifica objetos iguales y diferentes en grupos y usa lenguaje para describir cómo los grupos son similares y diferentes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.E.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Contar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>cuenta hasta 10 objetos y demuestra que lo último que contó indica la cantidad de objetos que se contaron.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.5)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operaciones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>usa estrategias informales para separar hasta 10 objetos en grupos iguales.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.B.3)</tg_skills-focus-skill-code>  </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>demuestra curiosidad al hacer preguntas de “por qué” para aprender más.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>clasifica y organiza para agrupar y ordenar elementos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la vida:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>observa, investiga, describe y discute las características de los organismos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.B.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_3_texas>
+  <day_4_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Contar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>cuenta hasta 10 objetos y demuestra que lo último que contó indica la cantidad de objetos que se contaron.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.5)</tg_skills-focus-skill-code>  </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operaciones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>usa estrategias informales para separar hasta 10 objetos en grupos iguales.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.B.3)</tg_skills-focus-skill-code>  </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>demuestra curiosidad al hacer preguntas de “por qué” para aprender más.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la vida:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>observa, investiga, describe y discute las características de los organismos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.B.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Desarrollo físico </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motricidad fina:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>muestra un mayor control de las tareas que requieren la coordinación de los ojos y las manos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IX.B.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_4_texas>
+  <day_5_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Contar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>cuenta hasta 10 objetos y demuestra que lo último que contó indica la cantidad de objetos que se c\ontaron.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.5)</tg_skills-focus-skill-code>  </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operaciones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>usa estrategias informales para separar hasta 10 objetos en grupos iguales.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.B.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>demuestra curiosidad al hacer preguntas </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB);</tg_skills-focus-skill-code>
+          <tg_skills-focus-skill-text> hace conexiones entre situaciones.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la vida:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>observa, investiga, describe y discute las características de los organismos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.B.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Pensamiento científico:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>observa, investiga, describe y discute propiedades y características de objetos comunes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.A.1)</tg_skills-focus-skill-code>. </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Alfabetización </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>usa de manera intencional marcas, letras o símbolos para registrar el lenguaje y comparte significados oralmente.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IV.A.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_5_texas>
+</teaching-guide>

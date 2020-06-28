@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alphabet-cards lang="es">  <alph_card-1 type="vertical">    <alph_card-1_front>          <graphic href="EC_3-5_AlphabetCards_SPA_01F.png"/>
+      <section-block index="1" type="f_1">
+        <photo-label>Auto</photo-label>
+      </section-block>
+    </alph_card-1_front>    <alph_card-1_back>                                                                                                                                                                                                                                                                                <section-block index="1" type="b_1">
+        <large>A</large>
+      </section-block>
+    </alph_card-1_back>  </alph_card-1>  <alph_card-2 type="vertical">    <alph_card-2_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_02F.png"/>
+      <section-block index="1" type="f_2">
+        <photo-label>Búho</photo-label>
+      </section-block>
+    </alph_card-2_front>
+    <alph_card-2_back>          <section-block index="1" type="b_2">
+        <large>B</large>
+      </section-block>
+    </alph_card-2_back>      </alph_card-2>  <alph_card-3 type="vertical">    <alph_card-3_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_03F.png"/>
+      <section-block index="1" type="f_3">
+        <photo-label>Canguro</photo-label>
+      </section-block>
+    </alph_card-3_front>
+    <alph_card-3_back>          <section-block index="1" type="b_3">
+        <large>C</large>
+      </section-block>
+    </alph_card-3_back>      </alph_card-3>  <alph_card-4 type="vertical">    <alph_card-4_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_04F.png"/>
+      <section-block index="1" type="f_4">
+        <photo-label>Dedo</photo-label>
+      </section-block>
+    </alph_card-4_front>
+    <alph_card-4_back>          <section-block index="1" type="b_4">
+        <large>D</large>
+      </section-block>
+    </alph_card-4_back>      </alph_card-4>  <alph_card-5 type="vertical">    <alph_card-5_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_05F.png"/>
+      <section-block index="1" type="f_5">
+        <photo-label>Elefante</photo-label>
+      </section-block>
+    </alph_card-5_front>
+    <alph_card-5_back>          <section-block index="1" type="b_5">
+        <large>E</large>
+      </section-block>
+    </alph_card-5_back>      </alph_card-5>  <alph_card-6 type="vertical">    <alph_card-6_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_06F.png"/>
+      <section-block index="1" type="f_6">
+        <photo-label>Flecha</photo-label>
+      </section-block>
+    </alph_card-6_front>
+    <alph_card-6_back>          <section-block index="1" type="b_6">
+        <large>F</large>
+      </section-block>
+    </alph_card-6_back>      </alph_card-6>  <alph_card-7 type="vertical">    <alph_card-7_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_07F.png"/>
+      <section-block index="1" type="f_7">
+        <photo-label>Gallo</photo-label>
+      </section-block>
+    </alph_card-7_front>
+    <alph_card-7_back>          <section-block index="1" type="b_7">
+        <large>G</large>
+      </section-block>
+    </alph_card-7_back>      </alph_card-7>  <alph_card-8 type="vertical">    <alph_card-8_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_08F.png"/>
+      <section-block index="1" type="f_8">
+        <photo-label>Hormiga</photo-label>
+      </section-block>
+    </alph_card-8_front>
+    <alph_card-8_back>          <section-block index="1" type="b_8">
+        <large>H</large>
+      </section-block>
+    </alph_card-8_back>      </alph_card-8>  <alph_card-9 type="vertical">    <alph_card-9_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_09F.png"/>
+      <section-block type="f_9" index="1">
+        <photo-label>Iguana</photo-label>
+      </section-block>
+    </alph_card-9_front>
+    <alph_card-9_back>          <section-block type="b_9" index="1">
+        <large>I</large>
+      </section-block>
+    </alph_card-9_back>      </alph_card-9>  <alph_card-10 type="vertical">    <alph_card-10_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_10F.png"/>
+      <section-block index="1" type="f_10">
+        <photo-label>Jugo</photo-label>
+      </section-block>
+    </alph_card-10_front>
+    <alph_card-10_back>          <section-block index="1" type="b_10">
+        <large>J</large>
+      </section-block>
+    </alph_card-10_back>      </alph_card-10>  <alph_card-11 type="vertical">    <alph_card-11_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_11F.png"/>
+      <section-block index="1" type="f_11">
+        <photo-label>Kiwi</photo-label>
+      </section-block>
+    </alph_card-11_front>
+    <alph_card-11_back>          <section-block index="1" type="b_11">
+        <large>K</large>
+      </section-block>
+    </alph_card-11_back>      </alph_card-11>                                                            <alph_card-12 type="vertical">
+    <alph_card-12_front>
+      <graphic href="EC_3-5_AlphabetCards_SPA_12F.png"/>
+      <section-block index="1" type="f_12">
+        <photo-label>Leche</photo-label>
+      </section-block>
+    </alph_card-12_front>
+    <alph_card-12_back>
+      <section-block index="1" type="b_12">
+        <large>L</large>
+      </section-block>
+    </alph_card-12_back>
+  </alph_card-12>
+  <alph_card-13 type="vertical">    <alph_card-13_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_13F.png"/>
+      <section-block index="1" type="f_13">
+        <photo-label>Manzana</photo-label>
+      </section-block>
+    </alph_card-13_front>
+    <alph_card-13_back>          <section-block index="1" type="b_13">
+        <large>M</large>
+      </section-block>
+    </alph_card-13_back>      </alph_card-13>  <alph_card-14 type="vertical">    <alph_card-14_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_14F.png"/>
+      <section-block index="1" type="f_14">
+        <photo-label>Nubes</photo-label>
+      </section-block>
+    </alph_card-14_front>
+    <alph_card-14_back>          <section-block index="1" type="b_14">
+        <large>N</large>
+      </section-block>
+    </alph_card-14_back>      </alph_card-14>  <alph_card-15 type="vertical">    <alph_card-15_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_15F.png"/>
+      <section-block index="1" type="f_15">
+        <photo-label>NIÑA</photo-label>
+      </section-block>
+    </alph_card-15_front>
+    <alph_card-15_back>          <section-block index="1" type="b_15">
+        <large>Ñ</large>
+      </section-block>
+    </alph_card-15_back>      </alph_card-15>  <alph_card-16 type="vertical">    <alph_card-16_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_16F.png"/>
+      <section-block type="f_16" index="1">
+        <photo-label>Oreja</photo-label>
+      </section-block>
+    </alph_card-16_front>
+    <alph_card-16_back>          <section-block index="1" type="b_16">
+        <large>O</large>
+      </section-block>
+    </alph_card-16_back>      </alph_card-16>  <alph_card-17 type="vertical">    <alph_card-17_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_17F.png"/>
+      <section-block index="1" type="f_17">
+        <photo-label>Perro</photo-label>
+      </section-block>
+    </alph_card-17_front>
+    <alph_card-17_back>          <section-block index="1" type="b_17">
+        <large>P</large>
+      </section-block>
+    </alph_card-17_back>      </alph_card-17>  <alph_card-18 type="vertical">    <alph_card-18_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_18F.png"/>
+      <section-block index="1" type="f_18">
+        <photo-label>Queso</photo-label>
+      </section-block>
+    </alph_card-18_front>
+    <alph_card-18_back>          <section-block index="1" type="b_18">
+        <large>Q</large>
+      </section-block>
+    </alph_card-18_back>      </alph_card-18>  <alph_card-19 type="vertical">    <alph_card-19_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_19F.png"/>
+      <section-block index="1" type="f_19">
+        <photo-label>Reina</photo-label>
+      </section-block>
+    </alph_card-19_front>
+    <alph_card-19_back>          <section-block index="1" type="b_19">
+        <large>R</large>
+      </section-block>
+    </alph_card-19_back>      </alph_card-19>  <alph_card-20 type="vertical">    <alph_card-20_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_20F.png"/>
+      <section-block index="1" type="f_20">
+        <photo-label>Sol</photo-label>
+      </section-block>
+    </alph_card-20_front>
+    <alph_card-20_back>          <section-block index="1" type="b_20">
+        <large>S</large>
+      </section-block>
+    </alph_card-20_back>      </alph_card-20>  <alph_card-21 type="vertical">    <alph_card-21_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_21F.png"/>
+      <section-block index="1" type="f_21">
+        <photo-label>Tigre</photo-label>
+      </section-block>
+    </alph_card-21_front>
+    <alph_card-21_back>          <section-block index="1" type="b_21">
+        <large>T</large>
+      </section-block>
+    </alph_card-21_back>      </alph_card-21>  <alph_card-22 type="vertical">    <alph_card-22_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_22F.png"/>
+      <section-block index="1" type="f_22">
+        <photo-label>Uvas</photo-label>
+      </section-block>
+    </alph_card-22_front>
+    <alph_card-22_back>          <section-block index="1" type="b_22">
+        <large>U</large>
+      </section-block>
+    </alph_card-22_back>      </alph_card-22>  <alph_card-23 type="vertical">    <alph_card-23_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_23F.png"/>
+      <section-block index="1" type="f_23">
+        <photo-label>Vaso</photo-label>
+      </section-block>
+    </alph_card-23_front>
+    <alph_card-23_back>          <section-block index="1" type="b_23">
+        <large>V</large>
+      </section-block>
+    </alph_card-23_back>      </alph_card-23>  <alph_card-24 type="vertical">    <alph_card-24_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_24F.png"/>
+      <section-block index="1" type="f_24">
+        <photo-label>Wapití</photo-label>
+      </section-block>
+    </alph_card-24_front>
+    <alph_card-24_back>          <section-block index="1" type="b_24">
+        <large>W</large>
+      </section-block>
+    </alph_card-24_back>      </alph_card-24>  <alph_card-25 type="vertical">    <alph_card-25_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_25F.png"/>
+      <section-block index="1" type="f_25">
+        <photo-label>Xilófono</photo-label>
+      </section-block>
+    </alph_card-25_front>
+    <alph_card-25_back>          <section-block index="1" type="b_25">
+        <large>X</large>
+      </section-block>
+    </alph_card-25_back>      </alph_card-25>  <alph_card-26 type="vertical">    <alph_card-26_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_26F.png"/>
+      <section-block index="1" type="f_26">
+        <photo-label>Yucas</photo-label>
+      </section-block>
+    </alph_card-26_front>
+    <alph_card-26_back>          <section-block index="1" type="b_26">
+        <large>Y</large>
+      </section-block>
+    </alph_card-26_back>      </alph_card-26>
+  <alph_card-27 type="vertical">    <alph_card-27_front>                                                                                                                                                                                                                                                                                <graphic href="EC_3-5_AlphabetCards_SPA_27F.png"/>
+      <section-block index="1" type="f_27">
+        <photo-label>Zapatos</photo-label>
+      </section-block>
+    </alph_card-27_front>
+    <alph_card-27_back>          <section-block index="1" type="b_27">
+        <large>Z</large>
+      </section-block>
+    </alph_card-27_back>      </alph_card-27>  <alph_card-28 type="vertical">    <alph_card-28_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_28F.png"/>
+      <section-block index="1" type="f_28">
+        <photo-label>avestruz</photo-label>
+      </section-block>
+    </alph_card-28_front>
+    <alph_card-28_back>          <section-block index="1" type="b_28">
+        <large>a</large>
+      </section-block>
+    </alph_card-28_back>      </alph_card-28>  <alph_card-29 type="vertical">    <alph_card-29_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_29F.png"/>
+      <section-block index="1" type="f_29">
+        <photo-label>bicicleta</photo-label>
+      </section-block>
+    </alph_card-29_front>
+    <alph_card-29_back>          <section-block index="1" type="b_29">
+        <large>b</large>
+      </section-block>
+    </alph_card-29_back>      </alph_card-29>  <alph_card-30 type="vertical">    <alph_card-30_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_30F.png"/>
+      <section-block index="1" type="f_30">
+        <photo-label>corazón</photo-label>
+      </section-block>
+    </alph_card-30_front>
+    <alph_card-30_back>          <section-block index="1" type="b_30">
+        <large>c</large>
+      </section-block>
+    </alph_card-30_back>      </alph_card-30>  <alph_card-31 type="vertical">    <alph_card-31_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_31F.png"/>
+      <section-block index="1" type="f_31">
+        <photo-label>durazno</photo-label>
+      </section-block>
+    </alph_card-31_front>
+    <alph_card-31_back>          <section-block index="1" type="b_31">
+        <large>d</large>
+      </section-block>
+    </alph_card-31_back>      </alph_card-31>  <alph_card-32 type="vertical">    <alph_card-32_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_32F.png"/>
+      <section-block index="1" type="f_32">
+        <photo-label>estrella</photo-label>
+      </section-block>
+    </alph_card-32_front>
+    <alph_card-32_back>          <section-block index="1" type="b_32">
+        <large>e</large>
+      </section-block>
+    </alph_card-32_back>      </alph_card-32>  <alph_card-33 type="vertical">    <alph_card-33_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_33F.png"/>
+      <section-block index="1" type="f_33">
+        <photo-label>foco</photo-label>
+      </section-block>
+    </alph_card-33_front>
+    <alph_card-33_back>          <section-block index="1" type="b_33">
+        <large>f</large>
+      </section-block>
+    </alph_card-33_back>      </alph_card-33>  <alph_card-34 type="vertical">    <alph_card-34_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_34F.png"/>
+      <section-block index="1" type="f_34">
+        <photo-label>gato</photo-label>
+      </section-block>
+    </alph_card-34_front>
+    <alph_card-34_back>          <section-block index="1" type="b_34">
+        <large>g</large>
+      </section-block>
+    </alph_card-34_back>      </alph_card-34>  <alph_card-35 type="vertical">    <alph_card-35_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_35F.png"/>
+      <section-block type="f_35" index="1">
+        <photo-label>hoja</photo-label>
+      </section-block>
+    </alph_card-35_front>
+    <alph_card-35_back>          <section-block index="1" type="b_35">
+        <large>h</large>
+      </section-block>
+    </alph_card-35_back>      </alph_card-35>  <alph_card-36 type="vertical">    <alph_card-36_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_36F.png"/>
+      <section-block index="1" type="f_36">
+        <photo-label>insecto</photo-label>
+      </section-block>
+    </alph_card-36_front>
+    <alph_card-36_back>          <section-block index="1" type="b_36">
+        <large>i</large>
+      </section-block>
+    </alph_card-36_back>      </alph_card-36>  <alph_card-37 type="vertical">    <alph_card-37_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_37F.png"/>
+      <section-block type="f_37" index="1">
+        <photo-label>jarrón</photo-label>
+      </section-block>
+    </alph_card-37_front>
+    <alph_card-37_back>          <section-block type="b_37" index="1">
+        <large>j</large>
+      </section-block>
+    </alph_card-37_back>      </alph_card-37>  <alph_card-38 type="vertical">    <alph_card-38_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_38F.png"/>
+      <section-block index="1" type="f_38">
+        <photo-label>koala</photo-label>
+      </section-block>
+    </alph_card-38_front>
+    <alph_card-38_back>          <section-block index="1" type="b_38">
+        <large>k</large>
+      </section-block>
+    </alph_card-38_back>      </alph_card-38>  <alph_card-39 type="vertical">    <alph_card-39_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_39F.png"/>
+      <section-block index="1" type="f_39">
+        <photo-label>lobo</photo-label>
+      </section-block>
+    </alph_card-39_front>
+    <alph_card-39_back>          <section-block index="1" type="b_39">
+        <large>l</large>
+      </section-block>
+    </alph_card-39_back>      </alph_card-39>  <alph_card-40 type="vertical">    <alph_card-40_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_40F.png"/>
+      <section-block index="1" type="f_40">
+        <photo-label>mitón</photo-label>
+      </section-block>
+    </alph_card-40_front>
+    <alph_card-40_back>          <section-block index="1" type="b_40">
+        <large>m</large>
+      </section-block>
+    </alph_card-40_back>      </alph_card-40>  <alph_card-41 type="vertical">    <alph_card-41_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_41F.png"/>
+      <section-block index="1" type="f_41">
+        <photo-label>nido</photo-label>
+      </section-block>
+    </alph_card-41_front>
+    <alph_card-41_back>          <section-block index="1" type="b_41">
+        <large>n</large>
+      </section-block>
+    </alph_card-41_back>      </alph_card-41>  <alph_card-42 type="vertical">    <alph_card-42_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_42F.png"/>
+      <section-block index="1" type="f_42">
+        <photo-label>niño</photo-label>
+      </section-block>
+    </alph_card-42_front>
+    <alph_card-42_back>          <section-block index="1" type="b_42">
+        <large>ñ</large>
+      </section-block>
+    </alph_card-42_back>      </alph_card-42>  <alph_card-43 type="vertical">    <alph_card-43_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_43F.png"/>
+      <section-block index="1" type="f_43">
+        <photo-label>oso</photo-label>
+      </section-block>
+    </alph_card-43_front>
+    <alph_card-43_back>          <section-block index="1" type="b_43">
+        <large>o</large>
+      </section-block>
+    </alph_card-43_back>      </alph_card-43>  <alph_card-44 type="vertical">    <alph_card-44_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_44F.png"/>
+      <section-block index="1" type="f_44">
+        <photo-label>pato</photo-label>
+      </section-block>
+    </alph_card-44_front>
+    <alph_card-44_back>          <section-block index="1" type="b_44">
+        <large>p</large>
+      </section-block>
+    </alph_card-44_back>      </alph_card-44>  <alph_card-45 type="vertical">    <alph_card-45_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_45F.png"/>
+      <section-block type="f_45" index="1">
+        <photo-label>quesadilla</photo-label>
+      </section-block>
+    </alph_card-45_front>
+    <alph_card-45_back>          <section-block index="1" type="b_45">
+        <large>q</large>
+      </section-block>
+    </alph_card-45_back>      </alph_card-45>  <alph_card-46 type="vertical">    <alph_card-46_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_46F.png"/>
+      <section-block index="1" type="f_46">
+        <photo-label>regalo</photo-label>
+      </section-block>
+    </alph_card-46_front>
+    <alph_card-46_back>          <section-block index="1" type="b_46">
+        <large>r</large>
+      </section-block>
+    </alph_card-46_back>      </alph_card-46>  <alph_card-47 type="vertical">    <alph_card-47_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_47F.png"/>
+      <section-block index="1" type="f_47">
+        <photo-label>sombrero</photo-label>
+      </section-block>
+    </alph_card-47_front>
+    <alph_card-47_back>          <section-block index="1" type="b_47">
+        <large>s</large>
+      </section-block>
+    </alph_card-47_back>      </alph_card-47>  <alph_card-48 type="vertical">    <alph_card-48_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_48F.png"/>
+      <section-block index="1" type="f_48">
+        <photo-label>tortuga</photo-label>
+      </section-block>
+    </alph_card-48_front>
+    <alph_card-48_back>          <section-block index="1" type="b_48">
+        <large>t</large>
+      </section-block>
+    </alph_card-48_back>      </alph_card-48>  <alph_card-49 type="vertical">    <alph_card-49_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_49F.png"/>
+      <section-block index="1" type="f_49">
+        <photo-label>uña</photo-label>
+      </section-block>
+    </alph_card-49_front>
+    <alph_card-49_back>          <section-block index="1" type="b_49">
+        <large>u</large>
+      </section-block>
+    </alph_card-49_back>      </alph_card-49>  <alph_card-50 type="vertical">    <alph_card-50_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_50F.png"/>
+      <section-block index="1" type="f_50">
+        <photo-label>verduras</photo-label>
+      </section-block>
+    </alph_card-50_front>
+    <alph_card-50_back>          <section-block index="1" type="b_50">
+        <large>v</large>
+      </section-block>
+    </alph_card-50_back>      </alph_card-50>  <alph_card-51 type="vertical">    <alph_card-51_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_51F.png"/>
+      <section-block index="1" type="f_51">
+        <photo-label>waffle</photo-label>
+      </section-block>
+    </alph_card-51_front>
+    <alph_card-51_back>          <section-block index="1" type="b_51">
+        <large>w</large>
+      </section-block>
+    </alph_card-51_back>      </alph_card-51>  <alph_card-52 type="vertical">    <alph_card-52_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_52F.png"/>
+      <section-block index="1" type="f_52">
+        <photo-label>xilofonista</photo-label>
+      </section-block>
+    </alph_card-52_front>
+    <alph_card-52_back>          <section-block index="1" type="b_52">
+        <large>x</large>
+      </section-block>
+    </alph_card-52_back>      </alph_card-52>  <alph_card-53 type="vertical">    <alph_card-53_front>                                        <graphic href="EC_3-5_AlphabetCards_SPA_53F.png"/>
+      <section-block index="1" type="f_53">
+        <photo-label>yoyo</photo-label>
+      </section-block>
+    </alph_card-53_front>
+    <alph_card-53_back>          <section-block index="1" type="b_53">
+        <large>y</large>
+      </section-block>
+    </alph_card-53_back>      </alph_card-53><alph_card-54 type="vertical">
+    <alph_card-54_front>
+      <graphic href="EC_3-5_AlphabetCards_SPA_54F.png"/>
+      <section-block index="1" type="f_54">
+        <photo-label>zorro</photo-label>
+      </section-block>
+    </alph_card-54_front>
+    <alph_card-54_back>
+      <section-block index="1" type="b_54">
+        <large>z</large>
+      </section-block>
+    </alph_card-54_back>
+  </alph_card-54>
+</alphabet-cards>

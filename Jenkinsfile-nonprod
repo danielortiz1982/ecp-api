@@ -1,0 +1,168 @@
+import java.text.SimpleDateFormat
+
+// These are GLOBAL env vars that need to be configured on the jenkins host
+ose_api_user = env.OSE_API_USER
+ose_api_password = env.OSE_API_PASSWORD
+ose_api_path = env.OSE_API_PATH
+
+os_build_url = "https://openshift-master.osnp3.scholastic.tech"
+os_build_cluster = "OSNP3"
+build_time = new SimpleDateFormat("yyyyMMdd-HHmm").format(new Date())
+
+os_sa_token = ""
+os_url = ""
+os_cluster = ""
+os_team = ""
+os_app_name = ""
+os_image_id = ""
+os_project = ""
+
+env_name = ""
+
+bc = ""
+dc = ""
+
+os_team = "da"
+os_app_name = "ecp-api-nodejs"
+os_branch_name = BRANCH_NAME
+
+// Hit the API to grab service account tokens
+def getProjectTokens() {
+    os_sa_token = sh returnStdout: true, script: "curl -s -X GET -u '${ose_api_user}:${ose_api_password}' '${ose_api_path}/sa/?project=${os_project}&env=${os_cluster}' | cut -f4 -d'\"'"
+    os_build_token = sh returnStdout: true, script: "curl -s -X GET -u '${ose_api_user}:${ose_api_password}' '${ose_api_path}/sa/?project=${os_team}-dev&env=${os_build_cluster}' | cut -f4 -d'\"'"
+}
+
+def setEnvName() {
+    def valid_envs = ["dev", "qa", "uat", "perf", "stage"]
+    if (valid_envs.contains(os_branch_name)) {
+        env_name = os_branch_name
+    } else {
+        env_name = "dev"
+    }
+}
+
+def setOpenshiftCluster() {
+    def osnp4_envs = ["perf", "stage"]
+    if (osnp4_envs.contains(env_name)) {
+        os_url = "https://openshift-master.osnp4.scholastic.tech"
+        os_cluster = "OSNP4"
+    } else {
+        os_url = "https://openshift-master.osnp3.scholastic.tech"
+        os_cluster = "OSNP3"
+    }
+}
+
+def setImageId() {
+    os_image_id = "scholastic-container-hub.jfrog.io/${os_team}/${os_app_name}:${env_name}-${build_time}"
+}
+
+def setOSProject() {
+    os_project = "${os_team}-${env_name}"
+}
+
+def patchBC() {
+    // override all the variables we care about
+    def gitDef = ["git":["uri":scm.getUserRemoteConfigs()[0].getUrl(),"ref":"${os_branch_name}"], "sourceSecret": ["name": "scmsecret"]]
+    def metadata = ["labels": ["app": "${os_app_name}", "group": "cicd"], "name": "${os_app_name}-${env_name}-external-build", "namespace": "${os_team}-dev"]
+
+    // The normal pipeline builder doesnt push to jfrog, so we need to add that functionality
+    def output = ["pushSecret": ["name": "external-registry"], "to": ["kind": "DockerImage", "name": "${os_image_id}"]]
+    def bcEnv = bc.spec.strategy.sourceStrategy.get("env")
+
+    // fix the environment variables
+    def List<Map> envVars = new ArrayList<Map>()
+    for (Map temp : bcEnv) {
+        if (temp.get("name") == "SCH_ENV") {
+            envVars.add(["name": "SCH_ENV", "value": "${env_name}"])
+        } else {
+            envVars.add(temp)
+        }
+    }
+
+    // Remove status otherwise openshift will complain that we're trying to overwrite an existing build
+    bc.remove("status")
+
+    // Removing originals first just so we avoid some nasty merge conditions
+    bc.spec.strategy.sourceStrategy.remove("env")
+    bc.spec.remove("output")
+    bc.spec.remove("source")
+    bc.remove("metadata")
+
+    // Apply overrides
+    bc.spec.strategy.sourceStrategy.put("env", envVars)
+    bc.spec.put("output", output)
+    bc.spec.put("source", gitDef)
+    bc.put("metadata", metadata)
+
+    // The default template runs sonarqube as a postCommit hook.
+    // Delete that action for all builds except dev
+    if (env_name != "dev"){
+        bc.spec.remove("postCommit")
+    }
+
+    // writeYaml will complain if the file already exists, so remove it before writing the config
+    def exists = fileExists('/tmp/newBuildConfig')
+    if (exists) {
+        sh "rm -f /tmp/newBuildConfig"
+    }
+    // Write our config to a file to avoid bash interpretation errors
+    writeYaml file: "/tmp/newBuildConfig", data: bc
+
+    // Log what our BC looks like
+    sh "cat /tmp/newBuildConfig"
+}
+
+def patchDC() {
+    def List<Map> containerDef = new ArrayList<Map>()
+    containerDef.add(["image": os_image_id, "name": os_app_name])
+    def patchData = ["spec": ["template": ["spec": ["containers": containerDef]]]]
+    def exists = fileExists '/tmp/patchData'
+    if (exists) {
+        sh "rm -f /tmp/patchData"
+    }
+    writeYaml file: "/tmp/patchData", data: patchData
+}
+
+setEnvName()
+setOSProject()
+setImageId()
+
+node("master") {
+    // Undersized master means we can only run one build at a time.
+    // Lock a resource so we can queue up the other builds
+    lock(os_app_name){
+        // Delete the build config if it exists so we can create a new one from scratch
+        stage("Clean") {
+            setOpenshiftCluster()
+            getProjectTokens()
+            sh "oc login --server=${os_build_url} --insecure-skip-tls-verify --token=${os_build_token}"
+            sh "oc project ${os_team}-dev "
+            sh "oc delete bc ${os_app_name}-${env_name}-external-build -n ${os_team}-dev || true"
+        }
+        stage("Build") {
+            // Use the current "-pipeline" build as a template for our multibranch config
+            sh "oc export bc ${os_app_name} -n ${os_team}-dev > /tmp/buildConfig"
+            bc = readYaml(file:'/tmp/buildConfig')
+            patchBC()
+
+            // Log our new build config
+            sh "cat /tmp/newBuildConfig"
+
+            sh "oc create -n ${os_team}-dev -f /tmp/newBuildConfig"
+
+            // Sleep 20, to avoid a bug in our current version of OpenShift. Fixed in 3.11
+            sleep(20)
+            // This will also provide us logs for the build to help with troubleshooting failures
+            // Follow will exit on build completion
+            sh "oc logs -f bc/${os_app_name}-${env_name}-external-build -n ${os_team}-dev"
+        }
+        stage("Deploy") {
+            sh "oc login --server=${os_url} --token=${os_sa_token}"
+            sh "oc project ${os_project}"
+
+            patchDC()
+            patchData = readFile file: "/tmp/patchData"
+            deployStatus = sh returnStdout: true, script: "oc patch dc ${os_app_name} -n ${os_project} --patch '${patchData}'"
+        }
+    }
+}

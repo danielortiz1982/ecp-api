@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity-cards lang="es">
+  <ac_card-1 day="1">
+    <ac_card-1_front>
+      <graphic href="EC3-5_AC_Eng_Math_T5W04D1_C01_1395681812_cropped.png"/>
+    </ac_card-1_front>
+    <ac_card-1_back>
+      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>¿DÓNDE ESTÁ...?</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_1" index="1">
+          <ac_ask-extend-hed>Pregunte </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Debajo de qué está sentado este niño? </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_1" index="1">
+          <ac_support-challenge-hed>Apoye </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>El niño está debajo de la m<fill-in-the-blank>    </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(mesa)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_1" index="1">
+          <ac_support-challenge-hed>Estimule </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿De qué otra manera pueden describir la ubicación del niño?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_1" index="1">
+          <ac_ask-extend-hed>Amplíe </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué hay debajo de ustedes ahora mismo?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65753-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Anatoliy Karlyuk/Shutterstock. </ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-1_back>
+  </ac_card-1>
+  <ac_card-2 day="1">
+    <ac_card-2_front>
+      <graphic href="EC3-5_AC_Eng_Math_T5W04D1_C02-108359309_cropped.png"/>
+    </ac_card-2_front>
+    <ac_card-2_back>
+      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>¿DÓNDE ESTÁ...?</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_2" index="1">
+          <ac_ask-extend-hed>Pregunte </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Cerca de qué está sentada esta niña? </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_2" index="1">
+          <ac_support-challenge-hed>Apoye </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>La niña está sentada cerca de un  j<fill-in-the-blank>          </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(juguete)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_2" index="1">
+          <ac_support-challenge-hed>Estimule </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿De qué otra manera pueden describir la ubicación de la niña?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_2" index="1">
+          <ac_ask-extend-hed>Amplíe </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué hay cerca de ustedes ahora mismo?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65753-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Paul Bradbury/Getty Images.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-2_back>
+  </ac_card-2>
+  <ac_card-3 day="1">
+    <ac_card-3_front>
+      <graphic href="EC3-5_AC_Eng_Math_T5W04D1_C03_77073664_cropped.png"/>
+    </ac_card-3_front>
+    <ac_card-3_back>
+      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>¿DÓNDE ESTÁ...?</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_3" index="1">
+          <ac_ask-extend-hed>Pregunte </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué hay delante de esta niña? </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_3" index="1">
+          <ac_support-challenge-hed>Apoye </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Delante de esta niña está su a<fill-in-the-blank>          </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(almuerzo)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_3" index="1">
+          <ac_support-challenge-hed>Estimule </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿De qué otra manera pueden describir la ubicación de la niña?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_3" index="1">
+          <ac_ask-extend-hed>Amplíe </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué hay delante de ustedes ahora mismo?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65753-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Monkey Business Images/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-3_back>
+  </ac_card-3>
+  <ac_card-4 day="1">
+    <ac_card-4_front>
+      <graphic href="EC3-5_AC_Eng_Math_T5W04D1_C04-614857928_cropped.png"/>
+    </ac_card-4_front>
+    <ac_card-4_back>
+      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>¿DÓNDE ESTÁ...?</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_4" index="1">
+          <ac_ask-extend-hed>Pregunte </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Arriba de qué está saltando este niño? </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_4" index="1">
+          <ac_support-challenge-hed>Apoye </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>El niño está saltando arriba de una  c<fill-in-the-blank>          </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(cama)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_4" index="1">
+          <ac_support-challenge-hed>Estimule </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿De qué otra manera pueden describir la ubicación del niño?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_4" index="1">
+          <ac_ask-extend-hed>Amplíe </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué hay arriba de ustedes ahora mismo?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65753-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © baona/Getty Images.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-4_back>
+  </ac_card-4>
+  <ac_card-5 day="1">
+    <ac_card-5_front>
+      <graphic href="EC3-5_AC_Eng_Math_T5W04D1_C05_138948686_cropped.png"/>
+    </ac_card-5_front>
+    <ac_card-5_back>
+      <masthead>
+        <section-block type="masthead_b_5" index="1">
+          <ac_header-game-card>¿DÓNDE ESTÁ...?</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_5" index="1">
+          <ac_ask-extend-hed>Pregunte </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Detrás de qué está caminando esta niña? </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_5" index="1">
+          <ac_support-challenge-hed>Apoye </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>La niña está caminando detrás de un  p<fill-in-the-blank>          </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(perro)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_5" index="1">
+          <ac_support-challenge-hed>Estimule </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿De qué otra manera pueden describir la ubicación de la niña?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_5" index="1">
+          <ac_ask-extend-hed>Amplíe </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué hay detrás de ustedes ahora mismo?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_5" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65753-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © michaeljung/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-5_back>
+  </ac_card-5>
+  <ac_card-6 day="1">
+    <ac_card-6_front>
+      <graphic href="EC3-5_AC_Eng_Math_T5W04D1_C06-1031877694_cropped.png"/>
+    </ac_card-6_front>
+    <ac_card-6_back>
+      <masthead>
+        <section-block type="masthead_b_6" index="1">
+          <ac_header-game-card>¿DÓNDE ESTÁ...?</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_6" index="1">
+          <ac_ask-extend-hed>Pregunte </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué hay arriba de la cabeza de este niño? </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_6" index="1">
+          <ac_support-challenge-hed>Apoye </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Arriba de la cabeza de este niño hay una  p<fill-in-the-blank>          </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(pelota)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_6" index="1">
+          <ac_support-challenge-hed>Estimule </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿De qué otra manera pueden describir la ubicación del niño?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_6" index="1">
+          <ac_ask-extend-hed>Amplíe </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué hay arriba de ustedes ahora mismo?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_6" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65753-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © NoSystem images/Getty Images.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-6_back>
+  </ac_card-6>
+  <ac_card-7 day="1">
+    <ac_card-7_front>
+      <graphic href="EC3-5_AC_Eng_Math_T5W04D1_C07_1395277007_cropped.png"/>
+    </ac_card-7_front>
+    <ac_card-7_back>
+      <masthead>
+        <section-block type="masthead_b_7" index="1">
+          <ac_header-game-card>¿DÓNDE ESTÁ...?</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_7" index="1">
+          <ac_ask-extend-hed>Pregunte </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué está sosteniendo esta niña detrás de la espalda? </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_7" index="1">
+          <ac_support-challenge-hed>Apoye </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Detrás de la espalda, esta niña está sosteniendo f<fill-in-the-blank>          </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(flores)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_7" index="1">
+          <ac_support-challenge-hed>Estimule </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿De qué otra manera pueden describir la ubicación de la niña?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_7" index="1">
+          <ac_ask-extend-hed>Amplíe </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué hay detrás de ustedes ahora mismo?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_7" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65753-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © fizkes/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-7_back>
+  </ac_card-7>
+  <ac_card-8 day="1">
+    <ac_card-8_front>
+      <graphic href="EC3-5_AC_Eng_Math_T5W04D1_C08_AE8T2E_cropped.png"/>
+    </ac_card-8_front>
+    <ac_card-8_back>
+      <masthead>
+        <section-block type="masthead_b_8" index="1">
+          <ac_header-game-card>¿DÓNDE ESTÁ...?</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_8" index="1">
+          <ac_ask-extend-hed>Pregunte </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Cerca de qué está parado este niño? </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_8" index="1">
+          <ac_support-challenge-hed>Apoye </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Este niño está parado cerca de un  tr<fill-in-the-blank>          </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(triciclo)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_8" index="1">
+          <ac_support-challenge-hed>Estimule </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿De qué otra manera pueden describir la ubicación del niño?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_8" index="1">
+          <ac_ask-extend-hed>Amplíe </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué hay cerca de ustedes ahora mismo?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_8" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-65753-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. © Keith Douglas/Alamy Images.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-8_back>
+  </ac_card-8>
+</activity-cards>

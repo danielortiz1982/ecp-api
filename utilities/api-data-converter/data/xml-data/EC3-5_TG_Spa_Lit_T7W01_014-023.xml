@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./preview-styles.css" type="text/css"?>
+<teaching-guide xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" lang="es">
+  <day_1>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 1:</tg_week_hed>
+        <tg_topic_hed>El día y la noche</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338642384_COV_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Superlibro: <tg_materials-caption_book-title-Ital>Un conejo en la luna</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T7_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T7_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> comprensión de la lectura en voz alta; conocimiento del abecedario</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> ciencias de la Tierra y el espacio</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Hable sobre el abecedario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>letras </tg_bullet-directions_vocab>
+            <tg_bullet-directions_vocab>Nn, I</tg_bullet-directions_vocab>
+            <tg_bullet-directions_vocab>i y </tg_bullet-directions_vocab>
+            <tg_bullet-directions_vocab>Cc, </tg_bullet-directions_vocab>
+            <tg_bullet-directions_vocab>motive a los niños con una canción y rimas</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>e introduzca el vocabulario </tg_bullet-directions_vocab>
+            <tg_bullet-directions_vocab>(</tg_bullet-directions_vocab>
+            <tg_bullet-directions_vocab>deseos</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Presente el libro y pregunte: <tg_bullet-directions_guiding-question>¿Qué cosas extraordinarias hace Conejo?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Lea por el placer de leer y para comprender.</tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión. Diferencie según sea necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Hace y responde preguntas sobre el cuento.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conocimiento del abecedario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Enuncia al menos 20 correspondencias entre letra y sonido.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conciencia fonológica:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica palabras que riman.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conceptos de lenguaje impreso:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende las convenciones en materiales impresos, incluyendo puntuación final, mayúsculas y minúsculas.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Se responsabiliza por materiales y asignaciones compartidas.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Estructura de la oración:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa plurales regulares e irregulares.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y el espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Investiga, describe y habla acerca de los objetos en el cielo.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Abecedario: N, I, C</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC3-5_AlphabetBook_COV_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas del abecedario</tg_materials-caption>
+        <graphic href="EC_stock_ArtSupplies_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Materiales de dibujo</tg_materials-caption>
+        <graphic href="EC_stock_PaperPlates_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Círculos de papel, papel negro </tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> conocimiento del abecedario</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Invite a los 	niños a reconocer y hacer los sonidos de las letras <tg_bullet-directions_bold-italic>Cc</tg_bullet-directions_bold-italic>, <tg_bullet-directions_bold-italic>Nn</tg_bullet-directions_bold-italic> e <tg_bullet-directions_bold-italic>Ii</tg_bullet-directions_bold-italic>.</tg_bullet-directions>
+        <tg_bullet-directions>Muestre a los niños cómo hacer un insecto a partir de la letra <tg_bullet-directions_emphasis_Ital>I</tg_bullet-directions_emphasis_Ital> e identifique las letras <tg_bullet-directions_emphasis_Ital>i</tg_bullet-directions_emphasis_Ital>, <tg_bullet-directions_emphasis_Ital>n</tg_bullet-directions_emphasis_Ital> y <tg_bullet-directions_emphasis_Ital>c</tg_bullet-directions_emphasis_Ital> en la palabra insecto.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Qué hacemos durante el día? ¿Qué hacemos durante la noche?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>La historia del libro que estás leyendo ¿ocurre durante el día o durante la noche? ¿Cómo lo sabes?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué puedes hacer durante la noche? Imagina que es de noche y muestra qué haces. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cuántas estrellas crees que hay en el cielo en la noche? iMuestra 10 estrellas con fichas.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué piensas cuando ves una estrella? Escribe sobre eso.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Haz un dibujo de lo que haces de noche. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué letra oyes al principio de <tg_teacher-talk_emphasis_non-ital>noche</tg_teacher-talk_emphasis_non-ital>? Muéstrame esa letra. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes hacer una cama para que los animales duerman durante la noche?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Un conejo en la luna by Jean Kim. Copyright © 2018 by Jean Kim. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Photos © Shutterstock: paper plates (Food Travel Stockforlife), school supplies (Aleksey Sagitov).</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_1>
+  <day_2>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 1:</tg_week_hed>
+        <tg_topic_hed>El día y la noche</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338642384_COV_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Superlibro: <tg_materials-caption_book-title-Ital>Un conejo en la luna</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T7_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T7_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjeta de vocabulario</tg_materials-caption>
+        <graphic href="EC_stock_CliffordPuppet_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Títere Clifford</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed>comprensión de la lectura en voz alta</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> vocabulario</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> ciencias de la Tierra y el espacio</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Comparta el Mind Builder <tg_bullet-directions_book-title>asumir responsabilidad</tg_bullet-directions_book-title> e introduzca el vocabulario relacionado <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>responsabilidad</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>con cuidado</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, asocie el Mind Builder con <tg_bullet-directions_book-title>Un conejo en la luna</tg_bullet-directions_book-title>.</tg_bullet-directions>
+        <tg_bullet-directions>Lea con atención y destaque cómo Conejo cuida las estrellas y asume sus responsabilidades.</tg_bullet-directions>
+        <tg_bullet-directions>Dé la oportunidad de prolongar el juego.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Hace y responde preguntas sobre el cuento.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conceptos del lenguaje impreso:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende las convenciones en materiales impresos, incluyendo puntuación final, mayúsculas y minúsculas.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Se responsabiliza por materiales y asignaciones compartidas.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende y usa un número creciente de frases comunes.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Estructura de la oración:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa plurales regulares e irregulares.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y el espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Investiga, describe y habla acerca de los objetos en el cielo.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Seamos responsables</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lit_T7_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+        <graphic href="EC_stock_ArtSupplies_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Materiales de arte</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> ciencias de la Tierra y el espacio</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Bellas artes:</tg_learning-goals_inline-hed> arte</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Invite a los niños a usar materiales para hacer estrellas de deseos. con estrellas de papel negro y puntos.</tg_bullet-directions>
+        <tg_bullet-directions>Pida a los niños que respondan a una señal y que luego recojan y separen los materiales sobrantes en dos platos.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Qué hacemos durante el día? ¿Qué hacemos durante la noche?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Muéstrame una parte del libro que estás leyendo donde se ve el sol, la luna o las estrellas.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Muestra algo que haces durante el día.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Haz un dibujo de niños jugando durante el día. Cuenta cuántos niños dibujaste.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cuándo debes pensar antes de hablar?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Haz un dibujo de ti mismo haciendo algo que te guste hacer durante el día. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cuántas <tg_teacher-talk_emphasis_non-ital>N</tg_teacher-talk_emphasis_non-ital> ves en la palabra <tg_teacher-talk_emphasis_non-ital>amanecer</tg_teacher-talk_emphasis_non-ital>? Haz una <tg_teacher-talk_emphasis_non-ital>Nn</tg_teacher-talk_emphasis_non-ital>. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Construye algo que veas cuando estás jugando fuera durante el día.</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Un conejo en la luna by Jean Kim. Copyright © 2018 by Jean Kim. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. Clifford the Big Red DogTM illustration copyright © The Norman Bridwell Trust. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Photo © Aleksey Sagitov/Shutterstock.</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_2>
+  <day_3>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 1:</tg_week_hed>
+        <tg_topic_hed>El día y la noche</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338642384_COV_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Superlibro: <tg_materials-caption_book-title-Ital>Un conejo en la luna</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T7_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T7_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjeta de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed>comprensión de la lectura en voz alta</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> vocabulario</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> ciencias de la Tierra y el espacio</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Desarrolle los conocimientos de ciencias e introduzca una nueva palabra del vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>viaje</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, repase <tg_bullet-directions_book-title>Un conejo en la luna</tg_bullet-directions_book-title> y haga la pregunta guía: <tg_bullet-directions_guiding-question>¿Qué ven los animales en el cielo durante la noche?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Lea de manera interactiva para comprender mejor.</tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión y diferencie según sea necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Hace y responde preguntas sobre el cuento.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conocimiento del abecedario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Enuncia al menos 20 correspondencias entre letra y sonido.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conceptos de lenguaje impreso:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende las convenciones en materiales impresos, incluyendo puntuación final, mayúsculas y minúsculas.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Se responsabiliza por materiales y asignaciones compartidas.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende y usa un número creciente de frases comunes.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y el espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Investiga, describe y habla acerca de los objetos en el cielo.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Mirando a la luna</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lit_T7_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> vocabulario; estructura de la oración</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> ciencias de la Tierra y el espacio</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Muestre a los niños fotos de tres fases distintas de la luna: luna llena, media luna y cuarto creciente.</tg_bullet-directions>
+        <tg_bullet-directions>Proporcione tres figuras para que los niños las usen para hacer escenas de la luna durante la noche.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Qué hacemos durante el día? ¿Qué hacemos durante la noche?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Es tu libro de fantasía o realidad? ¿Cómo lo sabes?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Imagina que eres el mapache y pides un deseo. ¿Qué deseo pedirías?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Por qué es importante aprender sobre el sol, la luna y las estrellas?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Te imaginas que pudieras invitar a Conejo a jugar contigo? Escribe sobre lo que harían juntos.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué colores usarías para hacer una pintura del cielo del día?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>La palabra <tg_teacher-talk_emphasis_non-ital>ni</tg_teacher-talk_emphasis_non-ital> empieza con <tg_teacher-talk_emphasis_non-ital>n</tg_teacher-talk_emphasis_non-ital> y termina con <tg_teacher-talk_emphasis_non-ital>i</tg_teacher-talk_emphasis_non-ital>. Encuentra estas letras magnéticas y escribe la palabra. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Algunas veces, las personas usan un telescopio para mirar las estrellas. ¿Cómo puedes construir un telescopio de juguete?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Un conejo en la luna by Jean Kim. Copyright © 2018 by Jean Kim. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_3>
+  <day_4>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 1:</tg_week_hed>
+        <tg_topic_hed>El día y la noche</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="EC3-5_Flipchart_T7W1_DaytimeNighttimeSPAN_Redux_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Papelógrafo de grandes ideas: <tg_materials-caption_book-title-Ital>El día y la noche</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T7_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T7_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+        <graphic href="9781338642384_COV_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Libro: Un conejo en la luna</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed>comprensión de la lectura en voz alta</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> estructura de la oración</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> función ejecutiva</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> ciencias de la Tierra y el espacio</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Converse sobre el día y la noche e introduzca palabras del vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>montañas</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>campo</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, asocie los textos <tg_bullet-directions_book-title>El día y la noche</tg_bullet-directions_book-title> y <tg_bullet-directions_book-title>Un conejo en la luna</tg_bullet-directions_book-title>.</tg_bullet-directions>
+        <tg_bullet-directions>Lea con atención para responder la pregunta conceptual de esta semana: <tg_bullet-directions_guiding-question>¿Qué hacemos durante el día y la noche?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Dé la oportunidad de prolongar el juego.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Hace y responde preguntas sobre el cuento.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Escribe con propósitos diferentes.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Se responsabiliza por materiales y asignaciones compartidas.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Resiste sus impulsos (autorregulación).</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende y usa un número creciente de frases comunes.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Estructura de la oración:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa plurales regulares e irregulares.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y el espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Investiga, describe y habla acerca de los objetos en el cielo.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Expresión dramática:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Actúa para recrear y volver a contar historias, estados de ánimo o experiencias.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>En el cielo del día</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC_stock_ColoredPaper_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Cartulina</tg_materials-caption>
+        <graphic href="EC_stock_ArtSupplies_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Materiales de arte</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed> función ejecutiva; desarrollo social</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> vocabulario</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> ciencias de la Tierra y el espacio</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Comente lo que se ve en el cielo del día.</tg_bullet-directions>
+        <tg_bullet-directions>Invite a los niños a usar crayones y bolas de algodón para hacer una escena del cielo del día.</tg_bullet-directions>
+        <tg_bullet-directions>Hablen sobre cómo son las nubes.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Qué hacemos durante el día? ¿Qué hacemos durante la noche?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Compara el libro que estás leyendo con el papelógrafo de hoy.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Piensa en cómo sería visitar la Luna. ¿Qué querrías ver si miraras hacia la Tierra?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Compara la luna y el sol. ¿En qué se parecen? ¿En qué se diferencian?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Piensa en Conejo en la luna. Escríbele una nota para decirle por qué él te gusta.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Usa materiales para hacer una luna decorada.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Usa los sellos de letras. Estampa las letras <tg_teacher-talk_emphasis_non-ital>Nn</tg_teacher-talk_emphasis_non-ital>, <tg_teacher-talk_emphasis_non-ital>Ii</tg_teacher-talk_emphasis_non-ital> y <tg_teacher-talk_emphasis_non-ital>Cc</tg_teacher-talk_emphasis_non-ital>.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Haz un lugar donde Conejo pueda dormir cuando venga a la Tierra. </tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Un conejo en la luna by Jean Kim. Copyright © 2018 by Jean Kim. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Photos © Shutterstock: paper (jannoon028), school supplies (Aleksey Sagitov).</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_4>
+  <day_5>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 1:</tg_week_hed>
+        <tg_topic_hed>El día y la noche</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338642384_COV_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Superlibro: <tg_materials-caption_book-title-Ital>Un conejo en la luna</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T7_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T7_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjeta de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> escritura</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>función ejecutiva</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Cante una canción sobre estrellas, hable sobre estrellas y repase el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>aventura</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, repase el superlibro y pregunte <tg_bullet-directions_guiding-question>¿Qué podrían ver en el cielo durante la noche?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Lea y vuelva a contar de manera interactiva para que los niños participen y usen la imaginación.</tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión y diferencie según sea necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comparte y repite los detalles de un texto.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conciencia fonológica:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica palabras que riman.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Escribe con propósitos diferentes.</tg_skills-focus-skill-text></tg_skills-focus_body><tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Resiste sus impulsos (autorregulación).</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y el espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Investiga, describe y habla acerca de los objetos en el cielo.</tg_skills-focus-skill-text></tg_skills-focus_body><tg_skills-focus_domain_hed>Bellas artes</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Expresión dramática:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Actúa para recrear y volver a contar historias, estados de ánimo o experiencias.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Escritura independiente, dibujar o narrar cuentos</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC3-5_ResponsePrompt_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Hoja de respuesta</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed>comprensión de la lectura en voz alta</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> ciencias de la Tierra y el espacio</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Apoye a los niños mientras responden en forma independiente al tema de esta semana: <tg_bullet-directions_guiding-question>escribe algunas cosas que sabes sobre el día y algunas cosas que sabes sobre la noche.</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Guarde los trabajos de los niños para exponerlos la semana próxima.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Qué hacemos durante el día? ¿Qué hacemos durante la noche?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿En qué se diferencia tu libro de<tg_teacher-talk_emphasis_non-ital>Un conejo en la luna</tg_teacher-talk_emphasis_non-ital>? Escribe sobre esto.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Imagina que estás jugando afuera en un día soleado y de pronto se pone nuboso y llueve. Muestra qué harías a continuación.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes crear un cielo nocturno con bloques patrón? ¿Qué bloques usarías?</tg_ind-center_teacher-talk><tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escribe sobre <tg_teacher-talk_emphasis_non-ital>Un conejo en la luna</tg_teacher-talk_emphasis_non-ital>. Escribe sobre la parte que más te gustó.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Haz una pintura que se pudiera agregar al libro <tg_teacher-talk_emphasis_non-ital>Un conejo en la luna</tg_teacher-talk_emphasis_non-ital>.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes leer un Libro del abecedario con un amigo? Comparte los libros del abecedario Nn, Ii, Cc.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Haz un lugar donde Conejo pueda jugar cuando venga a la Tierra.</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Un conejo en la luna by Jean Kim. Copyright © 2018 by Jean Kim. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved.</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_5>
+  <day_1_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Alfabetización</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Hace y responde preguntas relacionadas con el texto que se leyó.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conocimiento del abecedario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Produce al menos 20 correspondencias de sonidos de letras distintos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.C.3)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conciencia fonológica:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Puede reconocer palabras que riman.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.B.6)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conceptos de lenguaje impreso:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Puede identificar algunas características convencionales de los materiales impresos que comunican significado.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.E.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuida y maneja materiales del salón de clases.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.B.1.b, MB)</tg_skills-focus-skill-code></tg_skills-focus_body><tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Estructura de la oración:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa plurales, pasados regulares, pronombres personales y posesivos y concordancia sujeto-verbo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.E.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y el espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica, observa y discute los objetos en el cielo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.C.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_1_texas>
+  <day_2_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Alfabetización</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Hace y responde preguntas relacionadas con el texto que se leyó en voz alta.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuida y maneja materiales del salón de clases </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.I.B.1.b, MB);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>asume varios roles y responsabilidades como parte de la comunidad del salón de clases.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.C.2, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Empieza a desarrollar su vocabulario de nombre de objetos y frases comunes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.5)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Estructura de la oración:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa plurales, pasados regulares, pronombres personales y posesivos y concordancia sujeto-verbo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.E.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y el espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica, observa y discute los objetos en el cielo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.C.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_2_texas>
+  <day_3_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Alfabetización</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Hace y responde preguntas relacionadas con el texto que se leyó.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conocimiento del abecedario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Produce al menos 20 correspondencias de sonidos de letras distintos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.C.3)</tg_skills-focus-skill-code></tg_skills-focus_body><tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuida y maneja materiales del salón de clases.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.B.1.b, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Empieza a desarrollar su vocabulario de nombre de objetos y frases comunes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.5)</tg_skills-focus-skill-code></tg_skills-focus_body><tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y el espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica, observa y discute los objetos en el cielo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.C.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_3_texas>
+  <day_4_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Alfabetización</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Hace y responde preguntas relacionadas con el texto que se leyó en voz alta.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Escribe en forma independiente para comunicar sus ideas con varios fines.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IV.A.2)</tg_skills-focus-skill-code> </tg_skills-focus_body><tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Controla su propio comportamiento con recordatorios ocasionales o con la ayuda del maestro.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.B.1.c, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuida y maneja materiales del salón de clases </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.I.B.1.b, MB);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Asume varios roles y responsabilidades como parte de la comunidad del salón de clases.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.C.2, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Expresión dramática:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Crea o recrea historias, estados de ánimo o experiencias a través de las representaciones teatrales.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VIII.C.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y el espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica, observa y discute los objetos en el cielo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.C.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_4_texas>
+  <day_5_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Alfabetización</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Vuelve a contar o representa un cuento después de ser leído en voz alta.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conciencia fonológica:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Puede reconocer palabras que riman.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.B.6)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Escribe en forma independiente para comunicar sus ideas con varios fines.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IV.A.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Controla su propio comportamiento con recordatorios ocasionales.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.B.1.c, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Empieza a desarrollar su vocabulario de nombre de objetos y frases comunes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.5)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y el espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica, observa y discute los objetos en el cielo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.C.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Expresión dramática:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Crea o recrea historias, estados de ánimo o experiencias a través de las representaciones teatrales.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VIII.C.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_5_texas>
+</teaching-guide>

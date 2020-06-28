@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="es">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>¡a medir!</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Necesitará una regla, una hoja de papel de gráfica, un marcador rojo y uno azul y objetos de la clase para que cada niño mida (lápiz, marcador, clip, libro, etc.). Trace una línea horizontal con marcador rojo en la hoja, a unos cinco centímetros del borde inferior.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el vocabulario</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Vamos a repasar las palabras <ac_teacher-speaking_emphasis_blue>igual</ac_teacher-speaking_emphasis_blue> y <ac_teacher-speaking_emphasis_blue>regla</ac_teacher-speaking_emphasis_blue>.</ac_teacher-speaking>Use las tarjetas de vocabulario de <ac_teacher-talk-emphasis>igual</ac_teacher-talk-emphasis> y <ac_teacher-talk-emphasis>regla</ac_teacher-talk-emphasis> para repasar las palabras.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cuando leímos <ac_teacher-speaking_emphasis_blue>Yo quiero crecer</ac_teacher-speaking_emphasis_blue> conversamos sobre medir y comparar la estatura de dos personajes.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, van a practicar usar la regla para marcar la altura de un objeto. Vamos a hacer una gráfica que muestre la altura de los objetos. Después compararemos las alturas.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preparar</ac_teacher-card_run-in_hed>  Coloque el papel de gráfica sobre la mesa. Explique: <ac_teacher-speaking>Vamos a hacer una gráfica en esta hoja.</ac_teacher-speaking> Reparta un objeto a cada niño y dígales que ese es el primer objeto que medirán.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Medir</ac_teacher-card_run-in_hed>  Guíe al primer niño para que ponga un objeto sobre la gráfica alineando la parte inferior con la línea roja. Ayúdelo a colocar la regla al lado del objeto para que señale y marque la parte superior del objeto con la regla como guía. Después, también con la regla, dibuje con el marcador azul una línea recta desde la marca hasta la línea roja. Anote el nombre del objeto y el del niño debajo de la línea roja.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Ayude a los niños a medir sus objetos.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre los datos</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¿Cuál fue el objeto más alto? ¿Cuál fue el más bajo? ¿Cómo lo saben?</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>¡a medir!</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="1">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Demuestre cómo medir un objeto usando la regla antes de llamar al primer niño. Puede colocar la gráfica perpendicular a la mesa, para demostrar que la medida indica la altura del objeto aunque este estuviera horizontal sobre la mesa cuando usted lo midió.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>A medida que llama a cada niño para medir su objeto, pregunte: <ac_teacher-talk>¿Crees que tu objeto es alto o bajo? ¿Por qué?</ac_teacher-talk> Una vez que varios niños hayan medido, puede preguntar también: <ac_teacher-talk>¿Te parece que tu objeto será más alto o más bajo que aquel? ¡Vamos a averiguarlo!</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Repase los términos del vocabulario clave, como <ac_teacher-talk-emphasis>alto</ac_teacher-talk-emphasis> y <ac_teacher-talk-emphasis>bajo</ac_teacher-talk-emphasis>. Recuerde a los niños que, para comparar, podemos usar la palabra <ac_teacher-talk-emphasis>más</ac_teacher-talk-emphasis>. Proporcione marcos de oración: <ac_teacher-talk>El objeto más alto fue</ac_teacher-talk> <fill-in-the-blank>    </fill-in-the-blank>
+            <ac_teacher-talk>. Lo sé porque </ac_teacher-talk>
+            <fill-in-the-blank>    </fill-in-the-blank>
+            <ac_teacher-talk>.</ac_teacher-talk></ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Apoyo para el déficit de atención</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Mientras ayuda a un niño a medir su objeto, pida al resto que mida la altura de sus objetos con cubos conectores. También pueden usar los cubos para medir sus dedos, sus manos o cualquier otra cosa.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66421-8</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>¿ALTO O BAJO?</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cuando leímos <ac_teacher-speaking_emphasis_blue>Yo quiero crecer</ac_teacher-speaking_emphasis_blue>, conversamos sobre cómo podemos compartir lo que pensamos con los demás. También hablamos sobre si las cosas que había en cada página eran altas o bajas.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el vocabulario</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Vamos a repasar la palabra <ac_teacher-speaking_emphasis_blue>compartir</ac_teacher-speaking_emphasis_blue>.</ac_teacher-speaking>Use la tarjeta de vocabulario de <ac_teacher-talk-emphasis>compartir</ac_teacher-talk-emphasis> para repasar la palabra.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Ahora yo les voy a mostrar tarjetas de actividad con imágenes. Ustedes me van a decir si creen que el objeto que se ve en cada imagen es alto o bajo. Después, vamos a compartir una conversación sobre alguna vez en la que ustedes hayan visto o usado un objeto como ese.</ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre a los niños la primera tarjeta de actividad. Pregunte si el objeto o animal de la imagen es alto o bajo. <ac_teacher-talk>Alto</ac_teacher-talk> y <ac_teacher-talk>bajo</ac_teacher-talk> son términos relativos, de modo que está bien si las respuestas de los niños son diferentes a lo que está escrito en el reverso de la tarjeta. Anime a todos los niños a que expliciten su razonamiento.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Invite a los niños a que compartan sus experiencias respecto del objeto o animal de la imagen. Por ejemplo: <ac_teacher-speaking>¿Estuvieron alguna vez dentro de un edificio muy alto? ¡Compartan esa historia con nosotros!</ac_teacher-speaking> Anímelos a contar sus historias con oraciones completas y detalles.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad con todas las demás tarjetas.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Graficar</ac_teacher-card_run-in_hed>  Pídales que clasifiquen las tarjetas en dos pilas: altos y bajos. Guíe a los niños para que formen una columna con las imágenes altas y otra con las bajas, obteniendo así una gráfica de barras. Pregunte: <ac_teacher-speaking>¿Hay más cosas altas o más cosas bajas? ¿Cómo lo saben?</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>¿ALTO O BAJO?</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Ayúdelos a determinar la altura de un objeto si no se deciden entre alto y bajo. Por ejemplo: <ac_teacher-talk>Una boca de incendios es tan alta como un perro grande. ¿Creen que eso es alto o bajo?</ac_teacher-talk> Puede también colocar su mano a cierta distancia del piso para demostrar la altura de algo.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>A medida que muestre cada tarjeta de actividad, pregunte también: <ac_teacher-talk>¿Ustedes son más altos o más bajos que esto que se ve en la imagen?</ac_teacher-talk> Después de graficar, anime a los niños a ordenar las tarjetas según la altura de los objetos representados en las imágenes.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Los niños que provienen de culturas, ambientes y lugares diferentes pueden tener niveles variados de familiaridad con los objetos y animales de las imágenes. Si los niños no han tenido experiencia con las cosas que se ven en alguna de las imágenes, explique qué es el objeto o animal, y qué es lo que hace o para qué se usa.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Apoyo a la oralidad</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Otorgue tiempo suficiente a los niños para ordenar sus pensamientos antes de compartir con los demás sus experiencias con los objetos que se ven en las imágenes. Pídales que las compartan con usted o con un compañero antes de compartirlas con el grupo. Los niños suelen sentirse más seguros después de ensayar sus respuestas con alguien más, antes de compartirlas con un grupo más grande.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66421-8</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>¡HEMOS CRECIDO!</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Necesitará la gráfica de estatura creada en la Semana 3 del Tema 3, una vara o cinta métrica, crayones o lápices de colores, hilo o cinta y una nota autoadhesiva para cada niño.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cuando leímos <ac_teacher-speaking_emphasis_blue>Yo quiero crecer</ac_teacher-speaking_emphasis_blue>, conversamos sobre cómo casi todos nos volvemos más altos al ir cumpliendo años.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el vocabulario</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Vamos a repasar la palabra <ac_teacher-speaking_emphasis_blue>estatura</ac_teacher-speaking_emphasis_blue>.</ac_teacher-speaking>Use la tarjeta de vocabulario de <ac_teacher-talk>estatura</ac_teacher-talk> para repasar la palabra.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad vamos a medir qué tan altos son ustedes hoy. Después miraremos la gráfica de estatura que hicimos hace un tiempo y compararemos las estaturas. ¡Así veremos cuánto han crecido ustedes!</ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preparar</ac_teacher-card_run-in_hed>  Pegue la gráfica de estatura en la pared. Dele una nota autoadhesiva a cada niño y pídales que escriban su nombre en ella. Marque la estatura de cada niño junto a sus marcas iniciales.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¿Cuánto creen ustedes que han crecido? ¡Vamos a medirlos y lo averiguaremos! Después pondremos sus notas autoadhesivas en la gráfica para mostrar su estatura.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Pídale a cada niño que se pare de espaldas a la gráfica. Pegue un trozo de hilo o cinta en la gráfica para representar la estatura de cada uno. Guíelos para colocar sus notas autoadhesivas encima.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use la vara o cinta métrica para determinar la estatura de cada niño en centímetros. Registre el número en la nota autoadhesiva.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar sobre el crecimiento</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¿Han crecido? ¿Son más altos ahora que al comienzo del año? ¿Cómo lo saben? ¿Quién ha crecido más?</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>¡HEMOS CRECIDO!</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Demuestre cómo determinar cuánto ha crecido un niño. Señale las dos notas autoadhesivas de uno de los niños. Diga: <ac_teacher-talk>Esta nota nueva está más alta que la primera. Estos números dicen cuál es su estatura, y este es mayor que este otro. ¡Eso quiere decir que creció</ac_teacher-talk>!</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Anime a los niños a practicar cómo leer la vara o cinta métrica mientras usted mide a otros niños. Cuando mida a un niño, pídale a otro que encuentre en la vara o cinta métrica el número que indica la estatura de su compañero.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Repase el vocabulario clave como <ac_teacher-talk>medida, alto</ac_teacher-talk> y <ac_teacher-talk>más alto</ac_teacher-talk>. Haga gestos con las manos al comparar estaturas, poniendo la mano más alta o más baja y señalando las notas autoadhesivas de las estaturas que esté comparando.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Apoyo para el déficit de atención</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Ayude a los niños a mantenerse enfocados mientras usted mide a los demás niños del grupo, dándoles cubos conectores y fichas de dos colores. Anímelos a construir una torre de cubos conectores y a medir su altura con fichas de dos colores colocadas una junto a la otra como unidades de medición.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66421-8</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>¿QUÉ DESCUBRIMOS?</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Necesitará notas autoadhesivas y una pizarra o gráfica.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el vocabulario</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Vamos a repasar las palabras <ac_teacher-speaking_emphasis_blue>investigar</ac_teacher-speaking_emphasis_blue> y <ac_teacher-speaking_emphasis_blue>descubre</ac_teacher-speaking_emphasis_blue>.</ac_teacher-speaking> Use las tarjetas de <ac_teacher-talk-emphasis>investigar</ac_teacher-talk-emphasis> y <ac_teacher-talk-emphasis>descubre</ac_teacher-talk-emphasis> para repasar.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cuando leímos <ac_teacher-speaking_emphasis_blue>Lo que hemos aprendido</ac_teacher-speaking_emphasis_blue>, conversamos sobre lo que investigamos y descubrimos este año.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, van a “investigar” a un compañero: le harán una pregunta para saber algo sobre él. Después van a graficar su respuesta. ¡Compararemos las respuestas del grupo para descubrir cosas nuevas sobre nuestros amigos!</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Investigar</ac_teacher-card_run-in_hed>  Agrupe a los niños en parejas y pida a cada uno que escriba su nombre en una nota autoadhesiva. Pida a los miembros de cada pareja que se hagan preguntas sobre sus vidas, por ejemplo: <ac_teacher-speaking>¿Tiene una mascota su compañero? ¡Investiguen preguntándoselo!</ac_teacher-speaking> Deles tiempo para hacer preguntas y conversar sobre las respuestas.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Graficar</ac_teacher-card_run-in_hed>  Pregunte: <ac_teacher-speaking>¿Cuál fue la respuesta? ¿Tiene una mascota?</ac_teacher-speaking> Llame a cada miembro para que coloque la nota autoadhesiva de su compañero en la gráfica para registrarla en la columna “mascota” o en la de “no mascota”. Guíe a los niños para que coloquen las respuestas iguales una al lado de la otra y así crear una gráfica de barras.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe con otras preguntas, graficando las respuestas por separado. Elija preguntas con solo dos respuestas posibles.   </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre lo descubierto</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¿Qué descubrimos hoy sobre nuestros amigos? ¿Son más los que tienen mascotas? ¿Cómo lo saben? ¿Qué otras cosas descubrimos?</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>¿QUÉ DESCUBRIMOS?</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pídale a un niño que forme pareja con usted y demuestre registrando su respuesta en la gráfica o pizarra. Ayúdelos a leer las gráficas: <ac_teacher-talk>Hay muchas notas autoadhesivas para esta respuesta, y no tantas para esta otra. ¿Qué respuesta dijeron más veces? ¿Qué nos dice eso?</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida a los niños que respondan preguntas abiertas como <ac_teacher-talk>¿Cuál es su comida favorita?</ac_teacher-talk> Cree una gráfica con una barra por cada respuesta, y anime a los niños a leerla.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Esta actividad requiere un vocabulario variado, y puede resultarles difícil a los niños multilingües. En lo posible, conforme parejas de niños que compartan la misma lengua materna. Trate de elegir preguntas que apelen a las fortalezas de vocabulario de los niños. (Por ejemplo: si un niño sabe mucho vocabulario sobre hermanos, pero no sobre mascotas, pregunte <ac_teacher-speaking>¿Tienes algún hermano o hermana?  </ac_teacher-speaking>).</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>En lugar de pedir a los niños que coloquen notas autoadhesivas en una gráfica, pídales que formen cada gráfica colocando fichas de dos colores en fila sobre la mesa o en el piso. Cuando hayan terminado una gráfica, conversen sobre la nueva información descubierta antes de pasar a la siguiente pregunta, usando las mismas fichas para registrar las respuestas.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66421-8</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

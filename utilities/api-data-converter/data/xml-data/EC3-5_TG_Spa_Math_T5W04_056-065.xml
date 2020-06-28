@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./preview-styles.css" type="text/css"?>
+<teaching-guide xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" lang="es">
+  <day_1>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 4:</tg_week_hed>
+        <tg_topic_hed>Sano y salvo</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338636734_COV_SPA_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>Simulacro de incendio</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T5_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T5_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>sentido espacial</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>desarrollo emocional</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Desarrollo físico:</tg_learning-goals_inline-hed>motricidad gruesa</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Motive a los niños con una canción, desarrolle los conocimientos de matemáticas e introduzca vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>simulacro</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>cerca</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, pregunte: <tg_bullet-directions_guiding-question>¿Qué pasa durante un simulacro de incendio?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Lea por placer y para entender el significado; haga pausas para practicar el uso de palabras de ubicación.</tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión y diferencie cuando sea necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Sentido espacial:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa palabras de ubicación como “encima de”, “debajo”, “sobre”, “encima”, “al lado”, “entre”, “delante de”, “al lado” y “lejos”; “encima”, “debajo”, “arriba”, “abajo” y “detrás”.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica su propio cuerpo dentro de su entorno y respeta el espacio personal de los otros.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende y usa varios tipos de palabras.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Desarrollo físico</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motricidad gruesa:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Participa en secuencias de movimientos con instrucciones de adultos.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>¿Dónde está...? </tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T5_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>sentido espacial</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>desarrollo emocional</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed>vocabulario</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Repase las tarjetas de actividad con los niños e identifique los elementos del salón de clases en ellas.</tg_bullet-directions>
+        <tg_bullet-directions>Invite a los niños a hablar de ubicaciones relativas de otros objetos de la imagen.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juegos con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo nos podemos proteger?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué libro elegiste? ¿De qué trata este libro?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes representar que eres un bombero? ¿Qué harías?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes explicar lo que estás haciendo usando palabras de ubicación? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes escribir sobre cómo mantenerte a salvo? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué estás haciendo? ¿Qué colores estás usando?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué letra hace el sonido que oyes al principio de la palabra <tg_teacher-talk_emphasis_non-ital>salvo</tg_teacher-talk_emphasis_non-ital>? ¿Puedes escribir esa letra?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué estás construyendo? ¿Qué materiales usarás para construirlo?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Simulacro de incendio by Paul DuBois Jacobs and Jennifer Swender, illustrated by Huy Voun Lee. Text copyright © 2010 by Jacobs and Swender, Inc. Illustrations copyright © 2010 by Huy Voun Lee. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Henry Holt and Company, an imprint of Macmillan Publishing Group, LLC. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_1>
+  <day_2>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 4:</tg_week_hed>
+        <tg_topic_hed>Sano y salvo</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338636734_COV_SPA_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>Simulacro de incendio</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T5_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T5_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> sentido espacial</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo emocional</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> vocabulario</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Desarrollo físico:</tg_learning-goals_inline-hed>motricidad gruesa</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Comparta el Mind Builder <tg_bullet-directions_emphasis_Ital>controlar nuestro cuerpo</tg_bullet-directions_emphasis_Ital> e introduzca vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>cuidadosamente</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>al lado</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, asocie el Mind Builder con <tg_bullet-directions_book-title>Simulacro de incendio</tg_bullet-directions_book-title>.</tg_bullet-directions>
+        <tg_bullet-directions>Lea atentamente y hable sobre cómo moverse con cuidado en un simulacro de incendio y repase el sentido espacial.</tg_bullet-directions>
+        <tg_bullet-directions>Ofrezca la oportunidad de prolongar el juego.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción diaria de escritura.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Sentido espacial:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa palabras de ubicación como “encima de”, “debajo”, “sobre”, “encima”, “al lado”, “entre”, “delante de”, “al lado” y “lejos”; “encima”, “debajo”, “arriba”, “abajo” y “detrás”.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica su propio cuerpo dentro de su entorno y respeta el espacio personal de los otros.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende y usa varios tipos de palabras.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Desarrollo físico</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motricidad gruesa:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Participa en secuencias de movimientos con instrucciones de adultos; usa la percepción para realizar movimientos a través del espacio e interacciones con objetos y personas.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Simón dice: Hazlo cuidadosamente </tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T5_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> sentido espacial</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>desarrollo emocional</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> vocabulario</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Desarrollo físico:</tg_learning-goals_inline-hed>motricidad gruesa</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Use palabras de ubicación para dar instrucciones a los niños sobre acciones cuidadosas y conciencia corporal. </tg_bullet-directions>
+        <tg_bullet-directions>Pida a los niños que sigan instrucciones para realizar acciones normal y cuidadosamente.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juegos con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo nos podemos proteger?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Por qué elegiste ese libro?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes simular que estás en una burbuja? Muéstrame cómo caminarías, cuidadosamente sin golpear nada.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo estás ordenando los objetos? ¿Por qué están en ese orden?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Por qué pusiste eso arriba? ¿Qué dibujarás a continuación?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DELESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes escribir sobre algo que sea importante hacer cuidadosamente?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué letra hace el sonido que oyes al principio de la palabra cuidadosamente?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes construir algo al lado de lo que construiste?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Simulacro de incendio by Paul DuBois Jacobs and Jennifer Swender, illustrated by Huy Voun Lee. Text copyright © 2010 by Jacobs and Swender, Inc. Illustrations copyright © 2010 by Huy Voun Lee. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Henry Holt and Company, an imprint of Macmillan Publishing Group, LLC. Clifford the Big Red DogTM illustration copyright © The Norman Bridwell Trust. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_2>
+  <day_3>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 4:</tg_week_hed>
+        <tg_topic_hed>Sano y salvo</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338636734_COV_SPA_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>Simulacro de incendio</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T5_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T5_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Cubos conectores</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>clasificación; sentido espacial </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>desarrollo emocional</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> vocabulario</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Muestre a los niños cómo se puede representar información gráficamente e introduzca vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>contar</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>parejas</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, haga la pregunta guía: <tg_bullet-directions_guiding-question>¿Cómo hacemos un seguimiento de todos los niños durante un simulacro de incendio?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Lea de manera interactiva sobre cómo mantenerse a salvo durante un simulacro de incendio.</tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión y diferencie.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Clasificación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Recopila, organiza y presenta datos gráficamente.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Sentido espacial:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa palabras de ubicación como “encima de”, “debajo”, “sobre”, “encima”, “al lado”, “entre”, “delante de”, “al lado” y “lejos”; “encima”, “debajo”, “arriba”, “abajo” y “detrás”.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica su propio cuerpo dentro de su entorno y respeta el espacio personal de los otros.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende y usa varios tipos de palabras.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Tecnología</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Programas y herramientas:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa tecnología, incluyendo aplicaciones de aprendizaje, para expresar sus propias ideas.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Hacer una gráfica de nuestro mundo </tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T5_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Cubos conectores</tg_materials-caption>
+        <graphic href="EC_stock_TwoColorCounters_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Fichas de dos colores</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>clasificación</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>desarrollo emocional</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Tecnología:</tg_learning-goals_inline-hed>programas y herramientas</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Marque una tabla en la mesa para usar como gráfica.  </tg_bullet-directions>
+        <tg_bullet-directions>Pida a los niños que clasifiquen los cubos y botones en dos columnas en la mesa para crear una gráfica.</tg_bullet-directions>
+        <tg_bullet-directions>Ayude a los niños a entender la gráfica. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juegos con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo nos podemos proteger?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cuál fue tu parte favorita del cuento? ¿Por qué te gustó esa parte?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo puedes representar ser un maestro a cargo de un simulacro de incendio?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo puedes clasificar estos artículos? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Por qué debemos aprender sobre seguridad contra incendios?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Haz un dibujo de nuestra clase durante un simulacro de incendio.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué letra hace el sonido que oyes al principio de la palabra <tg_teacher-talk_emphasis_non-ital>simulacro</tg_teacher-talk_emphasis_non-ital>?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo puedes clasificar los materiales con los que estás construyendo?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Simulacro de incendio by Paul DuBois Jacobs and Jennifer Swender, illustrated by Huy Voun Lee. Text copyright © 2010 by Jacobs and Swender, Inc. Illustrations copyright © 2010 by Huy Voun Lee. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Henry Holt and Company, an imprint of Macmillan Publishing Group, LLC. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_3>
+  <day_4>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 4:</tg_week_hed>
+        <tg_topic_hed>Sano y salvo</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="EC3-5_Flipchart_T5W4_ LittleFroggiesJumpingOnTheBed_Spa_REDUX_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Papelógrafo de grandes ideas: <tg_materials-caption_book-title-Ital>Cinco ranitas saltando en la cama</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T5_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T5_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+        <graphic href="9781338636734_COV_SPA_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Libro: <tg_materials-caption_book-title-Ital>Simulacro de incendio</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>clasificación; sentido espacial</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>desarrollo emocional</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Desarrollo físico:</tg_learning-goals_inline-hed>salud</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Hable sobre cómo mantenerse a salvo, haga gráficas e introduzca palabras de vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>saltando</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>pequeño</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, asocie los textos <tg_bullet-directions_book-title>Cinco ranitas saltando en la cama </tg_bullet-directions_book-title>y <tg_bullet-directions_book-title>Simulacro de incendio</tg_bullet-directions_book-title>.</tg_bullet-directions>
+        <tg_bullet-directions>Lea de manera interactiva y asocie con estar sano y salvo, y la salud en general.</tg_bullet-directions>
+        <tg_bullet-directions>Ofrezca una actividad para prolongar el juego.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Sentido espacial:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa palabras de ubicación como “encima de”, “debajo”, “sobre”, “encima”, “al lado”, “entre”, “delante de”, “al lado” y “lejos”; “encima”, “debajo”, “arriba”, “abajo” y “detrás”.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Clasificación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Recopila, organiza y presenta datos gráficamente.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica su propio cuerpo dentro de su entorno y respeta el espacio personal de los otros.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Desarrollo físico</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Salud:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce buenos hábitos de nutrición y ejercicio.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende y usa varios tipos de palabras.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Detrás de la cortina: Ubicaciones</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T5_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Cubos conectores</tg_materials-caption>
+        <graphic href="EC_stock_ManilaFolder_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Libro o carpeta</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>sentido espacial, clasificación</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>desarrollo emocional</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed>vocabulario</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Coloque cubos con una disposición determinada detrás de una cortina.</tg_bullet-directions>
+        <tg_bullet-directions>Use palabras de ubicación para describir las disposiciones y pida a los niños que coloquen cubos con esas disposiciones.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juegos con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo nos podemos proteger?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿En qué te hizo pensar ese libro?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo puedes representar que haces algo cuidadosamente?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes clasificar esos artículos por color o tamaño?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cuándo has aprendido una lección sobre cómo mantenerte a salvo?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes dibujar algo al lado de lo que ya dibujaste?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes observar el salón y encontrar algo que empiece con el sonido /tr/?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo puedes hacer tu estructura más alta de manera segura?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Simulacro de incendio by Paul DuBois Jacobs and Jennifer Swender, illustrated by Huy Voun Lee. Text copyright © 2010 by Jacobs and Swender, Inc. Illustrations copyright © 2010 by Huy Voun Lee. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Henry Holt and Company, an imprint of Macmillan Publishing Group, LLC. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Photo © Dan Kosmayer/Shutterstock.</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_4>
+  <day_5>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 4:</tg_week_hed>
+        <tg_topic_hed>Sano y salvo</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338636734_COV_SPA_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>Simulacro de incendio</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T5_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T5_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>sentido espacial</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>desarrollo emocional</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Desarrollo físico:</tg_learning-goals_inline-hed> motricidad gruesa, salud </tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Asocie el libro con hábitos saludables, practique el sentido espacial e introduzca vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>entre</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, pregunte: <tg_bullet-directions_guiding-question>¿Cómo nos ayudan los simulacros de incendio a mantenernos a salvo?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Narre de manera interactiva para estimular la participación física y enfocarse en la seguridad.</tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión y diferencie cuando sea necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Sentido espacial:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa palabras de ubicación como “encima de”, “debajo”, “sobre”, “encima”, “al lado”, “entre”, “delante de”, “al lado” y “lejos”; “encima”, “debajo”, “arriba”, “abajo” y “detrás”.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Clasificación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Recopila, organiza y presenta datos gráficamente.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica su propio cuerpo dentro de su entorno y respeta el espacio personal de los otros.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Desarrollo físico</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motricidad gruesa:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Participa en secuencias de movimientos con instrucciones de adultos; usa la percepción para realizar movimientos a través del espacio e interacciones con objetos y personas.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Salud:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce buenos hábitos de nutrición y ejercicio.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Escritura independiente, dibujar o narrar cuentos</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC3-5_ResponsePrompt_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Hoja de respuesta</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>sentido espacial</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>desarrollo emocional</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Desarrollo físico:</tg_learning-goals_inline-hed>salud </tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta lección:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Apoye a los niños mientras responden la pregunta de esta semana: <tg_bullet-directions_guiding-question>¿Cómo nos podemos proteger?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Dé a los niños una oportunidad de usar herramientas digitales.</tg_bullet-directions>
+        <tg_bullet-directions>Guarde los escritos de los niños para exhibirlos la semana siguiente.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juegos con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo nos podemos proteger?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué tipo de libro te gustaría leer a continuación?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Representa que estás a cargo de un simulacro de incendio. ¿Qué harás?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes clasificar los materiales y ver de cuáles hay más? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escribe una historia sobre una manera de mantenerte saludable.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué puedes crear que muestre información de la misma manera que la muestra una gráfica?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cuál es tu apellido? ¿Con qué letra empieza?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué puedes construir arriba de lo que estás construyendo? ¿Qué puedes poner entre las dos cosas?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Simulacro de incendio by Paul DuBois Jacobs and Jennifer Swender, illustrated by Huy Voun Lee. Text copyright © 2010 by Jacobs and Swender, Inc. Illustrations copyright © 2010 by Huy Voun Lee. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Henry Holt and Company, an imprint of Macmillan Publishing Group, LLC. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_5>
+  <day_1_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Sentido espacial:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra el uso de palabras de ubicación (tal como “sobre”, “debajo”, “encima”, “arriba”, “al lado”, “entre”, “en frente”, “cerca”, “lejos”, etc.</tg_skills-focus-skill-text>). <tg_skills-focus-skill-code>(TX.V.C.3)</tg_skills-focus-skill-code></tg_skills-focus_body><tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Es consciente de dónde está su cuerpo en el espacio y respeta los límites personales de otros.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.A.1, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa un vocabulario amplio para hablar, agregando varias palabras nuevas por día.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.4)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Desarrollo físico</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motricidad gruesa:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Coordina secuencias de movimientos para realizar tareas.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IX.A.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_1_texas>
+  <day_2_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Sentido espacial:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra el uso de palabras de ubicación (tal como “sobre”, “debajo”, “encima”, “arriba”, “al lado”, “entre”, “en frente”, “cerca”, “lejos”, etc.</tg_skills-focus-skill-text>). <tg_skills-focus-skill-code>(TX.V.C.3)</tg_skills-focus-skill-code></tg_skills-focus_body><tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Es consciente de dónde está su cuerpo en el espacio y respeta los límites personales de otros.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.A.1, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa un vocabulario amplio para hablar, agregando varias palabras nuevas por día.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.4)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Desarrollo físico</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motricidad gruesa:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Coordina secuencias de movimientos para realizar tareas.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IX.A.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_2_texas>
+  <day_3_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Clasificación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Obtiene datos y los organiza en una representación gráfica.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.E.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Sentido espacial:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra el uso de palabras de ubicación (tal como “sobre”, “debajo”, “encima”, “arriba”, “al lado”, “entre”, “en frente”, “cerca”, “lejos”, etc.</tg_skills-focus-skill-text>). <tg_skills-focus-skill-code>(TX.V.C.3)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Es consciente de dónde está su cuerpo en el espacio y respeta los límites personales de otros.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.A.1, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa un vocabulario amplio para hablar, agregando varias palabras nuevas por día.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.4)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Tecnología</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Programas y herramientas:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa aplicaciones y programas digitales de aprendizaje para crear productos digitales y expresar sus ideas.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.X.A.3.)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_3_texas>
+  <day_4_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Sentido espacial:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra el uso de palabras de ubicación (tal como “sobre”, “debajo”, “encima”, “arriba”, “al lado”, “entre”, “en frente”, “cerca”, “lejos”, etc.</tg_skills-focus-skill-text>). <tg_skills-focus-skill-code>(TX.V.C.3)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Clasificación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Obtiene datos y los organiza en una representación gráfica.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.E.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Es consciente de dónde está su cuerpo en el espacio y respeta los límites personales de otros.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.A.1, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa un vocabulario amplio para hablar, agregando varias palabras nuevas por día.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.4)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Desarrollo físico</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Salud:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica los buenos hábitos de nutrición y ejercicio.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IX.C.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_4_texas>
+  <day_5_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Sentido espacial:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra el uso de palabras de ubicación (tal como “sobre”, “debajo”, “encima”, “arriba”, “al lado”, “entre”, “en frente”, “cerca”, “lejos”, etc.</tg_skills-focus-skill-text>). <tg_skills-focus-skill-code>(TX.V.C.3)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Clasificación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Obtiene datos y los organiza en una representación gráfica.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.E.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Es consciente de dónde está su cuerpo en el espacio y respeta los límites personales de otros.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.A.1, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Desarrollo físico</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motricidad gruesa:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Coordina secuencias de movimientos para realizar tareas.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IX.A.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Salud:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica los buenos hábitos de nutrición y ejercicio.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IX.C.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_5_texas>
+</teaching-guide>

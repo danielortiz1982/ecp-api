@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./preview-styles.css" type="text/css"?>
+<teaching-guide xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" lang="es">
+  <day_1>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 2:</tg_week_hed>
+        <tg_topic_hed>El lugar donde vivimos</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338621501_COV_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>¡Oye, pared!</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC%20Redux%20T2_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC%20Redux%20Spa%20T2_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> escuchar, conversación; vocabulario</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo emocional</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Bellas artes:</tg_learning-goals_inline-hed> arte</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para desarrollar el conocimiento y presentar el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>cuadra</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>energía</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Inicie la hora del cuento repasando el libro. Diga: <tg_bullet-directions_guiding-question>¿Qué sabemos del lugar donde vive el niño?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Lea para disfrutar y comprender, fijándose en el vocabulario en contexto.</tg_bullet-directions>
+        <tg_bullet-directions>Verifique la comprensión; diferencie según requiera. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escuchar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Muestra comprensión del idioma hablado.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Hace y responde preguntas para buscar ayuda o información.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Utiliza sustantivos y verbos de uso frecuente; Comprende y usa un número creciente de palabras de estudios sociales.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Estructura de la oración:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la concordancia entre sujeto y verbo.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica su propio cuerpo dentro de su entorno y respeta el espacio personal de los otros.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y el espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra comprensión sobre el cuidado del planeta y su importancia.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>
+            <tg_learning-goals_inline-hed>Arte:</tg_learning-goals_inline-hed>
+          </tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa el arte para expresarse.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Nuestro vecindario</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lang_T2_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+        <graphic href="EC_stock_WritingTools_95648428_90156058_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Materiales de escritura</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> conversación; vocabulario; estructura de la oración</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo emocional</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> ciencias de la Tierra y el espacio</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Ayude a los niños a identificar formas mediante las que la gente puede cuidar sus vecindarios.</tg_bullet-directions>
+        <tg_bullet-directions>Ayude a los niños a usar sustantivos y verbos frecuentes en sus respuestas. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo es el lugar donde vivimos?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué edificios ves en ese libro?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué acción puedes representar que haces junto a tus vecinos?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo puedes clasificar esos juguetes?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cuál es tu lugar favorito de tu vecindario? ¿Qué haces ahí?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué materiales puedes usar para hacer un árbol?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué letra hace el sonido que escuchas al principio de la palabra <tg_teacher-talk_emphasis_non-ital>cuadra</tg_teacher-talk_emphasis_non-ital>? ¿Puedes escribirla?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes usar bloques para construir una pared? ¿Qué otros materiales puedes usar para hacer una pared?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &#38; © Scholastic Inc. All rights reserved. Oye, pared by Susan Verde, illustrated by John Parra. Text copyright © 2018 by Susan Verde. Illustrations copyright © 2018 by John Parra. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Simon &#38; Schuster Children’s Publishing Division, a division of Simon &#38; Schuster, Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &#38; © Scholastic Inc. All rights reserved. Photos © Shutterstock: crayons (Lucie Lang), pencils (urfin).</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_1>
+  <day_2>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 2:</tg_week_hed>
+        <tg_topic_hed>El lugar donde vivimos</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338621501_COV_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>¡Oye, pared!</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC%20Redux%20T2_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC%20Redux%20Spa%20T2_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> conversación; escuchar; vocabulario</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo emocional; función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Bellas artes:</tg_learning-goals_inline-hed> arte</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para compartir el Mind Builder pensamiento flexible y presentar el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>idea</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>diferente</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento conectando el Mind Builder con <tg_bullet-directions_book-title>¡Oye, pared!</tg_bullet-directions_book-title></tg_bullet-directions>
+        <tg_bullet-directions>Haga una lectura atenta para destacar y hablar sobre el Mind Builder. </tg_bullet-directions>
+        <tg_bullet-directions>Ofrezca la oportunidad de prolongar el juego.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escuchar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Muestra comprensión del idioma hablado.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Hace y responde preguntas para buscar ayuda o información.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Utiliza sustantivos y verbos de uso frecuente; Comprende y usa un número creciente de palabras de estudios sociales.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Estructura de la oración:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la concordancia entre sujeto y verbo.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica su propio cuerpo dentro de su entorno y respeta el espacio personal de los otros.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra pensamientos y comportamientos flexibles.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>
+            <tg_learning-goals_inline-hed>Arte:</tg_learning-goals_inline-hed>
+          </tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa el arte para expresarse.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>¿Qué ven?</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lang_T2_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> conversación; vocabulario; estructura de la oración</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> función ejecutiva</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Ayude a los niños a usar su pensamiento flexible para observar la imagen de diferentes maneras.</tg_bullet-directions>
+        <tg_bullet-directions>Ayude a los niños a usar sustantivos y verbos frecuentes en sus respuestas. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo es el lugar donde vivimos?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué otro lugar se parece a nuestra ciudad?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Representa una gran idea que tengas.</tg_ind-center_teacher-talk><tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes dibujar a tres personas que viven cerca de ti?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Dibuja algo que ves donde vives.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes dibujar y colorear un lugar de tu vecindario?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué letra hace el sonido que escuchas al principio de la palabra <tg_teacher-talk_emphasis_non-ital>diferente</tg_teacher-talk_emphasis_non-ital>? ¿Puedes escribirla?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué materiales puedes usar para construir una pared como la del cuento?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &#38; © Scholastic Inc. All rights reserved. Oye, pared by Susan Verde, illustrated by John Parra. Text copyright © 2018 by Susan Verde. Illustrations copyright © 2018 by John Parra. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Simon &#38; Schuster Children’s Publishing Division, a division of Simon &#38; Schuster, Inc. Clifford the Big Red Dog™ illustration copyright © The Norman Bridwell Trust. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &#38; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_2>
+  <day_3>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 2:</tg_week_hed>
+        <tg_topic_hed>El lugar donde vivimos</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338621501_COV_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>¡Oye, pared!</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC%20Redux%20T2_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC%20Redux%20Spa%20T2_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+        <graphic href="EC_StrategyCards%20MakePrediction_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Tarjeta de estrategia: <tg_materials-caption_book-title-Ital>Hacer una predicción</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> escuchar; conversación; vocabulario</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo emocional</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para compartir la destreza de comprensión <tg_bullet-directions_book-title>hacer una predicción</tg_bullet-directions_book-title> y presentar el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>dibujos</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>mirar</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento repasando el libro y preguntando: <tg_bullet-directions_guiding-question>¿Qué piensa el niño sobre la pared al comienzo de la historia?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Lea interactivamente para una mejor comprensión.</tg_bullet-directions>
+        <tg_bullet-directions>Verifique la comprensión; diferencie según requiera. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escuchar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Muestra comprensión del idioma hablado.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Hace y responde preguntas para buscar ayuda o información.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Utiliza sustantivos y verbos de uso frecuente; Comprende y usa un número creciente de palabras de estudios sociales.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Estructura de la oración:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la concordancia entre sujeto y verbo.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica su propio cuerpo dentro de su entorno y respeta el espacio personal de los otros.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Teatro:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Actúa para recrear y volver a contar historias, estados de ánimo o experiencias.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Representar</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lang_T2_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> conversación; vocabulario; estructura de la oración</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo emocional</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Bellas artes:</tg_learning-goals_inline-hed> expresión dramática</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Pida a los niños que representen escenas diferentes de <tg_bullet-directions_book-title>¡Oye, pared!</tg_bullet-directions_book-title></tg_bullet-directions>
+        <tg_bullet-directions>Anime a los niños a bailar diferentes estilos musicales.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo es el lugar donde vivimos?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿En qué se parecen los edificios de esos libros? ¿En qué se diferencian?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes mostrarme dos cosas que haces en casa?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes comparar el tamaño de dos edificios? ¿Cuál es más grande?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes escribir sobre por qué el niño quiere cambiar la pared?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Dibuja una tienda de tu ciudad. ¿Qué colores usarás para colorearla?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué letra hace el sonido que escuchas al principio de la palabra <tg_teacher-talk_emphasis_non-ital>pared</tg_teacher-talk_emphasis_non-ital>?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Los vecinos usaron escaleras para pintar la pared. ¿Puedes construir una escalera? ¿Qué materiales usarás?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &#38; © Scholastic Inc. All rights reserved. Oye, pared by Susan Verde, illustrated by John Parra. Text copyright © 2018 by Susan Verde. Illustrations copyright © 2018 by John Parra. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Simon &#38; Schuster Children’s Publishing Division, a division of Simon &#38; Schuster, Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &#38; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_3>
+  <day_4>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 2:</tg_week_hed>
+        <tg_topic_hed>El lugar donde vivimos</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="EC3-5_Flipchart_T2W2_OurNeighbourhood_ReduxSPAN_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Papelógrafo de grandes ideas:<tg_materials-caption_book-title-Ital>Nuestro vecindario</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC%20Redux%20T2_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC%20Redux%20Spa%20T2_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+        <graphic href="9781338621501_COV_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Libro: ¡Oye, pared!</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> escuchar; vocabulario; conversación</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> función ejecutiva</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Estudios sociales:</tg_learning-goals_inline-hed> geografía</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para desarrollar el contexto y presentar el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>el correo</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>biblioteca</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento conectando los textos <tg_bullet-directions_book-title>¡Oye, pared! </tg_bullet-directions_book-title>y<tg_bullet-directions_book-title> Nuestro vecindario</tg_bullet-directions_book-title>.</tg_bullet-directions>
+        <tg_bullet-directions>Lea interactivamente y conecte la pregunta guía de esta semana: <tg_bullet-directions_book-title>¿Cómo es el lugar donde vivimos?</tg_bullet-directions_book-title></tg_bullet-directions>
+        <tg_bullet-directions>Ofrezca la oportunidad de prolongar el juego.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escuchar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Muestra comprensión del idioma hablado.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende y usa un número creciente de palabras de estudios sociales; Utiliza sustantivos y verbos de uso frecuente.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa un lenguaje diferente para distintos propósitos y adecúa el lenguaje a los contextos sociales; Comparte ideas y sentimientos.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra pensamientos y comportamientos flexibles.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>.</tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica su propio cuerpo dentro de su entorno y respeta el espacio personal de los otros.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Estudios sociales</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geografía:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Explora recursos y herramientas de geografía, tales como mapas, señales de tránsito y direcciones.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>
+            <tg_learning-goals_inline-hed>Música:</tg_learning-goals_inline-hed>
+          </tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reacciona a una variedad de estilos musicales a través del movimiento y el juego.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>¿Dónde estoy?</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lang_T2_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> escuchar; vocabulario; conversación</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo emocional</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Estudios sociales:</tg_learning-goals_inline-hed> geografía</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Ayude a los niños a identificar dónde están las personas en su vecindario.</tg_bullet-directions>
+        <tg_bullet-directions>Ayude a los niños a practicar la concordancia sujeto-verbo haciendo preguntas con sujetos singulares y plurales.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo es el lugar donde vivimos?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué crees que es lo que más le gusta al niño de sus vecinos?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Representa que estás leyendo un libro en una biblioteca.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Dibuja tres cosas de diferentes tamaños que le darías a un amigo.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escribe sobre un lugar que te gustaría visitar.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes hacer un mapa donde ubiques el lugar en el que está nuestra escuela?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes decirme el sonido que escuchas al principio de la palabra <tg_teacher-talk_emphasis_non-ital>vecindario</tg_teacher-talk_emphasis_non-ital>?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes construir una estación de bomberos? ¿Qué tendrá tu estación de bomberos?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &#38; © Scholastic Inc. All rights reserved. Oye, pared by Susan Verde, illustrated by John Parra. Text copyright © 2018 by Susan Verde. Illustrations copyright © 2018 by John Parra. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Simon &#38; Schuster Children’s Publishing Division, a division of Simon &#38; Schuster, Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &#38; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_4>
+  <day_5>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 2:</tg_week_hed>
+        <tg_topic_hed>El lugar donde vivimos</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338621501_COV_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro:¡<tg_materials-caption_book-title-Ital>Oye, pared!</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC%20Redux%20T2_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjetas para grupo grande</tg_materials-caption>
+        <graphic href="VC%20Redux%20Spa%20T2_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> hacer conexiones</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> conversación</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Vocabulario:</tg_learning-goals_inline-hed> palabras de acción</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para pedir a los niños que representen escenas de <tg_bullet-directions_book-title>¡Oye, pared! </tg_bullet-directions_book-title>y presentar el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>admiramos</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>mareo</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Inicie la hora del cuento repasando <tg_bullet-directions_book-title>¡Oye, pared!</tg_bullet-directions_book-title> Diga: <tg_bullet-directions_guiding-question>¿Qué quiere mostrar el niño en la pared?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Lea y vuelva a narrar de manera interactiva para fomentar el desarrollo físico y la imaginación.</tg_bullet-directions>
+        <tg_bullet-directions>Verifique la comprensión; diferencie según requiera. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escuchar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Muestra comprensión del idioma hablado.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende y usa un número creciente de palabras de estudios sociales; Utiliza sustantivos y verbos de uso frecuente.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y el espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Investiga, describe y habla acerca de los materiales de la tierra y de sus usos; demuestra comprensión sobre el cuidado del planeta y su importancia.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Transmite un significado a través de marcas, letras o símbolos.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Expresión dramática:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Actúa para recrear y volver a contar historias, estados de ánimo o experiencias.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>
+            <tg_learning-goals_inline-hed>Arte:</tg_learning-goals_inline-hed>
+          </tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa el arte para expresarse.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Escritura independiente, dibujar o narrar un cuento</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC3-5_ResponsePrompt_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Hoja de respuesta</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> escuchar; vocabulario; conversación</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> escritura</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> ciencias de la vida</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Ayude a los niños mientras responden independientemente al tema de esta semana: <tg_bullet-directions_guiding-question>¿Qué lugar de tu vecindario te gusta más visitar?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Guarde los escritos de los niños para mostrarlos la próxima semana.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo es el lugar donde vivimos?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Si escribieras un libro sobre tu vecindario, ¿qué escribirías?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes hacer como que estás regando un árbol que acabas de plantar?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Dibuja el árbol más grande que crezca en tu vecindario.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Crea una historia sobre un vecindario.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Te imaginas un hermoso parque en una ciudad? ¿Qué hay en el parque? ¿Puedes dibujarel parque? </tg_ind-center_teacher-talk><tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué letra escuchas al principio de la palabra <tg_teacher-talk_emphasis_non-ital>mareo</tg_teacher-talk_emphasis_non-ital>?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Construye un parque. ¿Por qué usaste esos materiales para hacer tu parque? ¿Podrías usar otros materiales?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &#38; © Scholastic Inc. All rights reserved. Oye, pared by Susan Verde, illustrated by John Parra. Text copyright © 2018 by Susan Verde. Illustrations copyright © 2018 by John Parra. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Simon &#38; Schuster Children’s Publishing Division, a division of Simon &#38; Schuster, Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &#38; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_5>
+  <day_1_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escuchar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra que comprende y responde adecuadamente.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.A.1);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Muestra comprensión del idioma que hablan los maestros y sus compañeros.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.A.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Ofrece información adecuada para varias situaciones.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.B.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Estructura de la oración:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa plurales, pasados regulares, pronombres personales y posesivos y concordancia sujeto-verbo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.E.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Es consciente de dónde está su cuerpo en el espacio y respeta los límites personales de otros.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.A.1, MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencia</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y del espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra la importancia de cuidar el medioambiente y el planeta.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.C.4)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Arte:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa el arte como forma de autoexpresión y representación creativa.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VIII.A.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_1_texas>
+  <day_2_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escuchar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra que comprende y responde adecuadamente.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.A.1);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Muestra comprensión del idioma que hablan los maestros y sus compañeros.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.A.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Ofrece información adecuada para varias situaciones.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.B.3)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Estructura de la oración:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa plurales, pasados regulares, pronombres personales y posesivos y concordancia sujeto-verbo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.E.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Es consciente de dónde está su cuerpo en el espacio y respeta los límites personales de otros.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.A.1, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra pensamientos y comportamientos flexibles.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Arte:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa el arte como una forma de autoexpresión y representación creativa.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VIII.A.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_2_texas>
+  <day_3_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escuchar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra que comprende y responde adecuadamente.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.A.1);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Muestra comprensión del idioma que hablan los maestros y sus compañeros.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.A.3)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Ofrece información adecuada para varias situaciones.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.B.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Estructura de la oración:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa plurales, pasados regulares, pronombres personales y posesivos y concordancia sujeto-verbo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.E.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Es consciente de dónde está su cuerpo en el espacio y respeta los límites personales de otros.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.A.1, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Expresión dramática:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Crea o recrea historias, estados de ánimo o experiencias a través de las representaciones teatrales.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VIII.C.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_3_texas>
+  <day_4_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escuchar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra que comprende y responde adecuadamente.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.A.1);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Muestra comprensión del idioma que hablan los maestros y sus compañeros.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.A.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Ofrece información adecuada para varias situaciones.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.B.3)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra pensamientos y comportamientos flexibles.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Es consciente de dónde está su cuerpo en el espacio y respeta los límites personales de otros.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.A.1, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Estudios sociales</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geografía:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Explora herramientas y recursos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VII.C.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Música:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Responde a varios estilos musicales a través del movimiento y el juego.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IX.A.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_4_texas>
+  <day_5_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escuchar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra que comprende y responde bien.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.A.1);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Muestra comprensión del idioma que hablan los maestros y sus compañeros.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.A.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la vida:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observa, investiga, describe y discute la relación de organismos con sus ambientes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.B.3)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y del espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra la importancia de cuidar el medioambiente y el planeta.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.C.4)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa de manera intencional marcas, letras o símbolos para registrar el lenguaje y comparte significados.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IV.A.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Expresión dramática:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Crea o recrea historias, estados de ánimo o experiencias a través de las representaciones teatrales.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VIII.C.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Arte:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa el arte como una forma de autoexpresión y representación creativa.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VIII.A.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_5_texas>
+</teaching-guide>

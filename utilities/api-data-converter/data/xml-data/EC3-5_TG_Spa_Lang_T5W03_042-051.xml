@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./preview-styles.css" type="text/css"?>
+<teaching-guide xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" lang="es">
+  <day_1>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 3:</tg_week_hed>
+        <tg_topic_hed>¡A cuidarnos!</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338609424_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>El remedio para un resfriado</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T4_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande </tg_materials-caption>
+        <graphic href="VC Redux Spa T5_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> vocabulario</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> función ejecutiva</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> comprensión de la lectura en voz alta</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Motive a los niños e introduzca el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>gruesos</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>tranquila</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, presente el libro y pregunte: <tg_bullet-directions_guiding-question>¿Qué deben hacer cuando tienen un resfriado?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Lea por placer y para comprender, observando el vocabulario en contexto.</tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión y diferencie según sea necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende una gran cantidad de palabras y empieza a usarlas más y más.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica y resuelve problemas.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica y verbaliza necesidades.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conocimiento del abecedario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica al menos 20 letras mayúsculas y 20 letras minúsculas aisladas.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa información para categorizar; usa información para comparar y contrastar.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Desarrollo físico</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Salud:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Tiene buenos hábitos de salud e higiene.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motricidad gruesa:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Domina las habilidades básicas de correr, saltar, escalar y pedalear.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>El remedio para un resfriado</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lang_T5_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> vocabulario</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> función ejecutiva</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> comprensión de la lectura en voz alta</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Desarrollo físico:</tg_learning-goals_inline-hed> salud</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Estimule a los niños a clasificar cosas buenas y cosas malas para un resfriado.</tg_bullet-directions>
+        <tg_bullet-directions>Guíe a los niños para que hablen sobre cómo cuidarse cuando tienen un resfriado.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo nos podemos mantener saludables?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Muéstrame un personaje que hace algo para estar saludable.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Simula que tienes un resfriado y te suenas la nariz.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué puedes hacer cuando estás enfermo para que otras personas no se enfermen también?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes dibujar algo que debes hacer cuando tienes un resfriado?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Haz algo que podrías usar para mantenerte saludable. ¿Qué materiales usarás?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué letra hace el sonido que oyes al principio de la palabra saludable? ¿Puedes hacer ese sonido?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes usar bloques para construir un buen lugar para que alguien descanse cuando tiene un resfriado?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. El remedio para un resfriado by Barbara Bottner, illustrated by Chris Sheban. Text copyright © 2018 by Barbara Bottner. Illustrations copyright © 2018 by Chris Sheban. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Holiday House Publishing, Inc.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_1>
+  <day_2>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 3:</tg_week_hed>
+        <tg_topic_hed>¡A cuidarnos!</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338609424_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro:<tg_materials-caption_book-title-Ital>El remedio para un resfriado</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T5_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande </tg_materials-caption>
+        <graphic href="VC Redux Spa T5_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> vocabulario</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed> función ejecutiva; desarrollo emocional</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Desarrollo físico:</tg_learning-goals_inline-hed> seguridad</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Comparta el Mind Builder <tg_bullet-directions_guiding-question>resolución de problemas </tg_bullet-directions_guiding-question>e introduzca el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>resolver</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>alrededor</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, asocie el Mind Builder con <tg_bullet-directions_book-title>El remedio para un resfriado</tg_bullet-directions_book-title>.</tg_bullet-directions>
+        <tg_bullet-directions>Lea con atención teniendo presente el Mind Builder y hablando sobre él.</tg_bullet-directions>
+        <tg_bullet-directions>Dé la oportunidad de prolongar el juego.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende una gran cantidad de palabras y empieza a usarlas más y más; comprende palabras de significados múltiples.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica y resuelve problemas.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Vincula las propias experiencias con aquellas de los libros.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Desarrollo físico</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Seguridad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Tiene buenos hábitos de seguridad personal.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motricidad gruesa:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Domina las habilidades básicas de correr, saltar, escalar y pedalear.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Cuídate</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lang_T5_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> vocabulario</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> función ejecutiva</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> comprensión de la lectura en voz alta</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Desarrollo físico:</tg_learning-goals_inline-hed> motricidad gruesa</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Estimule a los niños a mirar diferentes objetos y a representar cómo usarlos cuando se tiene un resfriado.</tg_bullet-directions>
+        <tg_bullet-directions>Guíe a los niños para hablar sobre por qué estos objetos son útiles o no.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo nos podemos mantener saludables?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes encontrar alguna imagen de personas haciendo algo para mantenerse saludables?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Simula que tienes un resfriado y vas a comprar cosas que te ayuden a sentirte mejor. ¿Qué comprarás?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes decir dos remedios para un resfriado?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes dibujar algo que muestre cómo te sientes cuando haces algo saludable? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes dibujar o pintar un plato con alimentos saludables?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué letra hace el sonido que oyes al principio de la palabra <tg_teacher-talk_emphasis_non-ital>resfriado</tg_teacher-talk_emphasis_non-ital>?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes construir algo que te ayude a sentirte mejor cuando tienes un resfriado?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. El remedio para un resfriado by Barbara Bottner, illustrated by Chris Sheban. Text copyright © 2018 by Barbara Bottner. Illustrations copyright © 2018 by Chris Sheban. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Holiday House Publishing, Inc. Clifford the Big Red DogTM illustration copyright © The Norman Bridwell Trust.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_2>
+  <day_3>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 3:</tg_week_hed>
+        <tg_topic_hed>¡A cuidarnos!</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338609424_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>El remedio para un resfriado</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T5_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande </tg_materials-caption>
+        <graphic href="VC Redux Spa T5_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+        <graphic href="EC_StrategyCards MakeConnection_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Tarjeta de estrategia: Hacer una conexión</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> vocabulario</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo emocional</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> escritura</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Comparta la habilidad de comprensión <tg_bullet-directions_guiding-question>hacer una conexión</tg_bullet-directions_guiding-question> e introduzca el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>cerca</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>tierno</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, repase el libro y haga la pregunta guía: <tg_bullet-directions_guiding-question>¿Qué pueden hacer para sentirte mejor cuando tienen un resfriado?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Lea de manera interactiva para comprender mejor.</tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión y diferencie.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende y usa un número creciente de palabras relacionales.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica y resuelve problemas.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica y verbaliza necesidades.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Transmite un significado a través de marcas, letras o símbolos.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa información para categorizar; usa información para comparar y contrastar.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Desarrollo físico</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Salud:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Tiene buenos hábitos de salud e higiene.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>¡Vamos a lavarnos las manos!</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lang_T5_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> vocabulario</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo emocional</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> comprensión de la lectura en voz alta</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Desarrollo físico:</tg_learning-goals_inline-hed> salud </tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Pida a los niños que exploren formas en las que se propagan los gérmenes cuando se tiene un resfriado.</tg_bullet-directions>
+        <tg_bullet-directions>Guíe a los niños para que representen el papel de gérmenes y cómo se propagan.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo nos podemos mantener saludables?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo se cuidan los personajes del libro?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes mostrarme la cara que tendrías si te sintieras enfermo?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cuántos alimentos saludables que comienzan con la letra <tg_teacher-talk_emphasis_non-ital>M</tg_teacher-talk_emphasis_non-ital> puedes nombrar?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed> ￼RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes inventar un cuento sobre un niño que está enfermo y prueba diferentes cosas para sentirse mejor?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes dibujar algo que muestre el cuento que inventaste?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué letra oyes al principio de la palabra <tg_teacher-talk_emphasis_non-ital>cerca</tg_teacher-talk_emphasis_non-ital>?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes construir un lugar a donde ir cuando te sientes enfermo? ¿Qué lugar construirías?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. El remedio para un resfriado by Barbara Bottner, illustrated by Chris Sheban. Text copyright © 2018 by Barbara Bottner. Illustrations copyright © 2018 by Chris Sheban. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Holiday House Publishing, Inc.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_3>
+  <day_4>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 3:</tg_week_hed>
+        <tg_topic_hed>¡A cuidarnos!</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="EC3-5_Flipchart_T5W3_KeepYourHandsClean_SPAN_Redux_cropped.png" index="1"/>
+        <tg_materials-caption index="1">
+          <tg_materials-caption_book-title-Ital>Papelógrafo de grandes ideas: Mantén limpias tus manos</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T5_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande </tg_materials-caption>
+        <graphic href="VC Redux Spa T5_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+        <graphic href="9781338609424_COV_SP_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Libro<tg_materials-caption_book-title-Ital>El remedio para un resfriado</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> escuchar; vocabulario </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> función ejecutiva</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Desarrollo físico:</tg_learning-goals_inline-hed> salud</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Hable de lo que los niños aprendieron sobre cómo cuidarse e introduzca el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>frota</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>enjuaga</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, asocie los textos <tg_bullet-directions_book-title>Mantén limpias tus manos</tg_bullet-directions_book-title> y <tg_bullet-directions_book-title>El remedio para un resfriado</tg_bullet-directions_book-title>.</tg_bullet-directions>
+        <tg_bullet-directions>Lea de manera interactiva y relacione con la pregunta conceptual de esta semana: <tg_bullet-directions_guiding-question>¿Cómo nos podemos mantener saludables?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Dé la oportunidad de prolongar el juego.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escuchar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Sigue instrucciones orales.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende una gran cantidad de palabras y empieza a usarlas más y más.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Concentra su atención (autorregulación).</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Vincula las propias experiencias con aquellas de los libros.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Desarrollo físico</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Salud:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Tiene buenos hábitos de salud e higiene.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Manos limpias</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lang_T5_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> escuchar</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> función ejecutiva</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> comprensión de la lectura en voz alta</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Desarrollo físico:</tg_learning-goals_inline-hed> salud</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Estimule a los niños a seguir instrucciones paso a paso para lavarse las manos.</tg_bullet-directions>
+        <tg_bullet-directions>Guíe a los niños para que hablen sobre la importancia de lavarse las manos.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo nos podemos mantener saludables?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes encontrar personajes que estén haciendo algo saludable?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Representa que te lavas las manos.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué pasos necesitas seguir para mantener limpias tus manos? ¿Cuál es el paso 1? ¿Cuál es el paso 2? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>￼ RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes escribir sobre por qué es importante lavarse las manos?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes dibujar el primer paso y el último paso para lavarte las manos?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué letra hace el sonido que oyes al principio de <tg_teacher-talk_emphasis_non-ital>nuestro</tg_teacher-talk_emphasis_non-ital> y <tg_teacher-talk_emphasis_non-ital>nariz</tg_teacher-talk_emphasis_non-ital>?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes usar bloques para construir un lugar donde lavarte las manos?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. El remedio para un resfriado by Barbara Bottner, illustrated by Chris Sheban. Text copyright © 2018 by Barbara Bottner. Illustrations copyright © 2018 by Chris Sheban. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Holiday House Publishing, Inc.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_4>
+  <day_5>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 3:</tg_week_hed>
+        <tg_topic_hed>¡A cuidarnos!</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338609424_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>El remedio para un resfriado</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T5_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande </tg_materials-caption>
+        <graphic href="VC Redux Spa T5_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> conversación</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> escritura</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Pida a los niños que representen que están enfermos e introduzca el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>chistosos</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>tranquilo</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar repase el libro y pregunte: <tg_bullet-directions_guiding-question>Cuando tienen un resfriado, ¿qué pueden hacer para pensar en otra cosa?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Lea y vuelva a contar interactivamente para alentar la participación física y la imaginación.</tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión y diferencie.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende una gran cantidad de palabras y empieza a usarlas más y más; comprende y usa un número creciente de palabras relacionales.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra empatía por otros.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica y resuelve problemas.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la imaginación para pensar sobre algo o visualizarlo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Transmite un significado a través de marcas, letras o símbolos.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Arte:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa el arte para expresarse.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Escritura independiente, dibujo o narración de cuentos</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC3-5_ResponsePrompt_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Hoja de respuesta</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> vocabulario</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed> función ejecutiva; motivación y creatividad</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Bellas artes:</tg_learning-goals_inline-hed> arte </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> escritura</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Apoye a los niños mientras responden de manera independiente a la pregunta: <tg_bullet-directions_guiding-question>¿Qué le dirías a un amigo que está enfermo para que se sintiera mejor?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Guarde los escritos de los niños para exhibirlos la semana siguiente.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo nos podemos mantener saludables?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué escribirías en un libro sobre mantenerse saludable?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Simula que eres un médico que cuida a una persona enferma.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Nombra dos cosas que ocurren cuando tienes un resfriado. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Crea un cuento sobre un superhéroe que hace que las personas enfermas se sientan mejor. ¿Cómo sería tu superhéroe?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes dibujar una máquina que ayude a las personas a lavarse las manos?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Imagina una cara hecha de letras. ¿Qué letras usarías para los ojos? ¿Para la nariz? ¿Para la boca?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>￼CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Crea algo con lo que puedas jugar y que te haga sentirte mejor. ¿Qué materiales usarías?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. El remedio para un resfriado by Barbara Bottner, illustrated by Chris Sheban. Text copyright © 2018 by Barbara Bottner. Illustrations copyright © 2018 by Chris Sheban. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Holiday House Publishing, Inc.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_5>
+  <day_1_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra que comprende de varias maneras o que conoce el significado de 3000 a 4000 palabras.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.3)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Muestra iniciativa en situaciones independientes y es persistente para intentar resolver problemas.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.A.4, MB);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>inicia estrategias de resolución de problemas y busca la ayuda de los adultos cuando es necesario.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.C.5, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Alfabetización</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conocimiento del abecedario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Nombra 20 letras mayúsculas y 20 minúsculas en el idioma de instrucción.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.C.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la información aprendida de los libros describiendo, relacionando, categorizando o comparando y contrastando.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Desarrollo físico</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Salud:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Practica buenos hábitos de salud e higiene personal.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IX.C.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motricidad gruesa:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra la coordinación y el equilibrio cuando está solo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IX.A.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_1_texas>
+  <day_2_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra que comprende de varias maneras o que conoce el significado de 3000 a 4000 palabras.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.3)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Muestra iniciativa en situaciones independientes y es persistente para intentar resolver problemas </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.I.A.4, MB);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>inicia estrategias de resolución de problemas y busca la ayuda de los adultos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.C.5, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica y verbaliza necesidades.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Alfabetización</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la información aprendida de los libros describiendo, relacionando, categorizando o comparando y contrastando.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Desarrollo físico</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Seguridad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Practica los buenos hábitos de la seguridad personal.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IX.C.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motricidad gruesa:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra la coordinación y el equilibrio cuando está solo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IX.A.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_2_texas>
+  <day_3_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Muestra iniciativa en situaciones independientes y es persistente para intentar resolver problemas.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.A.4, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica y verbaliza necesidades.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Alfabetización</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa de manera intencional marcas, letras o símbolos para registrar el lenguaje y comparte significados oralmente.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IV.A.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la información aprendida de los libros describiendo, relacionando, categorizando o comparando y contrastando.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Desarrollo físico</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Salud:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Practica buenos hábitos de salud e higiene personal.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IX.C.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_3_texas>
+  <day_4_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escuchar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Muestra comprensión al seguir instrucciones orales de dos pasos y usualmente sigue instrucciones de tres pasos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.A.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra que comprende de varias maneras o que conoce el significado de 3000 a 4000 palabras.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.3)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Permanece concentrado en actividades de grupo por hasta 20 minutos por vez.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.B.3.b, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Desarrollo físico</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Salud:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Practica buenos hábitos de salud e higiene personal.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IX.C.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body><tg_skills-focus_domain_hed>Alfabetización</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la información aprendida de los libros describiendo, relacionando, categorizando o comparando y contrastando.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_4_texas>
+  <day_5_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra que comprende de varias maneras o que conoce el significado de 3000 a 4000 palabras.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.3)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra empatía y preocupación por los demás.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.C.6, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Inicia estrategias de resolución de problemas y busca la ayuda de los adultos cuando es necesario.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.C.5, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la imaginación para pensar sobre algo o visualizarlo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body><tg_skills-focus_domain_hed>Alfabetización</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa de manera intencional marcas, letras o símbolos para registrar el lenguaje y comparte significados oralmente.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IV.A.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Arte:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa el arte como una forma de autoexpresión y representación creativa.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VIII.A.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_5_texas>
+</teaching-guide>

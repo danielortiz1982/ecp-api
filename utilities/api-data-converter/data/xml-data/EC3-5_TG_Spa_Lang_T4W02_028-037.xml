@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./preview-styles.css" type="text/css"?>
+<teaching-guide xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" lang="es">
+  <day_1>
+    <week>
+      <section-block>
+        <tg_week_hed> SEMANA 2:</tg_week_hed>
+        <tg_topic_hed>El cuidado de las mascotas</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338619300_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>Lola quiere un gato</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="EC_RAC_Lang_4_4_redux_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T4_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> conversación; vocabulario</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo emocional</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Estudios sociales:</tg_learning-goals_inline-hed> economía</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para desarrollar el conocimiento, estimule la participación de los niños en movimientos e introduzca el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>de verdad</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>refugio</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento preguntando: <tg_bullet-directions_guiding-question>¿Cómo podemos ayudar a las mascotas para mantenerlas saludables?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Lea por placer y para comprender, observando el vocabulario en contexto.</tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión y diferencie según sea necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria. </tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comparte observaciones sobre cuentos; narra o da distintas versiones de cuentos.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende y usa un número creciente de pronombres personales y posesivos.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Manifiesta orgullo por habilidades apropiadas para la edad.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Clasifica y organiza para agrupar y ordenar elementos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra curiosidad al hacer preguntas de “por qué” para aprender más.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Estudios sociales</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Economía:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra compresión del significado de ser un consumidor.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>¿De verdad o no de verdad?</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lang_T4_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> conversación</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> función ejecutiva</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Estudios sociales:</tg_learning-goals_inline-hed> economía </tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Estimule a los niños a clasificar animales como “de verdad” o “no de verdad”.</tg_bullet-directions>
+        <tg_bullet-directions>Guíe a los niños para hablar sobre por qué cada animal que se muestra es de verdad o no es de verdad.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo podemos ayudar a los animales para mantenerlos saludables?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué mascota ves en tu libro? ¿Cómo cuidarías de ella?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Imagina que tienes un gato que necesita atención. ¿Cómo le mostrarías cariño y atención a tu mascota?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué comida le darías a una mascota? ¿Qué comida comerías tú? Clasifica la comida.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Dibuja tu mascota favorita. ¿Cómo se llama?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes hacer un tazón de colores para tu mascota?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué letra hace el sonido que oyes al principio de la palabra <tg_teacher-talk_emphasis_non-ital>perro</tg_teacher-talk_emphasis_non-ital>? ¿Puedes escribir la letra?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes construir con bloques un lugar seguro para que juegue una mascota pequeña?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Lola Gets a Cat by Anna McQuinn, illustrated by Rosalind Beardshaw. Text copyright © 2017 by Anna McQuinn. Illustrations copyright © 2017 by Rosalind Beardshaw. Published by Scholastic Inc. by arrangement with Charlesbridge Publishing, Inc.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_1>
+  <day_2>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 2:</tg_week_hed>
+        <tg_topic_hed>El cuidado de las mascotas</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338619300_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>Lola quiere un gato</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="EC_RAC_Lang_4_4_redux_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjetas para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T4_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> conversación; vocabulario</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo emocional</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Estudios sociales:</tg_learning-goals_inline-hed> economía </tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para compartir el Mind Builder <tg_bullet-directions_guiding-question>manifestar orgullo</tg_bullet-directions_guiding-question> e introduzca vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>orgulloso</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>cuidar</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento conectando el Mind Builder manifestar orgullo con <tg_bullet-directions_book-title>Lola quiere un gato</tg_bullet-directions_book-title>.</tg_bullet-directions>
+        <tg_bullet-directions>Lea con atención y hable del Mind Builder.</tg_bullet-directions>
+        <tg_bullet-directions>Dé la oportunidad de prolongar el juego.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comparte observaciones sobre cuentos; narra o da distintas versiones de cuentos.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende y usa un número creciente de frases comunes; comprende y usa un número creciente de pronombres personales y posesivos.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Manifesta orgullo por habilidades apropiadas para la edad.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Desarrolla la memoria funcional para resolver problemas y lograr objetivos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra curiosidad al hacer preguntas de “por qué”.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Desarrollo físico</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Seguridad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Tiene buenos hábitos de seguridad personal.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Estudios sociales</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Economía:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra compresión del significado de ser un consumidor.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Qué me hace sentir orgulloso</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lang_T4_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> conversación; vocabulario</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo emocional</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Ayude a los niños a hablar sobre fotos de niños que están orgullosos de algo que hicieron.</tg_bullet-directions>
+        <tg_bullet-directions>Conversen sobre mostrar orgullo y sobre de qué podrían estar orgullosos ellos.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo podemos ayudar a los animales para mantenerlos saludables?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes mostrar un animal al que estén cuidando? ¿Cómo lo están cuidando?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Muéstrame cómo caminas cuando te sientes orgulloso de ti mismo.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes construir algo de lo que te sientas orgulloso? ¿Qué tiene de especial?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cuándo te sentiste orgulloso? ¿Puedes escribir sobre eso?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes construir algo con lo que pueda jugar una mascota? ¿Qué tipo de juguete harás?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué letra hace el sonido que oyes al principio de la palabra <tg_teacher-talk_emphasis_non-ital>cuidar</tg_teacher-talk_emphasis_non-ital>? ¿Puedes mostrármela?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Muestra cómo podrías usar bloques para construir una torre.</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Lola Gets a Cat by Anna McQuinn, illustrated by Rosalind Beardshaw. Text copyright © 2017 by Anna McQuinn. Illustrations copyright © 2017 by Rosalind Beardshaw. Published by Scholastic Inc. by arrangement with Charlesbridge Publishing, Inc. Clifford the Big Red DogTM illustration copyright © The Norman Bridwell Trust.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_2>
+  <day_3>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 2:</tg_week_hed>
+        <tg_topic_hed>El cuidado de las mascotas</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338619300_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>Lola quiere un gato</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="EC_RAC_Lang_4_4_redux_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T4_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> conversación; vocabulario</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed> desarrollo emocional; motivación y creatividad</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Estudios sociales:</tg_learning-goals_inline-hed> economía</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para compartir la habilidad de comprensión, haga y responda preguntas e introduzca el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>simular</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>noche</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento repasando <tg_bullet-directions_book-title>Lola quiere un gato</tg_bullet-directions_book-title> y pregunte: <tg_bullet-directions_guiding-question>¿Qué necesita Makeda, la nueva mascota de Lola?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Lea de manera interactiva para logar una mejor comprensión.</tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión y diferencie según sea necesario. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comparte observaciones sobre cuentos; narra o da distintas versiones de cuentos.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende y usa un número creciente de pronombres personales y posesivos; comprende y usa un número creciente de frases comunes.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Manifesta orgullo por habilidades apropiadas para la edad.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra curiosidad al hacer preguntas de “por qué”.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Hace y responde preguntas sobre elementos del cuento.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Estudios sociales</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Economía:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra compresión del significado de ser un consumidor.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>¿De quién es la mascota?</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lang_T4_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> conversación; vocabulario</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed> desarrollo emocional; motivación y creatividad</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Estudios sociales:</tg_learning-goals_inline-hed> economía </tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Ayude a los niños a hablar sobre imágenes que muestran niños con sus mascotas.</tg_bullet-directions>
+        <tg_bullet-directions>Guíe a los niños en el uso de pronombres posesivos mientras hablan de los niños y sus mascotas.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo podemos ayudar a los animales para mantenerlos saludables?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes mostrar un libro con un animal? ¿Puede ser una mascota ese animal? ¿Qué necesita?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Representa que vas a pasear a tu perro. ¿Qué harías primero?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo puedes usar fichas para mostrar cada mascota que conoces?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo cuidarías de una mascota nueva? ¿Puedes escribir sobre eso?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Dibuja cosas que podrías tener que comprar para una mascota nueva.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué letra hace el sonido que oyes al principio de la palabra <tg_teacher-talk_emphasis_non-ital>anochecer</tg_teacher-talk_emphasis_non-ital> y <tg_teacher-talk_emphasis_non-ital>animal</tg_teacher-talk_emphasis_non-ital>? ¿Puedes mostrármela?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo construirías una casa cómoda para una mascota? ¿Qué habría en ella?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Lola Gets a Cat by Anna McQuinn, illustrated by Rosalind Beardshaw. Text copyright © 2017 by Anna McQuinn. Illustrations copyright © 2017 by Rosalind Beardshaw. Published by Scholastic Inc. by arrangement with Charlesbridge Publishing, Inc.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_3>
+  <day_4>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 2:</tg_week_hed>
+        <tg_topic_hed>El cuidado de las mascotas</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="EC3-5_Flipchart_T4W2_WhatPetsNeed_SPAN_Redux_cropped.png" index="1"/>
+        <tg_materials-caption index="1">
+          <tg_materials-caption_book-title-Ital> Papelógrafo de grandes ideas:Lo que necesitan las mascotas</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="EC_RAC_Lang_4_4_redux_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T4_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+        <graphic href="9781338619300_COV_SP_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Libro:<tg_materials-caption_book-title-Ital>Lola quiere un gato</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> conversación; vocabulario</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Desarrollo físico:</tg_learning-goals_inline-hed> salud</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para hablar sobre lo que necesitan los animales e introduzca el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>mascotas</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>ejercicio</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento conectando los textos <tg_bullet-directions_book-title>Lo que necesitan las mascotas</tg_bullet-directions_book-title> y <tg_bullet-directions_book-title>Lola quiere un gato</tg_bullet-directions_book-title>.</tg_bullet-directions>
+        <tg_bullet-directions>Lea de manera interactiva y relacione con la pregunta conceptual: <tg_bullet-directions_guiding-question>¿Qué necesitan los animales para mantenerse saludables?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Dé la oportunidad de prolongar el juego.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria. </tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra comprensión de la lectura en voz alta de un texto; compara y contrasta información de un texto.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende y usa un número creciente de pronombres personales y posesivos; comprende y usa un número creciente de frases comunes.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Desarrolla la memoria funcional para resolver problemas y lograr objetivos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Se involucra con adultos confiables y con amigos para trabajar, comunicarse y jugar.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra curiosidad al hacer preguntas de “por qué” para aprender más.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Desarrollo físico</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Salud:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce buenos hábitos de nutrición y ejercicio.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>¿Mascota o animal salvaje?</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lang_T4_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> conversación; vocabulario</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed> función ejecutiva; desarrollo social; motivación y creatividad </tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Ayude a los niños a hablar sobre imágenes de animales que son mascotas y animales que son salvajes.</tg_bullet-directions>
+        <tg_bullet-directions>Conversen sobre las diferencias entre animales que pueden vivir en las casa y animales que no.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo podemos ayudar a los animales para mantenerlos saludables?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Muéstrame un animal que es una mascota. ¿Qué crees que hace que sea una buena mascota?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Compara los lobos y los perros mascota. ¿En qué se parecen? ¿En qué se diferencian? ¿Puedes simular ser un perro y un lobo?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo puedes ayudar para que los animales salvajes se mantengan saludables? Por ejemplo, ¿puedes ponerles agua? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué necesita una mascota? ¿Qué puedes escribir sobre eso?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes dibujar dos mascotas con las que te gustaría jugar? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes mostrarme qué letra hace el sonido que se oye al principio de <tg_teacher-talk_emphasis_non-ital>perros</tg_teacher-talk_emphasis_non-ital> y <tg_teacher-talk_emphasis_non-ital>pequeños</tg_teacher-talk_emphasis_non-ital>?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo construirías un lugar para que tu mascota juegue? ¿Qué le gustaría a tu mascota?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Lola Gets a Cat by Anna McQuinn, illustrated by Rosalind Beardshaw. Text copyright © 2017 by Anna McQuinn. Illustrations copyright © 2017 by Rosalind Beardshaw. Published by Scholastic Inc. by arrangement with Charlesbridge Publishing, Inc.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_4>
+  <day_5>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 2:</tg_week_hed>
+        <tg_topic_hed>El cuidado de las mascotas</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338619300_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro:<tg_materials-caption_book-title-Ital>Lola quiere un gato</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="EC_RAC_Lang_4_4_redux_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T4_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> conversación; vocabulario</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed> desarrollo emocional; motivación y creatividad</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Bellas artes:</tg_learning-goals_inline-hed> drama</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para que los niños representen qué hacen las personas por sus mascotas y qué les dan las mascotas a cambio e introduzca el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>fresca</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>favorito</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento repasando <tg_bullet-directions_book-title>Lola quiere un gato</tg_bullet-directions_book-title> y haga la pregunta guía: <tg_bullet-directions_guiding-question>Si fueras un gato, ¿qué necesitarías para mantenerte saludable?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión y diferencie según sea necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria. </tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Narra o da distintas versiones de cuentos.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Responde a lenguaje de enseñanza; Comprende y usa un número creciente de pronombres personales y posesivos; comprende y usa una cantidad creciente de palabras para etiquetar y describir personas, lugares, cosas y acciones.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra autopercepción de maneras múltiples.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la imaginación para pensar sobre algo o visualizarlo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Drama:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Actúa para recrear y volver a contar historias, estados de ánimo o experiencias.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Escritura, dibujo o narración en voz alta independiente</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC3-5_ResponsePrompt_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Hoja de respuesta</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> cconversación; vocabulario</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed> desarrollo emocional; motivación y creatividad</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Bellas artes:</tg_learning-goals_inline-hed> drama </tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Apoye a los niños en sus respuestas independientes a la pregunta: <tg_bullet-directions_guiding-question>Si fueras una mascota, ¿qué es lo que más querrías?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Guarde los escritos de los niños para mostrarlos la próxima semana.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo podemos ayudar a los animales para mantenerlos saludables?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Si escribieras un libro sobre lo que necesita un gato, ¿qué pondrías en él?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Imagina que sales a comprar cosas para una mascota nueva. ¿Qué necesitarías comprar?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cuántas fichas crees que tendrías que usar para medir a un gato?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Imagina que eres un gato al que llevan a una casa nueva. Escribe un cuento como si fueras el gato.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Imagina cómo será el gato más peludo y esponjoso del mundo. ¿Puedes dibujarlo?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué letra hace el sonido que oyes al principio de las palabras <tg_teacher-talk_emphasis_non-ital>fresco</tg_teacher-talk_emphasis_non-ital> y <tg_teacher-talk_emphasis_non-ital>favorito</tg_teacher-talk_emphasis_non-ital>?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes hacer un modelo de un gato? ¿Qué materiales usarás?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Lola Gets a Cat by Anna McQuinn, illustrated by Rosalind Beardshaw. Text copyright © 2017 by Anna McQuinn. Illustrations copyright © 2017 by Rosalind Beardshaw. Published by Scholastic Inc. by arrangement with Charlesbridge Publishing, Inc.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_5>
+  <day_1_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa una gran variedad de palabras para nombrar y describir personas, lugares, cosas y acciones.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa plurales, pasados regulares, pronombres personales y posesivos y concordancia sujeto-verbo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.E.2);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>amplía su vocabulario cuando escucha y empieza a desarrollar vocabulario de nombre de objetos y frases comunes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.5)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra tener autoconciencia y puede expresar orgullo en las capacidades y habilidades adecuadas a su edad.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.A.2, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Clasifica y organiza para agrupar y ordenar elementos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra curiosidad al hacer preguntas de “por qué” para aprender.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Estudios sociales</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Economía:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra  qué significa ser un consumidor.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VII.B.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_1_texas>
+  <day_2_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende los términos usados en el lenguaje de la instrucción del salón de clases </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.II.D.2);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>usa una gran variedad de palabras para nombrar y describir.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Escucha y empieza a desarrollar vocabulario de nombre de objetos y frases comunes </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.II.D.5);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>usa plurales, pasados regulares, pronombres personales y posesivos y concordancia sujeto-verbo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.E.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra tener autoconciencia y puede expresar orgullo en las capacidades y habilidades adecuadas a su edad.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.A.2, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra curiosidad al hacer preguntas de “por qué”.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Desarrollo físico</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Seguridad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Practica los buenos hábitos de la seguridad personal.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IX.C.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Estudios sociales</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Economía:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra qué significa ser un consumidor.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VII.B.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_2_texas>
+  <day_3_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra que comprende los términos usados en el lenguaje de la instrucción del salón de clases </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.II.D.2);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>usa una gran variedad de palabras para nombrar y describir.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa plurales, pasados regulares, pronombres personales y posesivos y concordancia sujeto-verbo </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.II.E.2);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>escucha y empieza a desarrollar vocabulario de nombre de objetos y frases comunes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.5)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Tiene autoconciencia y expresa orgullo en las capacidades y habilidades adecuadas a su edad.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.A.2, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra curiosidad al hacer preguntas de “por qué”.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Estudios sociales</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Economía:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra qué significa ser un consumidor.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VII.B.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text> Hace y responde preguntas relacionadas con el texto que se leyó en voz alta.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_3_texas>
+  <day_4_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra que comprende los términos usados en el lenguaje de la instrucción del salón de clases </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.II.D.2);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>usa una gran variedad de palabras para nombrar y describir personas, lugares, cosas y acciones.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa plurales, pasados regulares, pronombres personales y posesivos y concordancia sujeto-verbo </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.II.E.2);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>amplía su vocabulario cuando escucha y empieza a desarrollar vocabulario de nombre de objetos y frases comunes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.5)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Desarrolla la memoria funcional para resolver problemas y lograr objetivos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Muestra que puede iniciar interacciones sociales.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.C.3, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra curiosidad al hacer preguntas de “por qué”.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Desarrollo físico</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Salud:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica los buenos hábitos de nutrición y ejercicio.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IX.C.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_4_texas>
+  <day_5_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa una gran variedad de palabras para nombrar y describir personas, lugares, cosas y acciones.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra que comprende los términos usados en el lenguaje de la instrucción del salón de clases </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.II.D.2);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>usa plurales, pasados regulares, pronombres personales y posesivos y concordancia sujeto-verbo </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.II.E.2);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>amplía su vocabulario cuando escucha y empieza a desarrollar vocabulario de nombre de objetos y frases comunes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.5)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra tener autoconciencia y puede expresar orgullo en las capacidades y habilidades adecuadas a su edad.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.A.2, MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la imaginación para pensar sobre algo o visualizarlo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Expresión dramática:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica y crea características comunes en el ambiente natural.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VII.C.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_5_texas>
+</teaching-guide>

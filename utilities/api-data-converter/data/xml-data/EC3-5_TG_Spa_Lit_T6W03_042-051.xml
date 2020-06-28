@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./preview-styles.css" type="text/css"?>
+<teaching-guide xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" lang="es">
+  <day_1>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 3: </tg_week_hed>
+        <tg_topic_hed>Imagina</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338609400_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro:  <tg_materials-caption_book-title-Ital>Vincent pinta su casa</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T6_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T6_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de  vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed>  comprensión de la lectura  en voz alta; conocimiento del abecedario </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>   función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> vocabulario</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Presente el libro identificándolo como una narrativa sobre cómo <tg_bullet-directions_book-title>Vincent pinta su casa</tg_bullet-directions_book-title>. </tg_bullet-directions>
+        <tg_bullet-directions>Introduzca el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>pintar</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>decidir</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Repase las letras <tg_bullet-directions_emphasis_Ital>Tt, Aa </tg_bullet-directions_emphasis_Ital>y <tg_bullet-directions_emphasis_Ital>Mm</tg_bullet-directions_emphasis_Ital>. </tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, presente el libro y haga la pregunta guía: <tg_bullet-directions_guiding-question>¿Cómo cambió la casa de Vincent?</tg_bullet-directions_guiding-question>
+        </tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lectescritura </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conocimiento del abecedario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Enuncia al menos 20 correspondencias entre letra  y sonido.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa información para describir.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Clasifica y organiza para agrupar y ordenar elementos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa conversación verbal y no verbal, así como reglas para la conversación en grupo.</tg_skills-focus-skill-text>  </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Responde a lenguaje de enseñanza.</tg_skills-focus-skill-text>  </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Música:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Canta, toca un instrumento musical y se mueve al ritmo en las actividades de clase.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Clasificar: T, A, M</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AlphabetCards_Spa_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas del abecedario</tg_materials-caption>
+        <graphic href="EC_stock_ArtSupplies_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Materiales  de dibujo</tg_materials-caption>
+        <graphic href="AC_Redux_Eng_Lit_T6_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de actividad</tg_materials-caption>
+        <graphic href="EC_stock_IndexCards_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Tarjetas índice</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed>  conocimiento del abecedario </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed>  conversación</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Repase las letras t, a y m. </tg_bullet-directions>
+        <tg_bullet-directions>Ayude a los niños a clasificar nombres de imágenes en grupos que comiencen con el mismo sonido. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario. </tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo nos podemos expresar creando arte?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y  CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué colores ves en las imágenes del libro?  </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes imaginar que vas a pintar tu casa? ¿Qué necesitas para empezar? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed> CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes clasificar estos cubos por color?  </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes escribir un cuento sobre pintar una casa?  </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE  CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes usar estos materiales para hacer una casa de muchos colores? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO  ABC </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cuál es la letra que está al principio de la palabra tigre? ¿Puedes escribirla?  </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>￼CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes usar bloques para construir una casa para Vincent?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Vincent pinta su casa by Tedd Arnold. Copyright © 2015 by Tedd Arnold. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Holiday House Publishing, Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Photos © Shutterstock: crayons (Svitlana Kataieva), index cards (LifetimeStock).</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_1>
+  <day_2>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 3: </tg_week_hed>
+        <tg_topic_hed>Imagina</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338609400_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>Vincent pinta su casa</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T6_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para  grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T6_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed>  conciencia fonológica </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed>  vocabulario</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Comparta el Mind Builder <tg_bullet-directions_bold-italic>hacer planes</tg_bullet-directions_bold-italic> y dar pasos hacia un objetivo e introduzca el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>planear</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>clasificar</tg_bullet-directions_vocab>)</tg_bullet-directions_bold> </tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, asocie el Mind Builder con <tg_bullet-directions_book-title>Vincent pinta su casa</tg_bullet-directions_book-title>. </tg_bullet-directions>
+        <tg_bullet-directions>Lea con atención teniendo presente el Mind Builder y hablando sobre él. </tg_bullet-directions>
+        <tg_bullet-directions>Dé la oportunidad de prolongar el juego. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lectoescritura </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conciencia fonológica:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Mezcla grupos consonánticos y rima.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa información para describir.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Planifica y da los pasos necesarios hacia un objetivo </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB);</tg_skills-focus-skill-code>
+          <tg_skills-focus-skill-text> Clasifica y organiza para agrupar y ordenar elementos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Arte:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa diferentes materiales de arte para la exploración y la experiencia sensorial.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa conversación verbal y no verbal, así como reglas para la conversación en grupo.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Responde a lenguaje de enseñanza.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>¿Cuál es el plan?</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lit_T6_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+        <graphic href="EC_stock_PlayDough_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Masilla</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed>  comprensión de la lectura  en voz alta </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Bellas artes:</tg_learning-goals_inline-hed>  arte</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Ayude a los niños a hacer planes para alcanzar su objetivo de moldear casas.  </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario. </tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo nos podemos expresar creando arte?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y  CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes actuar como un personaje del libro que  estás leyendo?  </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes mostrarme cómo pintas una casa? ¿Qué haces primero? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes contar todos los colores que conoces? Muestra el número con fichas. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes escribir sobre una vez en que usaste pintura? ¿Qué hiciste? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>￼ESTACIÓN DE  CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes usar estos materiales para crear la casa de Vincent? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO  ABC </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué letra hace el sonido al principio de la palabra manzana? ¿Puedes escribirla? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes construir una casa para uno de los animales que aparecen en el libro? ¿Será grande o pequeña? ¿Por qué?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Vincent pinta su casa by Tedd Arnold. Copyright © 2015 by Tedd Arnold. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Holiday House Publishing, Inc. Clifford the Big Red DogTM illustration copyright © The Norman Bridwell Trust. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved.  Photo © Stephen Rees/Shutterstock.</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_2>
+  <day_3>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 3:  </tg_week_hed>
+        <tg_topic_hed>Imagina</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338609400_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>Vincent pinta su casa</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T6_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para  grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T6_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+        <graphic href="EC_StrategyCards MakePrediction_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Tarjeta de estrategia: Hacer una predicción</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed>  comprensión de la lectura  en voz alta </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> vocabulario</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Hable sobre hacer predicciones y enseñe la palabra de vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>escarabajo</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, repase <tg_bullet-directions_book-title>Vincent pinta su casa</tg_bullet-directions_book-title> y haga la pregunta guía: <tg_bullet-directions_guiding-question>¿Por qué cambió Vincent el color de su casa tantas veces?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión y diferencie según  sea necesario. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lectoescritura </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Hace inferencias y predicciones.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comparte y celebra productos escritos.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Clasifica y organiza para agrupar y ordenar elementos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa conversación verbal y no verbal, así como reglas para la conversación en grupo.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Responde a lenguaje de enseñanza.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Arte:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa diferentes materiales de arte para la exploración y la experiencia sensorial.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Música:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Canta, toca un instrumento musical y se mueve al ritmo en las actividades de clase.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Cuentos con T, A, M</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lit_T6_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libros del abecedario</tg_materials-caption>
+        <graphic href="EC3-5_AlphabetBook_COV_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjetas de actividad</tg_materials-caption>
+        <graphic href="EC_stock_WritingTools_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Materiales  de escritura</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed>  escritura </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed>  conversación</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Ayude a los niños a crear historias usando las letras <tg_bullet-directions_emphasis_Ital>Tt</tg_bullet-directions_emphasis_Ital>, <tg_bullet-directions_emphasis_Ital>Aa</tg_bullet-directions_emphasis_Ital> y <tg_bullet-directions_emphasis_Ital>Mm</tg_bullet-directions_emphasis_Ital>.  </tg_bullet-directions>
+        <tg_bullet-directions>Anime a los niños a hablar usando oraciones completas. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo nos podemos expresar creando arte? </tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y  CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿En qué se parecen a Vincent los personajes de tu libro? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes imaginar que eres un animal nuevo que vive en la casa de Vincent? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes mostrar ocho fichas, por los ocho animales del cuento? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes escribir sobre tu  color favorito? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE  CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes usar estos materiales para hacer tu animal favorito  del cuento? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO  ABC </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué letra hace el sonido al principio de la palabra leche? ¿Puedes escribirla? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes construir una casa en la que te gustaría vivir? ¿Por qué la construirías así? </tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Vincent pinta su casa by Tedd Arnold. Copyright © 2015 by Tedd Arnold. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Holiday House Publishing, Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved.  Photos © Shutterstock: crayons (Lucie Lang), pencils (urfin).</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_3>
+  <day_4>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 3: </tg_week_hed>
+        <tg_topic_hed>Imagina</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="EC3-5_Flipchart_T6W3_AHorseOfCourse_SPA_cropped.png" index="1"/>
+        <tg_materials-caption index="1"> <tg_materials-caption_book-title-Ital>Papelógrafo de grandes ideas:  Un recorrido con los caballos</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T6_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para  grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T6_cropped.png" index="3"/>
+        <tg_materials-caption index="4">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed>  comprensión de la lectura en voz alta </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Bellas artes:</tg_learning-goals_inline-hed>  arte</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:  </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Hable sobre crear arte e introduzca vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>escultura</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>moldéalo</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, asocie los textos <tg_bullet-directions_book-title>Un recorrido con los caballos</tg_bullet-directions_book-title> y <tg_bullet-directions_book-title>Vincent pinta su casa</tg_bullet-directions_book-title>. </tg_bullet-directions>
+        <tg_bullet-directions>Lea con atención para asociar con la pregunta conceptual. <tg_bullet-directions_guiding-question>¿Cómo nos podemos expresar  creando arte?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Dé la oportunidad de prolongar el juego invitando a los niños a moldear masilla. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lectoescritura </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa información para describir.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Escribe con propósitos diferentes.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Clasifica y organiza para agrupar y ordenar elementos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa conversación verbal y no verbal, así como reglas para la conversación en grupo.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Responde a lenguaje de enseñanza; Hace conexiones entre las palabras y la vida real.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Arte:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa diferentes materiales de arte para la exploración y la experiencia sensorial.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Un nuevo animal</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lit_T6_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+        <graphic href="EC_stock_ArtSupplies_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Materiales  de dibujo</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed>  escritura </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Bellas artes:</tg_learning-goals_inline-hed>  arte</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Invite a los niños a pensar en un nuevo animal y a dibujarlo para mostrar sus creaciones. </tg_bullet-directions>
+        <tg_bullet-directions>Anime a los niños a usar buenos modales de conversación. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo nos podemos expresar creando arte?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué tipo de arte hay en tu libro? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>￼CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes elegir el color que te gusta más? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>￼CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes mostrar cinco fichas del mismo color? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>￼RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes escribir un cuento sobre tu nuevo animal? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE  CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes usar materiales de arte para hacer una serpiente realmente grande? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>￼CENTRO  ABC </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes escribir el nombre de un animal? ¿Cuáles son algunas letras del nombre? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>￼CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes construir un hogar para tu animal?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Vincent pinta su casa by Tedd Arnold. Copyright © 2015 by Tedd Arnold. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Holiday House Publishing, Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved.  Photos © Shutterstock: crayons (Lucie Lang), pencils (urfin).</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_4>
+  <day_5>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 3: </tg_week_hed>
+        <tg_topic_hed>Imagina</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338609400_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>Vincent pinta su casa</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T6_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para  grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T6_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed>  comprensión de la lectura  en voz alta </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Bellas artes:</tg_learning-goals_inline-hed>  expresión dramática</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Motive a los niños a participar de manera activa y repase el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>clasificar</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, repase el libro y pregunte: <tg_bullet-directions_guiding-question>¿Por qué después de que Vincent pintó su casa todos estuvieron felices?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Lea y vuelva a narrar de manera interactiva por placer y para promover la participación física. </tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión y diferencie según  sea necesario. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lectoescritura </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comparte y repite los detalles de un texto; Hace inferencias y predicciones.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Escribe con propósitos diferentes; Comparte y celebra productos escritos y otras relacionadas a la lectura.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Clasifica y organiza.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Estructura de la oración:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa formas verbales cada vez más complejas.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Arte:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa diferentes materiales de arte para la exploración y la experiencia sensorial.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Expresión dramática:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Actúa para recrear y volver a contar historias, estados de ánimo o experiencias.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Escritura independiente, dibujar o narrar cuentos</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC3-5_ResponsePrompt_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Hoja de respuesta</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed>  escritura </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  función ejecutiva </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed>  estructura de la oración</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>Realice lo siguiente: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Apoye a los niños mientras responden en forma independiente a la pregunta de la semana: <tg_bullet-directions_book-title>¿Qué animal te gustaría añadir al cuento? </tg_bullet-directions_book-title> </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario. </tg_bullet-directions>
+        <tg_bullet-directions>Guarde los escritos de los niños para compartirlos y exponerlos.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo nos podemos expresar  creando arte?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y  CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cuál animal del cuento fue tu favorito? ¿Por qué?  </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>￼CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes simular ser un artista? ¿Qué usarías para hacer arte? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Elige dos animales del libro. ¿En qué se parecen y en qué se diferencian? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes escribir un cuento sobre pintar tu propia casa? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE  CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes usar estos materiales para crear un nuevo animal para el cuento?  </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO  ABC </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes usar masilla para hacer las letras A, T y M?   </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cuáles bloques son los más útiles para construir casas?  ¿Por qué?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Vincent pinta su casa by Tedd Arnold. Copyright © 2015 by Tedd Arnold. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Holiday House Publishing, Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_5>
+  <day_1_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Alfabetización </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la información aprendida de los libros describiendo, relacionando, categorizando o comparando y contrastando.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conocimiento del abecedario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Produce al menos 20 correspondencias de sonidos de letras distintos en el idioma de instrucción.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.C.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Planifica y da los pasos necesarios hacia un objetivo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra saber las reglas de conversación oral </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.II.B.4);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Demuestra saber las reglas de conversación no oral.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.B.5)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra que comprende los términos usados en el lenguaje de la instrucción del salón de clases.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Música:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Participa en las actividades de música del salón de clases, inclusive cantar, tocar instrumentos musicales y seguir el ritmo con movimiento.</tg_skills-focus-skill-text>  <tg_skills-focus-skill-code>(TX.VIII.B.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_1_texas>
+  <day_2_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Alfabetización </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conciencia fonológica:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Une los inicios y las rimas para formar palabras conocidas de una sílaba con y sin apoyo de imágenes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.B.8)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la información aprendida de los libros describiendo, relacionando, categorizando o comparando y contrastando.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Planifica y da los pasos necesarios hacia un objetivo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Clasifica y organiza.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra saber las reglas de conversación oral.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.B.4);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Demuestra saber las reglas de conversación no oral.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.B.5)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra que comprende los términos usados en el lenguaje de la instrucción del salón de clases.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Arte:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa una variedad de materiales de arte y actividades para la experiencia sensorial y la exploración.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VIII.A.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_2_texas>
+  <day_3_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Alfabetización </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la información aprendida de los libros describiendo, relacionando, categorizando o comparando y contrastando.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.2);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Hará inferencias y predicciones acerca del texto.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.4)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comparte y celebra los productos escritos individuales y los hechos por la clase.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IV.B.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Clasifica y organiza para agrupar y ordenar elementos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra saber las reglas de conversación oral.</tg_skills-focus-skill-text>  <tg_skills-focus-skill-code>(TX.II.B.4);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Demuestra saber las reglas de conversación no oral.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.B.5)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra que comprende los términos usados en el lenguaje de la instrucción del salón de clases.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Arte:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa una variedad de materiales de arte y actividades para la experiencia sensorial y la exploración.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VIII.A.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Música:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Participa en las actividades de música del salón de clases, inclusive cantar, tocar instrumentos musicales y seguir el ritmo con movimiento.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VIII.B.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_3_texas>
+  <day_4_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Alfabetización </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la información aprendida de los libros describiendo, relacionando, categorizando o comparando y contrastando.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Escribe en forma independiente para comunicar sus ideas con varios fines.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IV.A.2);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Comparte y celebra los productos escritos individuales y los hechos por la clase.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IV.B.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Clasifica y organiza para agrupar y ordenar elementos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra saber las reglas de conversación oral.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.B.4);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Demuestra saber las reglas de conversación no oral.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.B.5)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra que comprende los términos usados en el lenguaje de la instrucción del salón de clases.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Arte:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa una variedad de materiales de arte y actividades para la experiencia sensorial y la exploración.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VIII.A.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_4_texas>
+  <day_5_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Alfabetización </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Vuelve a contar o representa un cuento después de ser leído en voz alta.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.1);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Hará inferencias y predicciones acerca del texto.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.4)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Escribe en forma independiente para comunicar sus ideas con varios fines.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IV.A.2);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Comparte y celebra los productos escritos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IV.B.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Planifica y da los pasos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Clasifica y organiza.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra saber las reglas de conversación oral.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.B.4);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Demuestra saber las reglas de conversación no oral.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.B.5)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Arte:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa una variedad de materiales de arte y actividades para la experiencia sensorial y la exploración.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VIII.A.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Expresión dramática:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Crea o recrea historias, estados de ánimo o experiencias a través de las representaciones teatrales.</tg_skills-focus-skill-text>  <tg_skills-focus-skill-code>(TX.VIII.C.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_5_texas>
+</teaching-guide>

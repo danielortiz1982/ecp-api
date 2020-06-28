@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="es">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>¡Cuenta regresiva!</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Necesitará tarjetas del 1 al 10, y 10 tipos distintos de manipulables (10 cubos conectores, 10 bloques patrón, etc.).</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Al leer <ac_teacher-speaking_emphasis_blue>¡Cuento los días hasta el kínder!</ac_teacher-speaking_emphasis_blue>, practicamos contar hacia atrás; eso es una cuenta regresiva.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el vocabulario</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Repasemos <ac_teacher-speaking_emphasis_blue>la frase</ac_teacher-speaking_emphasis_blue> <ac_teacher-speaking_emphasis_blue>cuenta regresiva</ac_teacher-speaking_emphasis_blue>.</ac_teacher-speaking> Use la tarjeta de vocabulario <ac_teacher-talk-emphasis>cuenta regresiva</ac_teacher-talk-emphasis> para repasar.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Pondré objetos en el centro y mostraré una tarjeta de números que coincida con cuántos objetos hay. Entonces, uno de ustedes comenzará la cuenta regresiva desde ese número. Tomarán turnos para eliminar un objeto y decir el número siguiente hasta que no haya ningún objeto que contar.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preparar</ac_teacher-card_run-in_hed>  Pida a los niños que se sienten en círculo. Coloque 10 cubos conectores en el centro. Luego, sostenga una tarjeta de números que muestre el 10. Pregunte: <ac_teacher-speaking>¿Es esta la cantidad de conectores que hay? ¿En qué número comenzará nuestra cuenta regresiva?</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Cuenta regresiva</ac_teacher-card_run-in_hed>  Pida a un niño que comience la cuenta regresiva. Guíe al niño para que cuente el primer número (10) mientras retira un cubo conector del centro. Luego, guíe al próximo niño para que continúe tomando otro cubo y diciendo el número en voz alta. Continúe hasta que se eliminen todos los cubos y la cuenta termine en uno.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Repita la actividad usando seis bloques patrón y la tarjeta del seis. Continúe con otras cantidades de manipulables si hay tiempo. </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre el orden de conteo</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Usamos numerosos objetos distintos a medida que contábamos. ¿Siempre dijimos los números en el mismo orden? Hagamos una cuenta regresiva desde 10 a 1.</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>¡Cuenta regresiva!</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="1">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Comience con cinco unidades de cada manipulable. Repase contando desde cinco a uno. Como referencia visual, muestre tarjetas de números o números magnéticos del 1 al 5. Elimine las referencias o aumente el número de manipulables cuando sean más competentes.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Estimule a los niños para que hagan una cuenta regresiva hasta cero, diciendo el número en voz alta y todos juntos cuando no haya más manipulables en el centro.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Los alumnos multilingües pueden necesitar tiempo adicional para contar hacia atrás, ya que todavía pueden no estar acostumbrados a contar hacia adelante en el nuevo idioma. Dé a todos los niños suficiente tiempo para decir su número. También puede ordenar todas las tarjetas de números en una fila en el centro del círculo para que los niños puedan hacer referencia a ellas mientras cuentan.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Pida a los niños que usen un par de pinzas para recoger cada manipulable y que las pasen al siguiente niño del círculo para que continúe la actividad.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66424-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>Contar y cambiar</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Para esta actividad, necesitará 10 cubos conectores para cada niño y las tarjetas de números del 1 al 10.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Practicamos contar mientras leímos <ac_teacher-speaking_emphasis_blue>¡Cuento los días hasta el kínder!</ac_teacher-speaking_emphasis_blue> También hablamos de los cambios y de cómo ser más independientes a medida que crecemos.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el vocabulario</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Repasemos las palabras <ac_teacher-speaking_emphasis_blue>independiente</ac_teacher-speaking_emphasis_blue> y <ac_teacher-speaking_emphasis_blue>después</ac_teacher-speaking_emphasis_blue>.</ac_teacher-speaking> Use las tarjetas de <ac_teacher-talk-emphasis>cambiar</ac_teacher-talk-emphasis> e <ac_teacher-talk-emphasis>independiente</ac_teacher-talk-emphasis> para repasar.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, trabajarán con un compañero para contar una cierta cantidad de conectores de una pila. Luego, cambiarán de compañero y contarán otra vez. También tendrán la oportunidad de contar los cubos conectores por sí mismos.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preparar</ac_teacher-card_run-in_hed>  Pida a los niños que formen parejas con sus compañeros de al lado. Dé a cada pareja 10 cubos conectores.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Contar</ac_teacher-card_run-in_hed>  Sostenga la tarjeta de números que muestra el 3 y guíe a las parejas para que cuenten esa cantidad de cubos conectores de la pila. Cuando los niños terminen de contar, pregunte: <ac_teacher-speaking>¿Cuántos cubos conectores contaron?</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Cambiar</ac_teacher-card_run-in_hed>  Pida a los niños que cambien de pareja y repita la actividad. Pídales que cuenten un número distinto de cubos conectores.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Independiente</ac_teacher-card_run-in_hed>  Dé a cada niño su propio conjunto de 10 cubos conectores y pídales que trabajen de forma independiente para contar nuevas cantidades de la pila de 10. </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre el trabajo</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¿Qué cambios ocurrieron en esta actividad? ¿Cómo fue cambiar de pareja? ¿Cómo fue sentirse independientes?</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>Contar y cambiar</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Comience dando a cada pareja cinco cubos conectores. Anime a los niños a que muevan cada cubo conector a medida que cuentan, y a que cuenten en voz alta.  Demuestre contando tres cubos conectores de un grupo de cinco.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Estimule a los niños para que cuenten hacia atrás desde el número de la tarjeta de números a medida que van contando los cubos conectores.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Para la primera ronda de la actividad, intente formar parejas de alumnos multilingües con niños que hablen el mismo idioma del hogar. Luego, cambie las parejas para que trabajen con niños que no hablen el mismo idioma. Para ayudar a explicar la actividad haga gestos con las manos.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Apoyo para el déficit de atención</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Pida a los niños que trabajen en áreas separadas, primero con sus parejas y luego individualmente, con el fin de que sean menos propensos a distraerse con lo que los otros niños estén haciendo.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66424-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>¿CUÁL ES TU RUTINA?</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cuando leímos</ac_teacher-speaking> <ac_teacher-speaking_emphasis_blue>¡Cuento los días hasta el kínder!,</ac_teacher-speaking_emphasis_blue> <ac_teacher-speaking>hablamos de lo que hizo el niño antes y después de comenzar el kínder.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el vocabulario</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Repasemos las palabras <ac_teacher-speaking_emphasis_blue>antes</ac_teacher-speaking_emphasis_blue> y <ac_teacher-speaking_emphasis_blue>después</ac_teacher-speaking_emphasis_blue>.</ac_teacher-speaking>Use las tarjetas de vocabulario <ac_teacher-talk-emphasis>antes</ac_teacher-talk-emphasis> y <ac_teacher-talk-emphasis>después</ac_teacher-talk-emphasis> para repasar.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Ahora les mostraré una imagen de una actividad que muchas personas hacen todos los días. Me dirán si hacen la actividad antes o después de cenar. Luego, hablaremos de nuestras rutinas, las cosas que hacemos todos los días a la misma hora.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre a los niños la primera tarjeta de actividad y pregúnteles si realizan la actividad de la imagen antes o después de cenar. Las respuestas de los niños pueden variar para algunas actividades, como lavarse las manos o jugar con amigos. ¡Todas las respuestas que tengan sentido son apoyadas!</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Guíe a los niños para que analicen más a fondo sus rutinas preguntándoles qué hacen antes o después de la actividad de la imagen. Lo más probable es que las rutinas de los niños sean muy personales, así que anime y celebre los horarios diarios de todos ellos.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad hasta que se hayan mostrado todas las tarjetas de actividad. </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre las rutinas</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¿Cómo fue hablar de tu rutina? ¿Fue fácil usar antes y después? ¿Qué fue difícil? No todos tenemos la misma rutina. ¡Pero muchos de ustedes hacen estas actividades al mismo tiempo! Todos vamos al kínder, almorzamos antes, y cenamos después.</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>¿CUÁL ES TU RUTINA?</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Hable de su propia rutina: <ac_teacher-talk>Siempre me cepillo los dientes después de cenar. ¡Así me aseguro de que mis dientes estén limpios antes de acostarme!</ac_teacher-talk> Use un lenguaje más sencillo para el antes y después: <ac_teacher-talk>¿Se van a dormir y después cenan? o ¿cenan antes y luego duermen?</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida a los niños que expliquen por qué hacen cada actividad en el momento en que la hacen. Estimule a los niños para que, de forma independiente, ordenen las tarjetas de actividades de manera que muestren sus rutinas personales.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Esta actividad requiere un uso intensivo del idioma y puede ser un desafío para los alumnos multilingües. Haga gestos con las manos y señale la imagen para ayudar con el vocabulario. Sugiera a los niños que respondan solo con un sí o un no, y luego use una oración “cloze” para ampliar su respuesta: <ac_teacher-talk-emphasis>Me cepillo los dientes d</ac_teacher-talk-emphasis>
+            <fill-in-the-blank>   </fill-in-the-blank>  (después).</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad gruesa</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Pida a los niños que representen las actividades y rutinas que se muestran en cada tarjeta de actividad. Aliéntelos también para que representen cualquier otra actividad que mencionen en la conversación.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66424-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>¡CONTAR COMO ARQUITECTOS!</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Para esta actividad, necesitará 10 cubos conectores para cada niño y las tarjetas de números del 1 al 10.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cuando leímos <ac_teacher-speaking_emphasis_blue>Yo quiero…</ac_teacher-speaking_emphasis_blue> practicamos contar. También hablamos de lo que queremos ser cuando crezcamos.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Los arquitectos son personas cuyo trabajo es crear y construir edificios. ¡Algunos de ustedes querrán hacer eso cuando crezcan! En esta actividad, todos actuaremos como si fuéramos arquitectos creando torres con cubos conectores. Levantaré una tarjeta de números para decirles cuántos cubos conectores van a usar para hacer sus torres.</ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Construir</ac_teacher-card_run-in_hed>  Dé a cada niño 10 cubos conectores. Muestre una tarjeta de números y diga: <ac_teacher-speaking>Esta es la cantidad de cubos conectores que usarán para construir sus torres.</ac_teacher-speaking> Guíe a los niños para que construyan una torre usando esa cantidad de cubos conectores.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Contar</ac_teacher-card_run-in_hed>  Pida a cada niño que cuente, de uno en uno y en voz alta, los cubos conectores que usó en su torre. Pregunte: <ac_teacher-speaking>¿Es la misma cantidad de cubos que el número que mostré? ¿Cómo lo saben?</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Realice la actividad otra vez, mostrando diferentes tarjetas de números en cada oportunidad. </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre los arquitectos</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¿Cómo fue ser arquitectos? ¿Cómo sabían cuántos cubos conectores usar? Los arquitectos usan números todos los días. ¿Creen que les gustaría ser arquitectos?</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>¡CONTAR COMO ARQUITECTOS!</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Comience con cinco cubos conectores. Demuestre leyendo una tarjeta de números, eligiendo ese número de cubos conectores para construir, y contando en voz alta cada cubo de su torre. Luego, pida a los niños que repitan el ejercicio con el mismo número de cubos.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Entregue a cada niño una tarjeta de números diferente y pídales que construyan una torre con esa cantidad de cubos. Estimule a los niños para que cuenten hacia atrás mientras eligen sus cubos.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Repase el vocabulario clave, como <ac_teacher-talk>torre, trabajo, construir</ac_teacher-talk> y <ac_teacher-talk>contar.</ac_teacher-talk> Repase los números del 1 al 10 y haga gestos con las manos para ayudar a explicar esta actividad.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Estimulación sensorial</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Dé cubos conectores del mismo color a los niños que puedan tener sensibilidad a los colores. Considere poner música suave mientras los niños construyen, o pida a los niños con sensibilidad al sonido que usen auriculares para bloquear el ruido del salón de clases.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66424-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

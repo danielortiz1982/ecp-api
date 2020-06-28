@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="es">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card> EL REMEDIO PARA UN RESFRIADO</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos <ac_teacher-speaking_emphasis_blue>El remedio para un resfriado</ac_teacher-speaking_emphasis_blue>. Aprendimos cómo cuidarnos cuando tenemos un resfriado.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad veremos imágenes de niños haciendo distintas cosas. Clasificaremos las imágenes en dos grupos:</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-speaking>
+                <ac_teacher-speaking_emphasis_blue>Bueno para un resfriado</ac_teacher-speaking_emphasis_blue> es para las cosas que es bueno hacer cuando se tiene un resfriado. Estas cosas ayudan a mejorarse.</ac_teacher-speaking></ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-speaking>
+                <ac_teacher-speaking_emphasis_blue>Malo para un resfriado</ac_teacher-speaking_emphasis_blue> es para lo que no es bueno hacer si se tiene un resfriado. Estas cosas no ayudan a sentirse mejor.</ac_teacher-speaking></ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Enseñar con señales de la mano</ac_teacher-card_run-in_hed>  Pida a los niños que indiquen con un pulgar hacia arriba si la imagen muestra algo que es bueno para un resfriado y con un pulgar hacia abajo si muestra algo que no lo es.  </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre una tarjeta con imagen y haga la pregunta al dorso. Dé estímulo o apoyo según sea necesario.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use la última pregunta para ampliar en la conversación.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Clasificar</ac_teacher-card_run-in_hed>  Dé la tarjeta con imagen a un niño para que la coloque en la columna “Bueno para un resfriado” o “Malo para un resfriado”.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe el juego usando la siguiente tarjeta con imagen.    </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre lo que es bueno para un resfriado</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Todas estas imágenes muestran cosas que es bueno hacer cuando se tiene un resfriado. ¿Por qué es bueno hacer estas cosas?</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre lo que es malo para un resfriado</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Todas estas imágenes muestran cosas que es malo hacer cuando se tiene un resfriado. ¿Por qué no deben hacer estas cosas cuando tienen un resfriado?</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card> EL REMEDIO PARA UN RESFRIADO</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Para los niños más pequeños o con retraso de desarrollo, lea en voz alta las secciones Pregunte y Apoye de cada tarjeta. Diga: <ac_teacher-talk>Si ustedes tienen un resfriado, no es bueno jugar con otros niños porque pueden pasarle el resfriado a los demás.</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Muestre a los niños dos tarjetas con imagen, una de cada grupo. Pregunte: <ac_teacher-talk>¿Qué tienen de diferente estas dos actividades? ¿Por qué una es buena cuando se tiene un resfriado y la otra no lo es?</ac_teacher-talk> Repita con otros pares de tarjetas.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Facilite a los niños el vocabulario que necesiten para hablar sobre lo que están haciendo los niños de las imágenes. Por ejemplo, señale los niños que están corriendo y diga: <ac_teacher-talk>Los niños están corriendo.</ac_teacher-talk> Pida a los niños que repitan la oración. Deles estructuras de oración para ayudarlos a formular una respuesta a la pregunta.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad gruesa</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Invite a los niños a representar las actividades que es bueno hacer cuando se tiene un resfriado (dormir una siesta, leer un libro, ponerse medias gruesas). Estimule a los niños para que piensen otras actividades que pueden hacer cuando tienen un resfriado y también para que las representen.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65748-7</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card> CUÍDATE</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos el libro <ac_teacher-speaking_emphasis_blue>El remedio para un resfriado</ac_teacher-speaking_emphasis_blue>. Aprendimos sobre cómo las personas pueden cuidarlos a ustedes y también aprendimos cosas que pueden hacer ustedes mismos para cuidarse</ac_teacher-speaking>.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad veremos imágenes de distintos objetos. Representaremos qué pueden hacer con cada objeto para cuidarse a ustedes mismos cuando tienen un resfriado. </ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre una tarjeta con imagen y haga la pregunta al dorso. Dé estímulo o apoyo según sea necesario.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use la última pregunta al dorso de la tarjeta para ampliar en la conversación.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Representar</ac_teacher-card_run-in_hed>  Represente lo que se muestra en la tarjeta con imagen para mostrar cómo usarla para cuidarse de un resfriado.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad usando la siguiente tarjeta con imagen.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre cuidarse</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¿Pueden pensar en otras cosas que podrían hacer para sentirse mejor cuando tienen un resfriado? ¿Cómo los cuida su familia cuando tienen un resfriado?</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card> CUÍDATE</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Si los niños no están seguros de cómo usar el objeto de la imagen para cuidarse, colóquelos en parejas y que uno lo represente para el otro. Hablar con un compañero puede ayudarlos a comprender cómo pueden cuidarse y sentirse mejor usando el objeto en la imagen.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pregunte a los niños qué cosas creen que los ayudan más cuando tienen un resfriado. Promueva conversaciones entre amigos en las que cada niño tenga dos turnos para hablar. Recuerde a los niños que mientras una persona habla, la otra escucha.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Use la repetición para mejorar la comprensión del vocabulario que los niños necesitan para hablar de los objetos de las imágenes. Por ejemplo, señale la manta y diga: <ac_teacher-speaking>Esto es una manta. Usamos las mantas para mantenernos calentitos. Cuando se tiene un resfriado, se está bien bajo una manta.</ac_teacher-speaking> Pida a los niños que repitan el nombre del objeto, por ejemplo <ac_teacher-talk>manta</ac_teacher-talk>, cada vez que usted lo diga.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad gruesa</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Estimule a los niños para que piensen otras cosas que son útiles cuando tienen un resfriado y que representen cómo usarlas. Pueden simular que hacen una sopa de pollo, que leen un libro o que duermen una siesta.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65748-7</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card> ¡VAMOS A LAVARNOSLAS MANOS!</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Para esta actividad necesitaremos masilla azul y masilla roja.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos el libro <ac_teacher-speaking_emphasis_blue>El remedio para un resfriado</ac_teacher-speaking_emphasis_blue>. Aprendimos que algunas veces podemos hacer que los demás se enfermen.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad exploraremos maneras en que se pueden propagar los gérmenes y cómo evitar que eso ocurra. Les daré bolitas de masilla. Unos tendrán masilla roja y otros, azul.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-speaking>¡Si tienen masilla roja, significa que tienen un resfriado!</ac_teacher-speaking></ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-speaking>Si tienen masilla azul, significa que están saludables.</ac_teacher-speaking>  </ac_teacher-card-teacher_talk_bulleted>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hacer la actividad</ac_teacher-card_run-in_hed>  Dé a cada niño una bolita de masilla. La mitad de los niños debe tener masilla roja y la otra mitad, masilla azul.</ac_teacher-card-body>
+            <ac_teacher-card-body>Diga a un niño con masilla roja: <ac_teacher-talk>¡Acabas de estornudar sobre (nombre un niño con masilla azul) y no te tapaste la boca! Dale un poco de tu masilla roja a (nombre del niño con masilla azul).</ac_teacher-talk></ac_teacher-card-body>
+            <ac_teacher-card-body>Dígale a otro: <ac_teacher-talk>Te lavaste las manos. ¡Quédate con tu masilla!</ac_teacher-talk></ac_teacher-card-body>
+            <ac_teacher-card-body>Dígale a otro niño con masilla roja: <ac_teacher-talk>No te lavaste las manos y luego repartiste bocadillos. Dale un poco de tu masilla roja a cada niño al que le diste un bocadillo.</ac_teacher-talk></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad para ver cómo la masilla roja se mezcla con la azul hasta que todos tengan gérmenes.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre cómo se propagan los gérmenes</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¿Qué otras acciones ayudan a detener los gérmenes? ¿De qué otra manera pueden propagarse los gérmenes?</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card> ¡VAMOS A LAVARNOSLAS MANOS!</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Hable de las maneras en que los gérmenes se propagan: estornudar, toser, tocar. Repase las maneras de evitar que los gérmenes se propaguen: taparse la boca, lavarse las manos, usar pañuelos de papel.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida a un niño que represente las mejores maneras de toser y estornudar para no propagar gérmenes.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Facilite a los niños el vocabulario que necesitan para hablar sobre gérmenes. Por ejemplo, defina estornudar, toser y tocar mostrando cada una de estas acciones.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad gruesa</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Invite a los niños a representar que son gérmenes y cómo se propagan por el aire, aterrizan sobre superficies y van de unlugar a otro.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65748-7</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card> manos limpias</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos el papelógrafo <ac_teacher-speaking_emphasis_blue>Mantén limpias tus manos</ac_teacher-speaking_emphasis_blue>. Aprendieron sobre cómo cuidarse cuando tienen un resfriado y cómo lavarse las manos.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad les pediré que hagan dos cosas y ustedes intentarán hacer las dos.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-speaking>Lo que les pediré que hagan tiene que ver con lavarse las manos. Hablamos sobre esto antes, cuando miramos la gráfica grande.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Enseñar</ac_teacher-card_run-in_hed>  Recuerde a los niños que en esta actividad tienen que usar sus habilidades de escuchar y recordar. </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Dar instrucciones</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>PRIMERO, extiendan las manos y simulen que las mojan.</ac_teacher-speaking> (Pausa para que los niños hagan estas dos cosas).</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-speaking>LUEGO, representen que se frotan las manos con jabón y después las enjuagan.</ac_teacher-speaking> (Nueva pausa).</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-speaking>POR ÚLTIMO, quiero que simulen que se secan las manos con una toalla y que después se alejan del lavabo.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Pregunte por qué es importante lavarse las manos. Y por qué es importante lavárselas durante un cierto espacio de tiempo. </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar por qué nos lavamos las manos</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¿Por qué creen que deben lavarse las manos cuando tienen un resfriado? ¿Deben lavarse las manos cuando no tienen un resfriado? ¿Por qué?</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre por qué nos lavamos las manos</ac_teacher-card_run-in_hed>  Ayude a los niños a entender que deben lavarse las manos cuando están enfermos y cuando no lo están, para no pasar gérmenes y para no agarrarlos. </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card> manos limpias</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Mientras da instrucciones a los niños, represéntenlas con gestos. No hable demasiado rápido y simplifique cada paso tanto como sea necesario.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Añada un paso más a las instrucciones. Por ejemplo, diga: <ac_teacher-talk>Extiendan las manos, simulen que abren el grifo y que luego se mojan las manos.</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Cuando dé instrucciones a los niños, represente los pasos que describe y pida a los niños que digan y representen cada uno de los pasos después de usted.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Apoyo para el déficit de atención</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Ayudar a los niños a enfocar la atención es una etapa fundamental en el aprendizaje en preescolar. Puede ayudarlos a enfocar la atención con varias estrategias, como usar instrucciones sencillas y previsualizar cada actividad antes de comenzarla. Demuestre qué tienen que hacer en la actividad y asegúrese de que todos los niños sepan qué hacer.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65748-7</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

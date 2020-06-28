@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="es">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card> Letras y sonidos</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  tarjetas del abecedario, letras magnéticas</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos el cuento <ac_teacher-speaking_emphasis_blue>¡Juega con cuidado!</ac_teacher-speaking_emphasis_blue> y vimos las letras <ac_teacher-speaking_emphasis_blue>Nn</ac_teacher-speaking_emphasis_blue>, <ac_teacher-speaking_emphasis_blue>Rr</ac_teacher-speaking_emphasis_blue> y <ac_teacher-speaking_emphasis_blue>Pp</ac_teacher-speaking_emphasis_blue>.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar las tarjetas del abecedario Nn</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Esta es la <ac_teacher-speaking_emphasis_blue>N</ac_teacher-speaking_emphasis_blue> mayúscula y esta es la <ac_teacher-speaking_emphasis_blue>n</ac_teacher-speaking_emphasis_blue> minúscula. La letra <ac_teacher-speaking_emphasis_blue>Nn</ac_teacher-speaking_emphasis_blue> hace el sonido /n/ que se oye en las palabras <ac_teacher-speaking_emphasis_blue>nadar</ac_teacher-speaking_emphasis_blue> y <ac_teacher-speaking_emphasis_blue>nube</ac_teacher-speaking_emphasis_blue>.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar las tarjetas del abecedario Rr</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Esta es la <ac_teacher-speaking_emphasis_blue>R</ac_teacher-speaking_emphasis_blue> mayúscula yesta es la <ac_teacher-speaking_emphasis_blue>r</ac_teacher-speaking_emphasis_blue> minúscula. La letra <ac_teacher-speaking_emphasis_blue>Rr</ac_teacher-speaking_emphasis_blue> hace el sonido /rr/ que se oye en<ac_teacher-speaking_emphasis_blue>roca</ac_teacher-speaking_emphasis_blue> y <ac_teacher-speaking_emphasis_blue>carro</ac_teacher-speaking_emphasis_blue>.</ac_teacher-speaking>
+            </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar las tarjetas del abecedario Pp</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Esta es la <ac_teacher-speaking_emphasis_blue>P</ac_teacher-speaking_emphasis_blue> mayúscula y esta es la <ac_teacher-speaking_emphasis_blue>p</ac_teacher-speaking_emphasis_blue> minúscula. La letra <ac_teacher-speaking_emphasis_blue>Pp</ac_teacher-speaking_emphasis_blue> hace el sonido /p/ que se oye en las palabras <ac_teacher-speaking_emphasis_blue>pingüino</ac_teacher-speaking_emphasis_blue> y <ac_teacher-speaking_emphasis_blue>pelota</ac_teacher-speaking_emphasis_blue>.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, diremos una palabra, escucharemos un sonido y lo emparejaremos con la letra usando imágenes como pistas. Practicaremos con las letras <ac_teacher-speaking_emphasis_blue>Nn</ac_teacher-speaking_emphasis_blue>, <ac_teacher-speaking_emphasis_blue>Rr</ac_teacher-speaking_emphasis_blue> y <ac_teacher-speaking_emphasis_blue>Pp</ac_teacher-speaking_emphasis_blue>.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preparar</ac_teacher-card_run-in_hed>  Reparta letras magnéticas (<ac_teacher-talk>N</ac_teacher-talk>, <ac_teacher-talk>R</ac_teacher-talk> y <ac_teacher-talk>P</ac_teacher-talk>) a cada niño y muestre las tarjetas del abecedario. Señale una palabra y dígala en voz alta. Pida a los niños que la repitan.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Después de que los niños repitan la palabra, pregúnteles qué sonido oyen al principio de esa palabra. Invítelos a elegir la letra magnética correspondiente y a colocarla encima de la tarjeta.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad con todas las tarjetas. </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Practicar la escritura de las letras</ac_teacher-card_run-in_hed>  Pida a los niños que practiquen la escritura de las letras <ac_teacher-talk>Nn</ac_teacher-talk>, <ac_teacher-talk>Rr</ac_teacher-talk> y <ac_teacher-talk>Pp</ac_teacher-talk>. Dígales que hagan un dibujo junto a cada letra que les recuerde el sonido de la letra. </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>Letras y sonidos</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Ayude a los niños a identificar el sonido diciendo las palabras lentamente. Guíelos para emparejar la letra y el sonido de manera correcta. Use las tarjetas del abecedario como apoyo. Retire su apoyo gradualmente.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida a los niños que identifiquen otros sonidos que oigan en las palabras y pregúnteles si pueden identificar la letra.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>En español, la letra <ac_teacher-talk>r</ac_teacher-talk> puede tener dos sonidos. Un sonido fuerte /rr/ cuando va a principio de palabra y después de <ac_teacher-talk>n</ac_teacher-talk>, <ac_teacher-talk>l</ac_teacher-talk> y <ac_teacher-talk>s</ac_teacher-talk>, y un sonido suave /r/ en todos los demás casos. Sin embargo, ninguno de estos dos sonidos es exactamente el mismo que sonido /r/ en inglés. Practique los sonidos independientes y en diferentes palabras y ubicaciones.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Discriminación auditiva</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Para ayudar a los niños con problemas de discriminación auditiva, invítelos a taparse los oídos y escuchar mientras hacen los sonidos de las letras. Proporcióneles espejos pequeños para que miren la posición de la boca, lengua y dientes.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65752-4</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card> turnarse</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  pelota</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos el cuento <ac_teacher-speaking_emphasis_blue>¡Juega con cuidado!</ac_teacher-speaking_emphasis_blue> Vimos lo importante que es actuar de manera segura cuando jugamos en el exterior con los amigos. También vimos que es importante turnarse cuando jugamos con más niños.</ac_teacher-speaking>
+            </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el Mind Builder</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hablamos sobre ser cuidadosos cuando estamos con otras personas. Una de las maneras en que podemos ser cuidadosos cuando jugamos es turnándonos.</ac_teacher-speaking>
+            </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad usaremos una pelota para practicar turnarnos. Yo haré una pregunta. Si quieren responder, levanten la mano y yo rodaré la pelota hasta ustedes. Si reciben la pelota, es su turno para responder. </ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preparar</ac_teacher-card_run-in_hed>  Pida a los niños que se sienten en círculo. Comience con una pregunta de práctica: <ac_teacher-talk>¿Cuál es su juguete favorito?</ac_teacher-talk> Recuerde a los niños que levanten la mano si quieren responder. Ruede la pelota hasta el primer niño. Cuando haya respondido, el niño rodará la pelota hasta usted. Ruede la pelota hasta otro niño con la mano levantada.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Haga preguntas abiertas que los niños quieran responder. <ac_teacher-talk>¿Cuál es su color favorito? ¿Qué comida les gusta? ¿Qué canción les gusta cantar? ¿Cuál es un color que hay en el arcoíris?</ac_teacher-talk></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad con más preguntas; anime a los niños a turnarse y a escuchar las respuestas de sus amigos.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre esperar</ac_teacher-card_run-in_hed>  Señale que a veces es difícil esperar mucho tiempo en la fila a que sea nuestro turno. Comparta ideas sobre cómo hacer que esperar sea más fácil. Algunas sugerencias pueden ser contar mentalmente, cantar una canción o mover los dedos. </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card> turnarse</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Si hay niños que no levantan la mano para responder, puede ser que no encuentren una respuesta. Asegúrese de invitar a esos niños a participar y ayúdelos haciéndoles una pregunta realmente sencilla y ayudándolos a formular la respuesta.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Anime a los niños a rodar la pelota hasta otro niño que tenga la mano levantada, en lugar de devolvérsela a usted. Invite a los niños a hacer las preguntas ellos mismos.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Para apoyar a los alumnos multilingües, puede dar una estructura de oración que ayude a los niños a formular sus respuestas. Quizás le resulte mejor proporcionar opciones. Por ejemplo: “¿Te gusta el color rojo o el azul?”.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Apoyo para el déficit de atención</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Algunos niños pueden tener dificultades para esperar su turno. Recompense a los niños que tienen periodos cortos de atención reconociendo que tienen la mano levantada y que están haciendo lo correcto esperando su turno para recibir la pelota.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65752-4</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>Luz roja, luz verde</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  dos cartulinas para cada niño; crayones rojos y verdes; tarjetas de actividad; tarjeta de vocabulario</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos el cuento <ac_teacher-speaking_emphasis_blue>¡Juega con cuidado!</ac_teacher-speaking_emphasis_blue> y vimos cómo Pingüino ayudó a sus amigos a jugar de manera segura en el patio de recreo. Cuando vio a sus amigos haciendo algo mal, los ayudó a aprender a hacerlo de forma correcta. Siempre debemos hacer lo necesario para mantenernos seguros.</ac_teacher-speaking>
+            </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el vocabulario</ac_teacher-card_run-in_hed>  Use las tarjetas de vocabulario para repasar la palabrar <ac_teacher-talk>mal</ac_teacher-talk>.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Para esta actividad voy a mostrarles una imagen y discutiremos si los niños están haciendo o no algo para mantenerse seguros. Si el niño de la imagen está seguro, ustedes levantarán la luz verde; si no está seguro, la luz roja. </ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Materiales</ac_teacher-card_run-in_hed>  Dé a cada niño dos pedazos de cartulina. Pídales que dibujen con los crayones un círculo rojo en uno y un círculo verdeen el otro.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre una tarjeta de ilustraciones y haga la pregunta al dorso. Pida a los niños que levanten el círculo rojo si el comportamiento está mal y el verde si está bien.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad con la siguiente tarjeta con imagen. </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre seguridad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Recordemos estar seguros. Pueden ser como Pingüino y recordar a sus compañeros cómo jugar de manera segura. ¿Cuáles son algunas cosas que podrían decirles? </ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>Luz roja, luz verde</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Cuando muestre las tarjetas, los niños pueden necesitar alguna explicación para poder enfocarse en lo que está ocurriendo en la imagen. Tome tiempo para mostrar y comentar cada imagen. Quizás pueda terminar solo una o dos.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida a los niños que compartan otras ideas sobre cosas que los ayudan a mantenerse seguros. Pídales que hagan dibujos para compartir de niños en asientos de carro para niños y de niños que usan casco cuando montan en bicicleta o patinete, o cuando patinan.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Ayude a los alumnos multilingües a entender que las palabras<ac_teacher-talk>sí</ac_teacher-talk>/<ac_teacher-talk>no</ac_teacher-talk> y <ac_teacher-talk>bien</ac_teacher-talk>/<ac_teacher-talk>mal</ac_teacher-talk> tienen significados parecidos. Explique que la luz roja significa “parar” y la luz verde significa “adelante”. El círculo rojo significa que el comportamiento está mal. El círculo verde significa que el comportamiento está bien.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad gruesa</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>A la mayoría de los niños les beneficia la práctica física en el patio de recreo. Demuestre a qué distancia de los columpios se puede permanecer cuando están en uso. Muestre la manera apropiada de sentarse en el columpio y en el tobogán y cómo usar ambas manos. Pida a los niños que representen estas mejores prácticas en el patio de recreo.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65752-4</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card> EL SHOW DE LAS RANAS</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  palitos artesanales, platos de papel, pegamento, notas adhesivas, crayones</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos el papelógrafo <ac_teacher-talk-emphasis>Cinco ranitas saltando en la cama</ac_teacher-talk-emphasis>, contamos las ranitas y hablamos sobre por qué no deben saltar en la cama.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, crearemos nuestras propias ranitas y representaremos la canción. Practicaremos contar hacia delante, de uno a cinco, y hacia atrás.</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preparar</ac_teacher-card_run-in_hed>  Pida a los niños que pinten y coloreen medio plato de papel como una ranita. Anímelos a ponerle ojos y boca. Pegue los platos en los palitos. Use las notas adhesivas para numerar las ranitas, de 1 a 5.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Haga preguntas sobre la canción: <ac_teacher-speaking>¿Cuántas ranitas estaban saltando en la cama? ¿Qué ocurrió cuando una se golpeóla cabeza?</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Actuar</ac_teacher-card_run-in_hed>  Cante la canción o reproduzca una grabación, los niños también la cantarán. Pídales que se paren, colocados en orden numérico, y que representen la canción usando sus títeres. Invítelos a contar en voz alta de uno a cinco, hacia delante y hacia atrás.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre seguir las reglas</ac_teacher-card_run-in_hed>  Pida a los niños que compartan con un compañero qué pasa cuando las ranitas no escuchan al doctor o a la madre. Invítelos a responder la pregunta: <ac_teacher-speaking>¿Qué puede ocurrir cuando los amigos no siguen las reglas? </ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card> EL SHOW DE LAS RANAS</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Ayude a los niños a hacer sus propios títeres. Cuente el número de títeres de ranitas e invite a los niños a repetir el conteo después.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Coloque los títeres numerados y desordenados sobre una mesa.  Anime a los niños ordenarlos numéricamente, del 1 al 5. Luego pídales que los coloquen en orden descendente.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Escriba la palabra y el número para cada ranita. Practique decir los números en voz alta usando los dedos para mostrar la cantidad. Cuando los niños hayan practicado varias veces, diga el número y pida a los niños que seleccionen el títere con el número correspondiente.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina y gruesa</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Promueva el desarrollo de la motricidad fina invitando a los niños a usar sus títeres para demostrar cómo saltan las ranitas en la cama. Sostener los palitos con los dedos y usar los brazos para imitar los saltos ayuda a los niños a tomar conciencia de su propio cuerpo y de su espacio personal.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65752-4</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

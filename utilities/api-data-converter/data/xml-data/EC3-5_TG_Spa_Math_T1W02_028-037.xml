@@ -1,0 +1,683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./preview-styles.css" type="text/css"?>
+<teaching-guide xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" lang="es">
+  <day_1>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 2: </tg_week_hed>
+        <tg_topic_hed>Los sentimientos</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338633863_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro:  <tg_materials-caption_book-title-Ital>Nadie abraza a un cactus</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T1_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T1_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario </tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> contar </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo emocional </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed>  vocabulario</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para desarrollar el conocimiento, estimular la participación de  los niños con un juego de nombres y presentar  el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>cactus</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>desierto</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento preguntando: <tg_bullet-directions_guiding-question>¿Por qué nadie quiere abrazar a Hank, el cactus?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Lea y cuente en voz alta a los personajes.  </tg_bullet-directions>
+        <tg_bullet-directions>Verifique la comprensión; diferencie según requiera.  </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Contar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuenta en voz alta del  1 al 10, uno a uno.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Contar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa el último número contado en un conjunto para decir “cuántos” objetos hay en un grupo ordenado en una línea, matriz rectangular o círculo (hasta 10), o desordenado (hasta 5) (Cardinalidad).</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica emociones propias.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende y usa distintos tipos de palabras.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Amigos del desierto</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T1_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividades</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Cubos conectores</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  contar </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo emocional</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Desafíe a los niños a contar a los personajes. </tg_bullet-directions>
+        <tg_bullet-directions>Guíe a los niños para que identifiquen el número  de animales que pasan.  </tg_bullet-directions>
+        <tg_bullet-directions>Ayude a los niños a reconocer que el último número que dicen es cuántos hay. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique, según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo manejamos y hablamos de nuestros sentimientos? </tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y  CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué libro elegiste?  ¿Por qué lo elegiste? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN  Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Haz como si te sintieras feliz. ¿Por qué estás feliz? ¿Qué haces cuando estás feliz? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE  MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Agarra varios botones. ¿Cuántos botones tienes? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escribe sobre alguien que vino  a visitarte. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE  CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Si hicieras un póster feliz, ¿qué colores usarías? ¿Y qué materiales? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO  ABC  </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué letra hiciste?  ¿Cómo la hiciste? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué estás construyendo? ¿Cuántos bloques has usado? </tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Nadie abraza a un cactus by Carter Goodrich. Copyright © 2019 by Carter Goodrich. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Simon &amp; Schuster Children’s Publishing Division, a division of Simon &amp; Schuster, Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_1>
+  <day_2>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 2: </tg_week_hed>
+        <tg_topic_hed>Los sentimientos</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338633863_cropped.png" index="0"/>
+        <tg_materials-caption index="0">Libro:  <tg_materials-caption_book-title-Ital>Nadie abraza a un cactus</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T1_cropped.png" index="0"/>
+        <tg_materials-caption index="0">Tarjeta para  grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T1_cropped.png" index="0"/>
+        <tg_materials-caption index="0">Tarjetas de vocabulario </tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> contar </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo emocional</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para compartir el concepto de Mind Builder <tg_bullet-directions_guiding-question>manejar y comprender tus sentimientos</tg_bullet-directions_guiding-question> y presentar el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>sentimientos</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento relacionando el Mind Builder con <tg_bullet-directions_book-title>Nadie abraza a un cactus.</tg_bullet-directions_book-title>
+          <tg_bullet-directions_guiding-question> </tg_bullet-directions_guiding-question>Lea con atención para percibir y hablar sobre cómo manejar y comprender los sentimientos.  </tg_bullet-directions>
+        <tg_bullet-directions>Ofrezca una oportunidad para el juego guiado.  </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Contar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuenta en voz alta del  1 al 10, uno a uno.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Contar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa el último número contado en un conjunto para decir “cuántos” objetos hay en un grupo ordenado en una línea, matriz rectangular o círculo (hasta 10), o desordenado (hasta 5) (Cardinalidad).</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica emociones propias.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende y usa distintos tipos de palabras.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comparte verbalmente el significado de la propia escritura.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Compartir con los amigos del desierto</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T1_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas  de actividades</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Cubos conectores</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  contar </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo emocional</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Guíe a los niños para que compartan cubos con uno de sus compañeros.  </tg_bullet-directions>
+        <tg_bullet-directions>Desafíe a los niños a contar cuántos cubos tienen.  </tg_bullet-directions>
+        <tg_bullet-directions>Pida a los niños que comenten cómo se sienten compartiendo. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique, según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo manejamos y hablamos de nuestros sentimientos? </tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y  CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo muestra sus sentimientos el personaje del libro? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN  Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes recrear que te sientes sorprendido? ¿Qué te sorprendió? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE  MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Haz un grupo con tres fichas. ¿Cómo sabes que están todas  las fichas? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Has visto alguna vez un desierto? ¿Puedes escribir algo sobre un desierto? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE  CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Haz un dibujo que muestre  a alguien enojado. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO  ABC  </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escribe la palabra sentimientos. ¿Qué letras ves? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Por qué usaste esos materiales para construirlo? </tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Nadie abraza a un cactus by Carter Goodrich. Copyright © 2019 by Carter Goodrich. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Simon &amp; Schuster Children’s Publishing Division, a division of Simon &amp; Schuster, Inc. Clifford the Big Red DogTM illustration copyright © The Norman Bridwell Trust. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_2>
+  <day_3>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 2: </tg_week_hed>
+        <tg_topic_hed>Los sentimientos</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338633863_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro:  <tg_materials-caption_book-title-Ital>Nadie abraza a un cactus</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T1_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para  grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T1_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> contar </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo emocional </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed>  vocabulario</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para practicar contar, lograr que los niños jueguen de manera interactiva  y presentar el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>tranquilo</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>relajarse</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Inicie la hora del cuento volviendo a leer <tg_bullet-directions_book-title>Nadie abraza a un cactus</tg_bullet-directions_book-title> y pregunte: <tg_bullet-directions_guiding-question>¿Por qué Hank cambió de idea y no quería estar solo? </tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Dé una oportunidad para prolongar el juego.  </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Contar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuenta en voz alta del  1 al 10, uno a uno.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Contar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa el último número contado en un conjunto para decir “cuántos” objetos hay en un grupo ordenado en una línea, matriz rectangular o círculo (hasta 10), o desordenado (hasta 5) (Cardinalidad).</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identificar emociones propias.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende y usa distintos tipos de palabras.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Espresa una opinión.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Dame: Plantas del desierto</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T1_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividades</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Cubos conectores</tg_materials-caption>
+        <graphic href="EC_stock_PaperBag_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Bolsa </tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  contar </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed>  vocabulario</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Guíe a los niños para que saquen de una bolsa cubos conectores representando a plantas del desierto. </tg_bullet-directions>
+        <tg_bullet-directions>Desafíe a los niños a contar los cubos para comprobar que tienen  el total correcto. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique, según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo manejamos y hablamos de nuestros sentimientos? </tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y  CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo manejan sus sentimientos los personajes del libro? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN  Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo harías para mostrar que estás feliz? ¿Triste? ¿Enojado? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE  MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes hacer dos grupos con objetos diferentes? ¿Cuántos hay en cada grupo? ¿Cuántos hay  en total? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Describe cómo cuidarías a un cactus como Hank. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE  CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes dibujar una cara enojada? ¿Cómo sabes que  está enojada? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO  ABC  </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué sonido oyes al principio de la palabra triste? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo deciste lo que ibas  a construir? ¿Cómo elegiste los materiales para construirlo?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Nadie abraza a un cactus by Carter Goodrich. Copyright © 2019 by Carter Goodrich. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Simon &amp; Schuster Children’s Publishing Division, a division of Simon &amp; Schuster, Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved.  Photo © Quang Ho/Shuttersto</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_3>
+  <day_4>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 2: </tg_week_hed>
+        <tg_topic_hed>Los sentimientos</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="EC3-5_Flipchart_T1W2_IfYoureHappyAndYouKnowIt_ReduxSPA_cropped.png" index="1"/>
+        <tg_materials-caption index="1">
+          <tg_materials-caption_book-title-Ital>Papelógrafo de grandes ideas:  Si estás feliz y lo sabes </tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T1_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para  grupo grande</tg_materials-caption>
+        <graphic href="9781338633863_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Libro: <tg_materials-caption_book-title-Ital>Nadie abraza  a un cactus</tg_materials-caption_book-title-Ital> </tg_materials-caption>
+        <graphic href="VC Redux Spa T1_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> contar </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo emocional </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed>  vocabulario</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para hablar sobre los sentimientos, estimular a que los niños bailen  y presentar el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>asustó</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>sorprendida</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Inicie la hora del cuento relacionando los textos <tg_bullet-directions_book-title>Si estás feliz y lo sabes </tg_bullet-directions_book-title>y <tg_bullet-directions_book-title>Nadie abraza a un cactus.</tg_bullet-directions_book-title> </tg_bullet-directions>
+        <tg_bullet-directions>Lea interactivamente y relacione la lectura con manejar las emociones y contar. </tg_bullet-directions>
+        <tg_bullet-directions>Dé una oportunidad para prolongar el juego.  </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Contar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuenta en voz alta del  1 al 10, uno a uno.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Contar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa el último número contado en un conjunto para decir “cuántos” objetos hay en un grupo ordenado en una línea, matriz rectangular o círculo (hasta 10), o desordenado (hasta 5) (Cardinalidad).</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica emociones propias.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende y usa distintos tipos de palabras.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Espresa una opinión.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Detrás del telón</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T1_cropped.png" index="0"/>
+        <tg_materials-caption index="0">Tarjetas de actividades</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="0"/>
+        <tg_materials-caption index="0">Cubos conectores</tg_materials-caption>
+        <graphic href="EC_stock_ManilaFolder_cropped.png" index="0"/>
+        <tg_materials-caption index="0">Telón</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  contar </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed>  vocabulario</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Cuente el número de cubos detrás de un “telón” y pida a los niños que junten el mismo número de cubos de  su lado. </tg_bullet-directions>
+        <tg_bullet-directions>Cuente los cubos de ambos lados para comprobar que sea  la misma cantidad.  </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique, según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo manejamos y hablamos de nuestros sentimientos? </tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y  CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo te sientes al escuchar este cuento? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN  Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Haz como si fueras uno de los amigos de Hank en el desierto. ¿Por qué elegiste ser ese amigo? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE  MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo puedes hacer un patrón de cactus? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Elige un sentimiento. Escribe sobre una vez que te hayas sentido así. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed> ESTACIÓN DE CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Dibuja caras que muestren  la diferencia entre asustado  y sorprendido. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO  ABC  </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué sonido oyes al principio de cactus? ¿Puedes dibujar  esa letra? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN  </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo puedes hacer más grande eso que estás construyendo?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Nadie abraza a un cactus by Carter Goodrich. Copyright © 2019 by Carter Goodrich. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Simon &amp; Schuster Children’s Publishing Division, a division of Simon &amp; Schuster, Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved.  Photo © Dan Kosmayer/Shutterstock.</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_4>
+  <day_5>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 2: </tg_week_hed>
+        <tg_topic_hed>Los sentimientos</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338633863_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro:  <tg_materials-caption_book-title-Ital>Nadie abraza a un cactus</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T1_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para  grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T1_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario </tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  contar </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo emocional </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed>  vocabulario</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para practicar identificar los números y repasar el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>pincho</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>sola</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Inicie la hora del cuento volviendo a leer <tg_bullet-directions_book-title>Nadie abraza a un cactus</tg_bullet-directions_book-title> y pregunte: <tg_bullet-directions_guiding-question>¿Qué le dirían a Hank para ayudarlo a manejar sus sentimientos?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Lea y vuelva a leer interactivamente para que los niños participen y se concentren en las emociones. </tg_bullet-directions>
+        <tg_bullet-directions>Verifique la comprensión; diferencie según requiera.  </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Contar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuenta en voz alta del  1 al 10, uno a uno.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Contar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa el último número contado en un conjunto para decir “cuántos” objetos hay en un grupo ordenado en una línea, matriz rectangular o círculo (hasta 10), o desordenado (hasta 5) (Cardinalidad).</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica emociones propias.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende y usa distintos tipos de palabras.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Compone un texto informativo.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Escritura independiente, dibujar o narrar cuentos</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC3-5_ResponsePrompt_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Hoja de respuesta </tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  contar </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo emocional </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed>  vocabulario</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Apoye a los niños en su intento por responder de manera independiente a la pregunta de la semana: <tg_bullet-directions_guiding-question>¿Cómo manejas tus sentimientos?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique, según sea necesario.  </tg_bullet-directions>
+        <tg_bullet-directions>Guarde los escritos para mostrarlos la próxima semana.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo manejamos y hablamos de nuestros sentimientos? </tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y  CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué libro quieres leer ahora? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN  Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Imagina que eres un animal del desierto. ¿Qué animal quieres ser? ¿Cómo lo representarás? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE  MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Usa fichas para representar a un grupo de amigos. ¿Cuántos amigos hay en cada grupo? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué cuento puedes contar sobre alguien que está tranquilo? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE  CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes dibujar a un nuevo amigo para un cactus? ¿Cómo será ese amigo? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO  ABC  </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes contar el número de letras en tu nombre? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué construiste? ¿Cuántos bloques usaste?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Nadie abraza a un cactus by Carter Goodrich. Copyright © 2019 by Carter Goodrich. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Simon &amp; Schuster Children’s Publishing Division, a division of Simon &amp; Schuster, Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_5>
+  <day_1_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Contar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuenta 1-10 objetos, contando cada objeto una sola vez.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Contar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuenta hasta 10 objetos y demuestra que lo último que contó indica la cantidad de objetos que se contaron.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.5)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Empieza a entender la diferencia y la conexión entre las emociones/sentimientos y comportamientos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.B.2.a, MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa un vocabulario amplio para hablar, agregando varias palabras nuevas por día.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.4)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_1_texas>
+  <day_2_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Contar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuenta 1-10 objetos, contando cada objeto una sola vez.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Contar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuenta hasta 10 objetos y demuestra que lo último que contó indica la cantidad de objetos que se contaron.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.5)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Empieza a entender la diferencia y la conexión entre las emociones/sentimientos y comportamientos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.B.2.a, MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa un vocabulario amplio para hablar, agregando varias palabras nuevas por día.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.4)</tg_skills-focus-skill-code>  </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Alfabetización </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa de manera intencional marcas, letras o símbolos para registrar el lenguaje y comparte significados oralmente.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IV.A.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_2_texas>
+  <day_3_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Contar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuenta 1-10 objetos, contando cada objeto una sola vez.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Contar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuenta hasta 10 objetos y demuestra que lo último que contó indica la cantidad de objetos que se contaron.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.5)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Empieza a entender la diferencia y la conexión entre las emociones/sentimientos y comportamientos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.B.2.a, MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa un vocabulario amplio para hablar, agregando varias palabras nuevas por día.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.4)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Alfabetización  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Escribe en forma independiente para comunicar sus ideas con varios fines.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IV.A.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_3_texas>
+  <day_4_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Contar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuenta 1-10 objetos, contando cada objeto una sola vez.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Contar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuenta hasta 10 objetos y demuestra que lo último que contó indica la cantidad de objetos que se contaron.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.5)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Empieza a entender la diferencia y la conexión entre las emociones/sentimientos y comportamientos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.B.2.a, MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa un vocabulario amplio para hablar, agregando varias palabras nuevas por día.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.4)</tg_skills-focus-skill-code>  </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Alfabetización </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Escribe en forma independiente para comunicar sus ideas con varios fines.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IV.A.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_4_texas>
+  <day_5_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Contar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuenta 1-10 objetos, contando cada objeto una sola vez.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Contar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuenta hasta 10 objetos y demuestra que lo último que contó indica la cantidad de objetos que se contaron.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.5)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Empieza a entender la diferencia y la conexión entre las emociones/sentimientos y comportamientos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.B.2.a, MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa un vocabulario amplio para hablar, agregando varias palabras nuevas por día.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.4)</tg_skills-focus-skill-code>  </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Alfabetización </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Escribe en forma independiente para comunicar sus ideas con varios fines.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IV.A.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_5_texas>
+</teaching-guide>

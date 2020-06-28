@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="es">  <ac_card-1 day="1">    <ac_card-1_front>       <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>¿cuántos patos?</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Necesitará cinco cubos conectores amarillos y materiales, como bloques o libros, para representar un puente. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cuando leímos <ac_teacher-speaking_emphasis_blue>Patos, al agua</ac_teacher-speaking_emphasis_blue>, contamos la cantidad de patitos en el puente y la cantidad de patitos que cayó al agua, debajo del puente.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el vocabulario</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Repasemos las palabras <ac_teacher-speaking_emphasis_blue>cayó</ac_teacher-speaking_emphasis_blue> y <ac_teacher-speaking_emphasis_blue>debajo</ac_teacher-speaking_emphasis_blue>.</ac_teacher-speaking> Use las tarjetas de vocabulario <ac_teacher-talk-emphasis>cayó</ac_teacher-talk-emphasis> y <ac_teacher-talk-emphasis>debajo</ac_teacher-talk-emphasis> para repasar las palabras. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, usaremos cinco cubos conectores para mostrar los cinco patos que cruzan el puente. A medida que los patos se caigan, diremos cuántos están aún en el puente y cuántos están debajo del puente.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preparar</ac_teacher-card_run-in_hed>  Construya un pequeño puente usando bloques o libros y coloque los cinco cubos conectores amarillos en la parte superior. Pregunte: <ac_teacher-speaking>¿Cuántos patitos hay en el puente?</ac_teacher-speaking> Pida a los niños que cuenten los cubos conectores en voz alta. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Caer</ac_teacher-card_run-in_hed>  Pida a un niño que mueva un cubo debajo del puente. <ac_teacher-speaking>Había cinco patitos en el puente. ¡Entonces uno se cayó! ¿Cuántos patitos hay ahora en el puente? ¿Cuántos hay debajo? Vamos a contar y ver.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe pidiendo a los niños que muevan un cubo a la vez debajo del puente. Pídales que digan cada vez cuántos patitos hay en el puente y cuántos en el agua. Pregunte el número total de patos, enfatizando que cada combinación es igual a cinco patos en total. </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar</ac_teacher-card_run-in_hed>  Hable con los niños sobre los conceptos matemáticos de la actividad. <ac_teacher-speaking>Contamos los patitos en distintos órdenes. ¿Esto cambió el número total de patitos?</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>¿cuántos patos?</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="1">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Comience con tres cubos conectores. Demuestre moviendo un cubo debajo del puente y diga en voz alta la cantidad de patitos: <ac_teacher-talk>Había tres patitos en el puente. Uno cayó debajo del puente. Si cuento uno de tres, obtengo dos. Quedan dos patitos sobre el puente.</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Estimule a los niños para que muevan más de un patito, cada vez, debajo del puente. También puede cambiar la actividad haciendo que algunos patitos “vuelen” hacia arriba del puente.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Repase el vocabulario clave, como <ac_teacher-talk-emphasis>patitos, puente</ac_teacher-talk-emphasis> y <ac_teacher-talk-emphasis>sobre</ac_teacher-talk-emphasis>. Toque cada cubo para mostrar dónde desea que los niños comiencen a contar, y cuente junto con ellos para ayudar a reforzar el vocabulario numérico. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Estimulación sensorial </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Para ayudar a que los niños con necesidades sensoriales se concentren en la actividad, ponga música relajante para atenuar los ruidos de fondo. También puede brindar guantes a los niños que tengan dificultades para tocar los cubos conectores con sus propias manos u ofrézcales mover los patitos por ellos.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66418-8</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>       <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>patos en fila</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Para esta actividad, necesitará alrededor de treinta cubos conectores. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cuando leímos <ac_teacher-speaking_emphasis_blue>Patos, al agua</ac_teacher-speaking_emphasis_blue>, hablamos de hacer grupos iguales y usar el trabajo en equipo para crear cosas nuevas.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el vocabulario</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Repasemos las palabras <ac_teacher-speaking_emphasis_blue>trabajan en equipo</ac_teacher-speaking_emphasis_blue> y <ac_teacher-speaking_emphasis_blue>cooperan</ac_teacher-speaking_emphasis_blue>.</ac_teacher-speaking> Use las tarjetas de vocabulario <ac_teacher-talk-emphasis>trabajan en equipo</ac_teacher-talk-emphasis> y <ac_teacher-talk-emphasis>cooperan</ac_teacher-talk-emphasis> para repasar las palabras. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, usaremos cubos conectores para representar patitos. Trabajaremos con compañeros para dividir los patitos en dos grupos con el mismo número en cada grupo.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preparar</ac_teacher-card_run-in_hed>  Haga parejas y dé ocho cubos conectores a cada pareja. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Agrupar</ac_teacher-card_run-in_hed>  Pida a los compañeros que cooperen y usen el trabajo en equipo para dividir los cubos conectores en dos grupos iguales. Una vez que los niños hayan terminado, pregunte a cada pareja: <ac_teacher-speaking>¿Cómo separaron a sus patitos en dos grupos? ¿Cómo pueden saber que hay la misma cantidad de patitos en cada grupo? ¿Pueden contar para estar seguros de que las cantidades son iguales?</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Dé a cada pareja dos cubos conectores más, de modo que tengan un total de 10. Pida que dividan los 10 patitos en dos grupos iguales y, otra vez, pida a cada pareja que describa cómo lo hizo. </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre grupos iguales</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¿Qué fue lo más fácil al momento de separar tus patitos en dos grupos con la misma cantidad? ¿Qué fue lo más difícil? ¿Cómo cooperaste con tu compañero? ¿Crees que la actividad fue más fácil porque hicieron el trabajo en equipo?</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>patos en fila</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Dé a cada pareja de niños cuatro cubos conectores para comenzar y, luego, pase a seis. Demuestre cómo separa cuatro cubos conectores en grupos iguales mientras dice en voz alta: <ac_teacher-talk>Si muevo un cubo a otro grupo, tengo uno aquí y tres allí. ¿Qué pasa si muevo dos?</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Estimule a los niños para que separen sus cubos en más de dos grupos iguales (ocho cubos en cuatro grupos de dos, diez cubos en cinco grupos de dos). Pregunte: <ac_teacher-talk>¿Cuántos grupos iguales pueden formar?</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>De ser posible, ponga a los alumnos multilingües en parejas con niños que tengan el mismo idioma del hogar. Los niños pueden sentirse más cómodos trabajando con un compañero con el que pueden hablar con relativa facilidad. Al describir la tarea, use la palabra <ac_teacher-talk-emphasis>igual</ac_teacher-talk-emphasis> y comparta el cognado <ac_teacher-talk-emphasis>equal</ac_teacher-talk-emphasis> con los anglohablantes. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Apoyo para el déficit de atención </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Pida a las parejas que trabajen en diferentes áreas del salón para que no se distraigan con lo que hacen los demás compañeros. Si los niños necesitan aumentar la estrategia de enfoque, anímelos para que cuenten los cubos conectores separándolos en grupos de distinto número.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66418-8</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>       <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>¿arriba O abajo?</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cuando leímos <ac_teacher-speaking_emphasis_blue>Patos, al agua</ac_teacher-speaking_emphasis_blue>, hablamos de dónde estaban los patitos en la página y usamos las palabras <ac_teacher-speaking_emphasis_blue>arriba</ac_teacher-speaking_emphasis_blue> y <ac_teacher-speaking_emphasis_blue>abajo</ac_teacher-speaking_emphasis_blue>.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el vocabulario</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Repasemos las palabras <ac_teacher-speaking_emphasis_blue>arriba</ac_teacher-speaking_emphasis_blue> y <ac_teacher-speaking_emphasis_blue>abajo</ac_teacher-speaking_emphasis_blue>.</ac_teacher-speaking> Use las tarjetas de vocabulario <ac_teacher-talk-emphasis>arriba</ac_teacher-talk-emphasis> y <ac_teacher-talk-emphasis>abajo</ac_teacher-talk-emphasis> para repasar las palabras. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad les mostraré tarjetas de actividades con imágenes que muestran algo o a alguien yendo hacia arriba o hacia abajo. Ustedes me van a decir si las imágenes muestran</ac_teacher-speaking>  <ac_teacher-speaking>arriba o abajo.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre a los niños la primera tarjeta de actividad. Pregunte si la imagen indica una acción hacia <ac_teacher-talk-emphasis>arriba</ac_teacher-talk-emphasis> o hacia <ac_teacher-talk-emphasis>abajo</ac_teacher-talk-emphasis>, y estimule a los niños para que expliquen cómo pueden saberlo. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Pida a los niños que describan algo más que pueda ir hacia arriba o hacia abajo o que pueda subir o bajar de un modo similar a lo que muestra la imagen. Anime a los niños para que usen sus propias experiencias a la hora de responder. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad hasta que haya mostrado todas las tarjetas de actividad. Haga que los niños repasen, por segunda vez, las tarjetas. Esta vez pídales que creen una pila para <ac_teacher-talk-emphasis>arriba</ac_teacher-talk-emphasis> y otra para <ac_teacher-talk-emphasis>abajo</ac_teacher-talk-emphasis>. Estimule a los niños para que indiquen cuál pila tiene más tarjetas. </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre las palabras de ubicación</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¿Fue fácil saber qué imágenes mostraban <ac_teacher-speaking_emphasis_blue>arriba</ac_teacher-speaking_emphasis_blue> o <ac_teacher-speaking_emphasis_blue>abajo</ac_teacher-speaking_emphasis_blue>? ¿Qué fue difícil? ¿Qué otras palabras de ubicación podrían usar para describir estas imágenes?</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>¿arriba O abajo?</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Cuando muestre cada tarjeta a los niños, recorra con el dedo la imagen para demostrar la trayectoria del objeto, animal o persona en ella. Demuestre, pensando en voz alta, qué dirección ve: <ac_teacher-talk>Este pájaro está frente al agua. Eso significa que está volando hacia abajo.</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Desafíe a los niños para que clasifiquen las tarjetas en dos grupos:<ac_teacher-talk> arriba</ac_teacher-talk> y <ac_teacher-talk>abajo</ac_teacher-talk>. Pregúnteles si es posible clasificar nueve tarjetas en dos grupos iguales y pídales que expliquen por qué no.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>A medida que dice las palabras <ac_teacher-talk-emphasis>arriba</ac_teacher-talk-emphasis> y <ac_teacher-talk-emphasis>abajo</ac_teacher-talk-emphasis>, haga gestos con las manos como, por ejemplo, levantar una mano en el aire o inclinarla hacia el suelo para reforzar los términos. Anime a los niños para que también respondan usando gestos con las manos. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad gruesa </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Pida a los niños que actúen moviéndose hacia arriba o hacia abajo como el objeto, animal o persona de la imagen. Pueden extender los brazos para volar como un avión, moverse como un globo que flota o saltar hacia abajo como un gato.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66418-8</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>       <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>carrera a la meta</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Para esta actividad, necesitará cinco fichas de dos colores y cinta adhesiva para crear una línea de meta. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cuando leímos <ac_teacher-speaking_emphasis_blue>Me gusta competir</ac_teacher-speaking_emphasis_blue>, aprendimos de las carreras y practicamos contar.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, usaremos fichas para representar a los corredores. Nos turnaremos para moverlos hacia la meta y para contar cuántos corredores permanecen en la carrera.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preparar</ac_teacher-card_run-in_hed>  Forme con cinta adhesiva una meta en la mesa. Disponga, en el otro extremo de la mesa, las cinco fichas de dos colores como para comenzar una carrera. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Primer lugar</ac_teacher-card_run-in_hed>  Invite a un niño para que mueva uno de los corredores a la meta. Pregunte: <ac_teacher-speaking>¿Cuántos corredores quedan en la carrera?</ac_teacher-speaking> Luego, pídale que cuente las cuatro fichas restantes. Pida a otro niño que cuente las fichas en un orden diferente. <ac_teacher-speaking>¿Todavía hay cuatro corredores?</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe invitando a los niños a mover corredores a la meta. Pídales que digan cada vez cuántos corredores quedan y pida a dos niños más que los cuenten. A medida que cada corredor cruza la meta, pídales que digan cuántos corredores han terminado y cuántos aún no han corrido.   </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre la carrera</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¿Cuántos corredores hubo en total? A pesar de que los corredores se estaban moviendo, ¿había siempre cinco en total? ¿Qué les pareció llevar una ficha a la meta? ¿Les gustaría correr? ¿Por qué sí o por qué no?</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>carrera a la meta</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Cree una gráfica de cinco cuadros con cinta adhesiva en la mesa. Use el lado rojo de la ficha para los corredores en la línea de salida y voltee el corredor a amarillo una vez que cruzó la meta. Anime a los niños a usar la gráfica para ver cuántos corrieron y cuántos no.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Use diez fichas de dos colores y estimule a los niños para que muevan, a la vez, más de un “corredor” hacia la meta.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Repase el vocabulario clave como <ac_teacher-talk-emphasis>carrera, corredor</ac_teacher-talk-emphasis> y <ac_teacher-talk-emphasis>meta</ac_teacher-talk-emphasis>, así como  los números del uno al cinco. Use tarjetas de números para invitar a los niños a que muestren la tarjeta de número que tiene el número que corresponde a los corredores de cada grupo. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad gruesa </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Si el espacio lo permite, pida a los niños que actúen como si fueran las fichas. Seleccione a los niños para “competir” en una meta instalada en el salón o afuera, y pida a los niños que digan y cuenten cuántos niños han corrido ya y cuántos aún no. También puede ubicar las fichas en una mesa más larga o en el piso, y animar a los niños para que caminen con la ficha hacia la meta designada.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66418-8</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="es">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>la familiade los gatos</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos el cuento <ac_teacher-speaking_emphasis_blue>Soy un gato</ac_teacher-speaking_emphasis_blue>. Aprendimos sobre las características que tienen todos los gatos.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad miraremos imágenes de diferentes animales, hablaremos sobre sus características y los clasificaremos en dos grupos:</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-teacher_talk_bulleted>El grupo Gatos es el de animales que son gatos. Tienen orejas pequeñas, narices aplastadas, colas largas, bigotes, dientes y garras afiladas, y ojos grandes que ven en la oscuridad.</ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>El grupo No gatos es el de animales que no son gatos. Tienen alguna característica de los gatos pero no son gatos.</ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Enseñar señales con la mano</ac_teacher-card_run-in_hed>  Pida a los niños que indiquen con un pulgar hacia arriba si la imagen muestra un gato o hacia abajo si muestra un animal que no es un gato. Demuestre.   </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre una tarjeta con imagen y haga la pregunta al dorso; ofrezca estímulo o apoyo adicional según sea necesario.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use la última pregunta al dorso para ampliar la conversación.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Clasificar</ac_teacher-card_run-in_hed>  Dé la tarjeta con imagen a un niño para que la coloque en la columna “Gatos” o “No gatos”.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad usando la siguiente tarjeta con imagen.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre las características de los gatos</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Las imágenes de este lado muestran g<fill-in-the-blank>               </fill-in-the-blank> <ac_teacher-speaking_emphasis_blue>(gatos)</ac_teacher-speaking_emphasis_blue>. ¿Cómo saben que son gatos?</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre las características de animales que no son gatos</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Las imágenes de este lado muestran animales con algunas catacterísticas de los gatos, pero no son gatos. ¿Cómo saben que no son gatos?</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>LA familiade los gatos</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Muestre a los niños tres tarjetas con imagen al mismo tiempo, de las que una sea un gato y las otras dos no (p. ej., guepardo, lechuza y oso). Pregunte:<ac_teacher-talk> ¿Cuál no va aquí? </ac_teacher-talk>Luego pregunte<ac_teacher-talk>: ¿Cómo lo saben? </ac_teacher-talk>Repita con otro grupo de tres tarjetas.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Muestre a los niños dos tarjetas con imagen al mismo tiempo, de las que una sea un gato y la otra no (p. ej.: tiburón y tigre). Pregunte: <ac_teacher-talk>¿En qué se parecen y en qué se diferencian estos animales?</ac_teacher-talk> Repita con otros pares de tarjetas.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Anime a los niños a usar una respuesta física, además de la hablada. Por ejemplo, invítelos a agitar los dedos cerca de la cara si el animal tiene bigotes o a poner las manos alrededor de los ojos si el animal tiene ojos grandes. Estas pistas físicas y visuales apoyarán el aprendizaje del lenguaje y ayudarán a los niños a participar en la actividad al mismo tiempo que desarrollan sus habilidades lingüísticas.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad gruesa</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Considere hacer esta actividad en el espacio para el grupo completo o en el exterior, donde los niños puedan moverse como lo haría cada animal. Esta actividad les dará la oportunidad de saltar como grandes gatos, nadar como focas o tiburones, etc. Los juegos con todo el cuerpo animan la participación, activan la memoria y contribuyen a desarrollar la fuerza.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64424-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>¿es un triángulo?</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos el cuento <ac_teacher-speaking_emphasis_blue>Soy un gato</ac_teacher-speaking_emphasis_blue> y nos enfocamos en el pensamiento flexible. Los grandes gatos usaron el pensamiento flexible cuando decidieron que Simón era un gato. Usaron información nueva para cambiar lo que pensaban.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el Mind Builder</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cuando tenemos un pensamiento flexible, cambiamos lo que pensamos o hacemos normalmente como respuesta a nuevas situaciones, eventos o información.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad hablaremos de figuras que forman parte de la familia de los triángulos. Usaremos el pensamiento flexible para decidir si cada figura es o no un triángulo.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar los triángulos</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Un triángulo es una figura con tres lados y tres esquinas.</ac_teacher-speaking> Muestre un triángulo.   </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre una tarjeta con imagen y use el texto al dorso para preguntar si la figura forma parte de la familia de los triángulos. Pregunte por qué. Dé apoyo o estímulo según sea necesario.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Clasificar</ac_teacher-card_run-in_hed>  Dé la tarjeta con imagen a un niño para que la coloque en una de las dos columnas. Rotule las columnas como “triángulos” o “no triángulos”.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use la última pregunta al dorso para ampliar la conversación.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad usando la siguiente tarjeta con imagen.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre el pensamiento flexible</ac_teacher-card_run-in_hed>  Comenten qué triángulos parecían “normales” y cuáles “raros”. Pregunte a los niños si fue difícil ver alguno de ellos como parte de la familia de los triángulos, aunque tuvieran características de los triángulos. Estimule la conversación, en especial respecto a algo sobre lo que un niño haya cambiado de idea.  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>¿es un triángulo?</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Para figuras que parecen “invertidas” respecto a su orientación típica, gire la tarjeta para ayudar a los niños a ver la orientación más usual. Explique que sigue siendo la misma figura aunque esté girada.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Invite a los niños a usar palitos artesanales para crear cada triángulo que vean en las tarjetas. Luego anímelos a crear tantos triángulos más como puedan. Pídales que expliquen qué hace que todas las formas sean parte de la familia de los triángulos.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Los niños cuya lengua materna es el inglés reconocerán el cognado español <ac_teacher-talk>triángulo</ac_teacher-talk> para la palabra inglesa <ac_teacher-talk>triangle</ac_teacher-talk>. Ayude a los niños a hacer esta conexión así como la conexión entre <ac_teacher-talk>tres</ac_teacher-talk> y <ac_teacher-talk>three</ac_teacher-talk>. Hacer estas conexiones entre idiomas ayuda a preparar la mente de los niños para el importante pensamiento flexible que es parte de esta actividad.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo sensorial</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Ofrezca estimulación sensorial invitando a los niños a usar los dedos para “dibujar” cada figura en una bandeja de arena. Invite a los niños a dibujar cada figura, moviendo la arena de manera que se vea el plato a través del contorno de la figura. Este elemento sensorial puede hacer la actividad más interesante y atractiva para todos los niños.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64424-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>hablar sobre gatos</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos el cuento <ac_teacher-speaking_emphasis_blue>Soy un gato</ac_teacher-speaking_emphasis_blue> y nos enfocamos en cómo algunos gatos son diferentes de otros. Hablamos de Simón, León, Guepardo, Puma, Pantera y Tigre. Todos ellos son gatos que tienen algunas características en común, pero cada uno tiene sus propias cosas especiales.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el vocabulario</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy aprendimos la expresión <ac_teacher-speaking_emphasis_blue>en común. </ac_teacher-speaking_emphasis_blue>Repasemos esta expresión antes de comenzar la actividad. </ac_teacher-speaking>Use la tarjeta de vocabulario para repasar la expresión.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad veremos imágenes de distintos tipos de gatos. ¡Haremos y responderemos preguntas sobre qué hace que cada gato sea especial!</ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre una tarjeta con imagen de un gato, identifique el gato y haga la pregunta al dorso de la tarjeta. Dé estímulo o apoyo adicional según sea necesario.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use la última pregunta al dorso de la tarjeta para ampliar la conversación.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad usando la siguiente tarjeta con imagen.   </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre características especiales de diferentes gatos</ac_teacher-card_run-in_hed>  Invite a los niños a hablar sobre los gatos que ven en la actividad de hoy y a comparar y contrastar sus características. Anime a los niños a usar tantos adjetivos como sea posible al hablar de las características.  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>hablar sobre gatos</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Para los niños más pequeños o con retraso de desarrollo, lea en voz alta la sección Apoye de cada tarjeta. Luego pida a los niños que digan qué más saben sobre el gato o que miren la imagen. Estimule tanta conversación como sea posible.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Anime a los niños a participar por turnos en conversaciones entre amigos sobre cada gato hasta que cada niño tenga dos turnos en la conversación. Recuérdeles que mientras uno habla, el otro escucha. Quien habla sostendrá la tarjeta como recordatorio de esto.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilungües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Muestre y anime a los niños a usar una respuesta física, además de la hablada, para conversar sobre las características especiales de los gatos de las imágenes. Por ejemplo, pueden poner las manos cerca de la cara para representar la melena de un león. También pueden hacer un movimiento de carrera para mostrar lo rápido que corre un guepardo.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Dé a los niños la opción de dibujar una respuesta a la actividad usando lápices, crayones o marcadores. Asegúrese de proporcionar colores que coincidan con los gatos que se muestran en las tarjetas (p. ej.: anaranjado, negro, gris, etc.). Anime a los niños a hablar mientras dibujan, usando tantos adjetivos como sea posible.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64424-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>¡vaya patas!</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos el papelógrafo <ac_teacher-speaking_emphasis_blue>¡Vaya patas!</ac_teacher-speaking_emphasis_blue> Leímos sobre las patas de diferentes animales. Aprendimos qué hace especiales las patas de cada animal y cómo cada animal las usa.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad veremos imágenes de patas de distintos animales. Les daré una pista sobre las patas de cada animal y ustedes adivinarán qué animal es. Intenten recordar lo que aprendieron sobre las patas en el papelógrafo. </ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre una tarjeta con imagen. Haga la pregunta al dorso de la tarjeta. Dé más pistas y estímulo o apoyo según sea necesario.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Anime a los niños a hacer sus propias preguntas sobre el animal cuyas patas se muestran en la tarjeta. Deje a los otros niños compartir sus conocimientos o hacer inferencias sobre las preguntas.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad usando la siguiente tarjeta con imagen.   </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre las patas de los animales</ac_teacher-card_run-in_hed>  Invite a los niños a hablar sobre las diferentes patas que vieron en el juego de hoy y a compararlas y contrastarlas. Anime a los niños a usar tantos adjetivos como sea posible al hablar de las patas.   </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>¡vaya patas!</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Dé más pistas sobre el animal y haga preguntas que guíen a los niños hacia la respuesta correcta. Por ejemplo: <ac_teacher-talk>Este animal tiene un dedo en cada pie. Tiene cuatro patas. ¿Qué animal es?</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Lea las pistas en la primera tarjeta. Luego dé la tarjeta siguiente a un niño y anímelo a proponer sus propias pistas sobre el animal que se presenta. Dé a más niños oportunidades de proponer sus propias pistas.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Ayude a los niños a formular sus propias oraciones sobre las patas y los pies de los animales. Por ejemplo: <ac_teacher-talk>Las patas de los patos son palmeadas. Un caracol tiene un solo pie. </ac_teacher-talk>Permita que los niños señalen partes de la imagen para completar su oración. Proporcióneles el vocabulario que falte.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Muestre el papelógrafo <ac_teacher-talk>¡Vaya patas!</ac_teacher-talk> Pida a los niños elijan un animal del papelógrafo y que hagan una representación artística de la pata de ese animal. Deles materiales de arte, como cartulina, marcadores o crayones, tijeras, barras de pegamento y masilla. Luego invítelos a dar pistas sobre la pata del animal que hicieron para que otros niños averigüen qué animal es.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64424-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

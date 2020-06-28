@@ -1,0 +1,42 @@
+def env_branch = [
+    dev: 'develop',
+    stage: 'stage',
+    qa : 'qa',
+    perf: 'perf',
+    prod: 'master'
+]
+
+def SCH_CONSUL_NONPROD = 'consul.service.schl-np-us-east.consul:8500'
+def SCH_CONSUL_PROD = 'consul.service.schl-us-east.consul:8500'
+
+node('nodejs'){
+    stage ('Checkout') {
+        checkout([
+            $class: 'GitSCM',
+            branches: [
+                [ name: env_branch[ENV] ]
+            ],
+            doGenerateSubmoduleConfigurations: false,
+            extensions: [
+                [$class: 'RelativeTargetDirectory', relativeTargetDir: '.']
+            ],
+            submoduleCfg: [],
+            userRemoteConfigs: [
+                [credentialsId: 'openshift-user', url: 'git@bitbucket.org:scholastic/da-api-ecp.git']
+            ]
+        ])
+    }
+    stage ('Import data') {
+        sh "npm install"
+        if (ENV == "prod") {
+            withCredentials([string(credentialsId: 'ecp-prod-consul', variable: 'SCH_TOKEN_PROD')]) {
+              sh "envconsul -consul-addr ${SCH_CONSUL_PROD} -consul-token ${SCH_TOKEN_PROD} -prefix ecp/ecp-api-nodejs/${ENV} -once npm run ecp-meta-import"
+            }
+        }
+        else {
+            withCredentials([string(credentialsId: 'ecp-nonprod-consul', variable: 'SCH_TOKEN_NONPROD')]) {
+              sh "envconsul -consul-addr ${SCH_CONSUL_NONPROD} -consul-token ${SCH_TOKEN_NONPROD} -prefix ecp/ecp-api-nodejs/${ENV} -once npm run ecp-meta-import"
+            }
+        }
+    }
+}

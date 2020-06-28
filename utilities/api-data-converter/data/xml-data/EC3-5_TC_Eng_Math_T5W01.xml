@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="en">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>What Comes Next?</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Gather Materials</ac_teacher-card_run-in_hed> For this activity, you will need Connecting Cubes in two different colors.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed> <ac_teacher-speaking>Today we read the story <ac_teacher-speaking_emphasis_blue>I Got the Rhythm.</ac_teacher-speaking_emphasis_blue> We talked about some of the patterns we found in the story. Now we are going to see if we can figure out what comes next in a pattern.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Review Vocabulary</ac_teacher-card_run-in_hed> <ac_teacher-speaking>Let’s review the word <ac_teacher-speaking_emphasis_blue>pattern.</ac_teacher-speaking_emphasis_blue>
+              </ac_teacher-speaking> Use <ac_teacher-talk>pattern</ac_teacher-talk> Vocabulary Card to reteach the word.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed> <ac_teacher-speaking>In this activity, I will make a pattern with Connecting Cubes. You will look at the pattern and say what color comes next.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Set Up</ac_teacher-card_run-in_hed> Make an ABAB or AABB pattern with two colors of Connecting Cubes. Make sure the pattern repeats at least three times.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask</ac_teacher-card_run-in_hed> <ac_teacher-speaking>What color comes next? Add the next color to the pattern!</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat</ac_teacher-card_run-in_hed> Continue until each child has added to the pattern. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Extend</ac_teacher-card_run-in_hed> Have one child create a new pattern with the Connecting Cubes. As a group, work together to decide which color is next. Praise children for working together to decide what is next. </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Patterns</ac_teacher-card_run-in_hed> Ask children to share how they figured out what came next in the pattern. Explain that we can talk about a pattern by saying what we see—blue, yellow, blue, yellow, or circle, square, circle, square. We can also give each part of the pattern a letter. Blue, yellow, blue, yellow is an ABAB pattern. Blue, blue, yellow, yellow is AABB. Use letter names in addition to descriptions when talking about patterns.</ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>What Comes Next?</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="1">
+          <ac_diff_support-challenge_heds>Support</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>If children have difficulty determining the pattern, add another set of Connecting Cubes. Talk through what the pattern is and what color will come next. Point to each Connecting Cube and have the child name each color.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Add a third color to the pattern of Connecting Cubes. Create ABCABC patterns with the Connecting Cubes and challenge children to figure out what comes next when there are three colors in the pattern rather than two.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="1">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Review the color words in English. As children identify patterns, encourage children to name the colors in English or their home language, whichever is more comfortable. Confirm their choices in English to reinforce the color words in English.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Gross Motor Development</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>For the extended version of the activity, instead of having children create their own patterns with cubes, ask children to create patterns together of two different movements, like a stomp and wiggle.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64922-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>IT Takes Two</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed> <ac_teacher-speaking>As we read <ac_teacher-speaking_emphasis_blue>I Got the Rhythm,</ac_teacher-speaking_emphasis_blue> we talked about how the girl makes rhythms with her body. When she works with others, they can make more complicated rhythms and patterns.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Review Vocabulary</ac_teacher-card_run-in_hed> <ac_teacher-speaking>Let’s review the word <ac_teacher-speaking_emphasis_blue>work.</ac_teacher-speaking_emphasis_blue>
+              </ac_teacher-speaking> Use <ac_teacher-talk>work</ac_teacher-talk> Vocabulary Card to reteach the word.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed> <ac_teacher-speaking>In this activity, we will work with a friend to create a pattern of movements, like a dance. One of you will add one move, like a tap. The other will add a different move, like a wave. You will make an ABAB pattern together with the two moves: tap, wave, tap, wave.</ac_teacher-speaking>
+            </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Teach</ac_teacher-card_run-in_hed> Model asking a friend to work together. Ask a child, “Will you please work with me?” and guide him or her to respond by saying, “Yes I will.” Then guide children to practice this exchange with their partners.   </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Model</ac_teacher-card_run-in_hed> Repeat the dialogue to ask a child to work with you. Introduce a move, such as a head tap. Have your partner add a gesture, such as a foot stomp. Together, tap your heads and stomp your feet several times to make an ABAB pattern </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Extend</ac_teacher-card_run-in_hed> Ask pairs to teach their patterns to the group and have the other children in the circle repeat the pattern, such as head nod, shoulder tap, head nod, shoulder tap.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat</ac_teacher-card_run-in_hed> Have children find new partners, making sure children who were asked before are askers this time, and make new movement patterns.     </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Working Together</ac_teacher-card_run-in_hed> Have children share why it is fun to work with a friend. Ask how working with friends added to the fun of making patterns.</ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>It Takes Two</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Support</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Help children find partners to work with and make sure everyone has someone to pair up with. If children do not want to work together, talk through why it is nice to work with someone new to learn new things.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Invite children to create a pattern using two-part gestures (a head tap followed by a shoulder tap; a nose touch followed by an elbow tap). In this version of the game, each child must remember and do a two-part gesture, creating a four-part pattern.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="1">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Use this activity as an opportunity to teach new verbs such as “tap” and “stomp.” Name and describe each gesture after it’s made, then invite children to describe it in their home language.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Fine Motor Development</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Invite children to develop fine motor movements for the patterns such as tapping their noses. If children have difficulty with a gesture that involves fine motor development, repeat it slowly as the child copies your movements.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64922-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>CHANGING THE PATTERN</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Gather Materials</ac_teacher-card_run-in_hed> For this activity, you will need Connecting Cubes in two colors for each child.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed> <ac_teacher-speaking>Today we read the story, <ac_teacher-speaking_emphasis_blue>I Got the Rhythm.</ac_teacher-speaking_emphasis_blue> We talked about how the girl in the story made patterns of movements and sounds with different body parts. We also practiced adding and taking away one. Now we are going to add and take away one cube in a pattern.</ac_teacher-speaking>
+            </ac_teacher-card-body><ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed> <ac_teacher-speaking>In this activity, I will give you a line of Connecting Cubes. You will look at the pattern and count the number of cubes in the line. Think about which color cube is next in the pattern and add one cube to the line. Then say how many cubes there are in all.</ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Set Up</ac_teacher-card_run-in_hed> Make ABAB patterns with two colors of Connecting Cubes for each child. Make sure the pattern repeats at least two times. Put extra cubes of each color on the table.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask</ac_teacher-card_run-in_hed> <ac_teacher-speaking>How many cubes are in your pattern? What color should be next? Add one cube in that color. Now how many cubes are there in all?</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat</ac_teacher-card_run-in_hed> Have children take away one cube from the other side of the line. Remove the most recently added cube. Recount, and then guide children to say how many cubes there are now. </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Patterns</ac_teacher-card_run-in_hed> Ask children how the pattern changed as they added and took away Connecting Cubes from it. Remind them that we can talk about a pattern by saying what we see or we can give each part of the pattern a letter. Black, brown, black, brown is an ABAB pattern. Black, black, brown, brown is AABB. Encourage them to use letter names in addition to descriptions when talking about patterns.<ac_teacher-speaking/>
+            </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>CHANGING THE PATTERN</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_diff_support-challenge_heds>Support</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Allow children to focus just on adding and taking one away by using the same color Connecting Cubes. Removing the pattern element lightens the cognitive load.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Ask children to make their own patterns and then play again following the same instructions.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="1">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Before playing, review number and color names in English and have children say each in their home language. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Fine Motor Development</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Using Connecting Cubes is helpful for developing children’s fine motor skills. Connecting and disconnecting the cubes will help them develop their fine motor skills naturally.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64922-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>Behind The Curtain: PATTERNS</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Gather Materials</ac_teacher-card_run-in_hed> For this activity, you will need Connecting Cubes in different colors and a folder or book to use as a “curtain.”</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed> <ac_teacher-speaking>Today we read and sang<ac_teacher-speaking_emphasis_blue> Head, Shoulders, Knees, and Toes.</ac_teacher-speaking_emphasis_blue> Then we made up our own version of the song. Now, we’ll make a pattern with Connecting Cubes following my instructions, and then you’ll make up your own.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Teach</ac_teacher-card_run-in_hed> <ac_teacher-talk-emphasis>Remind children that you can assign each part of a pattern a letter. Blue, red, blue, red is an ABAB pattern. Blue, blue, red, red is AABB.</ac_teacher-talk-emphasis></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed> <ac_teacher-speaking>In this activity, I will make a pattern with cubes behind this curtain. I will tell you what the pattern is, but not show it to you. You will make the same pattern on the other side of the curtain. Then, I will lift up the curtain and we will see if the two are the same!</ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Set Up</ac_teacher-card_run-in_hed> Make an ABAB pattern with brown and black Connecting Cubes. Make sure the pattern repeats at least two times. Keep the pattern hidden behind your curtain. Leave extra cubes of all colors on the table for children.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask</ac_teacher-card_run-in_hed> <ac_teacher-speaking>I made an ABAB pattern with brown and black. Can you make an ABAB pattern with brown and black?</ac_teacher-speaking> Have children make the pattern. Then lift the curtain. Compare your patterns and help correct any misunderstandings. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat</ac_teacher-card_run-in_hed> Continue with different colors and ABAB or AABB patterns. Then ask children to create pattens behind the curtain for you to match.   </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Patterns</ac_teacher-card_run-in_hed> Ask children how they decided which cube to start with when they were building patterns.</ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>Behind The Curtain: PATTERNS</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_diff_support-challenge_heds>Support</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>If children struggle remembering what they are supposed to do behind the curtain, help them with strategies about holding instructions in their mind. Review the steps of the activity and remind them they can always ask you if they are unsure.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Have the child make a more challenging pattern for you to copy. Have the child tell you what colors are in the pattern and what the pattern is. If your pattern doesn’t match the child’s, ask questions to help the child determine what caused the difference.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="1">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Keep in mind that some languages differentiate colors that others do not. For example, many languages do not differentiate between pink and red. English speakers call both light blue and navy “blue” but in Russian they are distinct colors. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Gross Motor Development</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>To reinforce body part names and gross motor development, have children make the pattern by tapping two body parts, such as shoulders and knees.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64922-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

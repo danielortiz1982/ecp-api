@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./preview-styles.css" type="text/css"?>
+<teaching-guide xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" lang="es">
+  <day_1>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 3:</tg_week_hed>
+        <tg_topic_hed>Las casas de los animales</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338630640_COV_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>Un árbol muy concurrido</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="EC_RAC_Lang_4_4_redux_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T4_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> conversación; estructura de la oración</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed> función ejecutiva; motivación y creatividad</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> ciencias de la vida</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para involucrar a los niños con música e introduzca el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>concurrido</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>muerden</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento introduciendo el libro y pregunte: <tg_bullet-directions_guiding-question>¿Cómo hacen los animales casas en los árboles?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Lea para disfrutar y comprender, observando el vocabulario en contexto.</tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión y diferencie según sea necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.  </tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Participa en canciones, rimas y juegos de palabras.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Estructura de la oración:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa oraciones con frases múltiples.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Concentra su atención (autorregulación).</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra curiosidad al hacer preguntas de “por qué” para aprender más.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la vida:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Describe el ciclo de la vida de diferentes plantas y animales.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y del espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Investiga, describe y habla acerca de los materiales de la tierra y de sus usos.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>El ciclo de la vida</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lang_T4_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> vocabulario</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed> función ejecutiva; motivación y creatividad</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> ciencias de la vida</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Estimule a los niños para que identifiquen y ordenen etapas de la vida de tres organismos diferentes.</tg_bullet-directions>
+        <tg_bullet-directions>Guíe a los niños para que comprendan que todos los organismos vivos atraviesan un ciclo de vida.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo es el lugar donde viven los animales?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué casas de animales ves en el libro? ¿Cómo se llaman?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué casa de animal simularás hacer? ¿De qué está hecha?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Ordena diferentes objetos del más grande al más pequeño.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué casa de animal puedes dibujar? ¿Cómo es?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué materiales necesitas para hacer un nido para un pájaro? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTROABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué letra hace el sonido que oyes al principio de la palabra <tg_teacher-talk_emphasis_non-ital>casa</tg_teacher-talk_emphasis_non-ital>? ¿Puedes escribirla?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes construir una casa para una animal con bloques? ¿Qué casa de animal construirás?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. The Busy Tree by Jennifer Ward, illustrated by Lisa Falkenstern. Text copyright © 2009 by Jennifer Ward. Illustrations copyright © 2009 by Lisa Falkenstern. Published by Scholastic Inc. by arrangement with Two Lions, an imprint of Amazon Children’s Publishing.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_1>
+  <day_2>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 3:</tg_week_hed>
+        <tg_topic_hed>Las casas de los animales</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338630640_COV_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro:<tg_materials-caption_book-title-Ital>Un árbol muy concurrido</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="EC_RAC_Lang_4_4_redux_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjetas para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T4_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> conversación; vocabulario</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed> función ejecutiva; motivación y creatividad</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> ciencias de la vida</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para compartir el Mind Builder <tg_bullet-directions_guiding-question>mostrar curiosidad</tg_bullet-directions_guiding-question> e introduzca el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>buscar</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>enfocarse</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento asociando el Mind Builder con <tg_bullet-directions_book-title>Un árbol muy concurrido</tg_bullet-directions_book-title>.</tg_bullet-directions>
+        <tg_bullet-directions>Lea con atención para tener presente el Mind Builder y hablar sobre él.</tg_bullet-directions>
+        <tg_bullet-directions>Dé la op ortunidad de prolongar el juego.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Se involucra en conversaciones con una variedad de compañeros, turnándose para escuchar y hablar; usa conversación verbal y no verbal, así como reglas para la conversación en grupo.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende y usa una cantidad creciente de palabras para etiquetar y describir personas, lugares, cosas y acciones; comprende y usa un número creciente de frases comunes.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Concentra su atención (autorregulación).</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra curiosidad al hacer preguntas de “por qué” para aprender más.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la vida:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Describe el ciclo de la vida de diferentes plantas y animales.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y del espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Investiga, describe y habla acerca de los materiales de la tierra y de sus usos.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Enfocarse en cosas pequeñas</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lang_T4_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjeta de actividad del maestro</tg_materials-caption>
+        <graphic href="EC_stock_MagnifyingGlasses_cropped.png" index="2"/>
+        <tg_materials-caption index="2">lupas</tg_materials-caption>
+        <graphic href="EC_stock_stones_65183455_cropped.png" index="3"/>
+        <tg_materials-caption index="3">semillas, piedras, tierra, hojas</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> conversación</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed> función ejecutiva; motivación y creatividad</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> ciencias de la Tierra y del espacio</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Deje que los niños observen objetos naturales con lupas y que los comparen con objetos en el libro.</tg_bullet-directions>
+        <tg_bullet-directions>Guíe a los niños a describir cómo se ven las cosas a través de una lupa.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo es el lugar donde viven los animales?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué animales puedes hallar en tu libro?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Pueden actuar como un animal que vive en un árbol? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Dibuja tres árboles: un árbol muy grande, otro más pequeño y otro muy pequeñito. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué cambiarías en <tg_teacher-talk_emphasis_non-ital>Un árbol muy concurrido</tg_teacher-talk_emphasis_non-ital>?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Halla materiales para construir la casa de un animal.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué letra ves al principio de la palabra <tg_teacher-talk_emphasis_non-ital>foco</tg_teacher-talk_emphasis_non-ital>? ¿Qué sonido  hace esa letra? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo puedes hacer la casa de tu animal más grande para un animal de más tamaño?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. The Busy Tree by Jennifer Ward, illustrated by Lisa Falkenstern. Text copyright © 2009 by Jennifer Ward. Illustrations copyright © 2009 by Lisa Falkenstern. Published by Scholastic Inc. by arrangement with Two Lions, an imprint of Amazon Children’s Publishing. Clifford the Big Red DogTM illustration copyright © The Norman Bridwell Trust.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Photos © Shutterstock: leaves (KPG_Payless), rocks (Red2000 Creative).</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_2>
+  <day_3>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 3:</tg_week_hed>
+        <tg_topic_hed>Las casas de los animales</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338630640_COV_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>Un árbol muy concurrido</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="EC_RAC_Lang_4_4_redux_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjetas para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T4_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+        <graphic href="EC_StrategyCards MultipleMeaning_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Tarjeta de estrategia</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> escuchar; conversación; estructura de la oración; vocabulario</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> motivación y creatividad</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> ciencias de la vida</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para compartir la habilidad de comprensión, cante una canción sobre casas de animales e introduzca el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>corteza</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>se balancean</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento repasando <tg_bullet-directions_book-title>Un árbol muy concurrido</tg_bullet-directions_book-title> y pregunte: <tg_bullet-directions_guiding-question>¿Qué hace que un árbol sea una buena casa para los animales?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Lea de manera interactiva para comprender mejor.</tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión y diferencie según sea necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escuchar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Responde adecuadamente al lenguaje hablado; sigue instrucciones orales.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Participa en canciones, rimas y juegos de palabras; usa conversación verbal y no verbal, así como reglas para la conversación en grupo.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Estructura de la oración:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa oraciones con frases múltiples.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende palabras de significados múltiples; responde a lenguaje de enseñanza; comprende y usa un número creciente de palabras de pregunta y preposiciones.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra curiosidad al hacer preguntas de “por qué” para aprender más; hace preguntas y responde para aprender o compartir información.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la vida:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica, investiga, habla y describe la relación que hay entre plantas y animales, y su medio ambiente.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>¿Dónde están los animales?</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lang_T4_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> vocabulario</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> motivación y creatividad</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> ciencias de la vida</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Ayude a los niños a construir oraciones uniendo frases que digan la ubicación relativa de los animales.</tg_bullet-directions>
+        <tg_bullet-directions>Ayude a los niños a entender y usar preposiciones.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo es el lugar donde viven los animales?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes hallar diferentes casas de animales en tu libro? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes representar que eres un animal padre o madre cuidando a sus bebés?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Usa bloques para construir un hogar para Scout. ¿Cuántos bloques usarás? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo dibujarías el nido de un pájaro? ¿De qué color sería? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo dibujarías la casa de tu animal favorito?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué letra hace el sonido que oyes al principio de la palabra <tg_teacher-talk_emphasis_non-ital>tronco</tg_teacher-talk_emphasis_non-ital>? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Simula que construyes un árbol grande. ¿Qué tan alto sería tu árbol?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. The Busy Tree by Jennifer Ward, illustrated by Lisa Falkenstern. Text copyright © 2009 by Jennifer Ward. Illustrations copyright © 2009 by Lisa Falkenstern. Published by Scholastic Inc. by arrangement with Two Lions, an imprint of Amazon Children’s Publishing.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_3>
+  <day_4>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 3:</tg_week_hed>
+        <tg_topic_hed>Las casas de los animales</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="EC3-5_Flipchart_T4W3_AtThePond_SPAN_Redux_cropped.png" index="1"/>
+        <tg_materials-caption index="1">
+          <tg_materials-caption_book-title-Ital>Papelógrafo de grandes ideas:El estanque</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="EC_RAC_Lang_4_4_redux_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjetas para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T4_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+        <graphic href="9781338630640_COV_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Libro: <tg_materials-caption_book-title-Ital>Un árbol muy concurrido</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> escuchar; estructura de la oración; vocabulario</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed> función ejecutiva; motivación y creatividad</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> ciencias de la vida</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para hablar sobre lo que aprendieron acerca de las casas de animales e introduzca el vocabulario  <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>gusanos</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>saltamontes</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento asociando los textos <tg_bullet-directions_book-title>El estanque</tg_bullet-directions_book-title> y <tg_bullet-directions_book-title>Un árbol muy concurrido</tg_bullet-directions_book-title>.</tg_bullet-directions>
+        <tg_bullet-directions>Lea de manera interactiva y relacione con la pregunta conceptual de esta semana: <tg_bullet-directions_guiding-question>¿Cómo es el lugar donde viven los animales?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Dé la oportunidad de prolongar el juego.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escuchar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Sigue instrucciones orales.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Estructura de la oración:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa oraciones con frases múltiples.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende palabras de significados múltiples; responde a lenguaje de enseñanza.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body><tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Concentra su atención (autorregulación).</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra curiosidad al hacer preguntas de “por qué” para aprender más; hace y responde preguntas para aprender o compartir información.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la vida:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Describe el ciclo de la vida de diferentes plantas y animales.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Iguales pero diferentes</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lang_T4_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> estructura de la oración</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed> función ejecutiva; motivación y creatividad</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> ciencias de la vida</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Estimule a los niños a entender que una misma palabra puede tener significados diferentes.</tg_bullet-directions>
+        <tg_bullet-directions>Ayude a los niños a representar dos significados diferentes de la misma palabra.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo es el lugar donde viven los animales?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué parecidos y diferencias hay entre las casas de animales de <tg_teacher-talk_emphasis_non-ital>El estanque</tg_teacher-talk_emphasis_non-ital> y las de este libro?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Actúa como un pájaro que vive en un árbol y luego com un pájaro que vive cerca del estanque. ¿Qué es diferente? ¿Qué es igual?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed> CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Ordena diferentes objetos del más grande al más pequeño. ¿Cuál es el más grande? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Dibuja un animal que vive en un árbol.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Usa crayones o marcadores para colorear el animal que dibujaste. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO  ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué letra hace el primer sonido en la palabra <tg_teacher-talk_emphasis_non-ital>patos</tg_teacher-talk_emphasis_non-ital>? ¿Puedes señalarla?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Construye una casa para un animal. ¿Qué materiales usarías?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. The Busy Tree by Jennifer Ward, illustrated by Lisa Falkenstern. Text copyright © 2009 by Jennifer Ward. Illustrations copyright © 2009 by Lisa Falkenstern. Published by Scholastic Inc. by arrangement with Two Lions, an imprint of Amazon Children’s Publishing.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_4>
+  <day_5>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 3:</tg_week_hed>
+        <tg_topic_hed>Las casas de los animales</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338630640_COV_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>Un árbol muy concurrido</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="EC_RAC_Lang_4_4_redux_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjetas para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T4_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> escuchar; conversación</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed> función ejecutiva; motivación y creatividad</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> ciencias de la vida</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para que los niños introduzcan el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>raíces</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>marchan</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento repasando el libro y pregunte: <tg_bullet-directions_guiding-question>Si pudieran vivir en cualquier casa de un animal, ¿cuál elegirían?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Lea y vuelva a narrar de manera interactiva para comprender mejor.</tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión y diferencie según sea necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escuchar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra comprensión del lenguaje hablado.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Narra o da distintas versiones de cuentos.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación hacia la lectura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Elige libros y otros textos para la actividad previa a la lectura.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Concentra su atención (autorregulación).</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Hace y responde preguntas para aprender o compartir información.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la vida:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica, investiga, habla y describe la relación que hay entre plantas y animales, y su medio ambiente.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Escritura, dibujo o narración en voz alta independiente</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC3-5_ResponsePrompt_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Hoja de respuesta</tg_materials-caption>
+        <graphic href="EC_stock_WritingTools_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Útiles de escritura</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> vocabulario</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> motivación y creatividad</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> ciencias de la vida</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Apoye a los niños mientras responden en forma independiente a la pregunta: <tg_bullet-directions_guiding-question>¿En qué parte de un árbol te gustaría vivir? ¿Por qué?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Guarde los escritos de los niños para mostrarlos la próxima semana.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo es el lugar donde viven los animales?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo hicieron sus casas los animales de este libro? ¿Cómo describirías sus hogares?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Representa que eres una ardilla que está mordiendo una bellota.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes describir cómo una oruga se convierte en mariposa?  </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo dibujarías la mejor casa para tu animal favorito?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo harías la casa de tu animal favorito?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué letra aparece dos veces seguidas en la palabra <tg_teacher-talk_emphasis_non-ital>ardilla</tg_teacher-talk_emphasis_non-ital>? ¿Puedes escribir esa letra? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Con qué materiales construirías la casa de un animal? ¿Por qué?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. The Busy Tree by Jennifer Ward, illustrated by Lisa Falkenstern. Text copyright © 2009 by Jennifer Ward. Illustrations copyright © 2009 by Lisa Falkenstern. Published by Scholastic Inc. by arrangement with Two Lions, an imprint of Amazon Children’s Publishing.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Photos © Shutterstock: crayons (Lucie Lang), pencils (urfin).</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_5>
+  <day_1_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Investiga y demuestra una comprensión creciente de los sonidos y de la entonación del lenguaje.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.C.3)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Estructura de la oración:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa oraciones con más de una frase.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.E.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body><tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Mantiene la atención a las tareas elegidas por él o a las tareas de rutina hasta terminarlas </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.I.B.3.a, MB);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>permanece concentrado en actividades de grupo por hasta 20 minutos por vez.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.B.3.b, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra curiosidad al hacer preguntas de “por qué” para aprender más.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la vida:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Describe los ciclos de vida de los organismos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.B.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la Tierra y del espacio:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observa, investiga, describe y discute los materiales de la tierra y sus propiedades y usos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.C.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_1_texas>
+  <day_2_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Se involucra en conversaciones de manera adecuada </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.II.B.2);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>demuestra saber las reglas de conversación oral.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.B.4)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa una gran variedad de palabras para nombrar y describir </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.II.D.1);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>escucha y empieza a desarrollar vocabulario de nombre de objetos y frases comunes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.5)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Mantiene la atención a las tareas elegidas por él o a las tareas de rutina hasta terminarlas </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.I.B.3.a, MB);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>permanece concentrado en actividades de grupo por hasta 20 minutos por vez.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.B.3.b, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra curiosidad al hacer preguntas para aprender más.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la vida:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Describe los ciclos de vida de los organismos </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.VI.B.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_2_texas>
+  <day_3_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escuchar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra que comprende y responde adecuadamente </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.II.A.1);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>muestra comprensión al seguir instrucciones orales de dos pasos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.A.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra saber las reglas de conversación oral </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.II.B.4);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>investiga y demuestra una comprensión creciente de los sonidos y de la entonación del lenguaje.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.C.3)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Estructura de la oración:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa oraciones con más de una frase.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.E.3)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra que comprende los términos usados en el lenguaje de la instrucción del salón de clases.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra curiosidad al hacer preguntas para aprender </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB);</tg_skills-focus-skill-code>
+          <tg_skills-focus-skill-text> hace preguntas y responde.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la vida:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observa, investiga, describe y discute la relación de organismos con sus investigaciones.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.B.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_3_texas>
+  <day_4_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escuchar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Muestra comprensión al seguir instrucciones orales de dos pasos y usualmente sigue instrucciones de tres pasos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.A.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Estructura de la oración:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa oraciones con más de una frase.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.E.3)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra que comprende los términos usados en el lenguaje de la instrucción del salón de clases.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Mantiene la atención a las tareas elegidas por él o a las tareas de rutina (dirigidas por el maestro) hasta terminarlas </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.I.B.3.a, MB);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>permanece concentrado en actividades de grupo por hasta 20 minutos por vez.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.B.3.b, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra curiosidad al hacer preguntas de “por qué” para aprender más </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB);</tg_skills-focus-skill-code>
+          <tg_skills-focus-skill-text> hace preguntas y responde para aprender o compartir información.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la vida:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Describe los ciclos de vida de los organismos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.B.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_4_texas>
+  <day_5_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escuchar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra que comprende y responde adecuadamente.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.A.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversación:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa una gran variedad de palabras para nombrar y describir personas, lugares, cosas y acciones.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Alfabetización</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación hacia la lectura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Elige libros por sí solo u otros materiales escritos antes de leer.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.A.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Función ejecutiva:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Mantiene la atención a las tareas elegidas por él o a las tareas de rutina hasta terminarlas </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.I.B.3.a, MB);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>permanece concentrado en actividades de grupo por hasta 20 minutos por vez.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.B.3.b, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Hace preguntas y responde.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la vida:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observa, investiga, describe y discute la relación de organismos con sus investigaciones.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.B.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_5_texas>
+</teaching-guide>

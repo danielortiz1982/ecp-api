@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./preview-styles.css" type="text/css"?>
+<teaching-guide xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" lang="es">
+  <day_1>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 1:</tg_week_hed>
+        <tg_topic_hed>Mi cuerpo</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338623055_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Superlibro: <tg_materials-caption_book-title-Ital>Felices en nuestra piel</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC%20Redux%20T5_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC%20Redux%20Spa%20T5_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjeta de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> conocimiento del abecedario; comprensión de la lectura en voz alta</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> escuchar; estructura de la oración</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Introduzca las letras <tg_bullet-directions_emphasis_Ital>Bb</tg_bullet-directions_emphasis_Ital>, <tg_bullet-directions_emphasis_Ital>Dd</tg_bullet-directions_emphasis_Ital>, <tg_bullet-directions_emphasis_Ital>Jj</tg_bullet-directions_emphasis_Ital> y <tg_bullet-directions_emphasis_Ital>Cc</tg_bullet-directions_emphasis_Ital>; motive a los niños con una canción e introduzca el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>espléndida</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, pregunte: <tg_bullet-directions_guiding-question>¿Qué hace nuestra piel?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Lea por placer y para comprender.</tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión y diferencie según sea necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa información para describir.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conocimiento del abecedario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Enuncia al menos 20 correspondencias entre letra y sonido.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conciencia fonológica:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Crea rimas con palabras.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escuchar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Pone atención mientras escucha.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Estructura de la oración:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la concordancia entre sujeto y verbo; prueba utilizar nuevas palabras y gramática.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica las conexiones y diferencias entre sentimientos y comportamiento.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Letras y sonidos</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lit_T5_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjeta de actividad</tg_materials-caption>
+        <graphic href="AlphabetCards_Spa_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjetas del abecedario</tg_materials-caption>
+        <graphic href="EC_stock_MagneticLetters_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Letras magnéticas</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Cubos conectores</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> conocimiento del abecedario</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> escuchar</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Ayude a los niños a reconocer y producir palabras con los sonidos iniciales <tg_bullet-directions_emphasis_Ital>Bb</tg_bullet-directions_emphasis_Ital>, <tg_bullet-directions_emphasis_Ital>Dd</tg_bullet-directions_emphasis_Ital>, <tg_bullet-directions_emphasis_Ital>Jj</tg_bullet-directions_emphasis_Ital> y <tg_bullet-directions_emphasis_Ital>Cc</tg_bullet-directions_emphasis_Ital>.</tg_bullet-directions>
+        <tg_bullet-directions>Ayude a los niños a identificar las letras y decir los sonidos.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cuáles son las partes de nuestro cuerpo? ¿Qué es lo que hacen?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Ves en tu libro a alguien que está feliz en su piel?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓNY APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¡Actúa como un bebé! ¿Puedes mostrar que no estás contento? ¿Cómo mostrarías que estás contento?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué usarías para medir tu brazo?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escribe sobre algo que te gustaba hacer cuando eras un bebé.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Dibuja unos bebés felices.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Usa crayones o marcadores para escribir las letras <tg_teacher-talk_emphasis_non-ital>Bb</tg_teacher-talk_emphasis_non-ital>, <tg_teacher-talk_emphasis_non-ital>DD</tg_teacher-talk_emphasis_non-ital>, <tg_teacher-talk_emphasis_non-ital>Jj </tg_teacher-talk_emphasis_non-ital>y <tg_teacher-talk_emphasis_non-ital>Cc.</tg_teacher-talk_emphasis_non-ital></tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué puedes construir para que un bebé juegue dentro?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &#38; © Scholastic Inc. All rights reserved. Felices en nuestra piel by Fran Manushkin, illustrated by Lauren Tobia. Text copyright © 2015 by Fran Manushkin. Illustrations copyright © 2015 by Lauren Tobia. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Candlewick Press. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &#38; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_1>
+  <day_2>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 1:</tg_week_hed>
+        <tg_topic_hed>Mi cuerpo</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338623055_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Superlibro: <tg_materials-caption_book-title-Ital>Felices en nuestra piel</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC%20Redux%20T5_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC%20Redux%20Spa%20T5_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjeta de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> comprensión de la lectura en voz alta; conocimiento del abecedario</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo emocional</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Comparta el Mind Builder <tg_bullet-directions_bold-italic>entender sentimientos y acciones</tg_bullet-directions_bold-italic> e introduzca el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>originales</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, asocie el Mind Builder con <tg_bullet-directions_book-title>Felices en nuestra piel</tg_bullet-directions_book-title>.</tg_bullet-directions>
+        <tg_bullet-directions>Lea con atención y observe cuándo los niños muestran sus sentimientos a través de sus acciones.</tg_bullet-directions>
+        <tg_bullet-directions>Dé la oportunidad de prolongar el juego.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa información para describir.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conocimiento del abecedario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Enuncia al menos 20 correspondencias entre letra y sonido.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica su propio cuerpo dentro de su entorno y respeta el espacio personal de los otros </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB);</tg_skills-focus-skill-code>
+          <tg_skills-focus-skill-text> identifica las conexiones y diferencias entre sentimientos y comportamiento.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Arte:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa diferentes materiales de arte para la exploración y la experiencia sensorial.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>¡Estamos felices!</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lit_T5_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjeta de actividad</tg_materials-caption>
+        <graphic href="EC_stock_ArtSupplies_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Materiales de arte</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo emocional</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Estudios sociales:</tg_learning-goals_inline-hed> personas, pasado y presente</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Bellas artes:</tg_learning-goals_inline-hed> arte</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Recuerde a los niños el Mind Builder.</tg_bullet-directions>
+        <tg_bullet-directions>Pida a cada niño que haga dos dibujos, uno en el que se muestre como un bebé feliz y otro en el que se muestre como un niño o niña de prekínder feliz.</tg_bullet-directions>
+        <tg_bullet-directions>Hablen de las diferencias.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cuáles son las partes de nuestro cuerpo? ¿Qué es lo que hacen?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Ves en este libro niños muy pequeños? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Representa cómo ayudarías a alguien que se cae en el patio de recreo.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes dibujar cinco caras felices? Escribe el número. Muestra el número con fichas.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escribe una nota para alguien a quién te gusta abrazar. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes dibujar a alguien a quien te guste abrazar?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Ves algo en el salón que comienza con la letra Dd? ¿Puedes escribir la palabra?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes mostrar un lugar en el que los niños puedan jugar felices?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &#38; © Scholastic Inc. All rights reserved. Felices en nuestra piel by Fran Manushkin, illustrated by Lauren Tobia. Text copyright © 2015 by Fran Manushkin. Illustrations copyright © 2015 by Lauren Tobia. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Candlewick Press. Clifford the Big Red DogTM illustration copyright © The Norman Bridwell Trust. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &#38; © Scholastic Inc. All rights reserved. Photo © Aleksey Sagitov/Shutterstock.</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_2>
+  <day_3>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 1:</tg_week_hed>
+        <tg_topic_hed>Mi cuerpo </tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338623055_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Superlibro: <tg_materials-caption_book-title-Ital>Felices en nuestra piel</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="EC_RAC_Lang_4_4_redux_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC%20Redux%20Spa%20T5_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> comprensión de la lectura en voz alta</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Estudios sociales:</tg_learning-goals_inline-hed> personas, pasado y presente</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> ciencias de la vida</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Desallorre conocimientos de estudios sociales, jueguen al juego de Veo, veo e introduzca el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>excelente</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>inteligente</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, repase <tg_bullet-directions_book-title>Felices en nuestra piel</tg_bullet-directions_book-title> y haga la pregunta guía: <tg_bullet-directions_guiding-question>¿Qué tiene de especial nuestra piel?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Lea de manera interactiva para comprender mejor.</tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión y diferencie según sea necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa información para comparar y contrastar.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Contribuye con ideas y participa en escritura grupal.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica las conexiones y diferencias entre sentimientos y comportamiento.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Estudios sociales</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Personas, pasado y presente:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica características únicas de sí mismo, sus compañeros y niños de otras culturas.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la vida:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica, investiga, habla y describe las partes de diferentes plantas y animales.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Iguales y diferentes</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lit_T5_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjeta de actividad</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Cubos conectores</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> estructura de la oración</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Estudios sociales:</tg_learning-goals_inline-hed> personas, pasado y presente</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Anime a los niños a usar cubos conectores para hacer algo “inteligente”.</tg_bullet-directions>
+        <tg_bullet-directions>Comenten qué hace que dos o más cosas sean parecidas <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>mismo color</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>mismo patrón</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>misma forma</tg_bullet-directions_vocab>)</tg_bullet-directions_bold> o diferentes <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>diferente color</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>diferente patrón</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>diferente forma</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cuáles son las partes de nuestro cuerpo? ¿Qué es lo que hacen?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Hay algún niño en el libro que te recuerde a alguien que conoces?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Representa qué sientes cuando alguien te hace cosquillas.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Cuando nos hacemos un corte o un rasguño, ¿qué hace la piel?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCON DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes escribir una palabra que rime con dedos?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Haz un dibujo de tu cara. ¿De qué color son tus ojos?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes escribir o dibujar animales que tengan un nombre que empiece con la letra B?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes hacer una b con bloques? ¿Cómo puedes cambiar la b para convertirla en una d?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &#38; © Scholastic Inc. All rights reserved. Felices en nuestra piel by Fran Manushkin, illustrated by Lauren Tobia. Text copyright © 2015 by Fran Manushkin. Illustrations copyright © 2015 by Lauren Tobia. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Candlewick Press. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &#38; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_3>
+  <day_4>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 1:</tg_week_hed>
+        <tg_topic_hed>Mi cuerpo</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="EC3-5_Flipchart_T5W1_HeadShouldersKneesAndToes_SPAN_Redux_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Papelógrafo de grandes ideas:<tg_materials-caption_book-title-Ital>Cabeza, hombros, rodillas y pies</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC%20Redux%20T5_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC%20Redux%20Spa%20T5_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> conocimiento del abecedario; conciencia fonológica</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> estructura de la oración</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> ciencias de la vida</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Hable sobre el sentido del tacto, escuche para identificar palabras que riman e introduzca el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>rodillas</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>hombros</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, asocie <tg_bullet-directions_book-title>Cabeza, hombros, rodillas y pies</tg_bullet-directions_book-title> y <tg_bullet-directions_book-title>Felices en nuestra piel</tg_bullet-directions_book-title>.</tg_bullet-directions>
+        <tg_bullet-directions>Lea con atención para relacionar con la pregunta conceptual de esta semana: <tg_bullet-directions_guiding-question>¿Cuáles son las partes de nuestro cuerpo? ¿Qué es lo que hacen?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Dé la oportunidad de prolongar el juego.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa información para describir.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conciencia fonológica:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Crea rimas con palabras.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Escribe con propósitos diferentes.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica su propio cuerpo dentro de su entorno y respeta el espacio personal de los otros.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Estructura de la oración:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la concordancia entre sujeto y verbo; prueba utilizar nuevas palabras y gramática.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escuchar:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Mantiene la atención mientras escucha.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la vida:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica, investiga, habla y describe las partes de diferentes plantas y animales.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Simón dice</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lit_T5_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjeta de actividad</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> escuchar</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Desarrollo físico:</tg_learning-goals_inline-hed> motricidad gruesa </tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Jueguen a Simón dice.</tg_bullet-directions>
+        <tg_bullet-directions>Pida a los niños que muevan partes del cuerpo siguiendo sus instrucciones mientras juegan a Simón dice.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cuáles son las partes de nuestro cuerpo? ¿Qué es lo que hacen?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿En qué parte del cuerpo están los ojos, las orejas, la boca y la nariz?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed> CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Con un amigo, representen que son ranas ¡y salten! ¿Quién salta más lejos? ¿Y quién más alto? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes contar los dedos de tus dos pies?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Piensa en cuando eras un bebé. Di las partes del cuerpo que usabas para ir de un sitio a otro.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Traza el contorno de tu mano. Compara tu mano con la de tu amigo. ¿Cuál es más grande?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes decir cosas que puedes hacer con el cuerpo que empicen con B, D, C o J (ej.: bailar, dormir, correr, jugar)?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes hacer algo que se doble como tu rodilla? ¿Qué usaste para hacerlo?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &#38; © Scholastic Inc. All rights reserved. Felices en nuestra piel by Fran Manushkin, illustrated by Lauren Tobia. Text copyright © 2015 by Fran Manushkin. Illustrations copyright © 2015 by Lauren Tobia. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Candlewick Press. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &#38; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_4>
+  <day_5>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 1:</tg_week_hed>
+        <tg_topic_hed>Mi cuerpo</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338623055_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Superlibro: <tg_materials-caption_book-title-Ital>Felices en nuestra piel</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC%20Redux%20T5_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC%20Redux%20Spa%20T5_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> comprensión de la lectura en voz alta</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo emocional</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Anime a los niños a participar de manera activa e introduzca el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>excelente</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>originales</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Al comenzar, pregunte: <tg_bullet-directions_guiding-question>¿Cómo podemos movernos dentro de nuestra piel?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Lea y vuelva a narrar de manera interactiva para que los niños participen.</tg_bullet-directions>
+        <tg_bullet-directions>Compruebe la comprensión, diferenciando según sea necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Lectoescritura</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comparte y repite los detalles de un texto.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Escribe con propósitos diferentes.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica las conexiones y diferencias entre sentimientos y comportamiento </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+          <tg_skills-focus-skill-text>.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Estudios sociales</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Personas, pasado y presente:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica características únicas de sí mismo, sus compañeros y niños de otras culturas.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la vida:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica, investiga, habla y describe las partes de diferentes plantas y animales.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Expresión dramática:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Actúa para recrear y volver a contar historias, estados de ánimo o experiencias</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Escritura independiente</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC3-5_ResponsePrompt_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Hoja de respuesta</tg_materials-caption>
+        <graphic href="EC_stock_WritingTools_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Materiales de escritura</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> escritura</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed> ciencias de la vida</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Apoye a los niños mientras responden de manera independiente la pregunta de esta semana: <tg_bullet-directions_guiding-question>¿Para qué sirve nuestra piel?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Guarde los escritos de los niños para mostrarlos la próxima semana.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cuáles son las partes de nuestro cuerpo? ¿Qué es lo que hacen?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHAR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué no deja salir tu piel? ¿Qué no deja entrar?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes hacer un baile usando todas las partes de tu cuerpo?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes marcar en un papel la huella de tu dedo índice? ¿Sabías que tus huellas digitales son originales y únicas?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escribe sobre algo excelente que puedas hacer con tu cuerpo.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Imagina algo que sea muy suave al tacto. ¿Puedes hacer un dibujo de eso?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escribe las letras mayúsculas B, D, J y K. Ahora escribe esas letras en minúscula.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>En las páginas 22 y 23, todos están en la fiesta de la cuadra. ¡Imaginen que hay una fiesta de la cuadra en el salón de clases! ¿Puedes trabajar con tus compañeros para construir juntos algo para la fiesta?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &#38; © Scholastic Inc. All rights reserved. Felices en nuestra piel by Fran Manushkin, illustrated by Lauren Tobia. Text copyright © 2015 by Fran Manushkin. Illustrations copyright © 2015 by Lauren Tobia. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Candlewick Press. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &#38; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_5>
+  <day_1_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Alfabetización</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la información aprendida de los libros describiendo, relacionando, categorizando o comparando y contrastando.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conocimiento del abecedario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Produce 20 correspondencias de sonidos de letras distintos en el idioma de instrucción.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.C.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Estructura de la oración:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa plurales, pasados regulares, pronombres personales y posesivos y concordancia sujeto-verbo </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.II.E.2);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>intenta usar el vocabulario y la gramática nueva en el habla.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.E.8)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_1_texas>
+  <day_2_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Alfabetización</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la información aprendida de los libros describiendo, relacionando, categorizando o comparando y contrastando.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conocimiento del abecedario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Produce 20 correspondencias de sonidos de letras distintos en el idioma de instrucción.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.C.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Empieza a entender la diferencia y la conexión entre las emociones/sentimientos y comportamientos </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.I.B.2.a, MB);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>es consciente de dónde está su cuerpo en el espacio y respeta los límites personales de otros.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.A.1, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Arte:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa una variedad de materiales de arte y actividades para la experiencia sensorial y la exploración.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VIII.A.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_2_texas>
+  <day_3_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Alfabetización</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la información aprendida de los libros describiendo, relacionando, categorizando o comparando y contrastando.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Discute y aporta ideas para los “borradores” compuestos en actividades de escritura de grupo.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IV.B.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Estudios sociales</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Personas, pasado y presente:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica semejanzas y diferencias entre él, sus compañeros de clase y otros niños incluso de características específicas e influencias culturales.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VII.A.1)</tg_skills-focus-skill-code></tg_skills-focus_body><tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la vida:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observa, investiga, describe y discute las características de los organismos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.B.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_3_texas>
+  <day_4_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Alfabetización</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la información aprendida de los libros describiendo, relacionando, categorizando o comparando y contrastando.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Escribe en forma independiente para comunicar sus ideas con varios fines.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IV.A.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Es consciente de dónde está su cuerpo en el espacio y respeta los límites personales de otros.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.A.1, MB);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>puede aumentar o disminuir la intensidad de las emociones de manera más coherente.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.B.2.c, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Estructura de la oración:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa plurales, pasados regulares, pronombres personales y posesivos y concordancia sujeto-verbo </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.II.E.2);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>intenta usar el vocabulario y la gramática nueva en el habla.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.E.8)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencia</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la vida:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observa, investiga, describe y discute las características de los organismos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.B.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_4_texas>
+  <day_5_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Alfabetización</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de la lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Vuelve a contar o representa un cuento.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Escribe en forma independiente para comunicar sus ideas con varios fines.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IV.A.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Empieza a entender la diferencia y la conexión entre las emociones/sentimientos y comportamientos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.B.2.a, MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Estudios sociales</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Personas, pasado y presente:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica semejanzas y diferencias entre él, sus compañeros de clase y otros niños incluso de características específicas e influencias culturales.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VII.A.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Ciencias de la vida:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observa, investiga, describe y discute las características de los organismos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.B.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Bellas artes</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Expresión dramática:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Crea o recrea historias, estados de ánimo o experiencias a través de las representaciones teatrales.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VIII.C.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_5_texas>
+</teaching-guide>

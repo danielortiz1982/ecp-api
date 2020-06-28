@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="en">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>NAME THAT LETTER</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Gather Materials  </ac_teacher-card_run-in_hed>Alphabet Cards, timer</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Today we read a story called <ac_teacher-speaking_emphasis_blue>The Very Impatient Caterpillar</ac_teacher-speaking_emphasis_blue>. There are a lot of different letters in that title. Today we’re going to try to match letters with their sounds.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking> I’m going to hold up different Alphabet Cards. You are going to work as a team and name the letters. Your team will have one minute to name the letters I hold up, and the sound for each one. Your team gets one point for each letter. Let’s see how many letters and sounds we can name! </ac_teacher-speaking>
+            </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Model/Teach  </ac_teacher-card_run-in_hed>Hold up the Z Alphabet Card to model naming the letter, and saying /z/. Think aloud that you need to hurry, since you’re being timed. Repeat with the X Alphabet Card.  </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask: </ac_teacher-card_run-in_hed> Set a timer and hold up the first card for the team. <ac_teacher-speaking>What letter is this? What sound does it make? </ac_teacher-speaking>Continue holding up letters until one minute is up. Count and record the number of letters described correctly. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat</ac_teacher-card_run-in_hed>  Repeat for another round. If you need more letters, start using letters that aren’t a part of the title.    </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Extend</ac_teacher-card_run-in_hed>  Ask children to think of a word that starts with each sound.    </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Sounds and Letters </ac_teacher-card_run-in_hed> Ask children how they feel about being able to name so many letters and sounds. Count how many letters children were able to identify. Remind them of how much they have changed since the school year began! <ac_teacher-talk-emphasis/>
+            </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>NAME THAT LETTER</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="2">
+          <ac_diff_support-challenge_heds>Support</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>For children who have difficulty with the activity, have children only say the name of the letter of each Alphabet Card or use a smaller amount of letters than the ones in the title. Take away the timer component and allow children enough time to name each letter. </ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="3">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>For children who are very familiar with letters and their sounds, play a version in which they must name words that begin with the letter on the card you hold up. Remind them they should think of the words as quickly as they can. </ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="2">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Multilingual learners may have difficulty with this activity due to the speed factor. After each round, return to the cards and allow multilingual children to identify each letter aloud and practice the sound it makes in English. Since most four-year-olds are not reading in their native language, this exercise can help them accelerate pre-reading skills in English. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Auditory Support</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>If children have auditory issues, allow them to sit closer to you and remind them to watch your mouth and lips as you pronounce the letter/sound on each card that you display. You may also invite children who are hard of hearing to draw the uppercase and lowercase alphabet, creating a connection between muscle memory and learning. </ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65578-0</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>FREEZE dance</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Gather Materials  </ac_teacher-card_run-in_hed>Find a way to play music.  </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Today we reread the narrative <ac_teacher-speaking_emphasis_blue>The Very Impatient Caterpillar.</ac_teacher-speaking_emphasis_blue> We talked about having patience and understanding what we can get better at.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>  We are going to play freeze dance! It is a good way for us to practice patience. When I stop the music, you freeze! When I play it, you dance!  </ac_teacher-speaking>
+            </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Model/Teach  </ac_teacher-card_run-in_hed>Model dancing and then freezing in place. <ac_teacher-speaking>This is what you do when the music stops.   </ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Set Up  </ac_teacher-card_run-in_hed>Have children stand up and spread out in the classroom. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Practice  </ac_teacher-card_run-in_hed>Play the music. Allow children time to dance by themselves a little bit to get used to the music and movement. Tell children they are in a practice round. Stop the music and tell children to stop dancing. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Start  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Now we are going to play a round of freeze dance!</ac_teacher-speaking> Start the music and allow children to dance. Then stop the music. Whoever is still moving must sit down. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat </ac_teacher-card_run-in_hed> Keep playing rounds of freeze dance until one winner emerges. Play again for a new winner. Understand that competition can be a sensitive issue for some children, so be ready to change the parameters as necessary.    </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Patience and Self-Awareness  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Imagine if you couldn’t move for 14 days, like the impatient caterpillar. How did playing freeze dance help you feel a little of how the impatient caterpillar feels?</ac_teacher-speaking> Talk about how part of growing up is understanding your feelings.  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>FREEZE dance</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="2">
+          <ac_diff_support-challenge_heds>Support</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Children may have a hard time when they are “out” of the game. Before starting, explain to children that there can only be one winner and share ideas for proper ways to react to that frustration. </ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="3">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Ask children to come up with other activities they could do to practice patience. Ask prompting questions, such as <ac_teacher-talk>What else can we play where we have to use patience? How will doing this activity help us practice patience? </ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="2">
+          <ac_mod_teacher-card_d_hed>Multilingual Support</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Review what the word <ac_teacher-talk>freeze</ac_teacher-talk> means with multilingual learners. Use the opportunity to learn the word in the multilingual learner’s first language that also means freeze or stop and try to use the word as you play.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Attention Support</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Self-awareness and self-regulation are often more difficult for children with impulsivity issues. To help them succeed in this game, you may wish to modify it, so children aren’t “frozen,” but rather performing another physical activity until the music begins again, such as clapping, or balancing on one foot. Keeping the body busy will help to focus a child’s mind on the main activity at hand. </ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65578-0</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>steps of metamorphosis </ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Today we reread <ac_teacher-speaking_emphasis_blue>The Very Impatient Caterpillar</ac_teacher-speaking_emphasis_blue> and learned about the life cycle of a caterpillar.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>  These pictures are out of order! Let’s put the steps of the impatient caterpillar’s metamorphosis in order. </ac_teacher-speaking>
+            </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Model/Teach  </ac_teacher-card_run-in_hed>Model putting the pictures in order by placing the picture of the caterpillar eating first. Say, <ac_teacher-speaking>I know that caterpillars eat a lot to get ready for their next step, so I think this goes first.  </ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>Next, model thinking aloud by asking: <ac_teacher-speaking>What was the impatient caterpillar doing at this point? Oh, right—he was asking his friend what everyone was doing. That made me think he didn’t know what metamorphosis was.   </ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask </ac_teacher-card_run-in_hed> Ask children the questions on the back of each card. Encourage children to give reasons from the text for their answers. Share the humor by laughing at the funny moments in the story and encouraging children to appreciate the humor.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat </ac_teacher-card_run-in_hed> Repeat for each card by asking children to choose the card that shows the next step in the caterpillar’s metamorphosis. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Extend</ac_teacher-card_run-in_hed>  Have children explain the sequence of the metamorphosis once the cards are in order. Encourage them to use complex sentences by offering words and phrases like <ac_teacher-talk>and then, because,</ac_teacher-talk> and <ac_teacher-talk>so. </ac_teacher-talk>   </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk about Humor  </ac_teacher-card_run-in_hed>Ask children to describe their favorite part in the book. Point out that the author uses humor to get the point across—like the idea that the caterpillar is still impatient at the end! </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>steps of metamorphosis</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="2">
+          <ac_diff_support-challenge_heds>Support</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Children may struggle to verbalize the steps in the metamorphosis. If that happens, offer sentence frames for children to use for each step, such as “After the caterpillar builds a chrysalis, the caterpillar . . .”</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="3">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Summarizing is a great strategy for better understanding a story. Challenge children to summarize what is happening in the book at each stage shown in the pictures. Encourage them to act out roles from the book as they summarize it. </ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="2">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>For multilingual learners, review academic words associated with the metamorphosis of a caterpillar to a butterfly, such as <ac_teacher-talk>caterpillar, chrysalis, metamorphosis, </ac_teacher-talk>and <ac_teacher-talk>butterfly</ac_teacher-talk>. Invite multilingual learners to share the words that mean “caterpillar” and “butterfly” in their first language. Use this time as an opportunity to expose children to learning words in a different language. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Attention Support</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Kinesthetic learners have an easier time focusing and retaining information if physical activities are involved. Allow these children to perform certain tasks: for example, when placing the cards in order, children can act out each stage of the caterpillar’s development as the changes are described.  </ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65578-0</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>what we learned </ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Gather Materials  </ac_teacher-card_run-in_hed>paper, paintbrushes, paint, water cups </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Today we talked about all the things you’ve learned so far this year! What are some of the things we’ve learned?  </ac_teacher-speaking>
+            </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking> Now is your chance to show off what you’ve learned! We’re going to draw and paint things we’ve learned throughout the year.</ac_teacher-speaking>
+            </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Model/Teach  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>I’m going to paint things I learned throughout the year. I think I’m going to paint a picture of the Earth because we learned about taking care of Earth. What will you paint? </ac_teacher-speaking>Allow children time to discuss what they’d like to paint and share how what they’re drawing relates to what they’ve learned this year.   </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Set Up </ac_teacher-card_run-in_hed> Provide paper, paint supplies, and cups of water to children. Have children think about what they’re going to draw. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Create  </ac_teacher-card_run-in_hed>Allow children to start painting things they learned about this year. If children have trouble thinking of an idea, provide prompts, such as <ac_teacher-speaking>What did we learn about healthy eating?</ac_teacher-speaking> or <ac_teacher-speaking>How do we take care of Earth?</ac_teacher-speaking>  </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat </ac_teacher-card_run-in_hed> Allow children to draw different things from different themes. Ask prompting questions like, <ac_teacher-speaking>Why did you choose to draw an animal? What did we discover about animals this year? </ac_teacher-speaking>     </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Self-Awareness  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>We have learned so much this year! We have a lot to be proud of! What are you the most proud of this year? What is your favorite thing that we learned about this year? Why is it your favorite?</ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>what we learned</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="2">
+          <ac_diff_support-challenge_heds>Support</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>If children struggle to remember what they learned, allow them some time to look through books from the previous weeks. Sit with them and help them recall important lessons that may have been new for them at the time.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="3">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Challenge children who have good recall about what they have learned by having them write a word or sentence describing how they have grown, and one thing they have learned. </ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="2">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Help multilingual learners recall academic terms they’ve learned this year. Review words such as <ac_teacher-talk>me, you, community, investigate, discover, animals, healthy, food, create, earth, recycle, together, try, </ac_teacher-talk>and <ac_teacher-talk>new</ac_teacher-talk>. Take time as needed to discuss the meanings of learned academic words with multilingual learners. All children will benefit from the review of specific academic terms. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Fine Motor Skills</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Encourage children to build their fine motor development by picking up their paintbrushes with their thumb and forefinger. See if they can paint with gentle and broad strokes on the paper while holding the paintbrush. Provide support as needed. </ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65578-0</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

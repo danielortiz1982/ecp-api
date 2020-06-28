@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./preview-styles.css" type="text/css"?>
+<teaching-guide xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" lang="en">
+  <day_1>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 4:</tg_week_hed>
+        <tg_topic_hed>Dream Big</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338295283_cover_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Big Book: <tg_materials-caption_book-title-Ital>Kindergarten Countdown!</tg_materials-caption_book-title-Ital></tg_materials-caption>
+        <graphic href="LGC%20Redux%20T8_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large Group Card </tg_materials-caption>
+        <graphic href="VC%20Redux%20Eng%20T8_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Vocabulary Card </tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Counting; Measurement</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Emotional Development</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Literacy:</tg_learning-goals_inline-hed> Phonological Awareness</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to build math background, engage children with song, and introduce vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>countdown</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Begin Story Time by asking, <tg_bullet-directions_guiding-question>What is the boy counting?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Read for enjoyment, with a focus on the counting sequence.</tg_bullet-directions>
+        <tg_bullet-directions>Check understanding. Differentiate as needed.</tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Counting:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Count aloud 1–10 items, with one-to-one correspondence; Count out a given number of objects from a group of up to 10 objects; Recognize and name numerals 0–9; Consistently use the counting sequence in order during different counting activities; Use numerals 0–5 to represent a group of counted objects.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Describe the passing of time.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Emotional Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Manage transitions, and adapt to change in activities or situations.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Literacy</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Phonological Awareness:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identify rhyming words.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Social Studies</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Citizenship:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Say the Pledge of Allegiance to the United States flag and the state flag, and observe a moment of silence.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Count It Down!</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T8_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Activity Card</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Connecting Cubes</tg_materials-caption>
+        <graphic href="NumberCards_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Number Cards</tg_materials-caption>
+        <graphic href="EC_stock_PatternBlocks_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Pattern Blocks</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Counting</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Emotional Development</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed> Conversation</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Have children count down as they remove manipulatives one at a time from a group.</tg_bullet-directions>
+        <tg_bullet-directions>Guide children to count the number of items shown on a Number Card.</tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>We’re ready. What’s next? </tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND LISTENING CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What book did you choose? Why did you choose that one?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND LEARN CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Use the dress-up clothes to make an outfit for the first day of kindergarten.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND SCIENCE CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you count these 10 blocks in order?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S CORNER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Write about your favorite day in preschool. What made it special?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY STATION</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What materials could you use to make the number 9? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Use your finger to trace the letter <tg_teacher-talk_emphasis_non-ital>C</tg_teacher-talk_emphasis_non-ital> for <tg_teacher-talk_emphasis_non-ital>countdown</tg_teacher-talk_emphasis_non-ital>.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What did you build? Why did you build that?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &#38; © Scholastic Inc. All rights reserved. Kindergarten Countdown! by Marjorie Blain Parker, illustrated by Sophie Burrows. Text copyright © 2017 by Marjorie Blain Parker. Illustrations copyright © 2017 by Sophie Burrows. Published by Scholastic Inc. by arrangement with Sterling Publishing Company.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &#38; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_1>
+  <day_2>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 4:</tg_week_hed>
+        <tg_topic_hed>Dream Big</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338295283_cover_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Big Book: <tg_materials-caption_book-title-Ital>Kindergarten Countdown!</tg_materials-caption_book-title-Ital></tg_materials-caption>
+        <graphic href="LGC%20Redux%20T8_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large Group Card </tg_materials-caption>
+        <graphic href="VC%20Redux%20Eng%20T8_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Vocabulary Cards</tg_materials-caption>
+        <graphic href="NumberCards_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Number Cards</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Counting; Measurement</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Emotional Development</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Fine Arts:</tg_learning-goals_inline-hed> Art</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to share the Mind Builder <tg_bullet-directions_guiding-question>manage change</tg_bullet-directions_guiding-question> and introduce vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>independent</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>change</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Begin Story Time by connecting the Mind Builder to <tg_bullet-directions_book-title>Kindergarten Countdown!</tg_bullet-directions_book-title></tg_bullet-directions>
+        <tg_bullet-directions>Read closely to notice how the characters adapt to change and to review counting.</tg_bullet-directions>
+        <tg_bullet-directions>Offer an extended play opportunity.</tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Counting:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Count aloud 1–10 items, with one-to-one correspondence; Consistently use the counting sequence in order during different counting activities; Count out a given number of objects from a group of up to 10 objects; Recognize and name numerals 0–9; Use numerals 0–5 to represent a group of counted objects.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Describe the passing of time.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Emotional Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Manage transitions and adapt to change in activities or situations.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Social Studies</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>People, Past and Present:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Recognize and understand how events, time, and routines relate to their lives.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Count and Switch</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T8_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Activity Card</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Connecting Cubes</tg_materials-caption>
+        <graphic href="NumberCards_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Number Cards</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Counting</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Emotional Development</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed> Conversation</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Have children count a certain number of Connecting Cubes from a group of 10.</tg_bullet-directions>
+        <tg_bullet-directions>Challenge children to transition from working with partners to working independently. </tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>We’re ready. What’s next? </tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND LISTENING CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you show me how to hold that book?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND LEARN CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you pretend that it is the first day of kindergarten?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND SCIENCE CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Find the number that shows how old you are.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S CORNER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What games do you hope to play in kindergarten? Write about them.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY STATION</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Make a name tag for your first day of kindergarten. Decorate it however you like.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Write your name on a name tag in big letters. How many letters are in your name?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Build a tower with 10 blocks. Can you count them backwards?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &#38; © Scholastic Inc. All rights reserved. Kindergarten Countdown! by Marjorie Blain Parker, illustrated by Sophie Burrows. Text copyright © 2017 by Marjorie Blain Parker. Illustrations copyright © 2017 by Sophie Burrows. Published by Scholastic Inc. by arrangement with Sterling Publishing Company. Clifford the Big Red DogTM illustration copyright © The Norman Bridwell Trust. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &#38; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_2>
+  <day_3>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 4:</tg_week_hed>
+        <tg_topic_hed>Dream Big</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338295283_cover_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Big Book: <tg_materials-caption_book-title-Ital>Kindergarten Countdown!</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC%20Redux%20T8_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large Group Card </tg_materials-caption>
+        <graphic href="VC%20Redux%20Eng%20T8_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Vocabulary Cards </tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Measurement</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Emotional Development</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Social Studies:</tg_learning-goals_inline-hed> People, Past and Present</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to build math background, engage children with a game, and introduce vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>before</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>after</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Begin Story Time by revisiting <tg_bullet-directions_book-title>Kindergarten Countdown! </tg_bullet-directions_book-title>and asking, <tg_bullet-directions_guiding-question>What is one thing Tom does before starting kindergarten?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Read interactively for deeper comprehension, with a focus on measurement.</tg_bullet-directions>
+        <tg_bullet-directions>Check understanding. Differentiate as needed.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Describe the passing of time.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Emotional Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Manage transitions, and adapt to change in activities or situations.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Social Studies</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>People, Past and Present:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Recognize and understand how events, time, and routines relate to their lives.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>What’s Your Routine?</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T8_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Activity Cards</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Measurement</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Emotional Development</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Social Studies:</tg_learning-goals_inline-hed> People, Past and Present</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Have children tell whether an Activity Card depicts something they do before or after dinner.</tg_bullet-directions>
+        <tg_bullet-directions>Guide children to share and discuss their personal routines.</tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>We’re ready. What’s next? </tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND LISTENING CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>How do things change in this character’s life?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND LEARN CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Pretend you are walking into school on the first day of kndergarten! What do you see?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND SCIENCE CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Count to 10. What number did you count after eight?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S CORNER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>How do you think you will feel on your first day of kindergarten?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY STATION</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What are you making? What did you do before you started making that?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What sound do you hear at the beginning of the word <tg_teacher-talk_emphasis_non-ital>before</tg_teacher-talk_emphasis_non-ital>? Can you draw the letter that makes that sound?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Why do you need to put larger blocks down before you put smaller blocks when you make a tall tower?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &#38; © Scholastic Inc. All rights reserved. Kindergarten Countdown! by Marjorie Blain Parker, illustrated by Sophie Burrows. Text copyright © 2017 by Marjorie Blain Parker. Illustrations copyright © 2017 by Sophie Burrows. Published by Scholastic Inc. by arrangement with Sterling Publishing Company.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &#38; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_3>
+  <day_4>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 4:</tg_week_hed>
+        <tg_topic_hed>Dream Big</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="EC_FC_Eng_T8W4_redux_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Big Chart of Big Ideas: <tg_materials-caption_book-title-Ital>I want to…</tg_materials-caption_book-title-Ital></tg_materials-caption>
+        <graphic href="LGC%20Redux%20T8_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large Group Card </tg_materials-caption>
+        <graphic href="9781338295283_cover_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Big Book:<tg_materials-caption_book-title-Ital>Kindergarten Countdown!</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="VC%20Redux%20Eng%20T8_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Vocabulary Cards</tg_materials-caption>
+        <graphic href="NumberCards_cropped.png" index="5"/>
+        <tg_materials-caption index="5">Number Cards</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Counting; Measurement</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Emotional Development</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Literacy:</tg_learning-goals_inline-hed> Phonological Awareness</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to discuss what children want to be when they grow up, engage children with movement, and introduce vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>count</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>art</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Begin Story Time by connecting the texts <tg_bullet-directions_book-title>I want to…</tg_bullet-directions_book-title> and <tg_bullet-directions_book-title>Kindergarten Countdown!</tg_bullet-directions_book-title></tg_bullet-directions>
+        <tg_bullet-directions>Read closely to connect to this week’s concept question, <tg_bullet-directions_guiding-question>We’re ready. What’s next?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Offer an extended play opportunity.</tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option. </tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Counting:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Count aloud 1–10 items, with one-to-one correspondence; Consistently use the counting sequence in order during different counting activities; Count out a given number of objects from a group of up to 10 objects; Recognize and name numerals 0–9; Use numerals 0–5 to represent a group of counted objects.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Describe the passing of time.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Emotional Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Manage transitions, and adapt to change in activities or situations.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Literacy</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Phonological Awareness:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identify rhyming words.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Social Studies</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>People, Past and Present:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Recognize and understand how events, time, and routines relate to their lives.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Citizenship:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Vote as part of a group to make decisions.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Architects Count!</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T8_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Activity Cards</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Connecting Cubes</tg_materials-caption>
+        <graphic href="NumberCards_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Number Cards</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Counting; Measurement</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Emotional Development</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed> Conversation</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Show children a number and guide them to build a tower using that many Connecting Cubes.</tg_bullet-directions>
+        <tg_bullet-directions>Guide children to count the Connecting Cubes with one-to-one correspondence.</tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>We’re ready. What’s next? </tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND LISTENING CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What do you think this character will be when she grows up?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND LEARN CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Pretend to be a teacher! How many students do you have?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND SCIENCE CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Compare these two towers. Which one has more blocks?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S CORNER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What kind of job do you think would be the best for you?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY STATION</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Draw a bag to take to kindergarten. How will you decorate it?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Use your finger to trace the word <tg_teacher-talk_emphasis_non-ital>count</tg_teacher-talk_emphasis_non-ital>.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Build a house using blocks. How many blocks did you use? How could you add more?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &#38; © Scholastic Inc. All rights reserved. Kindergarten Countdown! by Marjorie Blain Parker, illustrated by Sophie Burrows. Text copyright © 2017 by Marjorie Blain Parker. Illustrations copyright © 2017 by Sophie Burrows. Published by Scholastic Inc. by arrangement with Sterling Publishing Company.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &#38; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_4>
+  <day_5>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 4:</tg_week_hed>
+        <tg_topic_hed>Dream Big</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338295283_cover_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Big Book: <tg_materials-caption_book-title-Ital>Kindergarten Countdown!</tg_materials-caption_book-title-Ital></tg_materials-caption>
+        <graphic href="LGC%20Redux%20T8_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large Group Card </tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Counting; Measurement</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Emotional Development</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed> Conversation</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Social Studies:</tg_learning-goals_inline-hed> Citizenship</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to vote on a last activity and engage children in celebratory dance.</tg_bullet-directions>
+        <tg_bullet-directions>Start Story Time revisiting the book <tg_bullet-directions_book-title>Kindergarten Countdown!</tg_bullet-directions_book-title> and asking,<tg_bullet-directions_guiding-question> What will you do to get ready for kindergarten?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Read and retell interactively for physical engagement and imagination, with a focus on measurement.</tg_bullet-directions>
+        <tg_bullet-directions>Check understanding. Differentiate as needed.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Counting:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Count aloud 1–10 items, with one-to-one correspondence; Consistently use the counting sequence in order during different counting activities; Recognize and name numerals 0–9.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Describe the passing of time.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Emotional Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Manage transitions, and adapt to change in activities or situations.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversation:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Understand that people use different languages to communicate and express simple greetings and phrases in a language other than their own.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Social Studies</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>People, Past and Present:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Recognize and understand how events, time, and routines relate to their lives.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Citizenship:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Vote as part of a group to make decisions; Say the Pledge of Allegiance to the United States flag and the state flag, and observe a moment of silence.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Independent Writing, Drawing, or Storytelling</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC3-5_ResponsePrompt_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Response Prompt</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Counting; Measurement</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Emotional Development</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Social Studies:</tg_learning-goals_inline-hed> People, Past and Present</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Support children as they independently respond to this week’s prompt: <tg_bullet-directions_guiding-question>Write a story about a child’s first day at kindergarten.</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>We’re ready. What’s next? </tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND LISTENING CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Imagine that this story continued. What would happen next?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND LEARN CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Pretend you are on the kindergarten playground. What will you do?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND SCIENCE CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Count your toes forward and backward. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S CORNER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Imagine you are writing to a child who will be in preschool next year. What will you say?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY STATION</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Use any materials to make something special to remind you of preschool.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Use magnetic letters to make the word <tg_teacher-talk_emphasis_non-ital>PLAY.</tg_teacher-talk_emphasis_non-ital></tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Use blocks to make a school. Where is the kindergarten classroom?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &#38; © Scholastic Inc. All rights reserved. Kindergarten Countdown! by Marjorie Blain Parker, illustrated by Sophie Burrows. Text copyright © 2017 by Marjorie Blain Parker. Illustrations copyright © 2017 by Sophie Burrows. Published by Scholastic Inc. by arrangement with Sterling Publishing Company.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &#38; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_5>
+  <day_1_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Counting:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Count 1–10 items, with one count per item.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.3);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Demonstrate that the order of the counting sequence is always the same, regardless of what is counted.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.4);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Recognize one-digit numerals, 0–9.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.9)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Describe the passing of time.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.D.4)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Emotional Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Manage transitions and adapt to change in activities or situations.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Literacy</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Phonological Awareness:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Recognize rhyming words.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.B.6)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Social Studies</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Citizenship:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Recite the Pledge of Allegiance to the United States flag and the state flag and observe a moment of silence.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VII.D.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_1_texas>
+  <day_2_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Counting:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Count 1–10 items, with one count per item.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.3);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Demonstrate that the order of the counting sequence is always the same, regardless of what is counted.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.4);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Recognize one-digit numerals, 0–9.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.9)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Describe the passing of time.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.D.4)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Emotional Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Manage transitions, and adapt to change in activities or situations.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body><tg_skills-focus_domain_hed>Social Studies</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>People, Past and Present:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Connect their lives to events, times, and routines.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VII.A.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_2_texas>
+  <day_3_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Describe the passing of time.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.D.4)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Emotional Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Manage transitions and adapt to change in activities or situations.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Social Studies</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>People, Past and Present:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Connect their lives to events, times, and routines.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VII.A.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_3_texas>
+  <day_4_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Counting:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Count 1–10 items, with one count per item.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.3);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Demonstrate that the order of the counting sequence is always the same, regardless of what is counted.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.4);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Recognize one-digit numerals, 0–9.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.9)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Describe the passing of time.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.D.4)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Emotional Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Manage transitions, and adapt to change in activities or situations.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Literacy</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Phonological Awareness:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Recognize rhyming words.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.B.6)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Social Studies</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>People, Past and Present:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Connect their lives to events, times, and routines.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VII.A.3)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Citizenship:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Engage in voting as a method for group decision-making.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VII.D.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_4_texas>
+  <day_5_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Counting:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Count 1–10 items, with one count per item.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.3);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Demonstrate that the order of the counting sequence is always the same, regardless of what is counted.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.4);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Recognize one-digit numerals, 0–9.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.9)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Describe the passing of time.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.D.4)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Emotional Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Manage transitions, and adapt to change in activities or situations.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversation:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use language for different purposes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.B.1)</tg_skills-focus-skill-code></tg_skills-focus_body><tg_skills-focus_domain_hed>Social Studies</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>People, Past and Present:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Connect their lives to events, times, and routines.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VII.A.3)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Citizenship:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Engage in voting as a method for group decision-making.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VII.D.3);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Recite the Pledge of Allegiance to the United States flag and the state flag.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VII.D.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_5_texas>
+</teaching-guide>

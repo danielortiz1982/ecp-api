@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="es">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>TODO SOBRE MÍ</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales </ac_teacher-card_run-in_hed>Necesitará papel para dibujar y crayones o marcadores.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed> <ac_teacher-speaking>Hoy leímos el cuento <ac_teacher-speaking_emphasis_blue>Alma y cómo obtuvo su nombre</ac_teacher-speaking_emphasis_blue>. En el cuento, el padre de Alma le muestra fotografías de su familia y le cuenta historias sobre ella. Alma aprende sobre lo que a cada uno le gustaba hacer o por lo que son conocidos.</ac_teacher-speaking> Explique a los niños lo que significa ser conocido por algo.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>En esta actividad, harán un dibujo de ustedes mismos. Se dibujarán haciendo algo que les gusta o algo por lo que les gustaría ser conocidos.</ac_teacher-speaking>    </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Apoyar </ac_teacher-card_run-in_hed>Reparta materiales de dibujo a cada niño. Dígales que piensen en lo que mostrarán en sus dibujos. Comparta algunas ideas. Por ejemplo, pueden dibujarse con una mascota o un juguete favorito. También pueden dibujarse como un astronauta en el espacio, un médico o un jugador de baloncesto. Invite a los niños a que compartan sus propias ideas de lo que podrían dibujar.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Dibujar</ac_teacher-card_run-in_hed> Permita que los niños tengan tiempo para completar sus dibujos. Dígales que escriban sus nombres en sus trabajos, brindándoles ayuda cuando sea necesario.   </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Compartir </ac_teacher-card_run-in_hed>Invite a los niños a mostrar sus dibujos y a contar una historia sobre lo que dibujaron.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Crear un libro </ac_teacher-card_run-in_hed>Haga un libro con los dibujos de los niños. Déjelo en la biblioteca de su salón de clases para que puedan hojearlo durante el tiempo libre.   </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>TODO SOBRE MÍ</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Para los niños que necesitan un poco más de ayuda, hable con ellos de manera individual. Por ejemplo, pregunte: <ac_teacher-talk>¿Qué es lo que más te gusta hacer? ¿Cómo puedes mostrar eso en tu dibujo?</ac_teacher-talk> Diga: <ac_teacher-talk>¿Qué cosa es especial en ti? ¿Cómo puedes mostrar eso en tu dibujo?</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Invite a los niños a que le dicten una oración que cuente lo que dibujaron. Pídales que le sugieran etiquetas para las personas y/o los objetos de sus dibujos.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Una vez que los niños hayan terminado de dibujar, invítelos a señalar y nombrar los objetos, personas o colores de sus dibujos. Luego, pídales que los digan en español y que repitan las palabras después de usted.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Estimulación sensorial</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>A medida que los niños cuenten las historias de sus dibujos, comente los detalles sensoriales o haga preguntas que evoquen respuestas sobre ellos. Por ejemplo, diga: <ac_teacher-speaking>Tu gato parece muy suave. ¿Qué sientes cuando lo abrazas? ¿Tu gato alguna vez hace sonidos?¿Qué tipo de sonidos hace?</ac_teacher-speaking>
+          </ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64372-5</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>RElaciones</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Hoy leímos el cuento <ac_teacher-speaking_emphasis_blue>Alma y cómo obtuvo su nombre</ac_teacher-speaking_emphasis_blue>, y hablamos de cómo construir relaciones. El padre de Alma la ayudó al contarle de las personas que tuvieron cada uno de sus nombres. La ayudó al contarle las historias de los miembros de su familia.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el Mind Builder</ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking> Cuando construimos relaciones, hacemos y mantenemos amistades y nos acercamos más a nuestra familiay amigos.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar el juego</ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking> En este juego veremos fotografías de personas. Decidiremos, según lo que muestra la fotografía, si las personas tienen una buena o una mala relación.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Enseñar señales de mano</ac_teacher-card_run-in_hed> Cuando muestre cada tarjeta, pida a los niños que pongan el pulgar hacia arriba si creen que la fotografía muestra una buena relación, o hacia abajo si es una mala relación.  </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar </ac_teacher-card_run-in_hed>Muestre una fotografía y haga la pregunta del reverso de la tarjeta, ofreciendo, según sea necesario, estímulo adicional o apoyo. Repase las tarjetas una a la vez y pida a los niños que identifiquen qué tipo de relación observan en la fotografía.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Clasificar</ac_teacher-card_run-in_hed> Entregue las tarjetas de ilustraciones a los niños para que las coloquen en una de las dos pilas: Buena relación o Mala relación.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed> Continúe la actividad usando las siguientes tarjetas de ilustraciones.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar de relaciones </ac_teacher-card_run-in_hed>Pregunte: <ac_teacher-speaking>Cuando miran la fotografía, ¿cómo se dan cuenta si una relación es buena o mala? ¿Qué observan en las personas que tienen una buena relación?</ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>RELAciones</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Invite a los niños a hablar sobre maneras de tener buenas relaciones con familiares o amigos. Trabaje con ellos para desarrollar una lista de características que los ayuden a establecer buenas relaciones, como ser amables, serviciales y buenos oyentes.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Explique a los niños que cada fotografía muestra el momento en que se tomó. Pregunte: <ac_teacher-talk>¿Qué creen que sucede antes y después de que se tomó la fotografía?</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Puede haber diferencias culturales en lo que los niños consideran cualidades para tener buenas relaciones con la familia, amigos o conocidos. Sea sensible a tales diferencias y enfatice, durante la actividad, que no existe una sola forma correcta de establecer relaciones con los demás. Asegúrese de conversar sobre aspectos básicos como el respeto y la amabilidad, que deben estar presentes.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de las artes</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Enseñe a los niños la canción <ac_teacher-talk>Cuanto más juntos estemos</ac_teacher-talk> y cántenla juntos. Invente la letra, como “Cuanto más [jugamos, reímos, compartimos, ayudamos, hablamos, sonreímos] juntos, tanto más felices seremos”. Busque otras canciones infantiles sobre la amistad y pida a los niños que las escuchen. Hable de las cualidades para tener buenas relaciones que podrían agregar a su lista de la clase.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64372-5</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>REPRESENTAR</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Hoy leímos el cuento <ac_teacher-speaking_emphasis_blue>Alma y cómo obtuvo su nombre</ac_teacher-speaking_emphasis_blue>, y vimos que cada uno de los familiares de Alma tenía diferentes cosas que le gustaba hacer. A Sofia le gustaban los libros, a Esperanza le gustaba aprender sobre otros lugares, a José le gustaba el arte. Alma se sintió mejor con su largo nombre cuando se dio cuenta de que le gustaba lo mismo que a cada uno de los familiares que ella lleva en su nombre.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking> En esta actividad veremos imágenes de niños haciendo algo que les gusta. Elegiré una tarjeta y actuaremos lo que veamos en ella.</ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar </ac_teacher-card_run-in_hed>Muestre una imagen y haga la pregunta del reverso de la tarjeta; ofrezca apoyo. Repase las tarjetas, una a la vez, guiando a los alumnos para que representen la actividad que vean en ellas.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed> Continúe la actividad usando las siguientes tarjetas de ilustraciones. Una vez que la clase haya representado todas las acciones, pida a algunos niños que representen una de las acciones y a sus compañeros que adivinen qué están haciendo. </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar de nuestros intereses </ac_teacher-card_run-in_hed>Realice una encuesta, mediante preguntas, sobre los intereses de la clase. Por ejemplo, muestre una tarjeta y diga: <ac_teacher-speaking>Levanten la mano si quieren</ac_teacher-speaking> [comer helado]. Luego, haga preguntas de seguimiento para ampliar la conversación.   </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>REPRESENTAR</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Muestre las páginas de <ac_teacher-talk>Alma y cómo obtuvo su nombre</ac_teacher-talk>, que cuentan lo que les gustaba hacer a los familiares de Alma. Comenten las ilustraciones y anime a los niños a hablar de lo que les gusta o no les gusta hacer. Ayúdelos a decidir cómo representar una actividad.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pregunte: <ac_teacher-talk>¿Qué actividad pueden realizar con un compañero?</ac_teacher-talk> Invite a las parejas a conversar sobre qué podrían representar juntos. Dé tiempo a los niños para que planifiquen antes de representar una actividad para que la clase la adivine.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Muestre cómo representar una actividad que le guste y nómbrela. Por ejemplo, diga: <ac_teacher-speaking>Me gusta leer, Me gusta correr </ac_teacher-speaking>o <ac_teacher-speaking>Me gusta pintar.</ac_teacher-speaking> Luego, pida a los niños que repitan sus acciones y palabras.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Apoyo a la atención</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Los niños con dificultad para concentrarse mientras están sentados se beneficiarán al ponerse de pie y representar acciones con sus compañeros de clase. Anímelos a que pongan atención para imitar las acciones que ven.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64372-5</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>Es un cuadrado</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales </ac_teacher-card_run-in_hed>Necesitará una hoja de papel y crayones o marcadores para cada niño.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed> <ac_teacher-speaking>Hoy leímos el papelógrafo <ac_teacher-speaking_emphasis_blue>Me gusta...</ac_teacher-speaking_emphasis_blue> y aprendimos sobre las diferentes cosas que a los niños les gusta hacer.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar vocabulario</ac_teacher-card_run-in_hed> <ac_teacher-speaking>Aprendimos la palabra <ac_teacher-speaking_emphasis_blue>cuadrado</ac_teacher-speaking_emphasis_blue>. Repasemos esa palabra, ya que tiene algo que ver con lo que haremos hoy.</ac_teacher-speaking> Use la tarjeta de vocabulario <ac_teacher-talk>cuadrado</ac_teacher-talk> para repasar la palabra.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>En esta actividad dibujaremos cuadrados y, después, los usaremos como marcos de fotografías. Luego, dentro del cuadrado, dibujaremos lo que nos gusta hacer.</ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Pedir </ac_teacher-card_run-in_hed>Pida a los niños que dibujen un cuadrado en un trozo de papel. Dibuje un cuadrado en la pizarra para que los niños lo usen como modelo o ayúdelos con sus dibujos.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar</ac_teacher-card_run-in_hed> Ahora pida a los niños que observen el papelógrafo <ac_teacher-speaking>Me gusta…</ac_teacher-speaking> y que conversen sobre las cosas que les gusta hacer.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Dibujar</ac_teacher-card_run-in_hed> Pida a los niños que hagan dibujos, dentro de sus cuadrados, de una cosa que les gusta hacer. </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar </ac_teacher-card_run-in_hed>Invite a los niños a conversar sobre sus imágenes y a explicar lo que muestran sus dibujos. Anímelos a notar cualquier similitud con las cosas que les gusta hacer a sus compañeros de clase.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Crear un póster para la clase </ac_teacher-card_run-in_hed>Pida a los niños que lo ayuden a hacer un póster personalizado de <ac_teacher-speaking>Me gusta…</ac_teacher-speaking> para la clase, usando sus dibujos. Pídales que le dicten descripciones cortas para escribirlas como leyendas en sus dibujos.    </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>Es un cuadrado</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Anime a los niños a contar lo que están haciendo, mientras agregan detalles a sus dibujos dentro de los cuadrados. Hágales preguntas sobre lo que les gusta hacer; esto les dará ideas para sus marcos.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pregunte a los niños qué otras formas conocen. Pídales que dibujen una forma distinta en la parte posterior de la hoja y, dentro de esa forma, algo que les guste hacer. Pídales que le dicten una descripción para usarla como leyenda en sus dibujos.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Permita que los niños tengan tiempo para conversar entre ellos mientras trabajan en sus dibujos. Recuérdeles que deben turnarse para hablar, mientras una persona escucha con atención y la otra habla. Explíqueles que pueden usar su lengua materna cuando hablen con un compañero que comparta su idioma.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad gruesa</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Pida a los niños que hagan movimientos similares a los dibujos de lo que les gusta hacer. Dígales que practiquen representar las acciones que muestran sus dibujos y que compartan esos movimientos con la clase. Pida que todos se turnen para adivinar qué dibujó cada niño dentro del cuadrado, basándose en lo que ven.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64372-5</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="es">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>DIVERSIÓN CON LOSLIBROS DEl ABECEDARIO</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  tarjetas del abecedario, libros del abecedario<ac_teacher-talk> (Fíjate, ¿lo ves? El lindo león, Manchas y migas)</ac_teacher-talk></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos el cuento ¿<ac_teacher-speaking_emphasis_blue>Cómo se curan los dinosaurios?</ac_teacher-speaking_emphasis_blue> y hablamos de las letras Pp, Ll y Mm.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar las tarjetas del abecedario</ac_teacher-card_run-in_hed>  Use las tarjetas del abecedario para las letras <ac_teacher-talk>Pp</ac_teacher-talk>, <ac_teacher-talk>Ll</ac_teacher-talk> y <ac_teacher-talk>Mm</ac_teacher-talk>. Nombre y muestre cada letra mayúscula y minúscula. <ac_teacher-speaking>Esta es la letra Pp. La letra Pp hace el sonido /p/ que oyen al principio de la palabra perro. </ac_teacher-speaking>Repita con las otras letras.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy van a compartir libros del abecedario con sus compañero. Depués de compartir los libros con sus compañeros hablaremos de ellos todos juntos.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preparar</ac_teacher-card_run-in_hed>  Señale las letras en la cubierta del libro. Demuestre cómo decir las letras, por ejemplo Pp, hacer el sonido /p/ y buscar una imagen que muestre una palabra que comience con ese sonido, perro.</ac_teacher-card-body>
+            <ac_teacher-card-body>Forme parejas. Ayude a los niños a aislar el sonido y a buscar imágenes que comiencen con ese sonido. <ac_teacher-speaking>¿Qué letras hay en la cubierta del libro que eligieron? ¿Qué sonido hace esa letra? ¿Qué palabra ven en esta página que empieza con esta letra y ese sonido?</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hacer la actividad</ac_teacher-card_run-in_hed> Pida a las parejas que miren el libro y se muestren el uno al otro imágenes con el sonido de su letra.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Compartir</ac_teacher-card_run-in_hed>  Invite a las parejas a compartir sus libros con el grupo. </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Practicar las letras</ac_teacher-card_run-in_hed>  Diga a los niños que practiquen escribir las letras <ac_teacher-talk>Pp</ac_teacher-talk>, <ac_teacher-talk>Ll</ac_teacher-talk> y <ac_teacher-talk>Mm</ac_teacher-talk> y que, junto a cada una, hagan un dibujo de algo que les recuerde el sonido con que empiezan. </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>DIVERSIÓN CON LOSLIBROS DEl ABECEDARIO</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Haga un recorrido por las imágenes del libro antes de colocar a los niños en parejas. Ayude a los niños a señalar y nombrar cada imagen que comience con el sonido antes de trabajar con sus compañeros.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Invite a los niños a usar las imágenes y a contar qué ocurre en cada página.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Los alumnos multilingües pueden necesitar un tiempo extra para repasar el nombre y el sonido de cada letra antes de empezar. También puede ser una buena idea hacer un recorrido rápido por las imágenes del libro antes de que trabajen con los compañeros. Diga el nombre de la imagen que comienza con el sonido y pídales que lo repitan.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Apoyo para el déficit de atención</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Para ayudar a los niños que necesitan apoyo para enfocarse, asígneles una pareja que tenga más facilidad para mantener la concentración. También puede darles una letra magnética para que la usen para emparejarla con la letra en el libro.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65749-4</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>DINO DICE</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Prepare de antemano un títere de papel de un estegosaurio; mitades de platos de papel, triángulos de papel, recortes de papel, tijeras, pegamento, crayones, marcadores.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy volvimos a leer el cuento <ac_teacher-speaking_emphasis_blue>¿Cómo se curan los dinosaurios</ac_teacher-speaking_emphasis_blue>? Leímos sobre grandes dinosaurios y vimos cómo se movían en sus casas y en la oficina del médico.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el Mind Builder</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Practicamos movernos con cuidado en el espacio cuando nos desplazamos en una carrera de obstáculos.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En la actividad de hoy, haremos estegosaurios y los usaremos para recordar cómo movernos con cuidado cuando estamos cerca de otras personas.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preparar</ac_teacher-card_run-in_hed>  Muestre a los niños un títere de estegosaurio ya terminado. Señale cosas que pueden usar para hacer sus dinosaurios. Dé tiempo a los niños para terminar sus dinosaurios.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Invite a los niños a usar los títeres para responder a las preguntas usando “Dino dice”. <ac_teacher-speaking>¿Qué debemos decir cuando necesitamos que alguien se aparte de nuestro camino? ¿Qué debemos decir si tropezamos con alguien sin querer? ¿Qué debemos hacer con las manos durante la hora del círculo? ¿Y con los pies?</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre la actividad</ac_teacher-card_run-in_hed>  Pida a los niños que hablen sobre por qué es importante moverse con cuidado alrededor de otras personas u otras cosas. <ac_teacher-speaking>¿Cómo se sienten cuando alguien se mueve con cuidado alrededor de ustedes y respeta su espacio personal?</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card> DINO DICE</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Si los niños necesitan apoyo para responder a las preguntas, proporcione iniciadores de diálogo como “Disculpe. P<fill-in-the-blank>                       </fill-in-the-blank>,¿puede moverse? o “Con p<fill-in-the-blank>         </fill-in-the-blank>”. Repase frases comunes de cortesía, como <ac_teacher-talk>por favor, disculpe, permiso</ac_teacher-talk> y <ac_teacher-talk>gracias</ac_teacher-talk>.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida a los niños que creen una escena cómica con sus dinosaurios. Anímelos a pensar en situaciones como una habitación, un parque o un patio de juegos llenos de gente. Pídales que piensen también en soluciones como turnarse o permanecer en su especio personal.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Invite a los alumnos multilingües a representar cada escena usando gestos y expresiones faciales para mostrar sus sentimientos. Nombre la emoción que el niño expresa, dibuje una cara con esa emoción y etiquétela.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Apoyo para el déficit de atención</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Para los niños que puedan necesitar apoyo adicional para hacer los títeres de estegosaurio, propocione formas prehechas o invite a los niños a crear sus propios títeres originales de dinosaurios. Haga más énfasis en la parte de dramatización de la actividad y menos en hacer el títere.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65749-4</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card> LA HORA DE LAS RIMAS</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy volvimos a leer el cuento ¿Cómo se curan los dinosaurios? Ahora vamos a pensar en palabras que riman. Al leer el cuento, vimos distintos grupos de palabras que riman. ¡Estas palabras hacen que sea más divertido leer y escuchar el cuento!</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar palabras que riman</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Recuerden que las palabras que riman terminan con el mismo sonido.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En la actividad de hoy haremos tarjetas para desear a un dinosaurio enfermo que se cure pronto. En las tarjetas usaremos un par de palabras que rimen, pueden ser palabras del cuento o palabras que pensemos nosotros.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preparar</ac_teacher-card_run-in_hed>  Dé a cada niño un papel doblado a la mitad, como una tarjeta, y muchos crayones y marcadores.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Dibujar y escribir</ac_teacher-card_run-in_hed>  Pida a los niños que hagan un dibujo en el frente de la tarjeta. Luego pídales que escriban un par de palabras que rimen dentro de la tarjeta, o que se las dicten a usted. Pueden ser palabras del libro o palabras que se les ocurran a ellos. Por ejemplo: hora/doctora, nariz/feliz, toser/comer.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Cuando los niños terminen sus tarjetas, pídales que lean o digan en voz alta sus palabras con rima. </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre rimas y practicarlas</ac_teacher-card_run-in_hed>  Pida a los niños que digan cómo saben cuándo dos palabras riman. Luego pídales que se turnen para pensar otros pares de palabras con rima. Pueden usar palabras inventadas o sin sentido. </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card> LA HORA DE LAS RIMAS</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Regrese a la primera página del cuento en la que haya un par de palabras que rimen. Lea las palabras haciendo énfasis en la rima. Diga a los niños la primera palabra del par. Vuelva a leer las palabras y pídales que identifiquen la segunda palabra del par.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Estimule a los niños para que piensen en otras palabras que podrían encajar en el cuento y en la rima.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Para los alumnos multilingües, dé un ejemplo de palabras que riman y otro de palabras que no riman en el cuento. Luego, continúe repitiendo ejemplos a lo largo de la historia. Ayúdelos a entender que lo que rima es el sonido final de las palabras, no las letras.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Discriminación auditiva</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Para los niños que tienen dificultad en identificar patrones rítmicos, presente dos palabras del cuento en un papel grande o en la pizarra.  Pídales que escuchen mientras usted lee el par de palabras y va siguiendo las letras con el dedo. Pida a los niños que digan otras palabras que rimen. Pueden ser palabras inventadas o sin sentido.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65749-4</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>¡Nos lavamoslas manos!</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  jabón, toallas de papel</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos el papelógrafo <ac_teacher-speaking_emphasis_blue>Mantén limpias tus manos</ac_teacher-speaking_emphasis_blue> y aprendimos una canción para cantarla mientras nos lavamos las manos.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el vocabulario</ac_teacher-card_run-in_hed>  Use las tarjetas de vocabulario para repasar las palabras <ac_teacher-talk>frota</ac_teacher-talk> y <ac_teacher-talk>enjuaga</ac_teacher-talk>.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  ¡Hoy hablaremos acerca de los momentos del día en que nos lavamos las manos. Luego miraremos el papelógrafo y seguiremos las instrucciones para lavarnos las manos. Por último, pondremos en orden los pasos para lavarse las manos.</ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preparar</ac_teacher-card_run-in_hed>  Invite a los niños a nombrar escenarios específicos en los que deben lavarse las manos. Cada vez que un niño nombre un ejemplo, entréguele una toalla de papel como si fuera un “boleto”. Proporcione apoyo haciendo preguntas que les ayudarán a nombrar escenarios. Una vez que todos tengan un “boleto” repasen el papelógrafo y los pasos para lavarse las manos, uno por uno, mientras cantan La canción del abecedario.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¿Por qué es importante lavarse las manos? ¿Qué podría ocurrir si olvidamos uno de los pasos?</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe y repase cada uno de los pasos de lavarse las manos. </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Compartir los pasos</ac_teacher-card_run-in_hed>  Pida a los niños que digan todos juntos los pasos para lavarse las manos, diciendo el número de cada paso antes de describirlo. </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card> ¡Nos lavamoslas manos!</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Ponga el papelógrafo donde los niños puedan verlo. Mientras se lavan las manos, hable con ellos sobre cada paso. Diga el número de cada paso para que recuerden que hay cinco pasos. Recuérdeles que canten La canción del abecedario mientras se lavan.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Invite a los niños a hacer un dibujo para uno de los pasos del proceso de lavarse las manos. Pídales que añadan una o dos palabras que les ayuden a recordar el paso. Luego dígales que mezclen las tarjetas y que vuelvan a ponerlas en orden.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Para alumnos multilingües, repita los pasos para lavarse las manos varias veces. Luego pida a los niños que representen cada paso con usted y hablen sobre ellos. Coloque un cartel encima del lavabo de la clase con los pasos para lavarse las manos y con números para indicar los pasos.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina y gruesa</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Para los niños que puedan tener problemas para sujetar una barra de jabón, proporcione jabón líquido. Luego guíe sus manos suavemente para que las unan y ayúdelos a frotarlas. Recuerde a los niños que piensen en el Mind Builder de esta semana y respeten los límites personales de los otros poniendo agua y jabón solo en sus propias manos.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65749-4</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

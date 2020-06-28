@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity-cards lang="es">
+  <ac_card-1 day="1">
+    <ac_card-1_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T8W04D1_C1_01_156058922_cropped.png"/>
+    </ac_card-1_front>
+    <ac_card-1_back>
+      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>¡EN UNA AVENTURA! </ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_1" index="1">
+          <ac_ask-extend-hed>Pregunte </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué aventura muestra esta imagen?  </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_1" index="1">
+          <ac_support-challenge-hed>Apoye </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Esta familia está en una excursión por el  bos<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(bosque)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_1" index="1">
+          <ac_support-challenge-hed>Estimule </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Qué podrían ver en el bosque? </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_1" index="1">
+          <ac_ask-extend-hed>Amplíe </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Les gustaría aventurarse en el bosque? ¿Qué llevarían?  </ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66422-5</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved. © Oliveromg/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-1_back>
+  </ac_card-1>
+  <ac_card-2 day="1">
+    <ac_card-2_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T8W04D1_C2_01_1091546813_cropped.png"/>
+    </ac_card-2_front>
+    <ac_card-2_back>
+      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>¡EN UNA AVENTURA! </ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_2" index="1">
+          <ac_ask-extend-hed>Pregunte </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué aventura muestra esta imagen?  </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_2" index="1">
+          <ac_support-challenge-hed>Apoye </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Esta madre y su hijo están navegando por el o<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(océano)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_2" index="1">
+          <ac_support-challenge-hed>Estimule </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Qué podrían ver en el océano?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_2" index="1">
+          <ac_ask-extend-hed>Amplíe </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Les gustaría aventurarse en el océano? ¿Qué llevarían? </ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66422-5</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved. © FamVeld/Shutterstock. </ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-2_back>
+  </ac_card-2>
+  <ac_card-3 day="1">
+    <ac_card-3_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T8W04D1_C3_01_258034721_cropped.png"/>
+    </ac_card-3_front>
+    <ac_card-3_back>
+      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>¡EN UNA AVENTURA! </ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_3" index="1">
+          <ac_ask-extend-hed>Pregunte </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué aventura muestra esta imagen?  </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_3" index="1">
+          <ac_support-challenge-hed>Apoye </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Este padre y su hijo están escalando en las  mon<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(montañas)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_3" index="1">
+          <ac_support-challenge-hed>Estimule </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Qué podrían ver en la cima de una montaña? </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_3" index="1">
+          <ac_ask-extend-hed>Amplíe </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Les gustaría aventurarse en una montaña? ¿Qué creen que verían?  </ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66422-5</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved. © Wavebreakmedia/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-3_back>
+  </ac_card-3>
+  <ac_card-4 day="1">
+    <ac_card-4_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T8W04D1_C4_01_115589005_cropped.png"/>
+    </ac_card-4_front>
+    <ac_card-4_back>
+      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>¡EN UNA AVENTURA! </ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_4" index="1">
+          <ac_ask-extend-hed>Pregunte </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué aventura muestra esta imagen?  </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_4" index="1">
+          <ac_support-challenge-hed>Apoye </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Estas personas están buceando en el o<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(océano)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_4" index="1">
+          <ac_support-challenge-hed>Estimule </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Qué podrían ver en el océano?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_4" index="1">
+          <ac_ask-extend-hed>Amplíe </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Les gustaría aventurarse en el océano? ¿Qué necesitarían usar?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66422-5</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved. © BlueOrange Studio/Shutterstock. </ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-4_back>
+  </ac_card-4>
+  <ac_card-5 day="3">
+    <ac_card-5_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T8W04D3_C1_01_1246477360_cropped.png"/>
+    </ac_card-5_front>
+    <ac_card-5_back>
+      <masthead>
+        <section-block type="masthead_b_5" index="1">
+          <ac_header-game-card>EN LO SALVAJE </ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_5" index="1">
+          <ac_ask-extend-hed>Pregunte </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué animal es este?  ¿Este león es un animal salvaje? </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_5" index="1">
+          <ac_support-challenge-hed>Apoye </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Este es un le<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(león)</ac_teacher-talk-emphasis_non-ital>. Sí, este león es un animal sal<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(salvaje)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_5" index="1">
+          <ac_support-challenge-hed>Estimule </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Cómo se llama un bebé león?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_5" index="1">
+          <ac_ask-extend-hed>Amplíe </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Por qué deben tener cuidado con cualquier animal salvaje?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_5" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66422-5</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved. © Dagmara Ksandrova/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-5_back>
+  </ac_card-5>
+  <ac_card-6 day="3">
+    <ac_card-6_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T8W04D3_C2_01_758173828_cropped.png"/>
+    </ac_card-6_front>
+    <ac_card-6_back>
+      <masthead>
+        <section-block type="masthead_b_6" index="1">
+          <ac_header-game-card>EN LO SALVAJE </ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_6" index="1">
+          <ac_ask-extend-hed>Pregunte </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué animal es este?  ¿Este perro es un animal salvaje? </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_6" index="1">
+          <ac_support-challenge-hed>Apoye </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Este es un pe<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(perro)</ac_teacher-talk-emphasis_non-ital>. No, este perro no es un animal sal<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(salvaje)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_6" index="1">
+          <ac_support-challenge-hed>Estimule </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Los perros son mascotas. Las mascotas no son animales salvajes. ¿Qué otros son mascotas?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_6" index="1">
+          <ac_ask-extend-hed>Amplíe </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Tienen un perro? ¿En qué se parecen los perros? ¿En qué se diferencian?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_6" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66422-5</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved. © Birgit Reitz-Hofmann/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-6_back>
+  </ac_card-6>
+  <ac_card-7 day="3">
+    <ac_card-7_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T8W04D3_C3_01_15238774_cropped.png"/>
+    </ac_card-7_front>
+    <ac_card-7_back>
+      <masthead>
+        <section-block type="masthead_b_7" index="1">
+          <ac_header-game-card>EN LO SALVAJE </ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_7" index="1">
+          <ac_ask-extend-hed>Pregunte </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué animal es este?  ¿Esta vaca es un animal salvaje?  </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_7" index="1">
+          <ac_support-challenge-hed>Apoye </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Esta es una va<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(vaca)</ac_teacher-talk-emphasis_non-ital>. No, esta vaca no es un animal sal<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(salvaje)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_7" index="1">
+          <ac_support-challenge-hed>Estimule </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Por qué los granjeros tienen vacas? </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_7" index="1">
+          <ac_ask-extend-hed>Amplíe </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Las vacas viven en granjas ¿Qué otros animales viven en granjas?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_7" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66422-5</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved. © Bestweb/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-7_back>
+  </ac_card-7>
+  <ac_card-8 day="3">
+    <ac_card-8_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T8W04D3_C4_01_1456204088_cropped.png"/>
+    </ac_card-8_front>
+    <ac_card-8_back>
+      <masthead>
+        <section-block type="masthead_b_8" index="1">
+          <ac_header-game-card>EN LO SALVAJE </ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_8" index="1">
+          <ac_ask-extend-hed>Pregunte </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué animal es este?  ¿Esta jirafa es un animal salvaje? </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_8" index="1">
+          <ac_support-challenge-hed>Apoye </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Esta es una ji<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(jirafa)</ac_teacher-talk-emphasis_non-ital>.  Sí, esta jirafa es un animal sal<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(salvaje)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_8" index="1">
+          <ac_support-challenge-hed>Estimule </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Cómo creen que obtienen su comida las jirafas? </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_8" index="1">
+          <ac_ask-extend-hed>Amplíe </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Cómo le describirían una jirafa a alguien que nunca ha visto una? </ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_8" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66422-5</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved. © Miki Meller/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-8_back>
+  </ac_card-8>
+  <ac_card-9 day="3">
+    <ac_card-9_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T8W04D3_C5_01_71694337_cropped.png"/>
+    </ac_card-9_front>
+    <ac_card-9_back>
+      <masthead>
+        <section-block type="masthead_b_9" index="1">
+          <ac_header-game-card>EN LO SALVAJE </ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_9" index="1">
+          <ac_ask-extend-hed>Pregunte </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué animal es este?  ¿Este oso es un animal salvaje? </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_9" index="1">
+          <ac_support-challenge-hed>Apoye </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Este es un o<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(oso)</ac_teacher-talk-emphasis_non-ital>. Sí, este oso es un animal sal<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(salvaje)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_9" index="1">
+          <ac_support-challenge-hed>Estimule </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Este es un oso polar. Los osos polares son blancos. ¿Viven en lugares fríos o en cálidos?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_9" index="1">
+          <ac_ask-extend-hed>Amplíe </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Cómo es este oso? ¿De qué otros colores son los osos?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_9" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66422-5</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved. © Sergey Uryadnikov/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-9_back>
+  </ac_card-9>
+  <ac_card-10 day="3">
+    <ac_card-10_front>
+      <graphic href="EC3-5_AC_Eng_Lang_T8W04D3_C6_01_747743698_cropped.png"/>
+    </ac_card-10_front>
+    <ac_card-10_back>
+      <masthead>
+        <section-block type="masthead_b_10" index="1">
+          <ac_header-game-card>EN LO SALVAJE </ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_10" index="1">
+          <ac_ask-extend-hed>Pregunte </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué animal es este?  ¿Este gato es un animal salvaje?  </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_10" index="1">
+          <ac_support-challenge-hed>Apoye </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Este es un ga<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(gato)</ac_teacher-talk-emphasis_non-ital>. No, este gato no es un animal sal<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(salvaje)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_10" index="1">
+          <ac_support-challenge-hed>Estimule </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Cómo se llaman los gatos bebés?</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_10" index="1">
+          <ac_ask-extend-hed>Amplíe </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿De qué otros colores son los gatos?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_10" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66422-5</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved. © Evdoha_spb/Shuttersto.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-10_back>
+  </ac_card-10>
+</activity-cards>

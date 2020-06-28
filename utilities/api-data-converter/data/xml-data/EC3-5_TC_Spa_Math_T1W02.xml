@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="es">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>AMIGOS DEL DESIERTO</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Para esta actividad necesitará cubos conectores que representarán a los amigos del desierto.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cuando leímos Nadie abraza a un cactus, conocimos a muchos amigos que se detuvieron a hablar con Hank. Contamos cuántos amigos se detuvieron. Contemos otra vez.</ac_teacher-speaking> Hojee el libro y ponga un cubo en la mesa cada vez que aparezca un nuevo personaje.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad contaremos cubos conectores. Les daré algunos y haremos de cuenta que son nuestros amigos del desierto. Luego, contarán los cubos y dirán cuántos hay en total.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Demostrar</ac_teacher-card_run-in_hed>  Señale y cuente cada cubo conector de la mesa. Vaya tocando un cubo mientras dice un número. Explique que es útil organizar los cubos para saber cuáles son los que ya contamos. </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Entregue a cada niño de cinco a 10 “amigos del desierto” (cubos conectores). Pídales que cuenten, en voz alta, uno a uno. Diga: <ac_teacher-speaking>¿Cuántos amigos hay en total?</ac_teacher-speaking> Guíe a los niños para que respondan diciendo: “Hay [número de cubos] en total”.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Profundizar</ac_teacher-card_run-in_hed>  Pida a los niños que digan cómo contaron los cubos. Si es necesario, guíelos para que intenten una estrategia diferente.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Dé a los niños otra cantidad de cubos y vuelvan a jugar.    </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar</ac_teacher-card_run-in_hed>  Diga: <ac_teacher-talk>Cuando contamos, ¿qué es importante que recordemos?</ac_teacher-talk>  Repase las estrategias como contar desde el uno, contar en orden, y entender que el último número es el número total de objetos.</ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>AMIGOS DEL DESIERTO</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="1">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Limite la cantidad de cubos conectores a cinco o menos por vez. Cuente junto con los niños, guiando sus dedos mientras ellos tocan cada cubo.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Después de que los niños digan cuántos cubos hay en total, bríndeles uno o dos cubos más y pregúnteles el total actualizado. Guíelos para que aprendan que no tienen que volver a contar el conjunto original de cubos, sino simplemente seguir contando los cubos nuevos.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Antes de jugar, repase con los niños los nombres de los números. Use las tarjetas de números para mostrar un número y decir su nombre. Luego, muestre una tarjeta de puntos que tenga ese número de puntos. Cuente los puntos en voz alta y diga de nuevoel total mientras señala el número en la tarjeta.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Para ayudar a los niños a desarrollar habilidades de motricidad fina, pídales que dibujen el número que da la suma de todos los cubos conectores.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64390-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>COMPARTIR CON LOS AMIGOS DEL DESIERTO</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Para esta actividad necesitará cubos conectores que representarán a los amigos del desierto.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy hablamos de cómo Hank comparte sus emociones con sus amigos en <ac_teacher-speaking_emphasis_blue>Nadie abraza a un cactus</ac_teacher-speaking_emphasis_blue>. Ya contamos la cantidad de amigos del libro usando cubos conectores.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad practicaremos compartir y contar los cubos. Daré a cada pareja algunos cubos de los amigos del desierto para que compartan. Les darán cubos a sus amigos para que los cuenten y digan cuántos hay en total. Luego, podrán intercambiar. Cada compañero tendrá un turno.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Demostrar</ac_teacher-card_run-in_hed>  Elija a un niño para trabajar en pareja. Demuestre cómo contar tocando cada cubo mientras cuenta en voz alta. Recuérdeles que es útil organizar los cubos para que sepan cuáles ya contaron.   </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preparar</ac_teacher-card_run-in_hed>  Reparta una cantidad diferente de cubos conectores a cada pareja de niños.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Haga que el compañero A le dé al compañero B un conjunto de cubos (no necesitan contarlos). El compañero B debe contar los cubos y decir: “Hay [número de cubos] en total”.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Reparta una cantidad diferente de cubos a cada pareja de niños. El compañero B contará los cubos y A dirá cuántos hay en total.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Profundizar</ac_teacher-card_run-in_hed>  Pida a los niños que trabajen en parejas para contarlos.    </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar de cómo manejar las emociones</ac_teacher-card_run-in_hed>  Elogie a los niños por el buen trabajo que hicieron compartiendo los cubos. <ac_teacher-speaking>A veces es difícil mantener la calma al jugar o compartir con un amigo. Al jugar hoy, ¿tuvieron que controlar sus emociones? ¿Cómo lo hicieron?</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>COMPARTIR CON LOS AMIGOS DEL DESIERTO</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Algunos niños pueden frustrarse mientras esperan su turno para contar. Repase lo que habló sobre cómo manejar las emociones y elija una estrategia como, por ejemplo, que respiren lenta y profundamente para calmarse mientras esperan.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Dé a los niños entre 8 y 10 cubos conectores. Después de contarlos, quite 3 cubos y motívelos a decirle cuántos quedan, sin contarlos. Anímelos a revisar su respuesta contando los cubos en voz alta.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Los alumnos multilingües pueden tener problemas para conversar sobre cómo manejar sus emociones. Anímelos a usar palabras en su lengua materna o gestos que los ayuden a contar sus dificultades al compartir.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Apoyo para la oratoria</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>A menudo, las conversaciones en grupos pequeños son menos intimidantes para los niños que no se sienten cómodos hablando en el grupo grande. Anime a los niños más silenciosos a compartir y a participar en la conversación en grupo o con un compañero.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64390-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>DAME: plantAsDEL DESIERTO</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Para esta actividad necesitará 10 cubos conectores en una bolsa y el títere Lala la lagartija.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En <ac_teacher-speaking_emphasis_blue>Nadie abraza a un cactus</ac_teacher-speaking_emphasis_blue>, leímos sobre un cactus llamado Hank que vive solo en el desierto. Hoy vamos a jugar un juego con plantas del desierto, que son cubos.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad vamos a ayudar a Lala para que esté segura de que nuestras plantas del desierto NO estén solas. Lala pedirá una cantidad de plantas del desierto. Contarán esa cantidad de plantas, que son cubos, y las colocarán sobre la mesa.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Demostrar</ac_teacher-card_run-in_hed>  Lala pide cinco plantas del desierto. Cuente en voz alta mientras saca, uno a uno, cinco cubos. A medida que los cuenta, póngalos sobre la mesa. Al terminar, diga: <ac_teacher-speaking>Hay cinco cubos en total</ac_teacher-speaking>.  </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Como si fuera Lala, pida: <ac_teacher-speaking>Por favor, dame cuatro plantas del desierto.</ac_teacher-speaking> Solicite a un niño que saque de la bolsa y cuente cuatro cubos. Guíelo para que los coloque sobre la mesa y diga cuántas plantas hay en total. Luego, el niño debe devolver los cubos a la bolsa.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Haga que Lala le pida al siguiente niño un número distinto de plantas de la bolsa. Continúe el ejercicio con distintos números, entre dos y 10, hasta que cada niño tenga un turno.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Profundizar</ac_teacher-card_run-in_hed>  Pregunte a los niños cómo supieron cuándo dejar de contar. Si es necesario, guíelos para que prueben una estrategia más eficiente para contar.   </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar de los totales</ac_teacher-card_run-in_hed>  Recuerde a los niños que el último número que contamos es el total o el número total de cubos. Pídales que compartan con el grupo cómo saben cuándo deben dejar de contar.   </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>DAME: plantAsDEL DESIERTO</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Anime a los niños a volver a contar los cubos después de colocarlos todos sobre la mesa. ¿Contaron el mismo número las dos veces? Si es necesario, cuente con los niños mientras cuentan los cubos fuera de la bolsa. Luego, guíelos para que ellos solos vuelvan a contarlos.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Permita que los niños jueguen entre ellos. Dé el títere al compañero A y la bolsa de cubos al compañero B. Después de que el compañero B cuente la cantidad de cubos, el compañero A verificará la cantidad en voz alta. Luego, pida a los niños que cambien de rol.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Forme parejas de hispanohablantes con niños que no sean hablantes nativos de español para ampliar la exposición de los niños a ambos idiomas.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Usando un puntero, como una regla o un lápiz, pida a los niños que vuelvan a contar el conjunto de cubos que colocaron sobre la mesa. Guíelos para que señalen cada cubo a medida que lo cuentan.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64390-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>DETRÁS DeL TELóN</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Para esta actividad necesitará cubos conectores y una carpeta, libro u otro objeto para usar como telón.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy hicimos coincidir algunos sentimientos con rostros que expresaban esos sentimientos. También contamos letras. ¡Vamos a contar y averiguar si las cuentas coinciden!</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Colocaré una cantidad de cubos de mi ladodel telón y les diré el número que coloqué. Ustedes pondrán el mismo número de cubos de su lado del telón. Cuando terminen, levantaré el telón y comprobaremos si tenemos el mismo número de cubos.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Demostrar</ac_teacher-card_run-in_hed>  Ponga tres cubos detrás del telón. Anuncie que tiene tres cubos. Guíe a los niños para que cuenten tres cubos y los coloquen de su lado del telón. Levántelo. Pida al grupo que lo ayude a contar cada conjunto y a confirmar si hay el mismo número de cubos de cada lado.  </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preparar</ac_teacher-card_run-in_hed>  Coloque entre uno y 10 cubos detrás del telón. Empiece con cinco.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¿Pueden poner cinco cubos?</ac_teacher-speaking> Pida a un niño que cuente cinco cubos. Levante el telón. Pida a todo el grupo que cuente, en voz alta, los cubos de cada lado para estar seguros de que ambos lados coinciden.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe el juego hasta que cada niño haya tenido la oportunidad de contar, al menos dos veces, los cubos que están detrás del telón.   </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar de cantidades iguales</ac_teacher-card_run-in_hed>  Pida a los niños que conversen sobre cómo sabían que las cantidades de cubos, a cada lado del telón, eran iguales, a pesar de que podrían haber sido diferentes.   </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>DETRÁS DeL TELóN</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Ayude a los niños a contar los cubos que tienen de su lado del telón; luego, permita que cuenten los cubos que usted tiene. Anímelos para que señalen cada cubo a medida que lo cuentan, y reorganice los cubos para llevar un control de cuántos llevan contados los niños.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida a los niños que, sin su ayuda, comparen la cantidad de cubos que hay a ambos lados del telón. Anímelos a probar diferentes estrategias para contar los cubos y a explicar por qué los totales son iguales, incluso cuando están ordenados de manera distinta.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Antes de jugar, repase con los niños los nombres de los números. A medida que cuenta en voz alta del uno al 10, muestre las tarjetas de números con los números correspondientes o use los dedos de sus manos para representar cada número.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Apoyo para la oratoria</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Si los niños tienen problemas para pronunciar algunas de las palabras durante la conversación, ayúdelos pronunciando una sílaba a la vez. Pídales que, lentamente, repitan las sílabas y luego intenten unirlas.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64390-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

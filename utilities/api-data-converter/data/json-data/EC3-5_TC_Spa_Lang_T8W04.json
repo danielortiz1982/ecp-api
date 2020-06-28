@@ -1,0 +1,2466 @@
+[{
+    "declaration": {
+      "attributes": {
+        "version": "1.0",
+        "encoding": "UTF-8"
+      }
+    },
+    "elements": [
+      {
+        "type": "element",
+        "name": "teacher-activity-cards",
+        "attributes": {
+          "lang": "es",
+          "module":"language",
+          "week":"week_004",
+          "theme":"theme_008"
+        },
+        "elements": [
+          {
+            "type": "element",
+            "name": "ac_card-1",
+            "attributes": {
+              "day": "1"
+            },
+            "elements": [
+              {
+                "type": "element",
+                "name": "ac_card-1_front",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_f_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "¡EN UNA AVENTURA!"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "instructions",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "instructions_f_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Instrucciones"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "before-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "before_f_1",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Asociar con el grupo grande"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Hoy leímos el libro "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "La aventura más grande"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": ". Aprendimos de Eliot y de cómo quería vivir una verdadera aventura. Soñaba con aventuras en alta mar, rastreando bestias salvajes."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Repasar el vocabulario"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Aprendimos la palabra "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "aventura"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": ". Veamos de nuevo esa palabra ya que tiene que ver con la actividad de hoy"
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "."
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "Muestre la tarjeta de vocabulario "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "aventura"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": ". "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Explicar la actividad"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "En esta actividad, veremos imágenes de personas viviendo aventuras reales. Hablaremos de los lugares en los que se realizó cada aventura."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "during-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "during_f_1",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Preguntar"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Muestre la primera tarjeta de ilustraciones y haga la pregunta del reverso. Según sea necesario, brinde un estímulo adicional o apoyo. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Ampliar"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Use la última pregunta del reverso de la tarjeta para ampliar la conversación. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Repetir"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Continúe la actividad usando la siguiente tarjeta de ilustraciones. "
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "after-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "after_f_1",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Conversar sobre aventuras"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Pregunte a los niños qué tarjeta muestra una aventura en la que les gustaría participar. ¿Qué harían ellos? Compare las respuestas de los niños para obtener una comparación de los diferentes entornos. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Conversar sobre los lugares"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Pida a los niños que conversen sobre los diferentes entornos que muestran las tarjetas. ¿Cómo sería la ropa que usarían en cada entorno?  "
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "name": "ac_card-1_back",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_b_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "¡EN UNA AVENTURA!"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "differentiation-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Diferenciación"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_1",
+                          "index": "2"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Apoye "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Verifique la comprensión de los niños haciendo preguntas sobre las diferencias de los entornos. Anime a los niños a que respondan con oraciones completas y gramaticalmente correctas."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_1",
+                          "index": "3"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Estimule "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Pida a los niños que puedan diferenciar más fácilmente los entornos que describan lo que llevarían a una aventura en cada uno de los lugares. ¿Qué es lo más importante que podrían necesitar en el desierto? ¿En el bosque? ¿En el océano?"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "modifications-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Modificaciones"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_1",
+                          "index": "2"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Alumnos multilingües:  dialectos y expresiones diferentes "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Los niños mirarán imágenes de aventuras de todo el país. Explique que los hispanohablantes tienen diferentes palabras y expresiones que se refieren a la misma cosa. A veces, pueden no saber una palabra que incluso está en su propio idioma. Por ejemplo, algunas personas usan la palabra "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "refresco"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": ", y otras personas "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "gaseosa"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": ". "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Desarrollo de la motricidad gruesa "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Pida a los niños que representen una aventura en uno de los lugares que se muestran en las tarjetas. Anime a los niños para que, cuando representen las aventuras, usen movimientos corporales amplios; por ejemplo, sujetar las velas de un barco contra un viento fuerte o escalar un sendero empinado en una montaña."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "copyright-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "copyright_b_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_back_copyright_line",
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "isbn",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "978-1-338-66422-5"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": ". TM ® & © Scholastic Inc. All rights reserved."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "name": "ac_card-2",
+            "attributes": {
+              "day": "2"
+            },
+            "elements": [
+              {
+                "type": "element",
+                "name": "ac_card-2_front",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_f_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "MI GRAN AVENTURA"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "instructions",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "instructions_f_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Instrucciones"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "before-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "before_f_2",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Reunir los materiales"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Necesitará el libro "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "La gran aventura"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " como referencia para esta actividad. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Asociar con el grupo grande"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Hoy leímos el libro "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "La gran aventura"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": ". Aprendimos cómo persistió Eliot para llevar a cabo una aventura en el barco de su abuelo. Eliot nunca se rindió."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Repasar el Mind Builder "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Persistir en una tarea significa que no nos rendimos."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Explicar la actividad "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Ayer vimos imágenes de varias aventuras: caminar por el bosque, navegar en un barco, bucear en el océano. Hoy, vamos a pensar en la mayor aventura que hemos realizado: ¿Qué lugares exploramos y qué cosas hicimos allí?"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Enseñar/Demostrar"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Pida a los niños que describan las aventuras que han vivido y lo que les gustó (o no) de esas aventuras. "
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "during-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "during_f_2",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Preguntar"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Muestre las páginas 26 hasta la 29 del libro para demostrar la persistencia de Eliot. Pregunte: "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "¿En qué aventura se han metido? ¿En qué lugar vivieron esa aventura? ¿Tuvieron que persistir o no rendirse para vivir una aventura?"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "after-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "after_f_2",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Conversar sobre la persistencia "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Hoy temprano hablamos de la importancia de persistir en una tarea o en algo que deseamos hacer. Al principio puede ser difícil, pero si persistimos y continuamos así, podemos llegar al final."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Conversar sobre las aventuras "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "Pídales que conversen sobre los tipos de aventuras que vieron en clase y pregunte: "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "¿Alguna de estas aventuras están relacionadas? ¿A alguno de ustedes le gustaría vivir una aventura como la que  vivió un compañero de la clase?"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "name": "ac_card-2_back",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_b_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "MI GRAN AVENTURA"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "differentiation-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Diferenciación"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_2",
+                          "index": "2"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Apoye "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Algunos niños pueden tener dificultades para recordar una aventura por sí solos. En vez de recordar una aventura, anímelos para que describan una aventura que les gustaría vivir."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_2",
+                          "index": "3"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Estimule "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Para los niños que necesiten un poco más de apoyo, estimúlelos a representar su aventura mientras cuentan su historia. ¿En qué lugar llevaron a cabo su aventura? ¿Qué actividades hicieron?"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "modifications-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Modificaciones"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_2",
+                          "index": "2"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Alumnos multilingües "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Los niños pequeños suelen ser mejores para aprender un nuevo idioma que los adultos. Los adultos pueden tener miedo de decir algo incorrecto en español. Por otro lado, los niños pequeños están menos inhibidos y están dispuestos a correr riesgos. Cree un entorno libre de estrés en el que los niños disfruten probando nuevas palabras y oraciones, en un ambiente que celebre su idioma del hogar. "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Desarrollo de la motricidad fina "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Ofrezca a los niños la opción de dibujar con lápices, crayones o marcadores una respuesta a la actividad. Anímelos para que conversen mientras dibujan, usando tantas palabras descriptivas como les sea posible."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "copyright-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "copyright_b_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_back_copyright_line",
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "isbn",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "978-1-338-66422-5"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": ". TM ® & © Scholastic Inc. All rights reserved."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "name": "ac_card-3",
+            "attributes": {
+              "day": "3"
+            },
+            "elements": [
+              {
+                "type": "element",
+                "name": "ac_card-3_front",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_f_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "EN LO SALVAJE"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "instructions",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "instructions_f_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Instrucciones"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "before-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "before_f_3",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Asociar con el grupo grande"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Hoy leímos el libro "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "La gran aventura"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": ". Aprendimos que a Eliot le gustaba imaginar que rastreaba las huellas de animales salvajes."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Repasar el Vocabulario "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Aprendimos la palabra "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "salvajes"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": ". Veamos de nuevo esa palabra ya que tiene que ver con la actividad de hoy"
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "."
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "Muestre la tarjeta de vocabulario "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "salvajes"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": ". "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Explicar la actividad"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "En esta actividad, veremos imágenes de varios animales y clasificaremos las tarjetas de ilustraciones en dos grupos:"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-teacher_talk_bulleted",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking_emphasis_blue",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Grupo 1: son animales salvajes. Los animales salvajes viven al aire libre y las personas no los cuidan."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-teacher_talk_bulleted",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking_emphasis_blue",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Grupo 2: no son animales salvajes. A menudo, estos animales viven bajo techo y las personas los cuidan."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Explique que los animales de granja no son salvajes porque las personas los cuidan incluso si no viven adentro con las personas."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "during-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "during_f_3",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Preguntar"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Muestre la primera tarjeta y haga la pregunta del reverso. Según sea necesario, brinde un estímulo adicional o apoyo. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Ampliar"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Use la última pregunta del reverso de la tarjeta para ampliar la conversación. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Repetir"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Continúe la actividad con todas las demás tarjetas.  "
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "after-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "after_f_3",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Conversar sobre animales salvajes"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Hable de los lugares en los que viven los animales salvajes. Pregunte: "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "¿Cómo se cuidan a sí mismos los animales salvajes?"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Conversar sobre seguridad"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Explique que es importante no acercarse a un animal salvaje en el caso de que vean uno.  "
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "name": "ac_card-3_back",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_b_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "EN LO SALVAJE"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "differentiation-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Diferenciación"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_3",
+                          "index": "2"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Apoye "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Muestre a los niños tres tarjetas de ilustraciones a la vez, en la que una tarjeta podría contener un animal salvaje y las otras dos no. Pregunte: "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "¿Cuál no pertenece?"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": " Luego, pregunte: "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "¿Cómo lo saben?"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": " Repita con otros grupos de tres tarjetas."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_3",
+                          "index": "3"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Estimule "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Muestre a los niños dos tarjetas de ilustraciones a la vez, en la que una tarjeta contiene un animal salvaje y la otra no. Pregunte: "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "¿En qué se parecen y en qué se diferencian estos animales?"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": " Repita con otros pares de tarjetas."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "modifications-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Modificaciones"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_3",
+                          "index": "2"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Alumnos multilingües "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Brinde a los niños tiempo extra para que conversen entre amigos. Anímelos para que trabajen en parejas, debatiendo de si un animal es o no salvaje. Recuérdeles que hablen por turnos, con una persona que escucha de manera activa, mientras la otra habla. Recuerde a los niños que está bien usar todos los idiomas que ambos conocen cuando hablan con un compañero que también es multilingüe. "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Desarrollo de la motricidad gruesa "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Para ayudar a los niños que podrían tener dificultades para recordar los nombres de todos los animales, pídales que representen cómo se mueven y qué sonidos hacen los animales y, de esa forma, usen el cuerpo como ayuda para activar la memoria muscular y a recordar."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "copyright-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "copyright_b_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_back_copyright_line",
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "isbn",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "978-1-338-66422-5"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": ". TM ® & © Scholastic Inc. All rights reserved."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "name": "ac_card-4",
+            "attributes": {
+              "day": "4"
+            },
+            "elements": [
+              {
+                "type": "element",
+                "name": "ac_card-4_front",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_f_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "CUANDO CREZCA"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "instructions",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "instructions_f_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Instrucciones"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "before-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "before_f_4",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Asociar con el grupo grande"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Hoy leímos el póster "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "Yo quiero…"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": " Hablamos de lo que queremos aprender y hacer. También hablamos de lo que queremos ser cuando crezcamos"
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "."
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Explicar la actividad"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "En esta actividad, veremos imágenes de personas adultas que realizan distintos trabajos. Vamos a averiguar qué tipo de trabajo tiene la persona de la imagen y hablaremos de lo que hace esa persona. También hablaremos de si creemos que es un trabajo que nos gustaría hacer cuando crezcamos. "
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "during-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "during_f_4",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Preguntar"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Muestre la primera tarjeta de ilustraciones y haga la pregunta del reverso. Según sea necesario, brinde un estímulo adicional o apoyo. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Ampliar"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Use la última pregunta del reverso de la tarjeta para ampliar la conversación. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Repetir"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Continúe la actividad usando el resto de las tarjetas de ilustraciones. "
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "after-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "after_f_4",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Conversar sobre los trabajos"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Todas las imágenes muestran personas que realizan distintos trabajos. "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "¿Qué otros trabajos pueden nombrar? ¿Qué trabajos creen que les gustaría hacer cuando sean grandes? ¿Por qué?"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Conversar sobre lo que necesitan aprender"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Pregunte a los niños qué podrían necesitar aprender para hacer cada trabajo.  "
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "name": "ac_card-4_back",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_b_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "CUANDO CREZCA"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "differentiation-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Diferenciación"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_4",
+                          "index": "2"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Apoye "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Antes de comenzar, repase con los niños cada tarjeta. Asegúrese de que los niños identifiquen el trabajo representado en la tarjeta."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_4",
+                          "index": "3"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Estimule "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Pida a los niños que elijan su trabajo favorito entre los que figuran en las tarjetas. Pídales que expliquen por qué eligieron ese trabajo. "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "¿Qué es lo que más les gusta de ese trabajo?"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "modifications-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Modificaciones"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_4",
+                          "index": "2"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Alumnos multilingües "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Ayude a los hablantes nativos de inglés a establecer la conexión entre las palabras "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "oficial de policía"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": " y "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "police officer"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": ". Quizá usted desee conversar sobre la estrecha conexión entre los términos en español e inglés. "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Desarrollo de la motricidad fina "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Para los niños que tienen dificultades en el desarrollo de la motricidad fina, facilite un espacio de juego en el que los niños puedan imaginar ser un artista o un médico al usar objetos como un pequeño pincel o un estetoscopio. Fomente el juego creativo, pero incluya el uso de objetos domésticos o de juguete para representar los movimientos que sean necesarios. Mientras los niños realizan la tarea, pídales que usen palabras que describan el trabajo y los objetos que usaron para así reforzar el vocabulario."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "copyright-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "copyright_b_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_back_copyright_line",
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "isbn",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "978-1-338-66422-5"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": ". TM ® & © Scholastic Inc. All rights reserved."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }]

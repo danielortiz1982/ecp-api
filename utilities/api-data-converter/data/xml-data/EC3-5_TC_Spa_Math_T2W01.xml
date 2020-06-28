@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="es">  <ac_card-1 day="1">    <ac_card-1_front>       <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>DETRÁS DEL TELÓN: construir una torre</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Para este juego necesitará cubos conectores de distintos colores y un libro o carpeta de manila que haga las veces de “telón”. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Antes leímos <ac_teacher-speaking_emphasis_blue>El primer día de papá</ac_teacher-speaking_emphasis_blue> y aprendimos las palabras <ac_teacher-speaking_emphasis_blue>primero</ac_teacher-speaking_emphasis_blue>, <ac_teacher-speaking_emphasis_blue>segundo</ac_teacher-speaking_emphasis_blue> y <ac_teacher-speaking_emphasis_blue>tercero</ac_teacher-speaking_emphasis_blue>. Luego nos paramos en orden y dijimos qué amigo estaba primero, segundo o tercero en la fila.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, ustedes construirán una torre de cubos conectores igual a la que yo construiré detrás del telón. Yo les diré qué cubos poner primero, segundo y tercero.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el vocabulario</ac_teacher-card_run-in_hed>  Use la tarjeta de vocabulario <ac_teacher-talk>primero</ac_teacher-talk> para volver a enseñar la palabra. </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¿Pueden construir una torre igual a la mía? Usen primero un cubo rojo. En segundo lugar, usen un cubo azul. Tercero, usen un cubo verde.</ac_teacher-speaking> Construya esta torre detrás del telón. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Pida a los niños que digan de qué color es el cubo que está primero, segundo o tercero en la torre, usando el marco oración: <ac_teacher-speaking>El cubo que está primero/segundo/tercero es</ac_teacher-speaking>
+              <fill-in-the-blank>    </fill-in-the-blank>. Levante el telón para verificar si las torres son iguales. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe usando los números ordinales en sus instrucciones para construir torres detrás del telón.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre palabras ordinales</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¿Cómo pueden saber cuál es el segundo cubo?</ac_teacher-speaking> Muestre cuatro cubos y señale el tercero. <ac_teacher-speaking>Si tenemos cuatro cubos, ¿este que señalo puede ser el segundo?</ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>DETRÁS DEL TELÓN: construir una torre</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="1">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Comience la actividad sin el “telón”. Invite a los niños a imitar sus acciones mientras construye una torre con tres cubos. Pídales que identifiquen qué color usó usted primero, segundo y tercero.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida a los niños que construyan una torre con tres cubos detrás del telón. Pídales que usen números ordinales para guiarlo a usted a construir una torre idéntica.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Con los niños que necesiten apoyo lingüístico, repase los nombres de los colores y las palabras <ac_teacher-talk>primero</ac_teacher-talk>, <ac_teacher-talk>segundo</ac_teacher-talk> y <ac_teacher-talk>tercero</ac_teacher-talk> antes de comenzar la actividad. Guíelos para que repitan cada palabra después de usted. Luego, juegue algunas rondas sin el telón para que los niños puedan asociar las palabras que oyen con lo que ven. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Unir los cubos conectores para las torres requiere cierta destreza. Si los niños muestran dificultades para manipular los cubos, ofrézcales una bandeja o tapete de trabajo y permítales colocar sus cubos en fila sin conectarlos. Anímelos a jugar con cubos conectores en otros momentos del día para que sigan desarrollando esa destreza.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65730-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>       <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>¡Todos en fila!</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cuando leímos <ac_teacher-speaking_emphasis_blue>El primer día de papá</ac_teacher-speaking_emphasis_blue>, hablamos sobre el orden en que papá y Oliver hicieron cosas. Usamos palabras como <ac_teacher-speaking_emphasis_blue>primero</ac_teacher-speaking_emphasis_blue>, <ac_teacher-speaking_emphasis_blue>segundo</ac_teacher-speaking_emphasis_blue> y <ac_teacher-speaking_emphasis_blue>tercero</ac_teacher-speaking_emphasis_blue> para describir el orden.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el vocabulario</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>También aprendimos las palabras <ac_teacher-speaking_emphasis_blue>frustrada</ac_teacher-speaking_emphasis_blue> y <ac_teacher-speaking_emphasis_blue>preocupado</ac_teacher-speaking_emphasis_blue> mientras leíamos. Vamos a practicar otra vez esas palabras antes de empezar esta actividad.</ac_teacher-speaking> Use las tarjetas de vocabulario <ac_teacher-talk>frustrada</ac_teacher-talk> y <ac_teacher-talk>preocupado</ac_teacher-talk> para volver a enseñarlas. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Ustedes van a hacer una fila por orden de tamaño, del más pequeño al más grande. Pero esta actividad es especial, ¡tienen que hacer la fila sin hablar!</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¿Quién es el más pequeño de nuestro grupo? ¿Quién es el más alto?</ac_teacher-speaking> Pida a esos niños que se paren en los extremos de una línea invisible. <ac_teacher-speaking>Ahora, sin hablar, los demás pónganse en orden de altura.</ac_teacher-speaking> Trate también de ayudar a los niños sin hablarles. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¡Ya podemos hablar otra vez! Vamos a decir en qué lugar de la fila está cada uno: primero, segundo, tercero, cuarto, quinto o sexto.</ac_teacher-speaking> Ayude a los niños a usar el número ordinal correcto. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Pida a los niños que digan otra vez su lugar en la fila, esta vez contando del más alto al más bajo.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre la frustración</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¿Cómo se sintieron al hacer la actividad sin hablar? ¿Se sintieron frustrados? ¿Qué hicieron si se sintieron frustrados?</ac_teacher-speaking> Ayude a los niños a articular cómo se sintieron durante la actividad y pregunte qué estrategias intentaron para aliviar su frustración. Señale ejemplos de niños que pudieron tolerar su frustración y persistieron hasta terminar la tarea. </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>¡Todos en fila!</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Haga una fila con tres objetos sobre la mesa y señale cada uno diciendo el número ordinal que describe su lugar. Pida a los niños que repitan los números ordinales después de usted, mientras señala cada objeto.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Una vez que los niños estén parados en orden, pídales que se mezclen durante 10 segundos. Pídales que digan sus nuevos lugares en la fila usando los números ordinales.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Con los niños que necesiten más apoyo lingüístico, demuestre oraciones que ya contengan el número ordinal. Diga las oraciones en voz alta: </ac_teacher-card-body>
+          <ac_teacher-card-body>
+            <fill-in-the-blank>     </fill-in-the-blank>  <ac_teacher-talk>está primero en la fila</ac_teacher-talk>. </ac_teacher-card-body>
+          <ac_teacher-card-body>
+            <fill-in-the-blank>     </fill-in-the-blank>  <ac_teacher-talk>está segundo en la fila.</ac_teacher-talk> </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Apoyo a la función ejecutiva </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Si a los niños  les cuesta comparar la estatura, haga preguntas específicas para ayudarlos a centrarse en los pasos necesarios para comparar. <ac_teacher-talk>¿Quién es más alto, tú o tu compañero? Por tanto, ¿quién debe ir delante, tú o tu compañero?</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65730-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>       <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>lo encontramos: localización</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Para esta actividad necesitará fichas de dos colores. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Antes, leímos <ac_teacher-speaking_emphasis_blue>El primer día de papá</ac_teacher-speaking_emphasis_blue> y aprendimos algunas palabras de localización. Las palabras de localización son las que dicen dónde está algo. En <ac_teacher-speaking_emphasis_blue>El primer día de papá</ac_teacher-speaking_emphasis_blue>, las palabras de localización eran <ac_teacher-speaking_emphasis_blue>detrás</ac_teacher-speaking_emphasis_blue>, <ac_teacher-speaking_emphasis_blue>dentro </ac_teacher-speaking_emphasis_blue>y<ac_teacher-speaking_emphasis_blue> fuera</ac_teacher-speaking_emphasis_blue>. Otras palabras de localización que usamos mucho son <ac_teacher-speaking_emphasis_blue>arriba</ac_teacher-speaking_emphasis_blue>, <ac_teacher-speaking_emphasis_blue>encima</ac_teacher-speaking_emphasis_blue>, <ac_teacher-speaking_emphasis_blue>debajo</ac_teacher-speaking_emphasis_blue>, <ac_teacher-speaking_emphasis_blue>al lado</ac_teacher-speaking_emphasis_blue>, <ac_teacher-speaking_emphasis_blue>sobre</ac_teacher-speaking_emphasis_blue>, <ac_teacher-speaking_emphasis_blue>entre</ac_teacher-speaking_emphasis_blue> y <ac_teacher-speaking_emphasis_blue>junto a</ac_teacher-speaking_emphasis_blue>.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad les voy a mostrar una tarjeta y voy a leer en voz alta una pista que usa una palabra de localización. Ustedes van a escuchar la pista y van a poner una ficha en la parte de la imagen de la tarjeta de actividad que yo diga.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Reparta dos fichas de dos colores a cada niño. Muestre a un niño la imagen de la primera tarjeta de actividad y lea la pista en voz alta. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Los niños practicarán el uso de las palabras de localización colocando la ficha sobre un objeto diferente de la imagen y describiendo su ubicación. Por ejemplo: <ac_teacher-talk>La ficha amarilla está debajo de la mesa.</ac_teacher-talk> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Repita la actividad hasta que cada niño haya jugado con, por lo menos, una tarjeta de actividad.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre localizaciones</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>
+                <ac_teacher-speaking_emphasis_blue>Diga: </ac_teacher-speaking_emphasis_blue>¿Qué palabras les dieron pistas sobre dónde colocar la ficha?</ac_teacher-speaking> Guíe a los niños para que hagan una lista de las palabras de localización que oyeron mientras jugaban. </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>lo encontramos: localización</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Ayude a los niños a diferenciar entre las palabras de localización demostrando el término en contexto y pidiéndoles que pongan su ficha en la tarjeta de actividad. Si el término es <ac_teacher-talk>debajo</ac_teacher-talk>, coloque una ficha debajo de un libro y diga: <ac_teacher-talk>La ficha está debajo del libro</ac_teacher-talk>.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Ayude a los niños a decir palabras de localización que no se hayan usado. Anímelos a usar esos términos dando ellos claves a otros niños sobre dónde colocar las fichas.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Para los niños que necesitan apoyo lingüístico, provea las palabras de localización en sus lenguas maternas. Podrán también nombrar los objetos en sus lenguas maternas como apoyo al desarrollo del vocabulario. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Si los niños muestran dificultades para manipular las fichas de dos colores, use cubos conectores rojos y amarillos u otros objetos manipulables fáciles de tomar.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65730-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>       <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>Seguimos las normas de simón</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cuando leímos <ac_teacher-speaking_emphasis_blue>Las normas de nuestra escuela</ac_teacher-speaking_emphasis_blue>, hablamos sobre las normas de la escuela y cómo podemos estar seguros en ella siguiendo esas normas.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Vamos a jugar a <ac_teacher-speaking_emphasis_blue>Simón dice</ac_teacher-speaking_emphasis_blue>. Yo voy a ser Simón, les voy a decir a ustedes qué hacer, y ustedes lo harán. Este juego tiene una sola norma: solo hacer algo si Simón dice que lo hagan.</ac_teacher-speaking> Ofrezca varios ejemplos diciendo “Simón dice” o solo dando la instrucción sin decir “Simón dice”. Una vez que los niños hayan entendido la diferencia entre las dos instrucciones, ¡empiecen a jugar!  </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Diga: <ac_teacher-speaking>Simón dice: “den palmadas”. Simón dice: “den palmadas encima de su cabeza”.</ac_teacher-speaking> Continúe dando instrucciones que combinen una palabra de movimiento y otra de localización. Por ejemplo: <ac_teacher-speaking>Pongan un dedo debajo del mentón. Pongan una mano detrás de la espalda. Toquen la parte de arriba de su cabeza.</ac_teacher-speaking> Continúe dando instrucciones tanto diciendo como no diciendo “Simón dice”. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Decida si va a jugar con o sin eliminación. Si juega con eliminación, pida a los niños que se sienten, si les toca “salir”. Podrán seguir jugando sentados. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Ajuste levemente el juego, jugando muy rápido o pidiendo a un voluntario que sea Simón.</ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre seguir instrucciones</ac_teacher-card_run-in_hed>  Pida a los niños que hablen sobre qué palabras de localización son más fáciles o más difíciles de recordar. <ac_teacher-speaking>¿Qué instrucciones fueron más difíciles de seguir? ¿Cuáles fueron más fáciles?</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>seguimos las normas de simón</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Separe las instrucciones en dos acciones diferenciadas: señale primero una parte del cuerpo y luego haga el movimiento. Después, repita la instrucción combinando las dos acciones.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida a los niños que se pongan de espaldas a usted mientras juegan, de modo de no influenciar sus movimientos. Pídales que se pongan de frente una vez que crean que están haciendo el movimiento correcto.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Con los niños que necesitan apoyo lingüístico, limite las partes del cuerpo y los movimientos que va a usar a un conjunto acotado. Repase los términos antes de empezar a jugar. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad gruesa </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Para los niños que tengan dificultad para hacer movimientos con todo el cuerpo, modifique las instrucciones de modo que estas se enfoquen menos en coordinación o equilibrio y más en la comprensión de las palabras de localización. Permita a los niños que se queden sentados mientras juegan, y limite los movimientos a las manos y los brazos.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65730-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

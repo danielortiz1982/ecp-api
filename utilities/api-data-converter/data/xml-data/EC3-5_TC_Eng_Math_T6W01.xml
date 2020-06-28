@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="en">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>Order The objects</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>When we read <ac_teacher-speaking_emphasis_blue>Goldilocks and the Three Bears</ac_teacher-speaking_emphasis_blue>, we saw that the bears had three different sizes of things in their house: big for the father bear, medium for the mother bear, and little for the baby bear.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>In this activity, I will show you pictures of three different objects the bears had in their house: beds, chairs, and bowls. You will have to tell me whether the object in the picture is big, medium, or little. Then, we will order the pictures by size.</ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask</ac_teacher-card_run-in_hed>  Show the class the first Activity Card and ask whether they think the object is little, medium, or big.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Extend</ac_teacher-card_run-in_hed>  Encourage children to explain how they are able to tell the size of the object. Guide them to use other clues in the picture. It is okay if children guess a different size than what is written on the card, as long as they can explain their thinking—they will be able to compare the cards to each other later.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat</ac_teacher-card_run-in_hed>  Continue with all of the Activity Cards. Encourage children to compare the sizes of the same object on multiple cards.</ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Order</ac_teacher-card_run-in_hed>  When all cards have been viewed, lay them face-up on the table. <ac_teacher-speaking>Let’s put each object in order from biggest to smallest.</ac_teacher-speaking> Guide children to order the three chairs, three beds, and three bowls. Talk about how they knew how to order the objects. Ask children if there could be a chair larger than Papa Bear’s, and if so, where would it go in the order? How would that change how they described Papa’s chair?</ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>Order the objects</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="1">
+          <ac_diff_support-challenge_heds>Support</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Show children all three cards in a set (e.g., all three chairs) at once, and point to each card as you ask its size. Model comparing size: <ac_teacher-talk>This chair is so much thinner and shorter than the other chairs! It’s little.</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Have children sort the cards into piles: little, medium, and big. Then ask children to sort all of the cards by size, guiding them to recognize the relative sizes of the objects to each other (the big bowl is still smaller than the little bed).</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="1">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Use arm and hand movements as you say the words <ac_teacher-talk>big, medium</ac_teacher-talk>
+            <ac_teacher-talk-emphasis>,</ac_teacher-talk-emphasis> and <ac_teacher-talk>little</ac_teacher-talk> throughout this activity, spreading your arms wide for <ac_teacher-talk>big</ac_teacher-talk>
+            <ac_teacher-talk-emphasis>,</ac_teacher-talk-emphasis> placing your hands about shoulder-length apart for <ac_teacher-talk>medium</ac_teacher-talk>, and moving your hands close together for <ac_teacher-talk>little</ac_teacher-talk>. Encourage children to use similar gestures as they participate in the sorting activity.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Sensory Support</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Children with visual processing disorders may do better with tactile cues than visual ones. Consider using three different-sized toys or other classroom objects in place of the activity cards.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65179-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>Just Right!</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>When we read <ac_teacher-speaking_emphasis_blue>Goldilocks and the Three Bears,</ac_teacher-speaking_emphasis_blue> we saw that Goldilocks always tried to find the thing that was “just right” for her. We also talked about the patterns in the book.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>In this activity, we will say that the size of your hand from your tallest fingertip to the end of your palm is “just right!” You will find one object in the classroom that is too long, one object that is too short, and one object that is ”just right.” Then, we will use the objects to make a pattern.</ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Model</ac_teacher-card_run-in_hed>  Walk around the classroom and demonstrate placing your hand against several objects, saying aloud whether the object is too long, too short, or just right. Bring each object back to the table with you.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Search</ac_teacher-card_run-in_hed>  Have children search the classroom for objects that are too long when compared to the size of their hand. Guide children to bring the object back to the table, and place it in front of them. Now guide children to search the classroom for one object that is too short then one that is “just right.” Share with children that a “just right” object can be close to the size of their hand, even if it’s not exact.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Make a Pattern</ac_teacher-card_run-in_hed>  Briefly compare the sizes of the objects children have found. Then, use the childrens’ objects to make a pattern: <ac_teacher-speaking>Put your objects in this order: too long, too short, just right. Now, let’s make a line out of all of your objects together. You made a pattern! The pattern is too long, too short, just right, too long, too short, just right....</ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Perspective</ac_teacher-card_run-in_hed>  Return to the objects you used to model the activity. Lay them above the line of childrens’ objects and compare. <ac_teacher-speaking>Was my “just right” object the same size as yours? Why or why not?</ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>Just Right!</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Support</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Before the activity, find objects that will be too long, too short, and “just right” for preschoolers’ hands. Share the objects with the group, and guide them to create the pattern using only two sizes of objects: too long and too short.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Have children practice making several different patterns with the objects they find: too long, too long, too short, too short, just right, just right; too long, just right, too short, etc.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="1">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Review the phrase <ac_teacher-talk>just right</ac_teacher-talk>, along with the measurement terms <ac_teacher-talk>long</ac_teacher-talk> and <ac_teacher-talk>short</ac_teacher-talk>. Whenever you discuss each measurement term, hold up the objects you modeled with and show them against your hand to help make the terms more concrete.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Attention Support</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Remind children what they should be looking for as they search the classroom to make sure they stay on task: <ac_teacher-speaking>I can’t wait to see what “just right” items you’ll find! Do you think a pencil might be “just right?”</ac_teacher-speaking>
+          </ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65179-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>Patterns of Size II</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Gather Materials</ac_teacher-card_run-in_hed>  For this activity, you will need Pattern Blocks.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>When we read <ac_teacher-speaking_emphasis_blue>Goldilocks and the Three Bears,</ac_teacher-speaking_emphasis_blue> we found a pattern in the way Goldilocks and the bears looked at the things in the house: large/medium/small, large/medium/small.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>In this activity, I will create a pattern using large and small Pattern Blocks. Then, you will describe the pattern I made and try to make it yourself! You’ll also have a chance to make your own patterns.</ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Model</ac_teacher-card_run-in_hed>  Create an ABAB pattern using your Pattern Blocks. Model describing it as you point to each block: <ac_teacher-speaking>My pattern is large, small, large, small!</ac_teacher-speaking> Then, model continuing your own pattern with two more blocks.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Describe</ac_teacher-card_run-in_hed>  Create another pattern with two different-sized Pattern Blocks. Ask children to describe the pattern you have made. Encourage children to point to each block as they name its size.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Copy</ac_teacher-card_run-in_hed>  Have children copy your pattern using their own sets of Pattern Blocks. When children finish, ask them to point to their own blocks and describe the pattern.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat</ac_teacher-card_run-in_hed>  Use a variety of patterns to repeat the activity:  small/small, large/large; small/large/small, small/large/small, etc.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Create</ac_teacher-card_run-in_hed>  Encourage children to create their own patterns. When children have finished, ask them to describe the pattern they created.</ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Patterns</ac_teacher-card_run-in_hed>  Talk about what it was like to describe and copy patterns. <ac_teacher-speaking>Which pattern was easy to make? Which pattern was hard? Why do you think one was harder to make than the other?</ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>Patterns of Size II</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_diff_support-challenge_heds>Support</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Describe the pattern aloud as you make it. Have children repeat the pattern. Model extending your pattern each time along with the children.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Add trapezoid Pattern Blocks as “medium” blocks and create patterns using all three sizes. Encourage children to copy your pattern and also continue it, using all of the blocks they have.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="1">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Review key vocabulary, such as <ac_teacher-talk>large, small,</ac_teacher-talk> and <ac_teacher-talk>pattern</ac_teacher-talk>. Before the activity, have children sort everyone’s Pattern Blocks into piles of small and large blocks to strengthen children’s connection to the words in this new context. Pull from each separate pile as you create your patterns.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Sensory Support</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>To ensure that children are seeing your patterns as you intend, make sure that all of you are facing the same way. Because you want their patterns to read from left to right, model starting on the left and continuing to the right as you sit and face the blocks with them.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65179-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>How Big Is My House?</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Gather Materials</ac_teacher-card_run-in_hed>  For this activity, you will need enough Connecting Cubes for children to build structures of varying sizes.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>When we read <ac_teacher-speaking_emphasis_blue>The Voice in Rabbit’s House,</ac_teacher-speaking_emphasis_blue> we saw that all of the characters were very different sizes!</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>In this activity, I will assign each of you a character. Your task will be to use Connecting Cubes to build a house that character would be comfortable living in. Don’t worry about making your house perfect—just make sure it is the right size!</ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Review Character Sizes</ac_teacher-card_run-in_hed>  Discuss the characters in the story briefly with children, guiding children to understand this definite size order: Caterpillar, Frog, Rabbit, Leopard, and Rhinoceros.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Assign</ac_teacher-card_run-in_hed>  Assign each child a character to build a house for. Remind them to consider the character’s size as they build.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Build</ac_teacher-card_run-in_hed>  Have children build their character a house using Connecting Cubes. Encourage them to be creative, and not to worry about fine details—the size is what matters.</ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Size</ac_teacher-card_run-in_hed>  Congratulate children on a great job as builders! Compare the sizes of the houses they created, and discuss perspective: <ac_teacher-speaking>Leopard’s house looks just right for her! If Caterpillar lived in this house, would she think it was just right for her? What would Rhinoceros think?</ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>How Big Is My House?</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_diff_support-challenge_heds>Support</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Assign children only two characters to build houses for: Caterpillar and Rhinoceros. Alternatively, you may have children sit in size order of the characters they have been assigned, and have each child build one by one from the smallest house to the largest.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Assign each child their character secretly. When all children have finished building, encourage children to guess which character’s house each child built and explain why they think that.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="1">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Review key vocabulary, drawing Spanish-speakers’ attention to the cognates <ac_teacher-talk>leopardo</ac_teacher-talk> (leopard) and <ac_teacher-talk>rinoceronte</ac_teacher-talk> (rhinoceros). As you assign each child a character, make a hand gesture to show the character’s size. You may also find a set of five objects of varying heights, and point to the one that represents the size of each child’s character as you discuss.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Gross Motor Development</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Have children act out the sizes of each of the characters. They can stand very tall and wide as Rhinoceros, and crouch down to be tiny Caterpillar. Once they have finished their houses, encourage children to pretend to be their character entering the house. <ac_teacher-speaking>How does Caterpillar go inside a house? Let’s crawl!</ac_teacher-speaking>
+          </ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65179-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

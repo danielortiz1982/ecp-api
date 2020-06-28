@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity-cards lang="es">
+  <ac_card-1 day="3">
+    <ac_card-1_front>
+      <graphic href="EC3-5_AC_Eng_Math_T8W02D3_C01_53253499_cropped.png"/>
+    </ac_card-1_front>
+    <ac_card-1_back>
+      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>¿arriba o abajo?</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_1" index="1">
+          <ac_ask-extend-hed>Pregunte </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Estos globos, ¿están flotando hacia arriba o hacia abajo?  </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_1" index="1">
+          <ac_support-challenge-hed>Apoye </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Estos globos están flotando hacia a<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(arriba)</ac_teacher-talk-emphasis_non-ital>. </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_1" index="1">
+          <ac_support-challenge-hed>Estimule </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Cómo lo saben? </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_1" index="1">
+          <ac_ask-extend-hed>Amplíe </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué más puede flotar? </ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66418-8</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved. © DenisNata/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-1_back>
+  </ac_card-1>
+  <ac_card-2 day="3">
+    <ac_card-2_front>
+      <graphic href="EC3-5_AC_Eng_Math_T8W02D3_C02_1414084754_cropped.png"/>
+    </ac_card-2_front>
+    <ac_card-2_back>
+      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>¿arriba o abajo?</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_2" index="1">
+          <ac_ask-extend-hed>Pregunte </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>El agua, ¿está fluyendo hacia arriba o hacia abajo? </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_2" index="1">
+          <ac_support-challenge-hed>Apoye </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>El agua está fluyendo hacia a<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(abajo)</ac_teacher-talk-emphasis_non-ital>.  </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_2" index="1">
+          <ac_support-challenge-hed>Estimule </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Cómo lo saben? </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_2" index="1">
+          <ac_ask-extend-hed>Amplíe </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué más puede fluir hacia abajo? </ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66418-8</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved. © Joshua Small-Photographer/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-2_back>
+  </ac_card-2>
+  <ac_card-3 day="3">
+    <ac_card-3_front>
+      <graphic href="EC3-5_AC_Eng_Math_T8W02D3_C03_280419425_cropped.png"/>
+    </ac_card-3_front>
+    <ac_card-3_back>
+      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>¿arriba O abajo?</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_3" index="1">
+          <ac_ask-extend-hed>Pregunte </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Esta niña, ¿está yendo hacia arriba o hacia abajo por la escalera? </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_3" index="1">
+          <ac_support-challenge-hed>Apoye </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Esta niña está yendo hacia a<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(arriba)</ac_teacher-talk-emphasis_non-ital>. </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_3" index="1">
+          <ac_support-challenge-hed>Estimule </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Cómo lo saben? </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_3" index="1">
+          <ac_ask-extend-hed>Amplíe </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Dónde más pueden subir?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66418-8</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved. © Ramil Gibadullin/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-3_back>
+  </ac_card-3>
+  <ac_card-4 day="3">
+    <ac_card-4_front>
+      <graphic href="EC3-5_AC_Eng_Math_T8W02D3_C04_1435259000_cropped.png"/>
+    </ac_card-4_front>
+    <ac_card-4_back>
+      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>¿arriba o abajo?</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_4" index="1">
+          <ac_ask-extend-hed>Pregunte </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Este avión, ¿está volando hacia arriba o hacia abajo?  </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_4" index="1">
+          <ac_support-challenge-hed>Apoye </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Este avión está volando hacia a<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(arriba)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_4" index="1">
+          <ac_support-challenge-hed>Estimule </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Cómo lo saben? </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_4" index="1">
+          <ac_ask-extend-hed>Amplíe </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué más puede volar hacia arriba?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66418-8</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved. © Muratart/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-4_back>
+  </ac_card-4>
+  <ac_card-5 day="3">
+    <ac_card-5_front>
+      <graphic href="EC3-5_AC_Eng_Math_T8W02D3_C05_1024532500_cropped.png"/>
+    </ac_card-5_front>
+    <ac_card-5_back>
+      <masthead>
+        <section-block type="masthead_b_5" index="1">
+          <ac_header-game-card>¿arriba O abajo?</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_5" index="1">
+          <ac_ask-extend-hed>Pregunte </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Este gato, ¿está saltando hacia arriba o hacia abajo?  </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_5" index="1">
+          <ac_support-challenge-hed>Apoye </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Este gato está saltando hacia a<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(abajo)</ac_teacher-talk-emphasis_non-ital>. </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_5" index="1">
+          <ac_support-challenge-hed>Estimule </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Cómo lo saben? </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_5" index="1">
+          <ac_ask-extend-hed>Amplíe </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿Qué más puede saltar de un árbol?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_5" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66418-8</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved. © Valsheb/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-5_back>
+  </ac_card-5>
+  <ac_card-6 day="3">
+    <ac_card-6_front>
+      <graphic href="EC3-5_AC_Eng_Math_T8W02D3_C06_1120369781_cropped.png"/>
+    </ac_card-6_front>
+    <ac_card-6_back>
+      <masthead>
+        <section-block type="masthead_b_6" index="1">
+          <ac_header-game-card>¿arriba O abajo?</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_6" index="1">
+          <ac_ask-extend-hed>Pregunte </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Esta niña, ¿está saltando hacia arriba o hacia abajo?  </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_6" index="1">
+          <ac_support-challenge-hed>Apoye </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Esta niña está saltando hacia  a<fill-in-the-blank>          </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(abajo)</ac_teacher-talk-emphasis_non-ital>. </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_6" index="1">
+          <ac_support-challenge-hed>Estimule </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Cómo lo saben? </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_6" index="1">
+          <ac_ask-extend-hed>Amplíe </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>¿De dónde más podrían saltar hacia abajo?</ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_6" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66418-8</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved. © Gelpi/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-6_back>
+  </ac_card-6>
+  <ac_card-7 day="3">
+    <ac_card-7_front>
+      <graphic href="EC3-5_AC_Eng_Math_T8W02D3_C07_210560827_cropped.png"/>
+    </ac_card-7_front>
+    <ac_card-7_back>
+      <masthead>
+        <section-block type="masthead_b_7" index="1">
+          <ac_header-game-card>¿arriba O abajo?</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_7" index="1">
+          <ac_ask-extend-hed>Pregunte </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Esta persona, ¿está lanzando la pelota hacia arriba o hacia abajo?  </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_7" index="1">
+          <ac_support-challenge-hed>Apoye </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Esta persona está lanzando la pelota hacia a<fill-in-the-blank>          </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(arriba)</ac_teacher-talk-emphasis_non-ital>.</ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_7" index="1">
+          <ac_support-challenge-hed>Estimule </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Cómo lo saben? </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_7" index="1">
+          <ac_ask-extend-hed>Amplíe </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>
+            <ac_teacher-talk>¿Qué más podrían lanzar al aire?</ac_teacher-talk>
+          </ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_7" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66418-8</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved. © 9’63 Creation/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-7_back>
+  </ac_card-7>
+  <ac_card-8 day="3">
+    <ac_card-8_front>
+      <graphic href="EC3-5_AC_Eng_Math_T8W02D3_C08_1100275883_cropped.png"/>
+    </ac_card-8_front>
+    <ac_card-8_back>
+      <masthead>
+        <section-block type="masthead_b_8" index="1">
+          <ac_header-game-card>¿arriba O abajo?</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_8" index="1">
+          <ac_ask-extend-hed>Pregunte </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Este pájaro, ¿está volando hacia arriba o hacia abajo?  </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_8" index="1">
+          <ac_support-challenge-hed>Apoye </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Este pájaro está volando hacia  a<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(abajo)</ac_teacher-talk-emphasis_non-ital>. </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_8" index="1">
+          <ac_support-challenge-hed>Estimule </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Cómo lo saben? </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_8" index="1">
+          <ac_ask-extend-hed>Amplíe </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>
+            <ac_teacher-talk>¿Qué más puede volar hacia abajo? </ac_teacher-talk>
+          </ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_8" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66418-8</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved. © Matthew Gould/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-8_back>
+  </ac_card-8>
+  <ac_card-9 day="3">
+    <ac_card-9_front>
+      <graphic href="EC3-5_AC_Eng_Math_T8W02D3_C09_1199171443_cropped.png"/>
+    </ac_card-9_front>
+    <ac_card-9_back>
+      <masthead>
+        <section-block type="masthead_b_9" index="1">
+          <ac_header-game-card>¿arriba O abajo?</ac_header-game-card>
+        </section-block>
+      </masthead>
+      <ask-section>
+        <section-block type="ask_b_9" index="1">
+          <ac_ask-extend-hed>Pregunte </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>Esta ballena, ¿está nadando hacia arriba o hacia abajo?  </ac_game_card-teacher-talk-white>
+        </section-block>
+      </ask-section>
+      <support-section>
+        <section-block type="support_b_9" index="1">
+          <ac_support-challenge-hed>Apoye </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>Esta ballena está nadando hacia a<fill-in-the-blank>         </fill-in-the-blank> <ac_teacher-talk-emphasis_non-ital>(abajo)</ac_teacher-talk-emphasis_non-ital>. </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </support-section>
+      <challenge-section>
+        <section-block type="challenge_b_9" index="1">
+          <ac_support-challenge-hed>Estimule </ac_support-challenge-hed>
+          <ac_game_card-teacher-talk-solid>¿Cómo lo saben? </ac_game_card-teacher-talk-solid>
+        </section-block>
+      </challenge-section>
+      <extend-section>
+        <section-block type="extend_b_9" index="1">
+          <ac_ask-extend-hed>Amplíe </ac_ask-extend-hed>
+          <ac_game_card-teacher-talk-white>
+            <ac_teacher-talk>¿Qué más puede nadar hacia abajo?</ac_teacher-talk>
+          </ac_game_card-teacher-talk-white>
+        </section-block>
+      </extend-section>
+      <copyright-section>
+        <section-block type="copyright_b_9" index="1">
+          <ac_copyright-line>
+            <isbn>978-1-338-66418-8</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved. © Wildestanimal/Shutterstock.</ac_copyright-line>
+        </section-block>
+      </copyright-section>
+    </ac_card-9_back>
+  </ac_card-9>
+</activity-cards>

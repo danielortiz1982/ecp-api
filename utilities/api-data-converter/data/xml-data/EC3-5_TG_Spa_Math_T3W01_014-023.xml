@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./preview-styles.css" type="text/css"?>
+<teaching-guide xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" lang="es">
+  <day_1>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 1: </tg_week_hed>
+        <tg_topic_hed>Los cinco sentidos</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338633931_COV_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: ¡<tg_materials-caption_book-title-Ital>Hurra por Saltarín!</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T3_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T3_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> conteo </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo emocional </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> vocabulario</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para desarrollar conocimientos, cantar con los niños y presentar el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>primavera</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>sentidos</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento preguntando: <tg_bullet-directions_guiding-question>¿Cómo sabe Saltarín que ha brotado la primavera?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Lea por gusto y comprensión, y señale las oportunidades para contar. </tg_bullet-directions>
+        <tg_bullet-directions>Verifique la comprensión, diferenciando según sea necesario. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende que los objetos y las cantidades se pueden contar; Cuenta en voz alta objetos del 1 al 10 de uno en uno.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica sus propias emociones.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende y usa varios tipos de palabras.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Desarrollo físico </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motricidad fina:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Experimenta con una variedad de destrezas motoras finas, pero puede carecer de fuerza y control.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Descubrir el error: contemos</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T3_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+        <graphic href="EC_stock_Blocks_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Objetos del salón</tg_materials-caption>
+        <graphic href="EC_stock_WritingTools_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Materiales de escritura</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  conteo </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo emocional </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Desarrollo físico:</tg_learning-goals_inline-hed>  motricidad fina</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:  </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Cuente objetos señalando a cada uno de ellos mientras cuenta.  </tg_bullet-directions>
+        <tg_bullet-directions>Anime a los niños a descubrir los errores que comete a propósito al contar.  </tg_bullet-directions>
+        <tg_bullet-directions>Comente los errores. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Qué podemos aprender con nuestros cinco sentidos?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué sentidos se usan en el cuento? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes hacer como si fuera primavera? ¿Qué harás en este hermoso día de primavera? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cuántos cubos hay? ¿Cómo lo sabes? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo sabes cuando llega la primavera? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes hacer un conejo como Saltarín? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC  </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué sonido oyes al principio de la palabra <tg_teacher-talk_emphasis_non-ital>primavera</tg_teacher-talk_emphasis_non-ital>? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Haz una torre con bloques. ¿Cuántos bloques usaste?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. ¡Hurra por Saltarín! by Tim Hopgood. Copyright © 2014 by Tim Hopgood. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Macmillan Children’s Books, a division of Macmillan Publishers International Limited. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Photos © Shutterstock: blocks (Nenov Brothers Images), crayons (Lucie Lang), pencils (urfin).</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_1>
+  <day_2>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 1: </tg_week_hed>
+        <tg_topic_hed>Los cinco sentidos</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338633931_COV_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: ¡<tg_materials-caption_book-title-Ital>Hurra por Saltarín!</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T3_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T3_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> conteo </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo emocional </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> vocabulario</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para compartir el Mind Builder <tg_bullet-directions_emphasis_Ital>habla sobre tus sentimientos</tg_bullet-directions_emphasis_Ital>, y presente el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>emociones</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>suena</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento relacionando el Mind Builder con ¡<tg_bullet-directions_book-title>Hurra por Saltarín!</tg_bullet-directions_book-title> </tg_bullet-directions>
+        <tg_bullet-directions>Haga una lectura atenta para hablar sobre los sentimientos y repase contar de uno en uno. </tg_bullet-directions>
+        <tg_bullet-directions>Ofrezca una oportunidad para prolongar el juego. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende que los objetos y las cantidades se pueden contar; Cuenta en voz alta objetos del 1 al 10 de uno en uno.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica sus propias emociones.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende y usa varios tipos de palabras.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Adivinanzas</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T3_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Cubos conectores</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> conteo </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo emocional</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:  </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Anime a los niños a adivinar la cantidad de cubos que ha escondido. </tg_bullet-directions>
+        <tg_bullet-directions>Cuente los cubos y compare la cantidad con las suposiciones. </tg_bullet-directions>
+        <tg_bullet-directions>Comente los sentimientos de los niños sobre los resultados. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Qué podemos aprender con nuestros cinco sentidos?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué sentidos usas cuando lees un libro? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué emociones puedes representar? ¿Cómo las demostrarías? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cuántos puedes contar de una sola cosa? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué puedes escribir sobre uno de los cinco sentidos? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes hacer una cara que muestre una emoción? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC  </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes escribir tu nombre con letras magnéticas? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes construir un conejo?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. ¡Hurra por Saltarín! by Tim Hopgood. Copyright © 2014 by Tim Hopgood. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Macmillan Children’s Books, a division of Macmillan Publishers International Limited. Clifford the Big Red DogTM illustration copyright © The Norman Bridwell Trust. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_2>
+  <day_3>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 1: </tg_week_hed>
+        <tg_topic_hed>Los cinco sentidos</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338633931_COV_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: ¡<tg_materials-caption_book-title-Ital>Hurra por Saltarín!</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T3_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T3_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> conteo </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo emocional </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> lectura en voz alta</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para repasar términos ordinales, jugar a un juego y presentar el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>segundo</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>último</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento releyendo ¡<tg_bullet-directions_emphasis_Ital>Hurra por Saltarín! </tg_bullet-directions_emphasis_Ital>y haga la pregunta guía: <tg_bullet-directions_guiding-question>¿Qué sentidos usa Saltarín?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Lea de manera interactiva para profundizar la comprensión y practicar contar con ordinales. </tg_bullet-directions>
+        <tg_bullet-directions>Verifique la comprensión. Diferencie si es necesario. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende que los objetos y las cantidades se pueden contar; Cuenta en voz alta objetos del 1 al 10 de uno en uno; Usa correctamente los términos ordinales, incluyendo quinto, siguiente y último.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica sus propias emociones.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa información para describir.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Desarrollo físico </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motricidad gruesa:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la percepción para realizar movimientos a través del espacio e interacciones con objetos y personas.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Un desfile de conejos</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T3_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> conteo </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo emocional </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Desarrollo físico:</tg_learning-goals_inline-hed> motricidad gruesa</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Guíe a los niños para que hagan una fila y actúen como conejos haciendo un desfile. </tg_bullet-directions>
+        <tg_bullet-directions>Pídales que identifiquen su posición en la fila con términos ordinales. </tg_bullet-directions>
+        <tg_bullet-directions>Comente los números ordinales. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Qué podemos aprender con nuestros cinco sentidos?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué sentidos usas cuando oyes un cuento? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Representa que estás jugando afuera. ¿Cómo usas tus sentidos? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Haz una fila de cubos conectores. ¿Qué cubo está primero, segundo y último? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes escribir algo que ocurre en orden? ¿Qué ocurre primero? ¿Y último? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Haz un dibujo de tu estación preferida. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC  </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué letras ves en la palabra <tg_teacher-talk_emphasis_non-ital>primavera</tg_teacher-talk_emphasis_non-ital>? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Haz un tren con tres tipos de bloques distintos. ¿Qué bloque es el primero, cuál es el segundo y cuál es el último?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. ¡Hurra por Saltarín! by Tim Hopgood. Copyright © 2014 by Tim Hopgood. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Macmillan Children’s Books, a division of Macmillan Publishers International Limited. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_3>
+  <day_4>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 1: </tg_week_hed>
+        <tg_topic_hed>Los cinco sentidos</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="EC3-5_Flipchart_T3W1_SeeHearTasteSmellAndTouch_Spa_redux_cropped.png" index="1"/>
+        <tg_materials-caption index="1">
+          <tg_materials-caption_book-title-Ital>Papelógrafo de grandes ideas: ¡Ver! ¡Oír! ¡Probar! ¡Oler! ¡Tocar!</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T3_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="9781338633931_COV_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Libro: <tg_materials-caption_book-title-Ital>¡Hurra por Saltarín!</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="VC Redux Spa T3_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> conteo </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  motivación y creatividad </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed> vocabulario</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para repasar el orden al contar, jugar a un juego con los sentidos y presentar el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>probar</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>oler</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento conectando <tg_bullet-directions_book-title>¡Ver! ¡Oír! ¡Probar! ¡Oler! ¡Tocar! </tg_bullet-directions_book-title>y <tg_bullet-directions_book-title>¡Hurra por Saltarín!</tg_bullet-directions_book-title> </tg_bullet-directions>
+        <tg_bullet-directions>Realice una lectura interactiva y conecte con contar con los sentidos. </tg_bullet-directions>
+        <tg_bullet-directions>Ofrezca una oportunidad para prolongar el juego. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende que los objetos y las cantidades se pueden contar; Cuenta en voz alta objetos del 1 al 10 de uno en uno; Usa correctamente los términos ordinales, incluyendo quinto, siguiente y último; Reconoce y nombra numerales de 0–9.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Hace conexiones entre situaciones.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende y usa varios tipos de palabras.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Números en parejas</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T3_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+        <graphic href="NumberCards_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjetas de números</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  conteo </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  motivación y creatividad</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:  </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Conecte los numerales con palabras de números y cantidades. </tg_bullet-directions>
+        <tg_bullet-directions>Desafíe a los niños a emparejar imágenes de números con sus nombres.  </tg_bullet-directions>
+        <tg_bullet-directions>Pídales que emparejen los números con sus nombres. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.  </tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Qué podemos aprender con nuestros cinco sentidos?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo te hace sentir el libro? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Representa que pruebas y hueles una comida deliciosa. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿De cuántas maneras distintas puedes mostrar el número cinco? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escribe sobre algo que descubriste con uno de tus sentidos. ¿Qué sentido usaste? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes crear algo que muestre uno de los cinco sentidos? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC  </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué sonido oyes al principio de <tg_teacher-talk_emphasis_non-ital>Saltarín</tg_teacher-talk_emphasis_non-ital>? ¿Puedes hallar esa letra? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes construir algo con solo cinco piezas? ¿Qué puedes hacer?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. ¡Hurra por Saltarín! by Tim Hopgood. Copyright © 2014 by Tim Hopgood. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Macmillan Children’s Books, a division of Macmillan Publishers International Limited. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_4>
+  <day_5>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 1: </tg_week_hed>
+        <tg_topic_hed>Los cinco sentidos</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338633931_COV_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>¡Hurra por Saltarín!</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T3_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T3_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> conteo </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo emocional </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> comprensión de lectura en voz alta</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para conectar el libro con la lectoescritura, cantar con los niños y presentar el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>tocar</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>vista</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento repasando el libro <tg_bullet-directions_emphasis_Ital>¡Hurra por Saltarín!</tg_bullet-directions_emphasis_Ital> y pregunte: <tg_bullet-directions_guiding-question>¿Qué puede aprender Saltarín usando sus sentidos?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Lea de manera interactiva propiciando la participación física y el enfoque en contar. </tg_bullet-directions>
+        <tg_bullet-directions>Verifique la comprensión. Diferencie si es necesario. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Comprende que los objetos y las cantidades se pueden contar; Cuenta en voz alta objetos del 1 al 10 de uno en uno; Reconoce y nombra numerales de 0–9.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica sus propias emociones.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Comprensión de lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa información para describir.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Escribe con propósitos diferentes.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Escritura independiente, dibujar o narrar un cuento</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC3-5_ResponsePrompt_cropped.png" index="1"/>
+        <tg_materials-caption index="0">Hoja de respuestas </tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> conteo </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo emocional </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> escritura</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Apoye a los niños en su intento por responder a la pregunta: <tg_bullet-directions_guiding-question>¿Cómo usas tus sentidos para aprender cosas del mundo? ¿Cuántos sentidos usas?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario. </tg_bullet-directions>
+        <tg_bullet-directions>Guarde los escritos de los niños para mostrarlos la próxima semana. </tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Qué podemos aprender con nuestros cinco sentidos?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cuál de los cinco sentidos es más fuerte en este libro? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Imagina que es el primer día de la primavera. ¿Qué ves? ¿Qué sientes? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué quieres aprender? ¿Cómo puedes usar tus sentidos para aprender más sobre eso? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escribe sobre algo que puedes ver o tocar. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes hacer una de las partes del cuerpo que usamos para alguno de los cinco sentidos? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC  </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué letra oyes al principio de <tg_teacher-talk_emphasis_non-ital>sentir</tg_teacher-talk_emphasis_non-ital>?  </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes construir algo con exactamente ocho piezas? ¿Qué construirás?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. ¡Hurra por Saltarín! by Tim Hopgood. Copyright © 2014 by Tim Hopgood. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Macmillan Children’s Books, a division of Macmillan Publishers International Limited. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_5>
+  <day_1_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Sabe que los objetos o que partes de un objeto se pueden contar.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.1);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Cuenta 1-10 objetos, contando cada objeto una sola vez.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Empieza a entender la diferencia y la conexión entre las emociones/sentimientos y comportamientos.</tg_skills-focus-skill-text>  <tg_skills-focus-skill-code>(TX.I.B.2.a, MB);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Puede comunicar emociones/sentimientos básicos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.B.2.b, MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa un vocabulario amplio para hablar, agregando varias palabras nuevas por día.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.4)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Desarrollo físico </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motricidad fina:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Muestra control de las tareas que requieren fuerza y el control de los músculos pequeños.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IX.B.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_1_texas>
+  <day_2_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Sabe que los objetos o que partes de un objeto se pueden contar.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.1);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Cuenta 1-10 objetos, contando cada objeto una sola vez.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Empieza a entender la diferencia y la conexión entre las emociones/sentimientos y comportamientos.</tg_skills-focus-skill-text>  <tg_skills-focus-skill-code>(TX.I.B.2.a, MB);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Puede comunicar emociones/sentimientos básicos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.B.2.b, MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa un vocabulario amplio para hablar, agregando varias palabras nuevas por día.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.4)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_2_texas>
+  <day_3_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Sabe que los objetos o que partes de un objeto se pueden contar.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.1);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Cuenta 1-10 objetos, contando cada objeto una sola vez.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.3);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Usa términos ordinales verbales.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.7)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Empieza a entender la diferencia y la conexión entre las emociones/sentimientos y comportamientos.</tg_skills-focus-skill-text>  <tg_skills-focus-skill-code>(TX.I.B.2.a, MB);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Puede comunicar emociones/sentimientos básicos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.B.2.b, MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Alfabetización </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la información aprendida de los libros describiendo, relacionando, categorizando o comparando y contrastando.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Desarrollo físico </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motricidad gruesa:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Coordina secuencias de movimientos para realizar tareas.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IX.A.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_3_texas>
+  <day_4_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Sabe que los objetos o que partes de un objeto se pueden contar.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.1);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Cuenta 1-10 objetos, contando cada objeto una sola vez.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.3);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Usa términos ordinales verbales.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.7);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Reconoce numerales de una cifra, 0–9.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.9)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivación y creatividad:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Hace conexiones entre situaciones.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa un vocabulario amplio para hablar, agregando varias palabras nuevas por día.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.4)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_4_texas>
+  <day_5_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Sabe que los objetos o que partes de un objeto se pueden contar.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.1);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Cuenta 1-10 objetos, contando cada objeto una sola vez.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.3);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text> Reconoce numerales de una cifra, 0–9.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.9)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo emocional:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Empieza a entender la diferencia y la conexión entre las emociones/sentimientos y comportamientos.</tg_skills-focus-skill-text>  <tg_skills-focus-skill-code>(TX.I.B.2.a, MB);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Puede comunicar emociones/sentimientos básicos.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.B.2.b, MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Alfabetización </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Lectura en voz alta:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa la información aprendida de los libros describiendo, relacionando, categorizando o comparando y contrastando.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.III.D.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Escribe en forma independiente para comunicar sus ideas con varios fines.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IV.A.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_5_texas>
+</teaching-guide>

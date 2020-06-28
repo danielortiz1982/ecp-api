@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="en">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>Count It Down!</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Gather Materials</ac_teacher-card_run-in_hed>  For this activity, you will need Number Cards 1–10, and sets of 10 of several types of manipulatives (10 Connecting Cubes, 10 Pattern Blocks, etc.).</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>When we read <ac_teacher-speaking_emphasis_blue>Kindergarten Countdown!,</ac_teacher-speaking_emphasis_blue> we practiced counting backward—that’s a countdown.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Review Vocabulary</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Let’s review the word <ac_teacher-speaking_emphasis_blue>countdown.</ac_teacher-speaking_emphasis_blue>
+              </ac_teacher-speaking> Use the <ac_teacher-talk>countdown</ac_teacher-talk> Vocabulary Card to reteach the word.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>I will put objects in the center and show a Number Card that matches how many objects there are. Then, one of you will start the countdown at that number. You’ll take turns removing one object and saying the next number until there are zero objects to count.</ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Set Up</ac_teacher-card_run-in_hed>  Have children sit in a circle. Place 10 Connecting Cubes in the center. Then, hold up a Number Card showing 10. Ask, <ac_teacher-speaking>This is how many Connecting Cubes there are. What number will start our countdown?</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Countdown</ac_teacher-card_run-in_hed>  Point to a child to start the countdown. Guide the child to count the first number (10) while removing one Connecting Cube from the center. Then, guide the next child to continue the countdown by taking another cube and saying that number aloud. Continue until all Connecting Cubes are removed and the countdown ends at one.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat</ac_teacher-card_run-in_hed>  Do the activity again, this time using six Pattern Blocks and the Number Card for six. Continue with various amounts of manipulatives as time allows.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Counting Order</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>We used many different objects as we counted. Did we always say the numbers in the same order? Let’s count down from 10 to one.</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>Count It Down!</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="1">
+          <ac_diff_support-challenge_heds>Support</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Start with five of each manipulative. Review counting from five to one. Display Number Cards and/or Magnetic Numbers 1–5 as a visual reference. Remove the visual references and/or increase the number of manipulatives used as students become more proficient.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Challenge children to count down until zero, calling out the number as a group when there are no more manipulatives in the center.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="1">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Multilingual learners may need extra time to count backward, as they may still be growing used to counting forward in a new language. Give all children ample time to say their number. You may also line up all of the Number Cards in a row in the center of the circle so that children can reference them as they count.<ac_teacher-speaking/>
+          </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Fine Motor Development</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Have children use a pair of tweezers to pick up each manipulative and pass the tweezers around the circle for the next child’s use.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65582-7</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>Count and Switch</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Gather Materials</ac_teacher-card_run-in_hed>  For this activity, you will need 10 Connecting Cubes for each child and Number Cards 1–10.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>We practiced counting while we read Kindergarten Countdown!. We also talked about changes and how to become more independent as we grow up.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Review Vocabulary</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Let’s review the words <ac_teacher-speaking_emphasis_blue>change</ac_teacher-speaking_emphasis_blue> and <ac_teacher-speaking_emphasis_blue>independent.</ac_teacher-speaking_emphasis_blue>
+              </ac_teacher-speaking> Use <ac_teacher-talk>change</ac_teacher-talk> and <ac_teacher-talk>independent</ac_teacher-talk> Vocabulary Cards to reteach the words.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>In this activity, you will work with a partner to count out a certain number of Connecting Cubes from a pile. Then, you will switch partners and count again. You will also have a chance to count the Connecting Cubes on your own.</ac_teacher-speaking>    </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Set Up</ac_teacher-card_run-in_hed>  Pair children with their first partners. Give each pair 10 Connecting Cubes.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Count</ac_teacher-card_run-in_hed>  Hold up the Number Card showing 3, and guide partners to count out that number of Connecting Cubes from the pile. When children finish counting, ask, <ac_teacher-speaking>How many Connecting Cubes did you count?</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Switch</ac_teacher-card_run-in_hed>  Have children switch partners and repeat the activity. Ask children to count out a different number of Connecting Cubes.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Independent</ac_teacher-card_run-in_hed>  Give each child their own set of 10 Connecting Cubes, and have them work independently to count out new amounts from the pile of 10.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Working</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>What changes happened during this activity? What was it like to switch partners? How did it feel to be independent?</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>Count and Switch</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Support</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Start by giving each pair five Connecting Cubes. Encourage children to physically move each Connecting Cube as they count, and to count aloud. Model counting three Connecting Cubes from a group of five.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Challenge children to count backward from the number on the number card as they count out the Connecting Cubes. </ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="1">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>For the first round of the activity, try to pair multilingual learners with children who speak the same home language. Then change partners so they are working with someone who may not speak the same language. Use hand gestures to help explain the activity.<ac_teacher-speaking/>
+          </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Attention Support</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Have children work in separate areas, first with partners and then individually, so that they are less likely to be distracted by what other children are doing.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65582-7</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>What’s Your Routine?</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>When we read <ac_teacher-speaking_emphasis_blue>Kindergarten Countdown!,</ac_teacher-speaking_emphasis_blue> we talked about what Tom did before and after he started kindergarten.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Review Vocabulary</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Let’s review the words <ac_teacher-speaking_emphasis_blue>before</ac_teacher-speaking_emphasis_blue> and <ac_teacher-speaking_emphasis_blue>after.</ac_teacher-speaking_emphasis_blue>
+              </ac_teacher-speaking>Use the <ac_teacher-talk>before</ac_teacher-talk> and <ac_teacher-talk>after</ac_teacher-talk> Vocabulary Cards to reteach the words.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>In this activity, I will show you a picture of an activity many people do every day. You will tell me whether you do the activity before or after you eat dinner. Then, we will talk about our routines—the things we do every day at the same time.</ac_teacher-speaking>    </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask</ac_teacher-card_run-in_hed>  Show children the first Activity Card, and ask them whether they do the activity in the picture before or after they eat dinner. Children’s answers may vary for some activities, such as washing hands or playing with friends. All answers that make sense are encouraged!</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Extend</ac_teacher-card_run-in_hed>  Guide children to further discuss their routines by asking what they do before or after the activity pictured. Children’s routines will likely be unique, so encourage and celebrate all children’s daily schedules.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat</ac_teacher-card_run-in_hed>  Continue the activity until all Activity Cards have been shown.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Routines</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>What was it like to talk about your routine? Was it easy to use <ac_teacher-speaking_emphasis_blue>before</ac_teacher-speaking_emphasis_blue> and <ac_teacher-speaking_emphasis_blue>after</ac_teacher-speaking_emphasis_blue>? What was hard? We don’t all have the same routines. But a lot of you do these activities at the same time! We all go to preschool and eat lunch before we eat dinner.</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>What’s Your Routine?</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_diff_support-challenge_heds>Support</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Model discussing your own routine: <ac_teacher-talk>I always brush my teeth after I eat dinner. That way I can make sure my teeth are clean before I go to bed!</ac_teacher-talk> Use simpler language to discuss before and after: <ac_teacher-talk>Do you go to sleep and then eat dinner? Or do you eat dinner and then sleep?</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Ask children to explain why they do each activity at the time they do. Challenge children to independently place the Activity Cards in order to reflect their personal routine.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="1">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>This activity requires heavy language use and may be challenging for multilingual learners. Use hand gestures and point to the picture to assist with vocabulary. Suggest that children answer with only a <ac_teacher-talk>yes</ac_teacher-talk> or a <ac_teacher-talk>no</ac_teacher-talk>, then use sentence clozes to extend their answer: <ac_teacher-talk>I brush my teeth a</ac_teacher-talk>
+            <fill-in-the-blank>    </fill-in-the-blank> (after).</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Gross Motor Development</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Have children act out the activities and routines shown on each Activity Card. Encourage them to act out any other activities they mention during discussion as well.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65582-7</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>Architects Count!</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Gather Materials</ac_teacher-card_run-in_hed>  For this activity, you will need 10 Connecting Cubes for each child and Number Cards 1–10.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>When we read <ac_teacher-speaking_emphasis_blue>I Want To...</ac_teacher-speaking_emphasis_blue> we practiced counting. We also talked about what we want to be when we grow up.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Architects are people whose job is to design and build buildings. Some of you might want to do that when you grow up! In this activity, we will all pretend to be architects by building Connecting Cube towers. I will hold up a Number Card to tell you how many Connecting Cubes to use to make your tower.</ac_teacher-speaking>      </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Build</ac_teacher-card_run-in_hed>  Give each child 10 Connecting Cubes. Hold up a Number Card and say, <ac_teacher-speaking>This is how many Connecting Cubes you will use to build your tower.</ac_teacher-speaking> Guide children to build a tower using that number of Connecting Cubes.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Count</ac_teacher-card_run-in_hed>  Ask each child to count aloud the Connecting Cubes they used in their tower one at a time. Ask, <ac_teacher-speaking>Is that the same as the number I showed? How can you tell?</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat</ac_teacher-card_run-in_hed>  Do the activity again, showing different number cards each time.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Architects</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>How did it feel to be architects? How did you know how many Connecting Cubes to use? Architects use numbers every day. Do you think you would want to be an architect?</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>Architects Count!</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_diff_support-challenge_heds>Support</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Start with five Connecting Cubes. Model reading a Number Card, choosing that number of Connecting Cubes to build with, and counting each cube in your tower aloud. Then have children repeat with the same number of cubes.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Give each child a different Number Card and have them build a tower with that number of cubes. Challenge children to count backward as they select their cubes.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="1">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Review key vocabulary, such as <ac_teacher-talk>tower, job, build,</ac_teacher-talk> and <ac_teacher-talk>count</ac_teacher-talk>. Review numbers 1–10, and use hand gestures to help explain the task.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Sensory Support</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Provide Connecting Cubes of the same color to children who may have color sensitivity. Consider playing soft music while children build, or having children with sound sensitivity wear headphones to block out classroom noise.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65582-7</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="es">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>Búsqueda de números</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cuando leímos <ac_teacher-speaking_emphasis_blue>Veinte bostezos,</ac_teacher-speaking_emphasis_blue> practicamos contar hasta 20.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad haremos una búsqueda de números. Unas veces les voy a pedir que encuentren un cierto número de objetos. Otras les voy a pedir que encuentren un objeto con un cierto número de partes. Trabajarán con un compañero para buscar en el salón y traer la cantidad correcta de objetos. Luego, los contaremos para verificar.</ac_teacher-speaking>     </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Buscar</ac_teacher-card_run-in_hed>  Distribuya a los niños en parejas. Dé a todos el mismo número de objetos para buscar. Diga: <ac_teacher-speaking>Busquen tres libros.</ac_teacher-speaking> Guíe a las parejas para buscar por el salón para encontrar los objetos y luego regresen al grupo pequeño.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Contar</ac_teacher-card_run-in_hed>  Pida a cada compañero que cuente los objetos que encontraron. Guíe a los niños para que señalen cada objeto a medida que cuentan en voz alta.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Repita las actividad, pero esta vez pida que busquen un objeto con cierto número de partes. <ac_teacher-speaking>Encuentren algo que tenga dos ojos.</ac_teacher-speaking> Pida a las parejas que busquen por el salón y traigan un objeto que encaje con la descripción. Pídales que señalen cada parte del objeto mientras cuentan en voz alta. Repita la actividad si el tiempo lo permite.</ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar</ac_teacher-card_run-in_hed>  Hable sobre buscar y contar objetos. <ac_teacher-speaking>¿Qué fue más fácil, buscar un cierto número de objetos o algo con un cierto número de partes? ¿Qué hizo que un tipo de búsqueda fuera fácil o difícil?</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>Búsqueda de números</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="1">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Empiece pidiendo un cierto número de objetos y pase a trabajar con partes cuando vea que los niños estan preparados. Pida siempre un número menor de cinco. Para el primer objeto pedido, demuestre cómo buscar en el salón, pensando en voz alta mientras cuenta.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Invite a los niños a elegir el objeto o la parte de un objeto que el grupo debe buscar. Anime a los niños a describir con oraciones completas los objetos que encuentran: <ac_teacher-talk>Esto es una muñeca. Tiene dos ojos.</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Levante una tarjeta numérica para mostrar cuántos de cada objeto está pidiendo. Haga gestos con la mano o muestre un ejemplo del objeto que está pidiendo para ayudar a los niños a entender el vocabulario. Si es posible, agrupe a los alumnos multilingües con compañeros que hablen la misma lengua materna.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Apoyo para el déficit de atención</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Repita las instrucciones mientras los niños buscan para ayudarlos a centrarse en la tarea. Por ejemplo: <ac_teacher-speaking>¡Estoy impaciente por ver qué encuentran que tenga dos ojos!</ac_teacher-speaking> También puede asignar a las parejas secciones específicas del salón para que busquen allí.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66403-4</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>contar detrás de la cortina</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Para esta actividad, necesitará una carpeta que sirva como “cortina” y 10 cubos conectores para cada niño y para usted.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cuando leímos <ac_teacher-speaking_emphasis_blue>Veinte bostezos,</ac_teacher-speaking_emphasis_blue> hablamos sobre cómo los personajes usaban su memoria para resolver problemas.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el vocabulario</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Repasemos las palabras <ac_teacher-speaking_emphasis_blue>memoria</ac_teacher-speaking_emphasis_blue> y <ac_teacher-speaking_emphasis_blue>recordar.</ac_teacher-speaking_emphasis_blue>
+              </ac_teacher-speaking> <ac_teacher-talk-emphasis>Use las tarjetas de vocabulario </ac_teacher-talk-emphasis>
+              <ac_teacher-talk>memoria </ac_teacher-talk>
+              <ac_teacher-talk-emphasis>y</ac_teacher-talk-emphasis>
+              <ac_teacher-speaking> </ac_teacher-speaking>
+              <ac_teacher-talk>recordar </ac_teacher-talk>
+              <ac_teacher-talk-emphasis>para repasar las palabras.</ac_teacher-talk-emphasis></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, les mostraré un cierto número de cubos. Luego, pondré los cubos “detrás de la cortina”. Ustedes usarán su memoria para recordar cuántos cubos hay y luego contarán el mismo número de cubos.</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Mostrar</ac_teacher-card_run-in_hed>  Ponga sobre la mesa dos cubos conectores de su conjunto de 10. Dé a los niños unos momentos para mirar los cubos que puso.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Cierre la cortina</ac_teacher-card_run-in_hed>  Coloque la carpeta como “cortina” para que los niños ya no puedan ver sus dos cubos. Pregunte: <ac_teacher-speaking>¿Cuántos cubos hay detrás de la cortina? Cuenten el mismo número de cubos de su pila.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Contar y verificar</ac_teacher-card_run-in_hed>  Verifique que los niños cuenten y tomen dos cubos de su conjunto de 10. Una vez que hayan separado dos cubos, levante la “cortina”. Pida a los niños que verifiquen si tienen la misma cantidad.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad poniendo diferentes números de cubos “detrás de la cortina” mientras el tiempo lo permita.   </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar</ac_teacher-card_run-in_hed>  Hable sobre cómo los niños usaron la memoria para hacer la tarea. <ac_teacher-speaking>¿Cómo usaron ustedes su memoria en esta actividad?</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>contar detrás de la cortina</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Empiece con cinco cubos conectores en lugar de 10. Cuente sus cubos en voz alta antes de ponerlos “detrás de la cortina” y anime a los niños a contarlos con usted para reforzar su memoria.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Varíe el color y el patrón de los cubos conectores que coloca “detrás de la cortina”. Anime a los niños a mostrar el mismo el número y los mismos colores de los cubos que usted ocultó.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Repase el vocabulario clave, como<ac_teacher-talk> contar</ac_teacher-talk>, <ac_teacher-talk>cuántos</ac_teacher-talk> o <ac_teacher-talk>mismo</ac_teacher-talk>. Invite a los niños a señalar la tarjeta numérica que muestra la cantidad de cubos que contaron.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>En lugar de contar y separar los cubos, conéctelos mientras cuenta en voz alta. Anime a los niños a manipular los cubos para conectarlos del mismo modo que los suyos.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66403-4</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>¿UN LARGO TIEMPO O UN CORTO TIEMPO?</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cuando leímos <ac_teacher-speaking_emphasis_blue>Veinte bostezos,</ac_teacher-speaking_emphasis_blue> hablamos sobre cuánto tiempo lleva hacer diferentes actividades.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el vocabulario</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Repasemos la palabra <ac_teacher-speaking_emphasis_blue>largo.</ac_teacher-speaking_emphasis_blue>
+              </ac_teacher-speaking> <ac_teacher-talk-emphasis>Use la tarjeta de vocabulario </ac_teacher-talk-emphasis>
+              <ac_teacher-talk>largo </ac_teacher-talk>
+              <ac_teacher-talk-emphasis>para repasar la palabra.</ac_teacher-talk-emphasis></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Les mostraré una imagen de una actividad. Ustedes me dirán si la actividad lleva un largo tiempo o un corto tiempo.</ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre a los niños la primera tarjeta de actividad. Describa la actividad y pregunte si hacerla llevaría un largo tiempo o un corto tiempo. Anime a los niños a explicar por qué creen que una actividad llevará un largo tiempo o un corto tiempo.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Pida a los niños que describan otra actividad que lleve un tiempo más largo o más corto que la actividad de la tarjeta. Anímelos a usar oraciones completas. Por ejemplo: <ac_teacher-speaking>Hacer una caminata en el campo llevaría un tiempo más largo que caminar por la calle porque caminaría mucho tiempo.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad hasta haber mostrado todas las tarjetas. Anime a los niños a comparar también el tiempo de las actividades de las distintas tarjetas. Por ejemplo: <ac_teacher-speaking>¿Lleva más tiempo deslizarse por un tobogán que soplar una burbuja?</ac_teacher-speaking>    </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar</ac_teacher-card_run-in_hed>  Hable sobre el tiempo que llevan distintas actividades. <ac_teacher-speaking>¿Cómo pueden saber qué actividad lleva un tiempo más largo? ¿Qué se siente cuando una actividad lleva un largo tiempo?</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>¿UN LARGO TIEMPO O UN CORTO TIEMPO?</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Demuestre cómo decidir qué actividad lleva un tiempo más largo: <ac_teacher-talk>Creo que poner cereales en un tazón lleva un tiempo corto. ¡Los cereales salen de la caja rápidamente y el tazón es pequeño!</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Anime a los niños a que ordenen las tarjetas de actividad de la cantidad de tiempo más corta a la más larga que se necesita para completar las actividades.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Repase que las palabras <ac_teacher-talk>largo</ac_teacher-talk> y <ac_teacher-talk>corto</ac_teacher-talk> se usan para hablar de longitud y de duración en el tiempo. También explique que la frase <ac_teacher-talk>lleva tiempo</ac_teacher-talk> es una frase hecha, por lo que es posible que no se pueda traducir literalmente en otros idiomas. Explique que <ac_teacher-talk>llevar tiempo </ac_teacher-talk>significa <ac_teacher-talk>necesitar una cantidad de tiempo para hacer algo.</ac_teacher-talk></ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Apoyo al discurso</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Desarrolle el discurso de los niños ampliando sus oraciones para incluir más detalles. Por ejemplo, si un niño dice <ac_teacher-talk>Un paseo en bici es largo,</ac_teacher-talk> repita: <ac_teacher-speaking>Sí, un paseo en bici llevaría un largo tiempo, porque podrías ir a muchos lugares.</ac_teacher-speaking> Anime a los niños a repetir algunas de las frases que usted amplíe para practicar estructuras de oraciones más complejas.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66403-4</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>¿día o noche?</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cuando leímos <ac_teacher-speaking_emphasis_blue>El día y la noche,</ac_teacher-speaking_emphasis_blue> vimos diferentes cosas que suceden durante el día y la noche.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, les mostraré una imagen de algo que pueden ver o hacer durante el día o la noche. Ustedes decidirán si la imagen muestra el día o la noche y explicarán cómo lo saben. Luego, van a contar cosas que ven en la imagen.</ac_teacher-speaking>      </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre la primera tarjeta de actividad. Describa qué ven en la imagen y pregunte si pertenece al día o a la noche. Anime a los niños a explicar cómo saben si es de día o de noche.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Invite a los niños a contar los objetos en la imagen. Por ejemplo, los niños podrían contar el número de personas o árboles en la imagen o cuántos dedos tiene un gallo en cada pata.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad hasta haber mostrado todas las tarjetas de actividad. Para cada imagen, anime a los niños a decir cómo saben si la imagen muestra el día o la noche y a contar los objetos que ven.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Clasificar</ac_teacher-card_run-in_hed>  Guíe a los niños para que clasifiquen las tarjetas de actividad en dos categorías: <ac_teacher-talk>día</ac_teacher-talk> y <ac_teacher-talk>noche</ac_teacher-talk>. Anímelos a colocar las tarjetas en cada categoría una sobre la otra, de manera que formen una gráfica de barras simple. Pregunte: <ac_teacher-speaking>¿Cuántas tarjetas muestran el día? ¿Cuántas muestran la noche? ¿Hay más tarjetas que muestran el día o la noche? ¿Cómo lo saben?</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Las imágenes en esta actividad coinciden con lo que leímos en <ac_teacher-speaking_emphasis_blue>El día y la noche.</ac_teacher-speaking_emphasis_blue> ¿Cómo los ayudó su memoria para saber si las tarjetas muestran el día o la noche?</ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>¿día o noche?</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Demuestre cómo decidir si una imagen muestra el día o la noche, pensando en voz alta: <ac_teacher-talk>Esta tarjeta muestra a alguien pescando. ¡Si voy a pescar, me gustaría ver qué es lo que atrapo! Yo iría a pescar de día. En esta imagen puedo ver el sol, así que sé que es de día.</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Estimule a los niños para que clasifiquen las tarjetas de actividad primero en día y noche y, luego, según lo que muestran: campo o ciudad. Luego anímelos a usar la memoria y recordar<ac_teacher-talk> El día y la noche</ac_teacher-talk> para clasificarlas.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Repase el vocabulario clave, como <ac_teacher-talk>día, noche, imagen</ac_teacher-talk> y <ac_teacher-talk>cuántos</ac_teacher-talk>. Los niños pueden tener distintas experiencias con las actividades y los animales que muestran las tarjetas. Describa lo que muestra cada tarjeta y use gestos para apoyar sus descripciones.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad gruesa</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Invite a los niños a representar las actividades, los animales y las vistas en cada tarjeta. Pueden cantar como gallos, calentarse las manos en una fogata o simular que miran las luces de la ciudad de noche.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66403-4</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

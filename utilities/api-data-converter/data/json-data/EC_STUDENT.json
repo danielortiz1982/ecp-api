@@ -1,0 +1,798 @@
+[
+    {
+        "_id": "5e7a18fa6b2879004ad78f88",
+        "language": "en",
+        "themes": [
+          {
+            "pairs": [
+              {
+                "book": {
+                  "filename": "10603487",
+                  "ADAfilename": "RF_prek_ebk0100b_lets_be_friends",
+                  "id": 1,
+                  "thumbnail": "10603530.jpg",
+                  "title": "Let's Be Friends"
+                },
+                "story": {
+                  "id": 1,
+                  "poster": "bk0108sce.jpg",
+                  "readAlong": "bk0108svwe.mov",
+                  "thumbnail": "bk0108sce.jpg",
+                  "title": "Hi, Fly Guy!",
+                  "video": "bk0108sve.mov"
+                },
+                "_id": "5e3c62515b77d907e65419b8",
+                "id": 1
+              },
+              {
+                "book": {
+                  "filename": "10603495",
+                  "ADAfilename": "RF_prek_ebk0098b_this_is_the_way_we_play",
+                  "id": 2,
+                  "thumbnail": "10603536.jpg",
+                  "title": "This Is the Way We Play"
+                },
+                "story": {
+                  "id": 2,
+                  "poster": "bk0074sce.jpg",
+                  "readAlong": "bk0074svwe.mov",
+                  "thumbnail": "bk0074sce.jpg",
+                  "title": "Amazing Grace",
+                  "video": "bk0074sve.mov"
+                },
+                "_id": "5e3c62515b77d907e65419b9",
+                "id": 2
+              }
+            ],
+            "_id": "5e3c62515b77d907e65419b7",
+            "id": 1,
+            "style": "style1",
+            "backgroundImage": "/assets/images/backgrounds/T1.png",
+            "themeBackground": "/assets/images/themes/T1_Me_You.png",
+            "subheaderColor": "rgba(44, 110, 170, 1)",
+            "title": "Me and You"
+          },
+          {
+            "pairs": [
+              {
+                "book": {
+                  "filename": "10603454",
+                  "ADAfilename": "RF_prek_ebk0091b_this_is_the_way_we_eat_our_food",
+                  "id": 3,
+                  "thumbnail": "10603506.jpg",
+                  "title": "This Is the Way We Eat Our Food"
+                },
+                "story": {
+                  "id": 3,
+                  "poster": "bk0091sce.jpg",
+                  "readAlong": "bk0091svwe.mov",
+                  "thumbnail": "bk0091sce.jpg",
+                  "title": "How Do Dinosaurs Eat Their Food?",
+                  "video": "bk0091sve.mov"
+                },
+                "_id": "5e3c62515b77d907e65419bb",
+                "id": 3
+              },
+              {
+                "book": {
+                  "filename": "10603458",
+                  "ADAfilename": "RF_prek_ebk0125b_car_safety",
+                  "id": 4,
+                  "thumbnail": "10603534.jpg",
+                  "title": "Car Safety"
+                },
+                "story": {
+                  "id": 4,
+                  "poster": "bk0125sce.jpg",
+                  "readAlong": "bk0125svwe.mov",
+                  "thumbnail": "bk0125sce.jpg",
+                  "title": "Don't Let the Pigeon Drive the Bus!",
+                  "video": "bk0125sve.mov"
+                },
+                "_id": "5e3c62515b77d907e65419bc",
+                "id": 4
+              }
+            ],
+            "_id": "5e3c62515b77d907e65419ba",
+            "id": 2,
+            "style": "style2",
+            "backgroundImage": "/assets/images/backgrounds/T2.png",
+            "themeBackground": "/assets/images/themes/T2_Our_Community.png",
+            "subheaderColor": "rgba(28, 98, 162, 1)",
+            "title": "Our Community"
+          },
+          {
+            "pairs": [
+              {
+                "book": {
+                  "filename": "10603481",
+                  "ADAfilename": "RF_prek_ebk0005b_is_it_a_dinosaur",
+                  "id": 5,
+                  "thumbnail": "10603528.jpg",
+                  "title": "Is It a Dinosaur?"
+                },
+                "story": {
+                  "id": 5,
+                  "poster": "bk0019sce.jpg",
+                  "readAlong": "bk0019svwe.mov",
+                  "thumbnail": "bk0019sce.jpg",
+                  "title": "Danny and the Dinosaur",
+                  "video": "bk0019sve.mov"
+                },
+                "_id": "5e3c62515b77d907e65419be",
+                "id": 5
+              },
+              {
+                "book": {
+                  "filename": "10603450",
+                  "ADAfilename": "RF_prek_ebk0069b_rock_collecting",
+                  "id": 6,
+                  "thumbnail": "10603508.jpg",
+                  "title": "Rock Collecting"
+                },
+                "story": {
+                  "id": 6,
+                  "poster": "bk0069sce.jpg",
+                  "readAlong": "bk0069svwe.mov",
+                  "thumbnail": "bk0069sce.jpg",
+                  "title": "Sylvester and the Magic Pebble",
+                  "video": "bk0069sve.mov"
+                },
+                "_id": "5e3c62515b77d907e65419bf",
+                "id": 6
+              }
+            ],
+            "_id": "5e3c62515b77d907e65419bd",
+            "id": 3,
+            "style": "style3",
+            "backgroundImage": "/assets/images/backgrounds/T3.png",
+            "themeBackground": "/assets/images/themes/T3_Lets_investigate.png",
+            "subheaderColor": "rgba(82, 73, 183, 1)",
+            "title": "Let's Investigate"
+          },
+          {
+            "pairs": [
+              {
+                "book": {
+                  "filename": "10603442",
+                  "ADAfilename": "RF_prek_Ebk0002_lets_visit_a_dairy_farm",
+                  "id": 7,
+                  "thumbnail": "10603524.jpg",
+                  "title": "Let's Visit a Dairy Farm"
+                },
+                "story": {
+                  "id": 7,
+                  "poster": "bk0002sce.jpg",
+                  "readAlong": "bk0002svwe.mov",
+                  "thumbnail": "bk0002sce.jpg",
+                  "title": "Click, Clack, Moo: Cows That Type",
+                  "video": "bk0002sve.mov"
+                },
+                "_id": "5e3c62515b77d907e65419c1",
+                "id": 7
+              },
+              {
+                "book": {
+                  "filename": "10603446",
+                  "ADAfilename": "RF_prek_Ebk0065_a_kangaroo_joey_grows_up",
+                  "id": 8,
+                  "thumbnail": "10603532.jpg",
+                  "title": "A Kangaroo Joey Grows Up"
+                },
+                "story": {
+                  "id": 8,
+                  "poster": "bk0065sce.jpg",
+                  "readAlong": "bk0065svwe.mov",
+                  "thumbnail": "bk0065sce.jpg",
+                  "title": "Joey Runs Away",
+                  "video": "bk0065sve.mov"
+                },
+                "_id": "5e3c62515b77d907e65419c2",
+                "id": 8
+              }
+            ],
+            "_id": "5e3c62515b77d907e65419c0",
+            "id": 4,
+            "style": "style4",
+            "backgroundImage": "/assets/images/backgrounds/T4.png",
+            "themeBackground": "/assets/images/themes/T4_Amazing_Animals.png",
+            "subheaderColor": "rgba(181, 12, 18, 1)",
+            "title": "Discover Animals"
+          },
+          {
+            "pairs": [
+              {
+                "book": {
+                  "filename": "10603434",
+                  "ADAfilename": "RF_prek_ebk0032b_a_good_nights_sleep",
+                  "id": 9,
+                  "thumbnail": "10603540.jpg",
+                  "title": "A Good Night's Sleep"
+                },
+                "story": {
+                  "id": 9,
+                  "poster": "bk0032sce.jpg",
+                  "readAlong": "bk0032svwe.mov",
+                  "thumbnail": "bk0032sce.jpg",
+                  "title": "How Do Dinosaurs Say Good Night?",
+                  "video": "bk0032sve.mov"
+                },
+                "_id": "5e3c62515b77d907e65419c4",
+                "id": 9
+              },
+              {
+                "book": {
+                  "filename": "10603438",
+                  "ADAfilename": "RF_prek_ebk0105b_bicycle_safety",
+                  "id": 10,
+                  "thumbnail": "10603520.jpg",
+                  "title": "Bicycle Safety"
+                },
+                "story": {
+                  "id": 10,
+                  "poster": "bk0105sce.jpg",
+                  "readAlong": "bk0105svwe.mov",
+                  "thumbnail": "bk0105sce.jpg",
+                  "title": "Duck on a Bike",
+                  "video": "bk0105sve.mov"
+                },
+                "_id": "5e3c62515b77d907e65419c5",
+                "id": 10
+              }
+            ],
+            "_id": "5e3c62515b77d907e65419c3",
+            "id": 5,
+            "style": "style5",
+            "backgroundImage": "/assets/images/backgrounds/T5.png",
+            "themeBackground": "/assets/images/themes/T5_Healthy_Me.png",
+            "subheaderColor": "rgba(199, 41, 36, 1)",
+            "title": "Healthy Me"
+          },
+          {
+            "pairs": [
+              {
+                "book": {
+                  "filename": "10603426",
+                  "ADAfilename": "RF_prek_ebk0028_all_the_colors_of_the_rainbow",
+                  "id": 11,
+                  "thumbnail": "10603522.jpg",
+                  "title": "All the Colors of the Rainbow"
+                },
+                "story": {
+                  "id": 11,
+                  "poster": "bk0028sce.jpg",
+                  "readAlong": "bk0028svwe.mov",
+                  "thumbnail": "bk0028sce.jpg",
+                  "title": "The Dot",
+                  "video": "bk0028sve.mov"
+                },
+                "_id": "5e3c62515b77d907e65419c7",
+                "id": 11
+              },
+              {
+                "book": {
+                  "filename": "10603475",
+                  "ADAfilename": "RF_prek_ebk0048b_a_chick_grows",
+                  "id": 12,
+                  "thumbnail": "10603504.jpg",
+                  "title": "A Chick Grows Up"
+                },
+                "story": {
+                  "id": 12,
+                  "poster": "bk0055sce.jpg",
+                  "readAlong": "bk0055svwe.mov",
+                  "thumbnail": "bk0055sce.jpg",
+                  "title": "Giggle, Giggle, Quack",
+                  "video": "bk0055sve.mov"
+                },
+                "_id": "5e3c62515b77d907e65419c8",
+                "id": 12
+              }
+            ],
+            "_id": "5e3c62515b77d907e65419c6",
+            "id": 6,
+            "style": "style6",
+            "backgroundImage": "/assets/images/backgrounds/T6.png",
+            "themeBackground": "/assets/images/themes/T6_Lets_Create.png",
+            "subheaderColor": "rgba(139, 35, 110, 1)",
+            "title": "Let's Create"
+          },
+          {
+            "pairs": [
+              {
+                "book": {
+                  "filename": "10603418",
+                  "ADAfilename": "RF_prek_ebk0006b_where_land_meets_sea",
+                  "id": 13,
+                  "thumbnail": "10603510.jpg",
+                  "title": "Where Land Meets Sea"
+                },
+                "story": {
+                  "id": 13,
+                  "poster": "bk0006sce.jpg",
+                  "readAlong": "bk0006svwe.mov",
+                  "thumbnail": "bk0006sce.jpg",
+                  "title": "Where the Wild Things Are",
+                  "video": "bk0006sve.mov"
+                },
+                "_id": "5e3c62515b77d907e65419ca",
+                "id": 13
+              },
+              {
+                "book": {
+                  "filename": "10603422",
+                  "ADAfilename": "RF_prek_ebk0084b_from_seed_to_dandelion",
+                  "id": 14,
+                  "thumbnail": "10603538.jpg",
+                  "title": "From Seed to Dandelion"
+                },
+                "story": {
+                  "id": 14,
+                  "poster": "bk0084sce.jpg",
+                  "readAlong": "bk0084svwe.mov",
+                  "thumbnail": "bk0084sce.jpg",
+                  "title": "Miss Rumphius",
+                  "video": "bk0084sve.mov"
+                },
+                "_id": "5e3c62515b77d907e65419cb",
+                "id": 14
+              }
+            ],
+            "_id": "5e3c62515b77d907e65419c9",
+            "id": 7,
+            "style": "style7",
+            "backgroundImage": "/assets/images/backgrounds/T7.png",
+            "themeBackground": "/assets/images/themes/T7_Our_Earth.png",
+            "subheaderColor": "rgba(70, 111, 23, 1)",
+            "title": "Our Earth"
+          },
+          {
+            "pairs": [
+              {
+                "book": {
+                  "filename": "10603400",
+                  "ADAfilename": "RF_prek_ebk0120b_back_to_school_safety",
+                  "id": 15,
+                  "thumbnail": "10603526.jpg",
+                  "title": "Back-to-School Safety"
+                },
+                "story": {
+                  "id": 15,
+                  "poster": "bk0120sce.jpg",
+                  "readAlong": "bk0120svwe.mov",
+                  "thumbnail": "bk0120sce.jpg",
+                  "title": "How Do Dinosaurs Go to School?",
+                  "video": "bk0120sve.mov"
+                },
+                "_id": "5e3c62515b77d907e65419cd",
+                "id": 15
+              },
+              {
+                "book": {
+                  "filename": "10603396",
+                  "ADAfilename": "RF_prek_ebk0001b_a_bear_cub_grows_up",
+                  "id": 16,
+                  "thumbnail": "10603502.jpg",
+                  "title": "A Bear Cub Grows Up"
+                },
+                "story": {
+                  "id": 16,
+                  "poster": "bk0001sce.jpg",
+                  "readAlong": "bk0001svwe.mov",
+                  "thumbnail": "bk0001sce.jpg",
+                  "title": "Bear Snores On",
+                  "video": "bk0001sve.mov"
+                },
+                "_id": "5e3c62515b77d907e65419ce",
+                "id": 16
+              }
+            ],
+            "_id": "5e3c62515b77d907e65419cc",
+            "id": 8,
+            "style": "style8",
+            "backgroundImage": "/assets/images/backgrounds/T8.png",
+            "themeBackground": "/assets/images/themes/T8_Ready_Set_Go.png",
+            "subheaderColor": "rgba(35, 121, 99, 1)",
+            "title": "Ready, Set, Go"
+          }
+        ]
+      },
+      {
+        "_id": "5e7a193cb5ad3f0053bfd9f7",
+        "language": "es",
+        "themes": [
+          {
+            "pairs": [
+              {
+                "book": {
+                  "filename": "10603492",
+                  "ADAfilename": "RF_prek_ebk0100bs_seamos_amigos",
+                  "id": 1,
+                  "thumbnail": "10603531.jpg",
+                  "title": "Seamos amigos"
+                },
+                "story": {
+                  "id": 1,
+                  "poster": "bk0108scs.jpg",
+                  "readAlong": "bk0108svws.mov",
+                  "thumbnail": "bk0108scs.jpg",
+                  "title": "Hola, Hombre Mosca",
+                  "video": "bk0108svs.mov"
+                },
+                "_id": "5e3c63fe5b77d907e65419d1",
+                "id": 1
+              },
+              {
+                "book": {
+                  "filename": "10603500",
+                  "ADAfilename": "RF_prek_ebk0098bs_asi_jugamos_nosotros",
+                  "id": 2,
+                  "thumbnail": "10603537.jpg",
+                  "title": "Así jugamos nosotros"
+                },
+                "story": {
+                  "id": 2,
+                  "poster": "bk0074scs.jpg",
+                  "readAlong": "bk0074svws.mov",
+                  "thumbnail": "bk0074scs.jpg",
+                  "title": "La maravillosa Grace",
+                  "video": "bk0074svs.mov"
+                },
+                "_id": "5e3c63fe5b77d907e65419d2",
+                "id": 2
+              }
+            ],
+            "_id": "5e3c63fe5b77d907e65419d0",
+            "id": 1,
+            "style": "style1",
+            "backgroundImage": "/assets/images/backgrounds/T1.png",
+            "themeBackground": "/assets/images/themes/T1_Me_You.png",
+            "subheaderColor": "rgba(44, 110, 170, 1)",
+            "title": "Tú y Yo"
+          },
+          {
+            "pairs": [
+              {
+                "book": {
+                  "filename": "10603456",
+                  "ADAfilename": "RF_prek_ebk0091bs_asi_comemos_nuestras_comidas",
+                  "id": 3,
+                  "thumbnail": "10603507.jpg",
+                  "title": "Asi comemos nuestras comidas"
+                },
+                "story": {
+                  "id": 3,
+                  "poster": "bk0091scs.jpg",
+                  "readAlong": "bk0091svws.mov",
+                  "thumbnail": "bk0091scs.jpg",
+                  "title": "Como comen los dinosaurios?",
+                  "video": "bk0091svs.mov"
+                },
+                "_id": "5e3c63fe5b77d907e65419d4",
+                "id": 3
+              },
+              {
+                "book": {
+                  "filename": "10603460",
+                  "ADAfilename": "RF_prek_ebk0125bs_seguridad_en_el_automovil",
+                  "id": 4,
+                  "thumbnail": "10603535.jpg",
+                  "title": "Seguridad en el automovil"
+                },
+                "story": {
+                  "id": 4,
+                  "poster": "bk0125scs.jpg",
+                  "readAlong": "bk0125svws.mov",
+                  "thumbnail": "bk0125scs.jpg",
+                  "title": "No dejes que la Paloma conduzca el autobus!",
+                  "video": "bk0125svs.mov"
+                },
+                "_id": "5e3c63fe5b77d907e65419d5",
+                "id": 4
+              }
+            ],
+            "_id": "5e3c63fe5b77d907e65419d3",
+            "id": 2,
+            "style": "style2",
+            "backgroundImage": "/assets/images/backgrounds/T2.png",
+            "themeBackground": "/assets/images/themes/T2_Our_Community.png",
+            "subheaderColor": "rgba(28, 98, 162, 1)",
+            "title": "Nuestra Comunidad"
+          },
+          {
+            "pairs": [
+              {
+                "book": {
+                  "filename": "10603484",
+                  "ADAfilename": "RF_prek_ebk0005bs_ES un dinosaurio",
+                  "id": 5,
+                  "thumbnail": "10603529.jpg",
+                  "title": "¿Es un dinosaurio?"
+                },
+                "story": {
+                  "id": 5,
+                  "poster": "bk0019scs.jpg",
+                  "readAlong": "bk0019svws.mov",
+                  "thumbnail": "bk0019scs.jpg",
+                  "title": "Danielito y el dinosaurio",
+                  "video": "bk0019svs.mov"
+                },
+                "_id": "5e3c63fe5b77d907e65419d7",
+                "id": 5
+              },
+              {
+                "book": {
+                  "filename": "10603452",
+                  "ADAfilename": "RF_prek_ebk0069bs_la_coleccion_de_piedras",
+                  "id": 6,
+                  "thumbnail": "10603509.jpg",
+                  "title": "La colección de piedras"
+                },
+                "story": {
+                  "id": 6,
+                  "poster": "bk0069scs.jpg",
+                  "readAlong": "bk0069svws.mov",
+                  "thumbnail": "bk0069scs.jpg",
+                  "title": "Silvestre y la piedrecita mágica",
+                  "video": "bk0069svs.mov"
+                },
+                "_id": "5e3c63fe5b77d907e65419d8",
+                "id": 6
+              }
+            ],
+            "_id": "5e3c63fe5b77d907e65419d6",
+            "id": 3,
+            "style": "style3",
+            "backgroundImage": "/assets/images/backgrounds/T3.png",
+            "themeBackground": "/assets/images/themes/T3_Lets_investigate.png",
+            "subheaderColor": "rgba(82, 73, 183, 1)",
+            "title": "Vamos a Investigar"
+          },
+          {
+            "pairs": [
+              {
+                "book": {
+                  "filename": "10603444",
+                  "ADAfilename": "RF_prek_ebk0002span_una_visita_al_tambo",
+                  "id": 7,
+                  "thumbnail": "10603525.jpg",
+                  "title": "Una visita al tambo"
+                },
+                "story": {
+                  "id": 7,
+                  "poster": "bk0002scs.jpg",
+                  "readAlong": "bk0002svws.mov",
+                  "thumbnail": "bk0002scs.jpg",
+                  "title": "Clic, clac, muu: Vacas escritoras",
+                  "video": "bk0002svs.mov"
+                },
+                "_id": "5e3c63fe5b77d907e65419da",
+                "id": 7
+              },
+              {
+                "book": {
+                  "filename": "10603448",
+                  "ADAfilename": "RF_prek_ebk0065span_como_crecen_los_canguros",
+                  "id": 8,
+                  "thumbnail": "10603533.jpg",
+                  "title": "Como crecen los canguros"
+                },
+                "story": {
+                  "id": 8,
+                  "poster": "bk0065scs.jpg",
+                  "readAlong": "bk0065svws.mov",
+                  "thumbnail": "bk0065scs.jpg",
+                  "title": "Joey se escapa",
+                  "video": "bk0065svs.mov"
+                },
+                "_id": "5e3c63fe5b77d907e65419db",
+                "id": 8
+              }
+            ],
+            "_id": "5e3c63fe5b77d907e65419d9",
+            "id": 4,
+            "style": "style4",
+            "backgroundImage": "/assets/images/backgrounds/T4.png",
+            "themeBackground": "/assets/images/themes/T4_Amazing_Animals.png",
+            "subheaderColor": "rgba(181, 12, 18, 1)",
+            "title": "Descubre Los Animales"
+          },
+          {
+            "pairs": [
+              {
+                "book": {
+                  "filename": "10603436",
+                  "ADAfilename": "RF_prek_ebk0032bs_buenas_noches_de_sueno",
+                  "id": 9,
+                  "thumbnail": "10603541.jpg",
+                  "title": "Buenas noches de sueno"
+                },
+                "story": {
+                  "id": 9,
+                  "poster": "bk0032scs.jpg",
+                  "readAlong": "bk0032svws.mov",
+                  "thumbnail": "bk0032scs.jpg",
+                  "title": "¿Como dan las buenas noches los dinosaurios?",
+                  "video": "bk0032svs.mov"
+                },
+                "_id": "5e3c63fe5b77d907e65419dd",
+                "id": 9
+              },
+              {
+                "book": {
+                  "filename": "10603440",
+                  "ADAfilename": "RF_prek_ebk0105bs_seguridad_en_bicicleta",
+                  "id": 10,
+                  "thumbnail": "10603521.jpg",
+                  "title": "Seguridad en bicicleta"
+                },
+                "story": {
+                  "id": 10,
+                  "poster": "bk0105scs.jpg",
+                  "readAlong": "bk0105svws.mov",
+                  "thumbnail": "bk0105scs.jpg",
+                  "title": "Un Pato en Bicicleta",
+                  "video": "bk0105svs.mov"
+                },
+                "_id": "5e3c63fe5b77d907e65419de",
+                "id": 10
+              }
+            ],
+            "_id": "5e3c63fe5b77d907e65419dc",
+            "id": 5,
+            "style": "style5",
+            "backgroundImage": "/assets/images/backgrounds/T5.png",
+            "themeBackground": "/assets/images/themes/T5_Healthy_Me.png",
+            "subheaderColor": "rgba(199, 41, 36, 1)",
+            "title": "Estoy Saludable"
+          },
+          {
+            "pairs": [
+              {
+                "book": {
+                  "filename": "10603428",
+                  "ADAfilename": "RF_prek_ebk0028bs_todos_los_colores",
+                  "id": 11,
+                  "thumbnail": "10603523.jpg",
+                  "title": "Todos los colores del arco iris"
+                },
+                "story": {
+                  "id": 11,
+                  "poster": "bk0028scs.jpg",
+                  "readAlong": "bk0028svws.mov",
+                  "thumbnail": "bk0028scs.jpg",
+                  "title": "El punto",
+                  "video": "bk0028svs.mov"
+                },
+                "_id": "5e3c63fe5b77d907e65419e0",
+                "id": 11
+              },
+              {
+                "book": {
+                  "filename": "10603478",
+                  "ADAfilename": "RF_prek_ebk0048s Como crece un pollito",
+                  "id": 12,
+                  "thumbnail": "10603505.jpg",
+                  "title": "Cómo crece un pollito"
+                },
+                "story": {
+                  "id": 12,
+                  "poster": "bk0055scs.jpg",
+                  "readAlong": "bk0055svws.mov",
+                  "thumbnail": "bk0055scs.jpg",
+                  "title": "Jaja, jiji, cuac",
+                  "video": "bk0055svs.mov"
+                },
+                "_id": "5e3c63fe5b77d907e65419e1",
+                "id": 12
+              }
+            ],
+            "_id": "5e3c63fe5b77d907e65419df",
+            "id": 6,
+            "style": "style6",
+            "backgroundImage": "/assets/images/backgrounds/T6.png",
+            "themeBackground": "/assets/images/themes/T6_Lets_Create.png",
+            "subheaderColor": "rgba(139, 35, 110, 1)",
+            "title": "Seamos Creativos"
+          },
+          {
+            "pairs": [
+              {
+                "book": {
+                  "filename": "10603420",
+                  "ADAfilename": "RF_prek_ebk0006s_donde_la_tierra",
+                  "id": 13,
+                  "thumbnail": "10603511.jpg",
+                  "title": "Donde la tierra se une con el mar"
+                },
+                "story": {
+                  "id": 13,
+                  "poster": "bk0006scs.jpg",
+                  "readAlong": "bk0006svws.mov",
+                  "thumbnail": "bk0006scs.jpg",
+                  "title": "Donde viven los monstruos",
+                  "video": "bk0006svs.mov"
+                },
+                "_id": "5e3c63fe5b77d907e65419e3",
+                "id": 13
+              },
+              {
+                "book": {
+                  "filename": "10603424",
+                  "ADAfilename": "RF_prek_ebk0084bs_de_semillas_a_dientes_de_leon",
+                  "id": 14,
+                  "thumbnail": "10603539.jpg",
+                  "title": "De semillas a dientes de leon"
+                },
+                "story": {
+                  "id": 14,
+                  "poster": "bk0084scs.jpg",
+                  "readAlong": "bk0084svws.mov",
+                  "thumbnail": "bk0084scs.jpg",
+                  "title": "La Senorita Runfio",
+                  "video": "bk0084svs.mov"
+                },
+                "_id": "5e3c63fe5b77d907e65419e4",
+                "id": 14
+              }
+            ],
+            "_id": "5e3c63fe5b77d907e65419e2",
+            "id": 7,
+            "style": "style7",
+            "backgroundImage": "/assets/images/backgrounds/T7.png",
+            "themeBackground": "/assets/images/themes/T7_Our_Earth.png",
+            "subheaderColor": "rgba(70, 111, 23, 1)",
+            "title": "Nuestra Tierra"
+          },
+          {
+            "pairs": [
+              {
+                "book": {
+                  "filename": "10603402",
+                  "ADAfilename": "RF_prek_ebk0120bs_seguridad_para_el_regreso_a_clases",
+                  "id": 15,
+                  "thumbnail": "10603527.jpg",
+                  "title": "Seguridad Para el Regreso a Clases"
+                },
+                "story": {
+                  "id": 15,
+                  "poster": "bk0120scs.jpg",
+                  "readAlong": "bk0120svws.mov",
+                  "thumbnail": "bk0120scs.jpg",
+                  "title": "¿Como van a la escuela los dinosaurios?",
+                  "video": "bk0120svs.mov"
+                },
+                "_id": "5e3c63fe5b77d907e65419e6",
+                "id": 15
+              },
+              {
+                "book": {
+                  "filename": "10603398",
+                  "ADAfilename": "RF_prek_ebk0001bs_un_oso cachorro",
+                  "id": 16,
+                  "thumbnail": "10603503.jpg",
+                  "title": "Un oso cachorro crece"
+                },
+                "story": {
+                  "id": 16,
+                  "poster": "bk0001scs.jpg",
+                  "readAlong": "bk0001svws.mov",
+                  "thumbnail": "bk0001scs.jpg",
+                  "title": "Oso No Para de Roncar",
+                  "video": "bk0001svs.mov"
+                },
+                "_id": "5e3c63fe5b77d907e65419e7",
+                "id": 16
+              }
+            ],
+            "_id": "5e3c63fe5b77d907e65419e5",
+            "id": 8,
+            "style": "style8",
+            "backgroundImage": "/assets/images/backgrounds/T8.png",
+            "themeBackground": "/assets/images/themes/T8_Ready_Set_Go.png",
+            "subheaderColor": "rgba(35, 121, 99, 1)",
+            "title": "En Sus Marcas, Listos, Fuera"
+          }
+        ]
+      }
+]

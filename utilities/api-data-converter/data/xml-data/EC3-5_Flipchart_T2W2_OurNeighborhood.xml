@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flip-chart lang="en">
+  <flip_chart-6 day="4">
+    <flip_chart-6_front>
+      <graphic href="EC3-5_Flipchart_T2W2_OurNeighbourhood.jpg"/>
+    </flip_chart-6_front>
+    <flip_chart-6_back>
+      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <flip_chart-theme-text>OUR COMMUNITY</flip_chart-theme-text>
+          <flip_chart-topic-text>Where We Live</flip_chart-topic-text>
+          <flip_chart-concept-question>What is it like where we live?</flip_chart-concept-question>
+        </section-block>
+      </masthead>
+      <display-head-section>
+        <section-block type="display_b_1" index="1">
+          <flip_chart-display-head>Our Neighborhood</flip_chart-display-head>
+        </section-block>
+      </display-head-section>
+      <teacher-facing-section>
+        <section-block type="teacher-facing_b_1" index="1">
+          <flip_chart-teacher-facing-content-box>
+            <flip_chart-teacher-facing-paragraph>Our neighborhood is a great place to live! Let’s look at the map together to learn about our neighborhood.</flip_chart-teacher-facing-paragraph><flip_chart-teacher-facing-paragraph>Can you tell which building is the <flip_chart-bold>library</flip_chart-bold>? It is the one with a book on it! Everybody in our neighborhood can go to the library. There they can read their favorite books. </flip_chart-teacher-facing-paragraph><flip_chart-teacher-facing-paragraph>If you want to send a letter to a friend, you can mail it at the <flip_chart-bold>post office</flip_chart-bold>. Can you find the post office? It has a letter on it!</flip_chart-teacher-facing-paragraph><flip_chart-teacher-facing-paragraph>There are a lot of other places to go in our neighborhood. There is a <flip_chart-bold>bakery</flip_chart-bold>. There is a <flip_chart-bold>fruit stand</flip_chart-bold>, too. What other places can you see?</flip_chart-teacher-facing-paragraph><flip_chart-teacher-facing-paragraph>Can you find the <flip_chart-bold>fire station</flip_chart-bold>? Look for the fire truck. When the alarm rings, the firefighters speed out of the station in their fire truck and rush to put out the fire. Say “Hello” to the firefighter!</flip_chart-teacher-facing-paragraph><flip_chart-teacher-facing-paragraph>When it’s time to play, children and their families go to the park. There is a playground and a place to have a picnic, too.</flip_chart-teacher-facing-paragraph><flip_chart-teacher-facing-paragraph>And, of course, our neighborhood has a <flip_chart-bold>school</flip_chart-bold>. Children just like you go to school to learn their ABCs, learn to count, and hear their favorite stories.</flip_chart-teacher-facing-paragraph><flip_chart-teacher-facing-paragraph>How is our neighborhood the same as yours?<flip_chart-br> </flip_chart-br>How is it different?</flip_chart-teacher-facing-paragraph>
+          </flip_chart-teacher-facing-content-box>
+        </section-block>
+      </teacher-facing-section>
+      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <flip_chart-credit-line>Illustration by Alex Foster, © Scholastic Inc.</flip_chart-credit-line>
+        </section-block>
+      </copyright-section>
+    </flip_chart-6_back>
+  </flip_chart-6>
+</flip-chart>

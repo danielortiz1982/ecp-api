@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="en">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>WHAT’S THE WEATHER?  </ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Today we read the book <ac_teacher-speaking_emphasis_blue>Cloudette.</ac_teacher-speaking_emphasis_blue> We learned about clouds and different kinds of weather.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>In this activity, we will look at some pictures. We will talk about the kind of weather we see in each one. We will then use our bodies to show how we’d act in each kind of weather.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Teach/Model  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Let’s look at this first card. What do we see? What kind of day is it? Let’s all act as if we were outside on a rainy day. </ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask </ac_teacher-card_run-in_hed> Show one picture card and ask the first question on the back of the card, offering extra challenge or support as needed.  </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Extend  </ac_teacher-card_run-in_hed>Use the last question on the back of the card to extend conversation.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat  </ac_teacher-card_run-in_hed>Continue the activity using the next picture card.    </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Weather  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Raise your hand if you’ve ever been outside on a rainy (snowy, sunny, cloudy, windy) day. </ac_teacher-speaking>
+            </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Seasons  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Let’s talk about the seasons. Who can name the four seasons? How does the weather change in each season? What is the weather like in spring (summer, fall, winter)? Which season is the hottest (coldest)?   </ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>WHAT’S THE WEATHER?  </ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="2">
+          <ac_diff_support-challenge_heds>Support</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Depending on where you are located and where children may have recently lived, there may be types of weather that children have never experienced. Bring in some additional materials that show scenes of all kinds of weather. Talk about where those pictures were taken.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="3">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Ask: <ac_teacher-talk>If you could jump into one of these pictures, which one would it be? Why? Which one would you least like to jump into? Why?</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="2">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Review the names of the different kinds of weather shown on the cards, making sure all children are familiar with the words. Some of your multilingual learners may want to share those weather words in their home language for the other children to learn. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Gross Motor Development</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>After children move their bodies as they would in that type of weather, work with them in a large open space to combine some of the movements into a short weather dance. They can decide on the order of the weather they want to follow, and you can help them put parts of each movement together into one continuous piece. Brainstorm a title for their dance.   </ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65167-6</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>PLANNING FOR WEATHER </ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Today we revisited the book <ac_teacher-speaking_emphasis_blue>Cloudette.</ac_teacher-speaking_emphasis_blue> We talked about how important it is to make plans when we want something to happen. When we have a plan, we take steps to reach our goal.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Planning for weather is important. Sometimes we plan so we know what to wear. We wear some clothes when it’s hot outside. We wear different clothes when it’s cold outside. In this activity, we will look at things people are wearing. Then we will decide if what we see belongs in the “hot” weather pile or the “cold” weather pile.</ac_teacher-speaking>
+            </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Teach/Model</ac_teacher-card_run-in_hed>  Ask children to give a thumbs-up if the picture shows something we would wear in hot weather and a thumbs-down if it’s something we would wear in cold weather. Check that children know the word for bathing suit. Then help them place the card for <ac_teacher-talk>bathing suit</ac_teacher-talk> in the “hot” weather pile.    </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask </ac_teacher-card_run-in_hed> Show one picture card and ask the first question on the back of the card, offering extra challenge or support as needed.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Extend  </ac_teacher-card_run-in_hed>Use the last question on the back of the card to extend conversation.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Sort  </ac_teacher-card_run-in_hed>Give the picture card to a child to line up in the “hot” or “cold” pile. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat </ac_teacher-card_run-in_hed> Continue the activity using the next picture card.    </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Planning for Weather </ac_teacher-card_run-in_hed> Discuss with children how their family plans for weather. What plan do they make if it’s going to be a rainy day? A snowy day? A sunny day? A really cold day? What happens when they don’t plan for the weather?   </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>PLANNING FOR WEATHER </ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="2">
+          <ac_diff_support-challenge_heds>Support</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Some children may need help identifying each piece of clothing before they decide whether a card belongs in the “hot” or “cold” pile. Have a brief discussion about each card before you begin. Feel free to add additional photos to the activity that you think might be helpful. </ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="3">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Discuss with children how they planned for today’s weather. Ask if it’s always possible to plan for the weather? Discuss why or why not.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="2">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Make sure multilingual learners know how to say each item of clothing in English. Review the English words for each item, if necessary. Depending on where children live and their prior experiences, they may not be familiar with certain articles of clothing (e.g., mittens, a scarf, or a ski jacket). Invite children to share item names in their home language.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Fine Motor Development</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Bring in items from home or use items in your dress-up center that are appropriate for either hot weather or cold weather. Have children practice buttoning, snapping, and zipping.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65167-6</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>WHAT DO CLOUDS MAKE? </ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Today we read the book <ac_teacher-speaking_emphasis_blue>Cloudette,</ac_teacher-speaking_emphasis_blue> and we learned how Cloudette and the bigger clouds could make it rain. Some clouds drop water from the sky. But not every cloud drops water. And the water that falls from clouds isn’t always the same.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>In this activity, we’ll look at pictures of clouds and three kinds of water that fall from clouds. Then we will name and talk about them.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Teach/Model  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>What do you see in this picture? Do you think these clouds will drop water? Let’s look at some kinds of water that fall from clouds.</ac_teacher-speaking>    </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask </ac_teacher-card_run-in_hed> Show one picture card and ask the first question on the back of the card, offering extra challenge or support as needed.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Extend  </ac_teacher-card_run-in_hed>Use the last question on the back of the card to extend conversation.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat  </ac_teacher-card_run-in_hed>Continue the activity using the next three picture cards, discussing how hot and cold weather affect the kind of water that clouds drop. </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Kinds of “Watery” Weather</ac_teacher-card_run-in_hed>  Explain that different types of water fall from clouds at different times. Ask children to name the type of water that usually falls from clouds in warm weather. Then ask them to describe how the sky looks before a rainstorm. What kinds of water might fall in cold weather? How does the sky look? </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>WHAT DO CLOUDS MAKE? </ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="2">
+          <ac_diff_support-challenge_heds>Support</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Review all the weather vocabulary words that children learned during this activity: stormy, rain, snow, and sleet. Have them repeat each word and have additional discussions about each one, as necessary. </ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="3">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Showing the different picture cards, allow for more sharing from children who may have experienced these kinds of weather, especially unusual events such as a blizzard or an ice storm. Ask children the dangers of too much rain or not enough rain.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="2">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Give children extra time for peer-to-peer conversation. Encourage children to work in pairs to talk about the different kinds of weather and to discuss their experiences and understanding of each one. Remind children that it’s okay to use their home language when talking with a peer who speaks the same home language.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Sensory Development</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Offer sensory support by bringing containers of water, ice water, and ice chips so children can have the physical experience of touching different forms of water. You may also wish to consult online recipes for making your own snow.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65167-6</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>DAILY WEATHER BOOK </ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Gather Materials </ac_teacher-card_run-in_hed> Create sheets that contain the day of the week in large type, a big outline of a cloud, and then, underneath the cloud, the words “The weather today is <fill-in-the-blank>                  </fill-in-the-blank>.” Make copies of these pages and create books for children to complete individually.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Today we looked at the Big Chart poster called <ac_teacher-speaking_emphasis_blue>What’s the Weather?</ac_teacher-speaking_emphasis_blue> We learned about rainy, snowy, windy, and sunny days.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>In this activity, we’ll become weather experts. We’ll look outside and draw a picture of the weather inside the cloud in our Daily Weather books. </ac_teacher-speaking>
+            </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Teach/Model  </ac_teacher-card_run-in_hed>Help children with any words they may want to write. You may want to extend this activity over more than one day.    </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Observe and Record  </ac_teacher-card_run-in_hed>Pick a time for children to look out the window or go outside with you to get as much information as they can about the weather. When they come back inside, have them draw a picture that shows the weather they saw, using symbols, letters, or drawings. Tell them to decide on what words they would like to use to finish the sentence “The weather today is <fill-in-the-blank>             </fill-in-the-blank>.” Help transcribe children’s sentences.     </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Observing Weather </ac_teacher-card_run-in_hed> After the first day, talk with children about what they liked about observing, or looking closely at, the weather. What did they see? What did they feel? Discuss ideas for other outdoor things to observe, such as the trees and leaves. To continue the activity, you can create detailed Daily Weather books.  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>DAILY WEATHER BOOK </ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="2">
+          <ac_diff_support-challenge_heds>Support</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>If children don’t feel comfortable drawing pictures in their Daily Weather book, they can use simple symbols such as a sun for a sunny day or a cloud for a cloudy day. You may even have rubber stamps with weather symbols that children can use. </ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="3">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Review the weather words <ac_teacher-talk>rainy, snowy, windy, </ac_teacher-talk>and <ac_teacher-talk>sunny</ac_teacher-talk> on the Big Chart with children. Keep the Big Chart <ac_teacher-talk>What’s the Weather? </ac_teacher-talk>visible to children and see if any of them can write the words themselves in their Daily Weather books.  </ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="2">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Invite multilingual children to teach the rest of the class some weather terms in their home language. Ask children if they can teach the rest of the class how to say, “It’s cold,” “It’s hot,” and “It’s raining” in their home language.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Observation Skills</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Young children continually use all of their senses to observe the world around them and describe what they see. During their weather observations, help children notice even the smallest details, encouraging them to talk about everything they see, hear, smell, and feel. Remember that science always begin with curiosity and wonder! </ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65167-6</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

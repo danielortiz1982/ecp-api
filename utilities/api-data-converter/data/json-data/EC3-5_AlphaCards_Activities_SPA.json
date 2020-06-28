@@ -1,0 +1,106 @@
+[
+{
+  "declaration":{
+    "attributes":{
+      "version":"1.0",
+      "encoding":"UTF-8"
+    }
+  },
+  "elements":[
+    {
+      "type":"element",
+      "name":"alpha-credits",
+      "attributes":{
+        "lang":"es",
+        "module":"literature"
+      },
+      "elements":[
+        {
+          "type":"element",
+          "name":"copyright-section",
+          "elements":[
+            {
+              "type":"element",
+              "name":"credits-hd",
+              "elements":[
+                {
+                  "type":"text",
+                  "text":"CRÉditOs"
+                }
+              ]
+            },
+            {
+              "type":"element",
+              "name":"credits-sub",
+              "elements":[
+                {
+                  "type":"text",
+                  "text":"CAJA DE TARJETAS DEL ABECEDARIO"
+                }
+              ]
+            },
+            {
+              "type":"element",
+              "name":"credits-body1",
+              "elements":[
+                {
+                  "type":"text",
+                  "text":"Fotos ©: cara de adelante: manzana: Ellen Liebermann/Getty Images; bicicleta: Julián Rovagnati/Dreamstime; gato: Geoffrey Jones/Shutterstock ; elefante: sgtphoto/iStockphoto; sombrero: C Squared Studios/Getty Images; hoja: Marek Mnich/iStockphoto; cara de atrás: auto: Iakov Filimonov/Dreamstime "
+                }
+              ]
+            },
+            {
+              "type":"element",
+              "name":"credits-sub",
+              "elements":[
+                {
+                  "type":"text",
+                  "text":"TARJETAS DEL ABECEDARIO"
+                }
+              ]
+            },
+            {
+              "type":"element",
+              "name":"credits-body2",
+              "elements":[
+                {
+                  "type":"text",
+                  "text":"Fotos ©: "
+                },
+                {
+                  "type":"element",
+                  "name":"credits-inline",
+                  "elements":[
+                    {
+                      "type":"text",
+                      "text":"Mayúscula:"
+                    }
+                  ]
+                },
+                {
+                  "type":"text",
+                  "text":" Auto: Iakov Filimonov/Dreamstime; Búho: Isselee/Shutterstock; Canguro: Eric Isselee/Shutterstock; Dedo: Tomnamon/Shutterstock; Elefante: sgtphoto/iStockphoto; Gallo:  panda3800/Shutterstock; Hormiga:  Andrey Pavlov/Shutterstock; Iguana: Yuri Kevhiev/Alamy Images; Jugo: victoriaKh/Shutterstock; Kiwi: Maks Narodenko/Shutterstock; Leche: Valentyn Volkov/Shutterstock; Manzana: Ellen Liebermann/Getty Images; Nube: Sergieiev/Shutterstock; Niña: Gelpi/Shutterstock; Oreja: jooh/Shutterstock; Perro: Isselle/Dreamstime; Queso:  FabrikaSimf/Shutterstock; Reina: ODD ANDERSEN/Getty Images; Sol: SStajic/iStockphoto; Tigre: Svetiana Foote/Saddako123/Dreamstime; Uva: Parichatphoto/Shutterstock; Vaso: Dima Sobko/Shutterstock; Wapití: Steve Meese/Shutterstock; Xilófono: sparkla/iStockphoto; Yuca: AN NGUYEN/Shutterstock; Zapatos: kedrov/Shutterstock; "
+                },
+                {
+                  "type":"element",
+                  "name":"credits-inline",
+                  "elements":[
+                    {
+                      "type":"text",
+                      "text":"Minúscula:"
+                    }
+                  ]
+                },
+                {
+                  "type":"text",
+                  "text":" avestruz: Andrey_Kuzmin/Shutterstock; bicicleta: Julián Rovagnati/Dreamstime; corazón: LeArtistique/iStockphoto; durazno: Danny Smythe/Shutterstock; estrella:  Sanit Fuangnakhon/Shutterstock; foco: Mega Pixel/Shutterstock; gato: Geoffrey Jones/Shutterstock;  hoja: Marek Mnich/iStockphoto; insecto: Leoshoot/iStockphoto;  jarrón: design56/Shutterstock; koala: Eric Isselee/Shutterstock; lobo: mariait/shutterstock; mitón: Liubov Pakhtusova/Shutterstock; nido: Madlen/Shutterstock; niño: ESB Professional/Shutterstock; oso: Farinoza/Dreamstime; pato: PNG Image; quesadilla: nicobatista/Shutterstock; regalo:  Hong Vo/Shutterstock; sombrero: C Squared Studios/Getty Images; tortuga: Anneka/Shutterstock; uña: Tomnamon/Shutterstock; verduras: imagenavi/Getty Images; waffle: Tiger Images/Shutterstock; xilofonista: MementoImage/iStock/Getty Images Plus; yoyo: KateLeigh/iStockphoto; zorro: GlobalP/iStockphoto"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+]

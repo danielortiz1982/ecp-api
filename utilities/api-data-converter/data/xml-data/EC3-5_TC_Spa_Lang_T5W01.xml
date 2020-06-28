@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="es">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card> PARTES DEL CUERPO</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos el libro <ac_teacher-speaking_emphasis_blue>Mi cuerpo</ac_teacher-speaking_emphasis_blue>. Aprendimos sobre distintas partes de nuestro cuerpo.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad miraremos imágenes de distintas cosas y las clasificaremos en dos grupos:</ac_teacher-speaking><ac_teacher-card-teacher_talk_bulleted>
+                <ac_teacher-speaking>
+                  <ac_teacher-speaking_emphasis_blue>Partes del cuerpo</ac_teacher-speaking_emphasis_blue> es para las tarjetas que muestran partesdel cuerpo.</ac_teacher-speaking></ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-card-teacher_talk_bulleted>
+                <ac_teacher-speaking>
+                  <ac_teacher-speaking_emphasis_blue>No partes de cuerpo</ac_teacher-speaking_emphasis_blue> es para las tarjetas que muestran cosas que no son partes del cuerpo.</ac_teacher-speaking></ac_teacher-card-teacher_talk_bulleted>
+            </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Enseñar señales la mano</ac_teacher-card_run-in_hed>  Pida a los niños que indiquen con un pulgar hacia arriba si la imagen muestra una parte del cuerpo o con un pulgar hacia abajo si muestra algo que no lo es. Demuestre.   </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre una tarjeta con imagen y haga la pregunta al dorso; dé apoyo o estímulo según sea necesario.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use la última pregunta al dorso de la tarjeta para ampliar en la conversación.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Clasificar</ac_teacher-card_run-in_hed>  Dé la tarjeta con imagen a un niño para que la coloque en el grupo “Partes del cuerpo” o “No partes del cuerpo”.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad con la siguiente tarjeta con imagen.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre partes del cuerpo</ac_teacher-card_run-in_hed> <ac_teacher-speaking>Todas las imágenes de este lado muestran p<fill-in-the-blank>               </fill-in-the-blank> <ac_teacher-speaking_emphasis_blue>(partes)</ac_teacher-speaking_emphasis_blue> del cuerpo. ¿Qué saben sobre estas partes del cuerpo?</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre imágenes que no son partes del cuerpo</ac_teacher-card_run-in_hed> <ac_teacher-speaking>Todas estas imágenes muestran cosas que nos ponemos en partes del cuerpo, pero no son partes del cuerpo. ¿Pueden nombrar otras cosas que se pongan ustedes?</ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card> PARTES DEL CUERPO</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Muestre a los niños tres tarjetas con imagen juntas, de las que dos sean ejemplos de partes del cuerpo y la tercera no (ej.: mano,pie, manopla). Pregunte: <ac_teacher-talk>¿Cuál no pertenece al grupo?</ac_teacher-talk> Luego pregunte, <ac_teacher-talk>¿Cómo lo saben?</ac_teacher-talk> Repita con otros grupos de tres tarjetas.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Muestre dos tarjetas con imagen, de las que una sea un ejemplo de una parte del cuerpo y la otra de algo que se usa en esa parte del cuerpo (ej.: mano y manopla). Pregunte: <ac_teacher-talk>¿En qué se parecen y en qué se diferencian estas cosas?</ac_teacher-talk> Repita con otros pares de tarjetas.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multiligües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Anime a los niños a usar una respuesta física, además de la hablada. Por ejemplo, invítelos a señalar sus propias manos, pies y cabeza cuando se muestren las imágenes correspondientes. Estas pistas físicas y visuales apoyarán el desarrollo del lenguaje y los niños podrán participar en la actividad al mismo tiempo que desarrollan sus habilidades lingüísticas.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad gruesa</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Invite a los niños a jugar este juego en el espacio para el grupo grande o en el exterior, donde puedan sostener las tarjetas cerca de las partes del cuerpo correspondientes. Cuando los niños elijan una tarjeta que muestre un objeto que no sea una parte del cuerpo, pueden mover la mano, el pie, la cabeza o la parte del cuerpo en la que se pone ese objeto.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65742-5</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card> REGLAS DE COMUNICACIÓN</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo completo</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos <ac_teacher-speaking_emphasis_blue>Mi cuerpo</ac_teacher-speaking_emphasis_blue> y nos enfocamos en seguir reglas y rutinas sobre el cuidado de nuestro cuerpo. Repasamos las razones de las reglas del salón de clases, como turnarse para hacer tareas y manejar los materiales del salón con cuidado.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el vocabulario</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Aprendimos la palabra <ac_teacher-speaking_emphasis_blue>comunicar. </ac_teacher-speaking_emphasis_blue>Repasaremos esta palabra y la usaremos al hablar de la actividad.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>Use la tarjeta de vocabulario <ac_teacher-talk>comunicar</ac_teacher-talk> para repasar la palabra.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad veremos imágenes de personas que usan diferentes maneras de comunicarse. Comentaremos cada imagen y luego responderemos preguntas sobre rutinas que seguimos cuando nos comunicamos.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre una tarjeta al grupo y haga la pregunta al dorso; dé apoyo o estímulo según sea necesario.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use la última pregunta al dorso de la tarjeta para ampliar en la conversación.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Muestre la tarjeta siguiente y repita los pasos anteriores.   </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre reglas de comunicación</ac_teacher-card_run-in_hed>  Hablen sobre las distintas partes del cuerpo que usamos cuando nos comunicamos, incluido el cerebro. Anime a los niños a pensar en más maneras de comunicarse y comenten las reglas involucradas, como hablar consigo mismo. Recuerde a los niños que es importante que comuniquen lo que necesitan.  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card> REGLAS DE COMUNICACIÓN</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Para los niños más pequeños o con retraso de desarrollo, lea en voz alta las secciones Pregunte y Apoye de cada tarjeta. Luego invite a los niños a decir qué ocurre en la imagen y a hablar más sobre ella. Estimule tanta conversación como sea posible.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Anime a los niños a decir mensajes que usan como parte de sus rutinas diarias (ej.: dar los buenos días o las buenas noches). Pida a los niños que hablen sobre maneras en las que nos comunicamos siguiendo las reglas de educación, como decir “por favor” y “gracias”.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multiligües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Los niños cuya lengua materna es el inglés reconocerán el cognado español <ac_teacher-talk>comunicar</ac_teacher-talk> para la palabra inglesa <ac_teacher-talk>communicate</ac_teacher-talk>. Ayude a los niños a hacer esta conexión si aún no la han hecho. Esto los ayudará a desarrollar su vocabulario y a mejorar su participación en la actividad.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Habilidades de motricidad fina</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Invite a los niños a responder a las tarjetas con imagen y a escribir sobre maneras en las que las personas se comunican en las tarjetas. Hable con los niños sobre las partes del cuerpo que usan en sus propias actividades de escritura y dibujo; recuérdeles que dibujar y escribir son también maneras de comunicarse.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65742-5</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card> MÁS PARTES DEL CUERPO</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo completo</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos <ac_teacher-speaking_emphasis_blue>Mi cuerpo</ac_teacher-speaking_emphasis_blue> y nos enfocamos en lo que hace nuestro cerebro. También repasamos detalles sobre alimentos y sobre nuestro cuerpo. Además miramos un glosario, que es una lista de palabras especiales del libro. El glosario incluye lo que significan las palabras.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad veremos imágenes de diferentes partes del cuerpo. Haremos y responderemos preguntas sobre por qué es importante cada parte del cuerpo.</ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre una tarjeta con imagen de una parte del cuerpo y coméntenla. Haga la pregunta al dorso de la tarjeta y ofrezca estímulo o apoyo adicional según sea necesario.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use la última pregunta al dorso de la tarjeta para ampliar en la conversación.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Muestre la tarjeta siguiente y repita los pasos anteriores.   </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre las partes del cuerpo</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Aprendimos mucho sobre las partes del cuerpo y por qué son importante distintas partes del cuerpo. Ahora podemos hablar sobre en qué se parecen y en qué se diferencian distintas partes del cuerpo. Usen tantos adjetivos como puedan mientras hablamos.</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card> MÁS PARTES DEL CUERPO</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Para los niños más pequeños o con retraso de desarrollo, lea en voz alta las secciones Pregunte y Apoye de cada tarjeta. Luego pida a los niños que digan qué más saben sobre esa parte del cuerpo. Anímelos a prolongar la conversación.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Anime a los niños a hablar sobre los distintos mensajes que el cerebro envía y recibe desde cada una de las partes del cuerpo. Hablen de cómo el cerebro envía mensajes para que algunas partes se muevan y qué partes del cuerpo envían mensajes al cerebro.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multiligües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Anime a los niños a hacer un movimiento con cada parte del cuerpo que se muestra en las tarjetas con imagen. Por ejemplo, los niños pueden estirar los brazos, patear suavemente, asentir con la cabeza, tirarse las orejas y abrir mucho los ojos. Esto los ayudará a desarrollar habilidades de lenguaje más sólidas.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Invite a los niños a responder a las tarjetas con imagen haciendo sus propios dibujos de partes del cuerpo. Pueden representar las maneras en que las partes del cuerpo envían mensajes al cerebro. Apóyelos mientras hablan sobre lo que dibujan y anímelos a usar adjetivos.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65742-5</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card> MI SILUETA</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Necesitará hojas grandes de papel para dibujar y materiales de dibujo, como crayones y marcadores.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo completo</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos <ac_teacher-speaking_emphasis_blue>Cabeza, hombros, rodillas y pies</ac_teacher-speaking_emphasis_blue> y aprendimos más sobre las partes del cuerpo.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el vocabulario</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Aprendimos las palabras <ac_teacher-speaking_emphasis_blue>hombros</ac_teacher-speaking_emphasis_blue> y <ac_teacher-speaking_emphasis_blue>rodillas</ac_teacher-speaking_emphasis_blue>. Repasaremos estas palabras ya que las usaremos cuando hablemos de la actividad.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>Use las tarjetas de vocabulario <ac_teacher-talk>hombros </ac_teacher-talk>y <ac_teacher-talk>rodillas</ac_teacher-talk> para repasar las palabras.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, trazaremos los contornos de nuestros cuerpos. Luego colorearemos las siluetas y las exhibiremos.</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Trazar</ac_teacher-card_run-in_hed>  Trace el contorno del cuerpo de cada niño en papel de envolver. Escriba el nombre del niño en el dorso del papel.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Dibujar</ac_teacher-card_run-in_hed>  Pida a los niños que usen crayones o marcadores para dibujar las siluetas. Pueden dibujar su cara, su ropa y su pelo.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ver</ac_teacher-card_run-in_hed>  Coloque todas las siluetas en el piso. Pida a los niños que caminen por el salón para ver todas las siluetas.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Invite a los niños a hablar sobre sus dibujos</ac_teacher-card_run-in_hed>  Anímelos a señalar dónde están sus rodillas, sus hombros y otras partes del cuerpo. Dígales que comparen cómo colorearon sus siluetas. </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card> MI SILUETA</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Apoye a los niños mientras colorean y dibujan las siluetas. Anímelos a hablar sobre los detalles en los que trabajan. Invítelos a hablar sobre lo que hacen y transcriba sus palabras.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Anime a los niños que estén preparados para un mayor estímulo a hablar sobre todas las partes del cuerpo que ven en la silueta y a dibujar y colorear ojos, nariz, boca, pelo, manos y pies. Luego anímelos a dibujar en la silueta la ropa que les guste.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multiligües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Dé un tiempo extra a los niños para que hablen sobre las siluetas y sobre cómo las dibujaron y colorearon. Anímelos a trabajar en pareja para comparar qué hicieron con sus siluetas. Dígales que pueden usar cualquier idioma que conozcan cuando hablen con un niño que conozca ese mismo idioma.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo físico</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Si algunos de los niños tienen problemas físicos que hacen difícil trazar el contorno del cuerpo, invítelos a trazar su propio contorno en papel que puedan manejar con facilidad. Ayúdelos en lo que sea necesario. Anímelos a dibujar y colorear sus siluetas de manera que los dibujos los representen.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65742-5</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

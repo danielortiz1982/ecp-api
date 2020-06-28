@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="es">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>¿qué es un amigo?</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Hoy leímos el libro <ac_teacher-speaking_emphasis_blue>Un amigo como tú</ac_teacher-speaking_emphasis_blue> y aprendimos cómo se hicieron amigos Ardilla y el pájaro.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>En esta actividad miraremos imágenes y hablaremos de lo que vemos. ¿Ven algo que los amigos hacen juntos? ¿Qué es? Al final de la actividad haremos una lista que llamaremos “Cómo ser un buen amigo”.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar </ac_teacher-card_run-in_hed>Muestre una tarjeta de ilustraciones y pregunte a los niños qué creen que está sucediendo en la imagen. Haga la pregunta del reverso de la tarjeta. Ofrezca estímulo o apoyo adicional según sea necesario.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Profundizar</ac_teacher-card_run-in_hed> Use la última pregunta del reverso de la tarjeta para ampliar la conversación.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Registrar</ac_teacher-card_run-in_hed> Entregue la tarjeta a una pareja de niños. Pregunte qué parte de la amistad creen que muestra la imagen. Escríbalo como se lo dicen. Conserve una lista en curso.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed> Continúe con la siguiente tarjeta de ilustraciones. </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar de la amistad</ac_teacher-card_run-in_hed> Lea en voz alta la lista de la amistad que le dictaron los niños. Invítelos a contar las cosas que hacen con sus amigos. Anímelos a que muestren la tarjeta de ilustraciones que corresponda, mientras conversan sobre lo que hacen con sus amigos. Asegúrese de que todos los niños tengan la oportunidad de contribuir a la conversación.  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>¿qué es un amigo?</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Para los niños que necesitan apoyo adicional, identifique la acción de cada tarjeta de ilustraciones. Por ejemplo, compartir, consolar, jugar a la pelota, soplar burbujas, jugar en el patio de recreo y cantar.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Después de conversar sobre cada imagen, pida a los niños que compartan con la clase un momento en el que hicieron algo similar con uno de sus amigos.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Es posible que algunas acciones que creemos importantes para la amistad tengan variantes en las distintas culturas. Sea perceptivo a las diferencias culturales en esta actividad. Invite a los niños a compartir otras acciones que crean que son una parte importante de la amistad. Tal vez quieran compartir palabras que describan esas acciones en el idioma que hablan en casa.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad gruesa</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>En un espacio amplio y abierto, pida a los niños que trabajen en parejas para representar las distintas acciones que vieron en las tarjetas. Pueden adaptar la acción para que se parezca más a algo que realmente harían.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64400-5</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>actividades favoritas</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Hoy volvimos a leer el libro <ac_teacher-speaking_emphasis_blue>Un amigo como tú </ac_teacher-speaking_emphasis_blue>y hablamos de cosas que a los amigos les gusta hacer juntos.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el Mind Builder </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Es divertido jugar con amigos. A veces, pueden pedirle a un amigo que juegue con ustedes. A veces, alguien les puede pedir que jueguen con ellos. Es divertido jugar con un solo amigo o con un grupo de amigos.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Una forma de hacer nuevos amigos es encontrar a quienes les gusten las mismas cosas que a ustedes. En esta actividad veremos imágenes de cosas que hacemos en la escuela. Descubriremos a quién de nuestro grupo le gusta lo mismo. A todos los que les guste lo que hay en la tarjeta, se moverán hacia el centro del círculo. Luego escogeremos otra tarjeta. Esta actividad nos ayudará a conocernos y a encontrar amigos para jugar en la escuela. </ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar </ac_teacher-card_run-in_hed>Formen un círculo y muéstreles a los niños una de las tarjetas. Haga la pregunta que está al reverso. Pida a los niños a los que les guste lo que está en la tarjeta que se pongan en el centro del círculo, creando un círculo interior. Ofrezca estímulo o apoyo adicional según sea necesario.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Profundizar </ac_teacher-card_run-in_hed>Use la última pregunta del reverso de la tarjeta para ampliar la conversación.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed> Siga la actividad con la siguiente tarjeta, formando un nuevo círculo interior con los niños a los que les guste lo que hay en ella.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar de jugar con amigos</ac_teacher-card_run-in_hed> Converse sobre qué actividades le gustaron a cada quién. Diga a los niños que pueden pedirle a los amigos que les gustan las mismas cosas jugar con ellos más tarde. Ayúdelos a practicar, preguntando: “¿Te gustaría jugar conmigo?”   </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>actividades favoritas</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Hay niños que pueden necesitar ayuda para identificar lo que representa la imagen antes de decidir si les gusta o no. Cuando muestre las tarjetas por primera vez, pida voluntarios para que digan lo que hay en la imagen.  Bríndeles ayuda según sea necesario.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Invite a los niños a dibujar cosas que les gusta hacer con sus amigos. Luego, pídales que escriban o dicten descripciones de las actividades o que etiqueten los nombres de los amigos mencionados.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Cuando conversen sobre las actividades, tómese el tiempo para demostrar patrones del lenguaje. Pregunte, por ejemplo: <ac_teacher-speaking>¿Les gusta correr? </ac_teacher-speaking>y<ac_teacher-speaking> ¿Qué es lo que les gusta de correr? ¿Les gusta dibujar?</ac_teacher-speaking> y <ac_teacher-speaking>¿Qué es lo que les gusta de dibujar?</ac_teacher-speaking> Ayudar a los niños a reconocer estos patrones del lenguaje apoyará su crecimiento exponencial en el aprendizaje del idioma.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Estimulación sensorial</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Quizá considere proporcionar materiales para apoyar la experiencia sensorial de los niños en esta actividad. Por ejemplo, puede darles plastilina cuando hablen de plastilina, bloques al hablar de bloques, etc. Este apoyo práctico ayudará a que los niños participen y comprendan mejor la actividad.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64400-5</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>¿está delicioso?</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Leímos el libro <ac_teacher-speaking_emphasis_blue>Un amigo como tú</ac_teacher-speaking_emphasis_blue> y vimos que Ardilla y el pájaro podían ser buenos amigos aunque fueran diferentes entre sí.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el vocabulario </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Aprendimos sobre la palabra <ac_teacher-speaking_emphasis_blue>deliciosas</ac_teacher-speaking_emphasis_blue>. Cuando unas galletas son deliciosas, quiere decir que están muy ricas.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>En esta actividad veremos imágenes de diferentes comidas y diremos si nos parecen deliciosas. Como todos somos distintos, podríamos darnos cuenta de que para cada quien es deliciosa distinta comida.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Enseñar señales de mano </ac_teacher-card_run-in_hed>Pida a los niños que hagan un gesto de aprobación si creen que la imagen muestra una comida deliciosa. </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed> Muestre una tarjeta y haga la pregunta del reverso. Ofrezca estímulo o apoyo adicional según sea necesario. Permita unos minutos de conversación antes de que los niños muestren el pulgar hacia arriba o hacia abajo para esta imagen.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Profundizar</ac_teacher-card_run-in_hed> Use la última pregunta del reverso de la tarjeta para ampliar la conversación.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Clasificar</ac_teacher-card_run-in_hed> Dé la tarjeta a un niño para que la ponga en la pila “deliciosa” o “no deliciosa”, dependiendo de cuál categoría tenga la mayoría de los votos.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed> Continúe la actividad con la siguiente tarjeta.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar de la amistad</ac_teacher-card_run-in_hed>  Repase cualquier conversación interesante que haya surgido durante la actividad. Explique que incluso a los muy buenos amigos les pueden gustar diferentes comidas.  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>¿está delicioso?</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Si los niños necesitan apoyo adicional en esta actividad, ejemplifique la respuesta a cada pregunta antes de pedirle a un niño que la responda. Asegúrese de mencionar que tiene amigos a quienes les gustan comidas diferentes de las que le gustan a usted.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Invite a los niños a escribir o dibujar otras comidas que crean que son deliciosas. Anímelos a conversar entre ellos para aprender cómo se sienten otros niños en relación con esas comidas. Pregúnteles si, durante la actividad, conocieron alguna comida nueva.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Anime a los alumnos multilingües a compartir las palabras que usan para describir una comida deliciosa. Invítelos a conversar sobre una comida favorita que sus familias preparen en casa. Tal vez desee dar continuidad a la tarea pidiéndoles a las familias que le envíen una fotografía de una comida favorita que coman en casa para imprimirla y ponerla en el centro de dramatización.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Para sumar un poco de trabajo de motricidad fina a esta actividad, tenga en cuenta brindar tenedores, cucharas, palillos y comida de juguete para que los niños jueguen con ellos. Anímelos a usar los utensilios para pasar la comida de juguete de un plato a otro.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64400-5</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>estoy agradecido por…</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales </ac_teacher-card_run-in_hed>Tenga a mano hojas en blanco u otros papeles y materiales de arte para que los niños los usen cuando creen sus dibujos “Estoy agradecido por...”.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Hoy vimos el papelógrafo <ac_teacher-speaking_emphasis_blue>¡Gracias, amigo!</ac_teacher-speaking_emphasis_blue> Aprendimos sobre cómo demostrar a nuestros buenos amigos que estamos agradecidos por tenerlos. Es importante estar agradecidos por todas las personas que queremos.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>En esta actividad pensaremos en las personas por las que estamos agradecidos y haremos dibujos de “Estoy agradecido por...” para exhibirlos.   </ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Proporcionar un tema </ac_teacher-card_run-in_hed>Pida a los niños que identifiquen a una persona por la que están agradecidos y que expliquen por qué están agradecidos con ella.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Animar </ac_teacher-card_run-in_hed>Anime a los niños a que hagan un dibujo de la persona, con el mayor detalle posible.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Escribir </ac_teacher-card_run-in_hed>Invite a los niños a que escriban o le dicten el nombre de la persona y por qué están agradecidos con ella.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Compartir gratitud </ac_teacher-card_run-in_hed>Pida a cada niño que comparta su dibujo con el grupo. Luego, trabajen juntos para pegar los dibujos en un cartel de anuncios o una pared, para que los niños y las familias puedan verlos.</ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>estoy agradecido por...</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Si los niños tienen dificultades para encontrar algo que dibujar para los diferentes temas, piense en ideas con ellos. Pregunte: <ac_teacher-talk>¿Alguno de sus amigos ha hecho últimamente algo bueno por ustedes? ¿Qué fue? ¿Cómo los hizo sentir?</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Anime a los niños a escribir una nota de agradecimiento para una persona con la que se sientan agradecidos. Meta la nota en un sobre con el nombre de la persona y ayude al niño a entregarla. Si usted no conoce a la persona, entregue el sobre a la familia del niño.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Anime a los alumnos multilingües a hablar de sus dibujos y contar por qué están agradecidos. Pueden elegir usar palabras de su lengua materna en las leyendas que le dicten. Si es preciso, obtenga apoyo de otros hablantes nativos de ese idioma.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Quizás los niños quieran usar materiales de arte adicionales para agregar detalles a sus dibujos. También pueden recortar imágenes de revistas viejas para pegarlas en sus dibujos y representar las cosas por las que se sienten agradecidos.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64400-5</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

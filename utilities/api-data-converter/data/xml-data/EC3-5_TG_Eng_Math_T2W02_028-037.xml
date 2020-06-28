@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./preview-styles.css" type="text/css"?>
+<teaching-guide xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" lang="en">
+  <day_1>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 2: </tg_week_hed>
+        <tg_topic_hed>Where We Live</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338633870_COV_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Big Book:  <tg_materials-caption_book-title-Ital>City Shapes</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T2_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large  Group Card</tg_materials-caption>
+        <graphic href="VC Redux Eng T2_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Vocabulary Cards </tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Geometry </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed> Motivation and Creativity; Executive Function </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed>  Vocabulary </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Social Studies:</tg_learning-goals_inline-hed> Geography</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to build background, engage children with song, and introduce vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>shape</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>square</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Begin Story Time by asking, <tg_bullet-directions_guiding-question>What is something in the city that looks like a shape?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Read for enjoyment and understanding, pausing to focus on shapes. </tg_bullet-directions>
+        <tg_bullet-directions>Check understanding, differentiating as needed.  </tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Recognize, name, and describe common two-dimensional shapes—circle, square, rectangle, triangle—using words related to number of sides, length of sides, and number of points or angles.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Explain that a shape remains the same shape even when its size or position changes.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivation and Creativity:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Think symbolically.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Executive Function:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Classify and organize to group and arrange items.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Understand and use varied types of words.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Social Studies </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geography:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identify and create common features in the natural environment, such as hills, rivers, roads, lakes, and familiar buildings.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Find the Squares!</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T2_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Activity Cards</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed>  Geometry </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed>  Motivation and Creativity; Executive Function </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed> Vocabulary</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Ask children to find squares in pictures. </tg_bullet-directions>
+        <tg_bullet-directions>Help children recognize that the position of a square does not change its shape. </tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>What is it like where we live? </tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND LISTENING CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Do you see any squares in that book? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND  LEARN CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Where can you find a square in the kitchen? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND  SCIENCE CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Count the number of sides on a square. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S  CORNER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Draw something in the classroom that is square-shaped. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY  STATION </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you use these materials to make a square?  </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC  CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Squares have four sides. What letter do you hear at the beginning of <tg_teacher-talk_emphasis_non-ital>four</tg_teacher-talk_emphasis_non-ital>? Trace it!  </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION  CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What shapes do you see in these blocks?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. City Shapes by Diana Murray, illustrated by Bryan Collier. Text copyright © 2016 by Diana Murray. Illustrations copyright © 2016 by Bryan Collier. Cover copyright © 2016 by Hachette Book Group, Inc. Published by Scholastic Inc. by arrangement with Little, Brown Books for Young Readers, a division of Hachette Book Group, Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_1>
+  <day_2>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 2: </tg_week_hed>
+        <tg_topic_hed>Where We Live</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338633870_COV_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Big Book:  <tg_materials-caption_book-title-Ital>City Shapes</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T2_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large  Group Card</tg_materials-caption>
+        <graphic href="VC Redux Eng T2_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Vocabulary  Cards</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Geometry </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed> Motivation and Creativity; Executive Function </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed> Vocabulary </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Social Studies:</tg_learning-goals_inline-hed> Geography; Citizenship </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Fine Arts:</tg_learning-goals_inline-hed> Art</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to share the Mind Builder <tg_bullet-directions_emphasis_Ital>classify and organize</tg_bullet-directions_emphasis_Ital> and introduce vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>group</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>rectangle</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Begin Story Time by connecting the Mind Builder to <tg_bullet-directions_book-title>City Shapes</tg_bullet-directions_book-title>. </tg_bullet-directions>
+        <tg_bullet-directions>Read closely to classify and organize and review shapes. </tg_bullet-directions>
+        <tg_bullet-directions>Offer an extended play opportunity. </tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Recognize, name, and describe common two-dimensional shapes using words related to number of sides, length of sides, and number of points.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Explain that a shape remains the same shape even when its size or position changes.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Combine shapes to create a picture or design.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivation and Creativity:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Think symbolically.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Executive Function:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Classify and organize to group and arrange items.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Fine Arts </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Art:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use different materials for exploration and for sensory experience.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Understand and use varied types of words.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Social Studies </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geography:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identify and create common features in the natural environment, such as hills, rivers, roads, lakes, and buildings.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Citizenship:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identify flags of the United States and of home state.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Rectangle Or Not?</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T2_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Activity Cards</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed>  Geometry </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed>  Motivation and Creativity; Executive Function </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed> Vocabulary</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will:  </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Ask children to group shapes by whether or not they are rectangles. </tg_bullet-directions>
+        <tg_bullet-directions>Discuss that squares are a type of rectangle. </tg_bullet-directions>
+        <tg_bullet-directions>Challenge children to group cards using other criteria. </tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>What is it like where we live? </tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND LISTENING CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you find any rectangles in this book? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND  LEARN CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>When you play in the store, what do you see that is shaped like a rectangle? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND  SCIENCE CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Make a rectangle on the Geoboard. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S  CORNER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Draw something you see in the classroom that is in the shape of a rectangle. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY  STATION </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Use any materials to make a rectangle. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC  CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Draw a rectangle around the letter <tg_teacher-talk_emphasis_non-ital>R</tg_teacher-talk_emphasis_non-ital>.  </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION  CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Use blocks to make a building in the shape of a rectangle.</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. City Shapes by Diana Murray, illustrated by Bryan Collier. Text copyright © 2016 by Diana Murray. Illustrations copyright © 2016 by Bryan Collier. Cover copyright © 2016 by Hachette Book Group, Inc. Published by Scholastic Inc. by arrangement with Little, Brown Books for Young Readers, a division of Hachette Book Group, Inc. Clifford the Big Red DogTM illustration copyright © The Norman Bridwell Trust. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_2>
+  <day_3>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 2: </tg_week_hed>
+        <tg_topic_hed>Where We Live</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338633870_COV_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Big Book:  <tg_materials-caption_book-title-Ital>City Shapes</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T2_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large  Group Card</tg_materials-caption>
+        <graphic href="VC Redux Eng T2_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Vocabulary  Cards</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed>  Geometry </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed> Motivation and Creativity; Executive Function </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed>  Vocabulary </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Social Studies:</tg_learning-goals_inline-hed> Geography</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to discuss three-dimensional shapes, play a shape game, and introduce vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>triangle</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>circle</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Begin Story Time by revisiting <tg_bullet-directions_book-title>City Shapes</tg_bullet-directions_book-title> and asking the guiding question,<tg_bullet-directions_guiding-question> Where do the girl and the pigeon find shapes in the city?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Read interactively for deeper comprehension and to review geometry. </tg_bullet-directions>
+        <tg_bullet-directions>Check understanding and differentiate as needed. </tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Begin to recognize common three-dimensional shapes, describing them as balls, boxes, cans, and cones.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Recognize, name, and describe common two-dimensional shapes using words related to number of sides, length of sides, and number of points or angles.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Explain that a shape remains the same shape even when its size or position changes.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Combine shapes to create a picture or design.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Social Studies </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geography:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identify and create common features in the natural environment, such as hills, rivers, roads, lakes, and familiar buildings.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivation and Creativity:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Think symbolically.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Executive Function:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Classify and organize to group and arrange items.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Understand and use varied types of words.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Spot the Mistake: Shapes</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T2_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Activity Cards</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed>  Geometry </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed>  Motivation and Creativity; Executive Function </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed>  Vocabulary</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will:  </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Identify shapes on Activity Cards, occasionally making a mistake. </tg_bullet-directions>
+        <tg_bullet-directions>Challenge children to correct your mistakes and explain why. </tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>What is it like where we live? </tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND LISTENING CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Find something in the book that is in the shape of a circle or a triangle. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND  LEARN CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Is there a tool that has a circle on it? Is there a tool that has a triangle on it? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND  SCIENCE CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Which Pattern Blocks are triangles? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S  CORNER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Write about your favorite thing that is shaped like a circle. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY  STATION </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Use any materials to make a square.  </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC  CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Circles are curved. Does the letter<tg_teacher-talk_emphasis_non-ital> C</tg_teacher-talk_emphasis_non-ital> have straight lines or curved lines? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION  CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you group the blocks by shape?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. City Shapes by Diana Murray, illustrated by Bryan Collier. Text copyright © 2016 by Diana Murray. Illustrations copyright © 2016 by Bryan Collier. Cover copyright © 2016 by Hachette Book Group, Inc. Published by Scholastic Inc. by arrangement with Little, Brown Books for Young Readers, a division of Hachette Book Group, Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_3>
+  <day_4>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 2: </tg_week_hed>
+        <tg_topic_hed>Where We Live</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="EC_FC_Eng_T2W2_redux_cropped.png" index="1"/>
+        <tg_materials-caption index="1">
+          <tg_materials-caption_book-title-Ital>Big Chart of Big Ideas:  Our Neighborhood</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T2_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large  Group Card</tg_materials-caption>
+        <graphic href="9781338633870_COV_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Big Book: City Shapes</tg_materials-caption>
+        <graphic href="VC Redux Eng T2_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Vocabulary Cards</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Geometry </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed>  Motivation and Creativity; Executive Function </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed> Vocabulary </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Social Studies:</tg_learning-goals_inline-hed> Geography</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to talk about where we live, engage children with a game, and introduce vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>post office</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>library</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Begin Story Time by connecting the texts <tg_bullet-directions_book-title>Our Neighborhood</tg_bullet-directions_book-title> and <tg_bullet-directions_book-title>City Shapes</tg_bullet-directions_book-title>. </tg_bullet-directions>
+        <tg_bullet-directions>Read closely to connect to this week’s concept question, <tg_bullet-directions_guiding-question>What is it like where we live?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Offer an extended play opportunity. </tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Recognize, name, and describe common two-dimensional shapes—circle, square, rectangle, triangle—using words related to number of sides, length of sides, and number of points or angles.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Combine shapes to create a picture or design.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivation and Creativity:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Think symbolically.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Executive Function:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Classify and organize to group and arrange items.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Understand and use varied types of words.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Social Studies </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geography:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identify and create common features in the natural environment, such as hills, rivers, roads, lakes, and familiar buildings.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Find Me a Shape!</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T2_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Activity Card</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed>  Geometry </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed>  Motivation and Creativity; Executive Function </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed> Vocabulary</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will:  </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Ask children to find shapes in the classroom. </tg_bullet-directions>
+        <tg_bullet-directions>Guide children to repeat the name of the shape. </tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>What is it like where we live? </tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND LISTENING CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>How is the place in this story like your community? How is it different? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND  LEARN CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Play post office. What shape is an envelope? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND  SCIENCE CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What shape are the counters? How many are there? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S  CORNER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What is your favorite place to go in your community? What do you do there? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY  STATION </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you draw your favorite shape?  </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC  CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Choose a place in your community. What letter do you hear at the beginning of that place? Can you draw it? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION  CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Use blocks to build a home.</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. City Shapes by Diana Murray, illustrated by Bryan Collier. Text copyright © 2016 by Diana Murray. Illustrations copyright © 2016 by Bryan Collier. Cover copyright © 2016 by Hachette Book Group, Inc. Published by Scholastic Inc. by arrangement with Little, Brown Books for Young Readers, a division of Hachette Book Group, Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_4>
+  <day_5>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 2: </tg_week_hed>
+        <tg_topic_hed>Where We Live</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338633870_COV_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Big Book:  <tg_materials-caption_book-title-Ital>City Shapes</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T2_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large  Group Card</tg_materials-caption>
+        <graphic href="VC Redux Eng T2_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Vocabulary  Cards</tg_materials-caption>
+        <graphic href="EC_stock_ColoredPaper_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Poster Paper</tg_materials-caption>
+        <graphic href="EC_stock_WritingTools_cropped.png" index="5"/>
+        <tg_materials-caption index="5">Colored Pencils</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Geometry </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed> Motivation and Creativity; Executive Function </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed> Vocabulary </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Social Studies:</tg_learning-goals_inline-hed> Geography </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Fine Arts:</tg_learning-goals_inline-hed> Art</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to connect to fine arts and introduce new vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>skyscraper</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Start Story Time by revisiting the big book and asking, <tg_bullet-directions_guiding-question>How can we use shapes to draw the things we see in our neighborhood?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Read and retell interactively for physical engagement and a focus on shapes. </tg_bullet-directions>
+        <tg_bullet-directions>Check understanding, differentiating as needed. </tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Recognize, name, and describe common two-dimensional shapes—circle, square, rectangle, triangle—using words related to number of sides, length of sides, and number of points or angles.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Combine shapes to create a picture or design.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivation and Creativity:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Think symbolically.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Executive Function:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Classify and organize to group and arrange items.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Understand and use varied types of words.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Social Studies </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geography:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identify and create common features in the natural environment, such as hills, rivers, roads, lakes, and familiar buildings.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Fine Arts </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Art:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use different art materials for exploration and sensory experience.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Independent Writing, Drawing, or Storytelling</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC3-5_ResponsePrompt_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Response Prompt </tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Geometry </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed>  Motivation and Creativity; Executive Function </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed> Vocabulary </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Literacy:</tg_learning-goals_inline-hed>  Writing</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will:  </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Support children as they independently respond to this week’s prompt: <tg_bullet-directions_guiding-question>Write a story about finding your favorite shape in your neighborhood.</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed. </tg_bullet-directions>
+        <tg_bullet-directions>Save children’s writing to display next week.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>What is it like where we live? </tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND LISTENING CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Where does this character live? How is it the same as where you live? How is it different? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND  LEARN CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Pretend that you are a skyscraper. What shape are your windows? What shape is your roof? How tall are you? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND  SCIENCE CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Group Pattern Blocks by shape.  </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S  CORNER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>If you could build your own skyscraper, what would it be like? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY  STATION </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Make a painting of your own skyscraper. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC  CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What letter do you hear at the beginning of <tg_teacher-talk_emphasis_non-ital>skyscraper</tg_teacher-talk_emphasis_non-ital>?  </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION  CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Use blocks to build the tallest skyscraper you can.</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. City Shapes by Diana Murray, illustrated by Bryan Collier. Text copyright © 2016 by Diana Murray. Illustrations copyright © 2016 by Bryan Collier. Cover copyright © 2016 by Hachette Book Group, Inc. Published by Scholastic Inc. by arrangement with Little, Brown Books for Young Readers, a division of Hachette Book Group, Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_5>
+  <day_1_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Name common shapes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Slide, flip, and turn shapes to demonstrate that the shapes remain the same.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.4)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivation and Creativity:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Think symbolically.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Executive Function:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Classify and organize to group and arrange items.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use a large speaking vocabulary, adding several new words daily.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.4)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Social Studies </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geography:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identify and create common features in the natural environment.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VII.C.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_1_texas>
+  <day_2_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Name common shapes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Slide, flip, and turn shapes to demonstrate that the shapes remain the same.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.4)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Create shapes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivation and Creativity:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Think symbolically.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Executive Function:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Classify and organize to group and arrange items.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Fine Arts </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Art:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use art materials and activities for sensory experience and exploration.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VIII.A.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Social Studies </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geography:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identify and create common features in the natural environment.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VII.C.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Citizenship:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identify flags of the United States and Texas.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VII.D.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_2_texas>
+  <day_3_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Name common shapes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Slide, flip, and turn shapes to demonstrate that the shapes remain the same.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.4)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Create shapes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivation and Creativity:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Think symbolically.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Executive Function:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Classify and organize to group and arrange items.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use a large speaking vocabulary, adding several new words daily.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.4)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Social Studies </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geography:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identify and create common features in the natural environment.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VII.C.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_3_texas>
+  <day_4_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Name common shapes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Create shapes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use a large speaking vocabulary, adding several new words daily.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.4)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivation and Creativity:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Think symbolically.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Executive Function:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Classify and organize to group and arrange items.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Social Studies </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geography:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identify and create common features in the natural environment.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VII.C.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_4_texas>
+  <day_5_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Name common shapes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Create shapes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use a large speaking vocabulary, adding several new words daily.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.4)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivation and Creativity:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Think symbolically.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Executive Function:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Classify and organize to group and arrange items.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Social Studies </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geography:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identify and create common features in the natural environment.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VII.C.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Fine Arts </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Art:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use a variety of art materials and activities for sensory experience and exploration.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VIII.A.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_5_texas>
+</teaching-guide>

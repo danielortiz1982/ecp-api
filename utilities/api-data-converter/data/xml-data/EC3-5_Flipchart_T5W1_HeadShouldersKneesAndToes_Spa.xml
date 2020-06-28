@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flip-chart lang="es">
+  <flip_chart-17 day="4">
+    <flip_chart-17_front>
+      <graphic href="EC3-5_Flipchart_T5W1_HeadShouldersKneesAndToes_Spa.jpg"/>
+    </flip_chart-17_front>
+    <flip_chart-17_back>
+      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <flip_chart-theme-text>ESTOY SALUDABLE</flip_chart-theme-text>
+          <flip_chart-topic-text> Mi cuerpo</flip_chart-topic-text>
+          <flip_chart-concept-question>¿Cuáles son las partes de nuestros cuerpos? ¿Qué es lo que hacen?</flip_chart-concept-question>
+        </section-block>
+      </masthead>
+      <display-head-section>
+        <section-block type="display_b_1" index="1">
+          <flip_chart-display-head>cabeza, hombros, rodillas y pies</flip_chart-display-head>
+        </section-block>
+      </display-head-section>
+      <teacher-facing-section>
+        <section-block type="teacher-facing_b_1" index="1">
+          <flip_chart-teacher-facing-content-box>
+            <flip_chart-teacher-facing-paragraph>¡Vamos a pararnos y cantar una canción! Toquen la parte de su cuerpo cuando la canten en la canción. </flip_chart-teacher-facing-paragraph><flip_chart-centered-content type="centered">
+              <flip_chart-bold>Cabeza y hombros, rodillas y pies.<flip_chart-br> </flip_chart-br>¡Rodillas y pies!<flip_chart-br> </flip_chart-br>Cabeza y hombros, rodillas y pies.<flip_chart-br> </flip_chart-br>¡Rodillas y pies!<flip_chart-br> </flip_chart-br>Ojos y orejas, boca y nariz.<flip_chart-br> </flip_chart-br>Cabeza y hombros, rodillas y pies.</flip_chart-bold></flip_chart-centered-content>
+            <flip_chart-centered-content type="centered">
+              <flip_chart-teacher-direction-text>[Repita el verso cuantas veces sea necesario.]</flip_chart-teacher-direction-text>
+            </flip_chart-centered-content>
+          </flip_chart-teacher-facing-content-box>
+        </section-block>
+      </teacher-facing-section>
+      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <flip_chart-credit-line>Photo © Yana Kabangu/Shutterstock.</flip_chart-credit-line>
+        </section-block>
+      </copyright-section>
+    </flip_chart-17_back>
+  </flip_chart-17>
+</flip-chart>

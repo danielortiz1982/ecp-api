@@ -1,0 +1,2460 @@
+[{
+  "declaration": {
+    "attributes": {
+      "version": "1.0",
+      "encoding": "UTF-8"
+    }
+  },
+  "elements": [
+    {
+      "type": "element",
+      "name": "teacher-activity-cards",
+      "attributes": {
+        "lang": "en",
+        "module":"literature",
+        "week":"week_001",
+        "theme":"theme_005"
+      },
+      "elements": [
+        {
+          "type": "element",
+          "name": "ac_card-1",
+          "attributes": {
+            "day": "1"
+          },
+          "elements": [
+            {
+              "type": "element",
+              "name": "ac_card-1_front",
+              "elements": [
+                {
+                  "type": "element",
+                  "name": "masthead",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "masthead_f_1",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_header-game-card",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "letters and sounds"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "instructions",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "instructions_f_1",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Instructions"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "before-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "before_f_1",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Gather Materials  "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "Prepare ahead a game sheet for each child with a 2x4 grid marked with letters"
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-talk",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": " B, b, D, d"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": ", "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-talk",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "J, j, "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "and"
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-talk",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": " K, k; "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "Alphabet Cards; Magnetic Letters; paper bag; and cubes."
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Connect to Large Group"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Today we read the story "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "Happy in Our Skin"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": " and we saw the letters "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "Bb, Dd, Jj,"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": " and "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "Kk"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Review the Alphabet Cards  "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "Use the Alphabet Cards for letters "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-talk",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Bb"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": ", "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-talk",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Dd"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": ", "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-talk",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Jj"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": ", and "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-talk",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Kk"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": ". Name and show each uppercase and lowercase letter. Follow a pattern like this one and say: "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "This is the letter "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "Bb"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": ". The letter "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "Bb"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": " makes the /b/ sound you hear at the beginning of the word "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "bike."
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Explain the Activity  "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-talk",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Today we will do an activity that lets us practice naming letters and sounds."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "during-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "during_f_1",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Set Up  "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "Give each child a game sheet. Then name the Magnetic Letters as you hide them in the bag."
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Ask  "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "Invite one child to reach into the bag and take out a letter. Then say, "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "What letter do you have? What  sound does it  make? Can you find and cover that letter on your game sheet?"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " Have the child replace the letter and continue the activity. "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Repeat  "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "Continue until all the spaces on everyone’s game boards have been covered."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "after-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "after_f_1",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Practice Letters  "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "Have children practice writing the letters "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-talk",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Bb, Dd, Jj, "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "and"
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-talk",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": " Kk"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": ". In pairs, have them draw a picture next to each letter that begins with the sound the letter makes."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "name": "ac_card-1_back",
+              "elements": [
+                {
+                  "type": "element",
+                  "name": "masthead",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "masthead_b_1",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_header-game-card",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "LETTERS AND SOUNDS  "
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "differentiation-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_1",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Differentiation"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_1",
+                        "index": "2"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_diff_support-challenge_heds",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Support "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "To help children who may have difficulty with so many letters, do the activity with one row of letters, using only the uppercase letters. At another time, repeat the activity with lowercase letters."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_1",
+                        "index": "3"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_diff_support-challenge_heds",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Challenge "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Before they cover each letter, invite children to name words that begin with that letter’s sound. "
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "modifications-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "modifications_b_1",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Modifications"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "modifications_b_1",
+                        "index": "2"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_mod_teacher-card_d_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Multilingual Learners"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Some children whose first language is Spanish may pronounce the letters "
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-talk",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "Bb "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "and "
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-talk",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "Vv "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "alike. Take extra time, as needed, to review the sounds those letters make in English, both in isolation and along with a picture clue."
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_mod_teacher-card_d_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Attention Support"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "To help children who might be easily distracted and upset their game boards during the activity, have them sit next to you so that you can help them focus on the task and keep the pieces intact."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "copyright-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "copyright_b_1",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_back_copyright_line",
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "isbn",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "978-1-338-64921-5"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": ". TM ® & © Scholastic Inc. All rights reserved. "
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "name": "ac_card-2",
+          "attributes": {
+            "day": "2"
+          },
+          "elements": [
+            {
+              "type": "element",
+              "name": "ac_card-2_front",
+              "elements": [
+                {
+                  "type": "element",
+                  "name": "masthead",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "masthead_f_2",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_header-game-card",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "We’re So Happy"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "instructions",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "instructions_f_2",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Instructions"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "before-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "before_f_2",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Gather Materials"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " Paper folded in half, markers, and crayons "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Connect to Large Group "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Today we read "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "Happy in Our Skin. "
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "We learned all about the things our skin can do for us."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Review the Mind Builder"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Remember we talked about feelings? We saw how the babies were happy in their skin. Then we saw how their skin grew as they grew, and we saw all the happy things they did. "
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Explain the Activity "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Today you will draw yourselves as happy babies. Then you will draw yourselves as happy preK children. Let’s see how much you’ve grown in the skin you’re in!"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "during-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "during_f_2",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Set Up  "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "Distribute drawing paper, markers, and crayons. "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Do the Activity  "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "Have children draw pictures to show themselves as happy babies. Invite children to think about how little they once were. "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Ask  "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "What do you think made you happy when you were a baby? What do you think a happy baby looks and sounds like?  "
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Extend  "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "Invite children to draw a second picture of themselves as happy children. "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Show me what a “happy you” looks like!"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "after-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "after_f_2",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Talk About Feeling Happy in Your Skin  "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "Ask children how they felt during this activity. Ask children to share what makes them happy. "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "What do you like to do when you are happy? What makes you feel the happiest in your skin?"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "name": "ac_card-2_back",
+              "elements": [
+                {
+                  "type": "element",
+                  "name": "masthead",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "masthead_b_2",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_header-game-card",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "We’re So Happy"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "differentiation-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_2",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Differentiation"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_2",
+                        "index": "2"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_diff_support-challenge_heds",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Support "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Provide drawn outlines of a baby and invite children to fill in the outlines. Then provide drawn outlines of a child and ask children to fill in the outlines."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_2",
+                        "index": "3"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_diff_support-challenge_heds",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Challenge "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Invite children to embellish their outlines, drawing their faces, hair, and clothing. Have them write their names on their papers. Invite children to draw or write things that make them happy."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "modifications-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "modifications_b_2",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Modifications"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "modifications_b_2",
+                        "index": "2"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_mod_teacher-card_d_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Multilingual Learners "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Provide dialogue prompts such as “I am happy when"
+                            },
+                            {
+                              "type": "element",
+                              "name": "fill-in-the-blank"
+                            },
+                            {
+                              "type": "text",
+                              "text": ",” or “"
+                            },
+                            {
+                              "type": "element",
+                              "name": "fill-in-the-blank"
+                            },
+                            {
+                              "type": "text",
+                              "text": " makes me happy.” Invite multilingual learners to share the word for "
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-talk",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "happy"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": " in their home language. "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_mod_teacher-card_d_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Emotional Development "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "For children who may feel shy about drawing themselves, encourage them to draw any kind of a happy image such as a happy dinosaur, a happy dog, or a happy story character."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "copyright-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "copyright_b_2",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_back_copyright_line",
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "isbn",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "978-1-338-64921-5"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": ". TM ® & © Scholastic Inc. All rights reserved. "
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "name": "ac_card-3",
+          "attributes": {
+            "day": "3"
+          },
+          "elements": [
+            {
+              "type": "element",
+              "name": "ac_card-3_front",
+              "elements": [
+                {
+                  "type": "element",
+                  "name": "masthead",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "masthead_f_3",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_header-game-card",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "alike and different"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "instructions",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "instructions_f_3",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Instructions"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "before-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "before_f_3",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Gather Materials  "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "connecting cubes of two or three different colors "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Connect to Large Group"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Today we read "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "Happy in Our Skin."
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": " We have talked about how our skin makes each of us special and one of a kind.  Today will build something clever, then look at what each of us has made and talk about how they are alike and different."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Review Vocabulary"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Use the Vocabulary Card to review the word "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-talk",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "clever"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": ". "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Explain the Activity  "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "In our activity today, we will use connecting cubes to build something clever. You can use your cubes to build whatever you like. As we build, we will try not to let anyone see what we’re  making. When we have finished we will share and compare what  we’ve made and see what makes them alike and different."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "during-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "during_f_3",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Set Up  "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "Give each child about 10 connecting cubes of different colors. Have children sit with their backs to one another so they can’t see each other’s work in progress. Children may make whatever they like, using as many of the cubes as they like. When everyone has finished, children will turn and share what they’ve made. "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Ask  "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Who has used all of the blocks? Who has used only one color? Who has used a repeating pattern? "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "Continue to ask questions, identifying similarities and differences among the constructions. "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Repeat  "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "Invite children to try the activity several times."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "after-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "after_f_3",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Be Clever About Patterns  "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "Talk about how sometimes what we do is just like what someone else does and sometimes it’s not like what anyone else does."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "name": "ac_card-3_back",
+              "elements": [
+                {
+                  "type": "element",
+                  "name": "masthead",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "masthead_b_3",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_header-game-card",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "ALIKE AND DIFFERENT"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "differentiation-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_3",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Differentiation"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_3",
+                        "index": "2"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_diff_support-challenge_heds",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Support "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Do this activity by giving children the option of fewer cubes and only two colors. Suggest patterns they might want to consider, such as using all of one color or using one of each color."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_3",
+                        "index": "3"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_diff_support-challenge_heds",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Challenge "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "After everyone has finished building, invite children to notice and share the similarities and differences among the items made. Then determine whether there were more similarities, or more differences."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "modifications-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "modifications_b_3",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Modifications"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "modifications_b_3",
+                        "index": "2"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_mod_teacher-card_d_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Multilingual Learners "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "For multilingual learners, invite children to tell you the name of each color cube. Invite them to show two cubes and say “alike” and “different” in their home language. "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_mod_teacher-card_d_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Sensory Support "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Children who are visual learners will identify what makes something similar or different in the colors, shape, and patterns of what classmates have made with the cubes."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "copyright-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "copyright_b_3",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_back_copyright_line",
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "isbn",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "978-1-338-64921-5"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": ". TM ® & © Scholastic Inc. All rights reserved. "
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "name": "ac_card-4",
+          "attributes": {
+            "day": "4"
+          },
+          "elements": [
+            {
+              "type": "element",
+              "name": "ac_card-4_front",
+              "elements": [
+                {
+                  "type": "element",
+                  "name": "masthead",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "masthead_f_4",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_header-game-card",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "SIMON SAYS"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "instructions",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "instructions_f_4",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Instructions"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "before-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "before_f_4",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Connect to Large Group  "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Today we read the "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "Big Chart of Big Ideas: Head, Shoulders, Knees, and Toes."
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": " Point to your head. Point to your shoulders. Point to your knees. And—last but not least—point to your toes! "
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Explain the Activity  "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Today we will play Simon Says. We will listen very carefully as “Simon”—that’s me—tells you to move parts of your body."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "during-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "during_f_4",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Set Up  "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "Have children stand in a line facing you. Ask them to begin with their hands at their sides. Tell them that you will say the words “Simon Says” before you tell them which part of their body to move. Start with “Simon Says clap your hands.” "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Engage  "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "Children follow directions as “Simon” tells them which part of their body to move. As you play, if children are following easily, give directions more quickly. If children are struggling, speak more slowly or demonstrate the motion yourself. "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Repeat  "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "Continue the activity, adding a number of times to each direction."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "after-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "after_f_4",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Talk About Our Bodies and How They Move  "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "Ask children to name which parts of their bodies they use to do certain things, such as jump, throw, write, nod, smile, and wave."
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "name": "ac_card-4_back",
+              "elements": [
+                {
+                  "type": "element",
+                  "name": "masthead",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "masthead_b_4",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_header-game-card",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "SIMON SAYS"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "differentiation-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_4",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Differentiation"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_4",
+                        "index": "2"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_diff_support-challenge_heds",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Support"
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-speaking"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Some children will find it difficult to follow, so speak slowly, and limit motions to the most basic, such as clapping hands, touching the nose, and touching knees."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_4",
+                        "index": "3"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_diff_support-challenge_heds",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Challenge "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Invite children to take turns being Simon and giving the directions for the other children to follow."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "modifications-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "modifications_b_4",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Modifications"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "modifications_b_4",
+                        "index": "2"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_mod_teacher-card_d_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Multilingual Learners "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "For multilingual learners, point to each body part as you name it, and ask them to say it as they move it. "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_mod_teacher-card_d_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Gross Motor Development "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Offer limited or smaller motions for those children with limited physical abilities. For example, you might ask children to blink their eyes, tap their toes, or nod their heads."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "copyright-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "copyright_b_4",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_back_copyright_line",
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "isbn",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "978-1-338-64921-5"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": ". TM ® & © Scholastic Inc. All rights reserved. "
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}]

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="es">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>CLASIFICAR ZAPATOS</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos el libro <ac_teacher-speaking_emphasis_blue>Este zapato necesita un pie</ac_teacher-speaking_emphasis_blue> y aprendimos cómo obtuvo ayuda un zapato para encontrar el pie exacto que encajaría dentro de él.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, veremos varias imágenes de zapatos y adivinaremos quién los usa.</ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre una tarjeta de ilustraciones y haga la pregunta del reverso de la tarjeta. Según sea necesario, brinde un estímulo adicional o apoyo.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use la última pregunta del reverso de la tarjeta para ampliar la conversación.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Clasificar</ac_teacher-card_run-in_hed>  Entregue la tarjeta de ilustraciones a un niño para que la clasifique con las otras tarjetas de forma que aparezcan, en orden, desde los zapatos más pequeños hasta los más grandes.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad usando la siguiente tarjeta de ilustraciones. Pida a los niños que clasifiquen las imágenes desde los zapatos más pequeños hasta los más grandes.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre las medidas de pies y zapatos</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En <ac_teacher-speaking_emphasis_blue>Este zapato necesita un pie</ac_teacher-speaking_emphasis_blue>, ¿cómo midieron el zapato los animales? ¿Cómo ayudó esto a que encontraran qué pie calzaba en el zapato? Algunas patas de los animales eran pequeñas y otras grandes. Algunas eran largas y otras cortas. Hablemos de los pies que vimos en las imágenes. Luego, organizaremos las otras tarjetas, desde los zapatos más pequeños hasta los más grandes.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>CLASIFICAR ZAPATOS</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Para los niños que tienen dificultades para visualizar quién usa los zapatos de las tarjetas de ilustraciones, pídales que describan lo que ven en la imagen. Pregunte: <ac_teacher-talk>¿Han visto zapatos como estos? Si es así, ¿quién usaba los zapatos?</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Invite a los niños a nombrar varios tipos de zapatos. ¿Qué tipo de zapatos usan para jugar afuera? ¿Usan zapatos para ir a dormir? ¿Qué usarían para patinar sobre hielo?</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>La investigación muestra que los niños que crecen hablando más de un idioma tienen una ventaja cognitiva. Aprenden pensamiento flexible a una edad temprana. Aprenden que las palabras asignadas a los objetos, por ejemplo la palabra <ac_teacher-talk-emphasis>zapato</ac_teacher-talk-emphasis>, son relativas y que a cualquier objeto se le puede asignar más de una etiqueta según el idioma.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Habilidades para las matemáticas</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Considere pedir a los niños que se quiten uno de sus zapatos y los alineen, según el tamaño, en un espacio vacío. Pídales que midan los zapatos con una regla y vean cuántos tamaños hay. Comparta la tarea con los niños escribiendo, en una hoja de papel, el número de los tamaños de sus pies. Luego, muestre a los niños cómo los zapatos tienen diferentes números para representar los diferentes tamaños.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66299-3</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>¿PARECIDO O DIFERENTE?</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos el libro <ac_teacher-speaking_emphasis_blue>Este zapato necesita un pie </ac_teacher-speaking_emphasis_blue>y conversamos sobre lo importante que es hacer y contestar preguntas.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el Mind Builder</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Ustedes hacen y contestan preguntas cuando aprenden algo nuevo o están compartiendo información.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el vocabulario</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Aprendimos las palabras <ac_teacher-speaking_emphasis_blue>parecido</ac_teacher-speaking_emphasis_blue> y <ac_teacher-speaking_emphasis_blue>diferente</ac_teacher-speaking_emphasis_blue>. Repasemos estas palabras, ya que están relacionadas con la actividad que realizaremos hoy.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-talk>Vamos a ver imágenes de diferentes personas y cosas. Vamos a hablar sobre si son parecidas o diferentes. </ac_teacher-talk>
+            </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre una tarjeta de ilustraciones y haga la pregunta del reverso de la tarjeta. Según sea necesario, brinde un estímulo adicional o apoyo.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use la última pregunta del reverso de la tarjeta para la conversación.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad usando la siguiente tarjeta de ilustraciones. </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre hacer y contestar preguntas</ac_teacher-card_run-in_hed>  Anime a los niños a hacer sus propias preguntas sobre cada tarjeta de ilustraciones. Los niños pueden hacer otras preguntas de lo que ven en las imágenes. Pueden preguntar sobre la ropa que usa la gente, de lo que está haciendo o de los elementos que ven en las imágenes. </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>¿parecido O DIFERENTE?</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Empiece comentando cada tarjeta con los niños. Identifique lo que ellos ven en cada imagen. Luego, haga las preguntas que están en el reverso de cada tarjeta.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida a los niños que realicen preguntas adicionales para así conocer en qué son parecidas o diferentes las cosas. Los niños pueden comparar alturas, tamaños, etc.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Use estas tarjetas de ilustraciones para ayudar a los niños a desarrollar el lenguaje oral y el vocabulario. Anime a los niños a nombrar todas las cosas que les sea posible de cada imagen. ¿Qué ven? ¿Qué colores? ¿Qué formas? ¿Qué está pasando en cada imagen? ¿Hay cosas en las imágenes que les recuerdan algo de sus propias vidas? ¿Pueden enseñar a la clase una palabra en su idioma del hogar que describa un objeto de cada imagen?</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>A los alumnos que inventaron cuentos sobre las personas de las imágenes, pídales que hagan dibujos que muestren lo que han inventado.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66299-3</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>¿LARGO O CORTO?</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos el libro <ac_teacher-speaking_emphasis_blue>Este zapato necesita un pie </ac_teacher-speaking_emphasis_blue>y leímos sobre animales con pies grandes y pequeños. También leímos cómo los animales ayudaron al zapato a encontrar el pie con el tamaño correcto midiendo qué tan grandes o pequeños eran sus pies.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, veremos imágenes de diferentes cosas y las clasificaremos en dos grupos:</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-speaking>“Largo” para las cosas que son largas</ac_teacher-speaking></ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-speaking>“Corto” para cosas que no son largas</ac_teacher-speaking></ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Enseñar/Demostrar</ac_teacher-card_run-in_hed>  Señale elementos largos y cortos en el salón.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el vocabulario</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Esta semana aprendimos las palabras <ac_teacher-speaking_emphasis_blue>parecido</ac_teacher-speaking_emphasis_blue> y <ac_teacher-speaking_emphasis_blue>diferente</ac_teacher-speaking_emphasis_blue>. Repasemos estas palabras, porque tienen que ver con la actividad de hoy.</ac_teacher-speaking> Use las Tarjetas de vocabulario <ac_teacher-talk>parecido</ac_teacher-talk> y <ac_teacher-talk>diferente</ac_teacher-talk>.  </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre una tarjeta de ilustraciones y haga la pregunta del reverso de la tarjeta. Según sea necesario, brinde un estímulo adicional y apoyo.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use la última pregunta del reverso de la tarjeta para ampliar la conversación.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Clasificar</ac_teacher-card_run-in_hed>  Escriba “largo” y “corto” en trozos de papel para crear encabezados para las columnas de las tarjetas de ilustraciones. Dé a un niño las tarjetas de ilustraciones para que se alineen bajo los encabezados. Asegúrese de que cada niño tenga un turno.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad usando la siguiente tarjeta.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre herramientas para medir</ac_teacher-card_run-in_hed>  Hable de lo que los niños aprendieron a medir, largo y corto, y de cómo pueden usar una regla. Explique por qué es importante medir las cosas.</ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>¿LARGO O CORTO?</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida a los niños que describan lo que ven en cada imagen. Esto los ayudará a identificar si algo es largo o corto. Dígales que hablar sobre las cosas los ayudará a contestar las preguntas.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Estimule a los niños para que expliquen qué los ayudó a decidir si lo que vieron era largo o corto. Pídales que piensen en formas en las que podrían medir para averiguar qué tan largo o corto es algo.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Pida a los niños que midan sus manos con una regla. Pídales que digan, en su idioma del hogar, el número que midieron. Diga a los niños que usar los números en el idioma de su hogar podría ayudarlos a sentirse más cómodos al hablar de las medidas.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Enfoque en la atención</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Ayudar a los niños a enfocar su atención es un hito de aprendizaje crítico para los preescolares. Puede ayudarlos a enfocar su atención a través de una variedad de estrategias, que incluyen el uso de instrucciones simples y un vistazo previo de cada actividad antes de comenzar. Demuestre cómo trabajar con cada tarjeta y verifique para estar seguro de que todos los niños saben qué hacer.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66299-3</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>¿LIGERO O PESADO?</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos el póster llamado <ac_teacher-speaking_emphasis_blue>Yo puedo medir</ac_teacher-speaking_emphasis_blue> y aprendimos a medir objetos variados, incluidos los que son pesados y ligeros.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el vocabulario</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Aprendimos las palabras <ac_teacher-speaking_emphasis_blue>pesado</ac_teacher-speaking_emphasis_blue> y <ac_teacher-speaking_emphasis_blue>ligero</ac_teacher-speaking_emphasis_blue>. Volvamos a repasar esas palabras.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>Use las Tarjetas de vocabulario <ac_teacher-talk>pesado</ac_teacher-talk> y <ac_teacher-talk>ligero</ac_teacher-talk> para repasar las palabras.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, veremos imágenes de varios objetos distintos. Clasificaremos las imágenes en dos grupos:</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-speaking>Objetos pesados que pesan mucho y son difíciles de transportar</ac_teacher-speaking></ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-speaking>Objetos ligeros que son fáciles de transportar y no pesan mucho</ac_teacher-speaking> </ac_teacher-card-teacher_talk_bulleted>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre una tarjeta de ilustraciones y haga la pregunta del reverso de la tarjeta. Según sea necesario, brinde un estímulo adicional o apoyo.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use la última pregunta del reverso de la tarjeta para ampliar la conversación.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Clasificar</ac_teacher-card_run-in_hed>  Entregue la tarjeta de ilustraciones a un niño para que la clasifique en el grupo “ligero” o “pesado”.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad usando la siguiente tarjeta.</ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre objetos pesados o ligeros</ac_teacher-card_run-in_hed>  Hable con los niños del peso de los objetos del salón de clases y de cómo algunas cosas son más pesadas o más ligeras que otras. Pida a los niños que clasifiquen objetos del salón de clases, como juguetes o libros, desde el más ligero al más pesado. </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>¿LIGERO O PESADO?</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Antes de comenzar, asegúrese de que los niños comprendan el significado de <ac_teacher-talk>pluma</ac_teacher-talk>. Ayude a los niños a responder con oraciones completas, y pídales que repitan después de usted.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Para las tarjetas que se colocan en la categoría “pesado”, pida a los niños que nombren algo que sea más pesado que lo que está en la tarjeta. Para las tarjetas “ligero”, pídales que piensen en algo que sea más ligero.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="2">
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad gruesa</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Pida a los niños que hagan pantomima levantando objetos pesados y ligeros. Pídales que imaginen que cargan dos libros, luego tres, luego cuatro y luego cinco. Pídales que imaginen que están empujando un pesado sofá. Luego, pida a los niños que simulen que están empujando una silla por el piso. ¿Cuál objeto es más pesado?</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Habilidades para la observación</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Los niños pequeños usan todos sus sentidos para observar el mundo que los rodea. Pregúnteles cómo determinaron que la tarjeta de ilustraciones mostraba algo pesado. ¿Sus conclusiones se basaron en el tamaño del objeto? ¿Hay cosas grandes que no son pesadas? ¿Hay cosas pequeñas que son pesadas? ¿Qué materiales son pesados? ¿Qué es más pesado, el cemento o el papel? ¿La madera o el algodón?</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66299-3</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

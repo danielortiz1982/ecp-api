@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="es">  <ac_card-1 day="1">    <ac_card-1_front>       <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>EN EL MERCADO</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  En esta actividad necesitará números magnéticos, 5 cubos conectores para cada niño y varios cubos conectores para usted. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Mientras leíamos <ac_teacher-speaking_emphasis_blue>Bebé va al mercado,</ac_teacher-speaking_emphasis_blue> vimos a muchos vendedores. ¡Representaremos el papel de vendedores de fruta en el mercado!</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, tendrán 5 cubos conectores que usarán como “fruta” en sus puestos del mercado. Yo seré un agricultor que traigo más fruta para vender. Deberán contar toda la fruta y decirme cuántas piezas de fruta tienen para vender.</ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Dé a cada niño cinco cubos conectores. Coloque los números magnéticos en una hilera del 1 al 10 en el centro de la mesa. Pida a cada niño que cuente cuánta fruta tiene y que señale ese número. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>¡Más fruta!</ac_teacher-card_run-in_hed>  Como “agricultor”, dé a cada niño una, dos o tres “frutas” más. Pregunte: <ac_teacher-speaking>¿Cuántas frutas tienen ahora? ¡Muéstrenme!</ac_teacher-speaking> Guíe a cada niño para que cuente toda la fruta y señale el número magnético correcto. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Luego de haber contado la “fruta” nueva, dé a cada niño otro cubo conector. Pida a cada uno que vuelva a contar; ayúdelos a contar hacia adelante desde el último total en lugar de volver a contar todos los cubos.   </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre contar hacia adelante</ac_teacher-card_run-in_hed>  Cuando los niños cuenten hacia adelante desde el número original, muchos pueden comenzar en uno. Ayúdelos a ver que pueden comenzar en el total original y contar desde ese número en lugar de empezar desde el principio, desde uno. </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>EN EL MERCADO</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="1">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Empiece la actividad solo con tres cubos conectores por niño. Como “agricultor”, dé a cada niño solo una “fruta” a la vez.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Explique a los niños que deben tener 10 frutas para vender en total. Como usted es el “agricultor”, diga a los niños que le pidan el número de frutas que necesitan para llegar a 10.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Repase palabras clave de vocabulario como <ac_teacher-talk>mercado</ac_teacher-talk> y <ac_teacher-talk>fruta</ac_teacher-talk>. Al comenzar la actividad, señale cada número magnético y pida al grupo completo que lo diga en voz alta, contando hacia adelante del 1 al 10. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Invite a los niños a dibujar sus propias frutas, recortarlas y usarlas como fichas en esta actividad.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65747-0</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>       <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>CLASIFICAR ROSTROS</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  En esta actividad necesitará números magnéticos del 1 al 9. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Mientras leíamos <ac_teacher-speaking_emphasis_blue>Bebé va al mercado,</ac_teacher-speaking_emphasis_blue> conversamos sobre los sentimientos de los personajes. Usamos las imágenes para saber cómo se sentía cada uno de los personajes.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, levantaré una tarjeta con la imagen de una persona que se siente feliz, triste, o cansada. Ustedes me dirán cómo se siente esa persona y por qué podría sentirse de esa manera. Luego, clasificaremos las tarjetas en pilas y contaremos cuántas hay en cada pila.</ac_teacher-speaking>     </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Nombrar el sentimiento</ac_teacher-card_run-in_hed>  Muestre una tarjeta con imagen. Pregunte: <ac_teacher-speaking>¿Cómo se siente esta persona?</ac_teacher-speaking> Anime a los niños a identificar: feliz, triste o cansado y a explicar por qué podría la persona sentise así. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Muestre la tarjeta siguiente y repita la actividad con un niño diferente. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Clasificar y contar</ac_teacher-card_run-in_hed>  Invite a los niños a clasificar las tarjetas en tres pilas: feliz, triste o cansado. Luego ponga los números magnéticos en fila en el centro de la mesa. Pregunte: <ac_teacher-speaking>¿Cuántas imágenes muestran personas felices?</ac_teacher-speaking> Invite a los niños a señalar ese número. Repita con las demás emociones.    </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre contar</ac_teacher-card_run-in_hed>  Recuerde a los niños que cuando cuentan las tarjetas, el último número que dicen es el total. Señale cada número y diga su nombre antes de continuar.        </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>CLASIFICAR ROSTROS</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Demuestre cómo encontrar pistas en cada tarjeta. Piense en voz alta mientras describe los ojos y la boca de la persona: <ac_teacher-talk>Esta persona está bostezando y tiene los ojos cerrados. Podría estar cansada.</ac_teacher-talk> Pregunte: <ac_teacher-talk>¿Qué ven en la imagen?</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Invite a los niños a pensar en otras palabras que describan los sentimientos que ven en cada imagen.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Comience la actividad repasando las palabras <ac_teacher-talk>feliz</ac_teacher-talk>, <ac_teacher-talk>triste</ac_teacher-talk> y <ac_teacher-talk>cansado</ac_teacher-talk>. Anime a los niños a hacer gestos con las manos y a usar palabras para contar por qué cada una de esas personas podría sentir esa emoción. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad gruesa </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Anime a los niños a representar las emociones que ven en cada tarjeta usando todo el cuerpo.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65747-0</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>       <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>HACIA ADELANTE Y HACIA ATRÁS</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  En esta actividad, necesitará tarjetas de números del 1 al 10. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Mientras leíamos <ac_teacher-speaking_emphasis_blue>Bebé va al mercado,</ac_teacher-speaking_emphasis_blue> contamos la comida que Bebé agregó a la canasta de mamá. También contamos lo que Bebé quitó para comer.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, crearemos una recta numérica. Luego, contaremos historias sobre comprar en un mercado. Agregaremos comida y quitaremos algo para comer. Moveremos nuestros dedos por la recta numérica para contar lo que sumamos y lo que quitamos.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hacer la recta</ac_teacher-card_run-in_hed>  Pida a los niños que lo ayuden a colocar las tarjetas numéricas en orden sobre la mesa. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Sumar y restar</ac_teacher-card_run-in_hed>  Cuente una historia sobre sumar o restar comida: <ac_teacher-speaking>Hay un ñame en la canasta. ¡Ahí hay plátanos maduros! Voy a sumar 5 plátanos a la canasta</ac_teacher-speaking>. Demuestre cómo contar hacia adelante del 1 al 5 y anime a los niños a repetir la cuenta después de usted, moviendo los dedos del 1 al 6. <ac_teacher-speaking>¿Cuántas cosas tenemos en la canasta?</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Cuente más historias sobre sumar y quitar comida. Pida a los niños que usen la recta numérica para contar hacia adelante y hacia atrás y que respondan: <ac_teacher-speaking>¿Cuántos hay ahora?</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre rectas numéricas</ac_teacher-card_run-in_hed>  Hable con los niños sobre usar la recta numérica para contar. Asegúrese de que los niños entienden que cuando cuentan hacia adelante, los números son cada vez más grandes. Cuando cuentan hacia atrás, los números son cada vez más pequeños. Pregunte: <ac_teacher-speaking>¿Les resultó útil contar usando la recta numérica?</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>HACIA ADELANTE Y HACIA ATRÁS</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Cree una recta numérica del 1 al 6. Cuente con los niños, mueva los dedos lentamente para contar hacia adelante y hacia atrás.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Estimule a los niños a crear sus propias historias sobre la comida que quieren sumar o quitar de la canasta.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Repase las tarjetas de números y los términos <ac_teacher-talk>contar hacia adelante</ac_teacher-talk> y <ac_teacher-talk>contar hacia atrás</ac_teacher-talk>. Ayude a los niños a resolver cada problema dándoles oraciones para completar y, si es necesario, repase vocabulario sobre alimentos. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Considere dar a cada niño un cubo conector e invitarlos a mover sus cubos sobre la recta numérica mientras cuentan en lugar de señalar. También puede pedir a los niños que dibujen la recta numérica y escriban los números ellos mismos.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65747-0</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>       <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>¡PREPARAR UNA ENSALADA!</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  En esta actividad, necesitará tarjetas de números del 1 al 10. Además, necesitará 10 cubos conectores para cada niño, u otras fichas que sirvan como “ingredientes”. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Mientras leíamos <ac_teacher-speaking_emphasis_blue>¡Hagamos una ensalada de frutas!,</ac_teacher-speaking_emphasis_blue> seguimos las instrucciones para mezclar los ingredientes y preparar una ensalada de frutas saludable y deliciosa.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, cada uno de ustedes usará cubos conectores como “ingredientes” para preparar la ensalada de frutas. Voy a levantar una tarjeta de números que muestre la cantidad que necesitamos de cada ingrediente y ustedes contarán ese número para poner los ingredientes en el tazón.</ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preparar</ac_teacher-card_run-in_hed>  Dé a cada niño diez cubos conectores. Explíqueles que el centro de la mesa es el “tazón” donde tienen que agregar los ingredientes. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Agregar los ingredientes</ac_teacher-card_run-in_hed>  Levante una tarjeta de número y pregunte al primer niño: <ac_teacher-speaking>¿Puedes agregar esta cantidad de plátanos?</ac_teacher-speaking> Pida al niño que cuente ese número de cubos conectores y que agregue sus “plátanos” al “tazón”. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe pidiendo a cada niño que agregue ingredientes al tazón y pregunte: <ac_teacher-speaking>¿Puedes agregar esta cantidad de [ingrediente]?</ac_teacher-speaking> Anime a los niños a contar en voz alta sus “ingredientes” a medida que los agregan. </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar</ac_teacher-card_run-in_hed>  Mezcle los cubos conectores y felicite a los niños por “preparar” la receta. Pregunte: <ac_teacher-speaking>¿Cómo podemos saber cuántas frutas tenemos en total en la ensalada de frutas?</ac_teacher-speaking> Anime a los niños a contar el número total de cubos ayudándolos siempre que sea necesario. </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>¡PREPARAR UNA ENSALADA!</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Comience con tarjetas de números del 1 al 5 y cinco cubos conectores por niño. Cuente con los niños a medida que agregan sus “ingredientes” al tazón.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Después de que cada niño agrega sus ingredientes, diga: <ac_teacher-talk>Cambié de idea. ¡Es demasiado! ¿Puedes quitar uno? ¿Cuántas frutas quedan ahora?</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Repase las tarjetas de números y el vocabulario principal, como <ac_teacher-talk>ensalada de frutas</ac_teacher-talk> e <ac_teacher-talk>ingredientes</ac_teacher-talk>. Si es necesario, mientras comenta la actividad, proporcione a los niños oraciones para completar: <ac_teacher-talk>Agregaría cinco u</ac_teacher-talk>
+            <fill-in-the-blank>   </fill-in-the-blank> <ac_teacher-talk-emphasis>(uvas)</ac_teacher-talk-emphasis>
+            <ac_teacher-talk> más</ac_teacher-talk>. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Pida a los niños que usen pinzas para contar sus “ingredientes” y colocarlos en el tazón. También, los niños pueden dibujar sus propios “ingredientes”, recortarlos y usarlos como fichas en esta actividad.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65747-0</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

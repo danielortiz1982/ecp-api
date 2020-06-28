@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="en">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>CAT FAMILY </ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>  Todway we read the story <ac_teacher-speaking_emphasis_blue>I Am a Cat. </ac_teacher-speaking_emphasis_blue>We learned about the features all cats have.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>In this activity, we will look at pictures of different animals, talk about their features, and sort them into two groups:</ac_teacher-speaking>
+            </ac_teacher-card-body>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-speaking>The <ac_teacher-speaking_emphasis_blue>Cats</ac_teacher-speaking_emphasis_blue> group is for animals that are cats. Cats have small ears, flat noses, long tails, whiskers, sharp teeth and claws, and big eyes that see in the dark.</ac_teacher-speaking></ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-speaking>The <ac_teacher-speaking_emphasis_blue>Not Cats</ac_teacher-speaking_emphasis_blue> group is for animals that are not cats. These animals have a cat feature, but they are not cats.</ac_teacher-speaking></ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Teach Hand Signals</ac_teacher-card_run-in_hed>  Ask children to give a thumbs-up if the picture shows a cat or a thumbs-down if it does not. Model.      </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask  </ac_teacher-card_run-in_hed>Show one picture card and ask the question on the back of the card, offering extra challenge or support as needed.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Extend  </ac_teacher-card_run-in_hed>Use the last question on the back of the card to extend conversation.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Sort  </ac_teacher-card_run-in_hed>Give the picture card to a child to line up in the “Cats” or “Not Cats” column.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat  </ac_teacher-card_run-in_hed>Continue the activity using the next picture card.      </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Cat Features  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>All the photos on this side show c<fill-in-the-blank>               </fill-in-the-blank> <ac_teacher-speaking_emphasis_blue>(cats).</ac_teacher-speaking_emphasis_blue> How do you know these animals are cats?</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Non-Cat Features  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>All the pictures on this side show animals that have some cat features but are not cats. How do you know these animals are not cats?</ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>CAT FAMILY</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="2">
+          <ac_diff_support-challenge_heds>Support<ac_teacher-speaking/>
+          </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Show children three picture cards at a time, where one is an example of a cat and the other two are not (e.g., cheetah, owl, and bear). Ask, <ac_teacher-talk>Which one doesn’t belong?</ac_teacher-talk> Then ask, <ac_teacher-talk>How do you know? </ac_teacher-talk>Repeat with another group of three cards.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="3">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Show children two picture cards at a time, where one is an example of a cat and the other is not (e.g., shark and tiger). Ask, <ac_teacher-talk>What is the same and what is different about these animals? Repeat with other pairs of cards.</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="2">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Encourage children to use a physical response in addition to speaking. For example, invite children to wiggle their fingers near their faces if an animal has whiskers, or cup their hands around their eyes if an animal has big eyes. These physical and visual cues will support language learners and help them participate in the activity even as their language skills develop.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Gross Motor Development</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Consider playing this activity in the large-group space or outdoors where children can move their bodies like each animal would. This activity will give them the opportunity to jump and leap like big cats, swim like seals or sharks, etc. Big body play encourages engagement, activates memory, and helps develop children’s strength.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64423-4</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>is this a triangle?</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>  Today we read the story <ac_teacher-speaking_emphasis_blue>I Am a Cat,</ac_teacher-speaking_emphasis_blue> and we focused on flexible thinking. The big cats used flexible thinking when they decided Simon was a cat after all. They used new information to change what they used to think.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Review Mind Builder</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>When we show flexible thinking and behavior, we change what we normally think or do in response to a new situation, event, or information.</ac_teacher-speaking>
+            </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>In this activity, we will talk about the features of different shapes. Then we will use flexible thinking to decide whether or not each shape is a triangle.</ac_teacher-speaking>
+            </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Review Triangles</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>A triangle is a shape that has three sides and three corners.</ac_teacher-speaking> Show a triangle.      </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask  </ac_teacher-card_run-in_hed>Show one picture card and use the text on the back to ask if the shape is part of the triangle family. Ask why or why not. Offer extra support or challenge as needed.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Sort  </ac_teacher-card_run-in_hed>Give the picture card to a child to line up in one of two columns. Label the columns, “Triangles” or “Not Triangles.”</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Extend  </ac_teacher-card_run-in_hed>Use the last question on the back of the card to extend conversation.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat  </ac_teacher-card_run-in_hed>Continue the activity using the next picture card.      </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Flexible Thinking  </ac_teacher-card_run-in_hed>Talk together about which triangles looked “normal” and which looked “funny.” Ask children if it was hard to think of any of the shapes as part of the triangle family, even though they have all the features of a triangle. Encourage conversation around any instances where a child changed his or her mind.<ac_teacher-speaking>  </ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>Is this a Triangle?</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="2">
+          <ac_diff_support-challenge_heds>Support<ac_teacher-speaking/>
+          </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>For shapes that appear “turned” from their typical orientation, turn the playing card to help children see the typical orientation. Explain that it is still the same shape even though it is turned.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="3">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Invite children to use craft sticks to create each triangle they see on the cards. Then, challenge them to create as many additional triangles as they can. Ask them to explain what makes all of the shapes part of the triangle family.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="2">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Children whose first language is Spanish will recognize the Spanish cognate <ac_teacher-talk>triángulo</ac_teacher-talk> for the English word <ac_teacher-talk>triangle</ac_teacher-talk>. Help children make this connection as well as the connection between <ac_teacher-talk>trés</ac_teacher-talk> and <ac_teacher-talk>three</ac_teacher-talk>. Making these language connections will free children’s minds for the important flexible thinking they will do in this activity.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Sensory Development</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Offer additional sensory support by inviting children to use their fingers to “draw” each shape in a sand tray. Invite children to draw each shape by moving the sand so the shape can be seen in the sand. This sensory element can make the activity more meaningful and engaging for all children.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64423-4</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>Let’s talk about cats</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>  Today we read the story <ac_teacher-speaking_emphasis_blue>I Am a Cat,</ac_teacher-speaking_emphasis_blue> and we focused on how some cats are different from others. We talked about Simon, Lion, Cheetah, Puma, Panther, and Tiger. They are all cats that have certain features in common, but each cat is special in its own way.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Revisit Vocabulary</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Today we learned the phrase <ac_teacher-speaking_emphasis_blue>in common</ac_teacher-speaking_emphasis_blue>. Let’s revisit this phrase before we start our activity.</ac_teacher-speaking> Use the Vocabulary Card to revisit the phrase.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>In this activity, we will look at pictures of different kinds of cats. We will ask and answer a question about what makes each cat special.</ac_teacher-speaking>      </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask  </ac_teacher-card_run-in_hed>Show a picture card of a cat, identify the cat, and ask the question on the back of the card. Offer an extra challenge or support as needed.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Extend  </ac_teacher-card_run-in_hed>Use the last question on the back of the card to extend conversation.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat  </ac_teacher-card_run-in_hed>Continue the activity using the next picture card.     </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Special Features of Different Cats  </ac_teacher-card_run-in_hed>Invite children to talk about the different cats they saw in today’s activity and to compare and contrast their features. Encourage children to use as many describing words as possible as they talk about the features.  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>let’s talk about cats</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="2">
+          <ac_diff_support-challenge_heds>Support<ac_teacher-speaking/>
+          </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>For younger or developmentally delayed children, read aloud the Support section of each card. Then ask children to tell what else they know about the cat or what they see in the photo. Encourage as much conversation as possible.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="3">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Encourage children to participate in peer-to-peer conversations about each cat, with each child taking two turns in the conversation. Remind children that while one person is talking, the other is listening. The talker should hold the card as a reminder of this.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="2">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Model and encourage children to use a physical response, in addition to speaking, to talk about the special features of the cats in the pictures. For example, they can hold their hands close to their faces to show a mane on a lion. Or, do a running motion to show how fast a cheetah can run.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Fine Motor Development</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Offer children the option to draw a response to the activity using pencils, crayons, or markers. Be sure to provide colors that match the cats shown on the cards (e.g., orange, black, gray, etc.). Encourage children to talk as they draw, using as many describing words as possible.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64423-4</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>FANTASTIC FEET</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed> <ac_teacher-speaking> Today we read the poster <ac_teacher-speaking_emphasis_blue>Fantastic Feet.</ac_teacher-speaking_emphasis_blue> We learned about different animals’ feet. We learned about what makes each animal’s feet special and how each animal uses its feet.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>In this activity, we will look at pictures of different animals’ feet. I will tell you a clue about each animal’s feet, and you will guess what animal it is. Try to remember what you learned about animal feet from the poster.</ac_teacher-speaking>      </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask  </ac_teacher-card_run-in_hed>Show a picture card. Ask the question on the back of the card. Offer additional clues, as well as an additional challenge or support, as needed.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Extend  </ac_teacher-card_run-in_hed>Encourage children to pose their own questions about the animal whose foot is featured on the card. Let other children share their knowledge or make inferences about the questions posed.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat  </ac_teacher-card_run-in_hed>Continue the activity using the next picture card.     </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Animal Feet  </ac_teacher-card_run-in_hed>Invite children to discuss the different animal feet they saw in today’s activity and to compare and contrast them. Encourage children to use as many describing words as possible as they talk about the feet.   </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>FANTASTIC FEET</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="2">
+          <ac_diff_support-challenge_heds>Support<ac_teacher-speaking/>
+          </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Offer additional clues about the animal and ask questions that guide children to arrive at the correct answer. For example, <ac_teacher-talk>This animal has one toe on each foot. It has four feet. What animal is this?</ac_teacher-talk> </ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="3">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Read the clues on the first card. Then give the next card to a child and challenge them to come up with their own clues about the featured animal. Give additional children a chance to come up with their own clues.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="2">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Help children formulate their own statements about animal feet. For example: <ac_teacher-talk>Duck feet are webbed. A snail has one foot. </ac_teacher-talk>Allow children to point to specific parts of the picture in order to complete their question. Provide them with any missing vocabulary.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Fine Motor Development</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Display the <ac_teacher-talk>Fantastic Feet</ac_teacher-talk> poster. Let children choose one of the animals on the poster and make an artistic representation of that animal’s foot. Provide them with drawing tools, such as construction paper, markers or crayons, scissors, glue sticks, and play dough. Then invite children to offer clues about the animal foot they created, and let other children guess which animal it is.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64423-4</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

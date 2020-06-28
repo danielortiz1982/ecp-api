@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="en">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>My Name, My Letter</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Gather Materials  </ac_teacher-card_run-in_hed>paper and markers for name tags, uppercase Magnetic Letters in a large bowl, crayons for tracing</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>  We have just read <ac_teacher-speaking_emphasis_blue>My Big Feelings</ac_teacher-speaking_emphasis_blue>. We met a boy named Kavi and a boy named Ollie. Each of you found your name that was hidden in the room.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Today you are going to do an activity with your name. When I call your name, you will look in the bowl. You will find the uppercase letter that begins your name. Then you will say the letter that begins your name.</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Select  </ac_teacher-card_run-in_hed>Point to one child. As the group watches, write her name. Name the letter that begins her name. For example, “Marta begins with M.” Invite her to find that letter in the bowl, and match it to the name card. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Prompt </ac_teacher-card_run-in_hed> Ask the child to say her name and name the letter it begins with. Have the child trace the letter with her finger and then return it to the bowl. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat  </ac_teacher-card_run-in_hed>Invite the next child to do the activity   </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Letters  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Who has a name that begins with <ac_teacher-speaking_emphasis_blue>S</ac_teacher-speaking_emphasis_blue>? Whose name begins with <ac_teacher-speaking_emphasis_blue>T</ac_teacher-speaking_emphasis_blue>? What other letters did we see?</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Trace Letters</ac_teacher-card_run-in_hed>  Show children how to trace the first letter in their names with their finger. Then give them crayons to trace that letter. Some children may want to trace all the letters. </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>My name, My letter</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="2">
+          <ac_diff_support-challenge_heds>Support<ac_teacher-speaking/>
+          </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Model the activity for children using your own name. If children have difficulty finding the correct letter in the bowl, display a limited number of letters to choose from and name them as you put them down.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="3">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Encourage children to find all the letters in their names. Make sure you have extra letters for children whose names have two or three of the same letters. Provide dotted letters for children to trace.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="2">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Model the activity for children using your own name. Some children may not know the names of the letters, though they may be able to visually match them. Help them name the letter in English and have them repeat it several times. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Fine Motor Development </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Notice children who need help with tracing the letters. Show them how to use their pointer fingers and start at the top of the letter. When it’s time to trace with crayons, help children hold the crayon in way that will elicit more success. Again, help children locate the place to begin the letter. </ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64384-8</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>How do I feel? </ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Gather Materials  </ac_teacher-card_run-in_hed>paper plates and crayons or markers; prepare a plate to use to model the activity</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>  We have been reading <ac_teacher-speaking_emphasis_blue>My Big Feelings,</ac_teacher-speaking_emphasis_blue> which tells us how different children feel at different times.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Review the Mind Builder  </ac_teacher-card_run-in_hed>Remind children that talking about our feelings help us understand how we behave. <ac_teacher-speaking/>
+            </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Today we are going to make faces that show feelings. We will draw our faces on paper plates. Then we will tell each other how we feel and why. </ac_teacher-speaking>
+            </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Model the Activity</ac_teacher-card_run-in_hed>  Hold your prepared plate up to your face and say: </ac_teacher-card-body><ac_teacher-card-teacher_talk_bulleted>I feel happy because our class is so much fun.</ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>I feel excited because I can’t wait to see your artwork!  </ac_teacher-card-teacher_talk_bulleted>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Create  </ac_teacher-card_run-in_hed>Hand out plates and art supplies and assist children as needed as they make a large face that shows a feeling. Encourage them to think about feelings that are mentioned in the Big Book.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Share  </ac_teacher-card_run-in_hed>Have children take turns holding up their finished faces and using the “I feel . . . because . . . ” structure to tell about the face they created.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Display  </ac_teacher-card_run-in_hed>Help children to write their names on the back of their faces and post the faces around the room.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Feelings  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Was it hard to make your face show a feeling? Which feelings were easy to show? Which feelings were hard to show?</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>how do I feel? </ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="2">
+          <ac_diff_support-challenge_heds>Support<ac_teacher-speaking/>
+          </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Write some simple feeling words on the board: <ac_teacher-talk>happy, sad, </ac_teacher-talk>and<ac_teacher-talk> silly</ac_teacher-talk>. Invite children to act out each feeling by making a face. Suggest that they choose one of those feelings to use for their paper plate face.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="3">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Before children draw, review the feeling they plan to use. Write that word on the paper plate. Children may want to use some of the new words they learned about feelings: <ac_teacher-talk>excited, disappointed, shy, brave, jealous, frustrated, </ac_teacher-talk>and<ac_teacher-talk> annoyed</ac_teacher-talk>. </ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="2">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Review basic feeling words in English, making faces to illustrate each one and asking children to imitate you. As children begin to draw, have them explain to you which feeling they plan to illustrate. Assist them in their sharing by supplying a sentence frame starter.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Fine Motor Development</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Provide appropriately sized crayons for children who have trouble grasping regular-sized drawing and writing materials. You might provide stickers for eyes, nose, and mouth for children who are not quite ready to draw features. </ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64384-8</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>So excited!</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Gather Materials  </ac_teacher-card_run-in_hed>sticky notes, one for each child, with their first name, Activity Cards</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>  The first story in <ac_teacher-speaking_emphasis_blue>My Big Feelings</ac_teacher-speaking_emphasis_blue> tells about a girl who is very excited.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>I will show you three pictures of children who are excited. Think about how you act when you are excited. Then come up and find your name. Stick it on the chart above the card that shows how you act.</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Set Up</ac_teacher-card_run-in_hed>  Place each of the three cards on a ledge. Draw vertical lines to separate each card from the others. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask  </ac_teacher-card_run-in_hed>Show each picture card and ask the question on the back of each card, offering extra challenge or support as needed.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Extend</ac_teacher-card_run-in_hed>  Use the last question on the back of the card to extend the conversation. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Model</ac_teacher-card_run-in_hed>  Choose the sticky note with your name on it. Stick it on the chart above one of the cards.<ac_teacher-speaking> This is how I act when I am very excited! How do you act?</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Match</ac_teacher-card_run-in_hed>  Allow children to find their names one at a time, and stick them above the card that shows what they do when they are excited. Give help as needed with finding names.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Results  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Who said they hold their face when they are excited? Who jumps when they are excited? Who claps when they are excited?</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>so excited!</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="2">
+          <ac_diff_support-challenge_heds>Support<ac_teacher-speaking/>
+          </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>If children find it difficult to match their own actions to one pictured, encourage them with prompts, such as, “Show me the face you make when you’re excited.” Then help them match the words to the picture. </ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="3">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Ask children to count up the results for each card and to tell which picture has the most names and which picture has the fewest names.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="2">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Say the word <ac_teacher-talk>excited</ac_teacher-talk> and ask children to name the word in their home language. Invite the child to tell about things that make him excited. Then take the time to discuss each one of the three pictures before asking the child to make the match. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Sensory Support</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Place the three picture cards on separate desks and have children find their names and place them on the desk with the picture card they prefer. </ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64384-8</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>Helping Makes Me Happy</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Gather Materials  </ac_teacher-card_run-in_hed>Activity Cards</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>  We learned the word <ac_teacher-speaking_emphasis_blue>happy</ac_teacher-speaking_emphasis_blue> when we sang <ac_teacher-speaking_emphasis_blue>If You’re Happy and You Know It.</ac_teacher-speaking_emphasis_blue> Today, we will think about what makes some children feel happy.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preview the Activity</ac_teacher-card_run-in_hed>  Let children take turns naming one thing that makes them feel happy. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>We will look at some cards that show children feeling happy when they are helping. Then we will act out what we see the children doing.</ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask  </ac_teacher-card_run-in_hed>Show each picture card and ask the question on the back of each card, offering extra challenge or support as needed.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Extend</ac_teacher-card_run-in_hed>  Use the last question on the back of the card to extend the conversation.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Act It Out  </ac_teacher-card_run-in_hed>Show the cards, one at a time. Invite the group to act out what they see the child on the card doing. Then ask one child at a time to act out one kind of helping and have the other children guess what is being shown.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Results  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Who would be happy helping someone tie their shoe? Who would be happy helping a grown-up bake? Who would be happy helping a friend build?</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>Helping Makes me happy</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="2">
+          <ac_diff_support-challenge_heds>Support<ac_teacher-speaking/>
+          </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Limit the activity to just acting out the activity on the card with the group. Encourage children with prompts, such as “Let’s take the helmet and put it on our friend’s head,” or “Let’s put some blocks on the tower to make it taller.”</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="3">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Ask children to suggest other ways of helping that might make children feel happy. Set up situations to encourage their thinking with prompts, such as, “What can you do to help in the classroom that might make you happy?”</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="2">
+          <ac_mod_teacher-card_d_hed>Multilingual Support</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Before you do the activity, preview the Activity Cards and discuss the activity shown on the card. Concentrate on the names of the actions the children are doing:<ac_teacher-talk-emphasis> </ac_teacher-talk-emphasis>
+            <ac_teacher-talk>tie, put on, bake, draw, build, </ac_teacher-talk>and<ac_teacher-talk> take care of. </ac_teacher-talk>Invite children to name the activities in their home language.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Gross Motor Development</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>When it’s time to act out the helping activity, give suggestions for how to move for those children who hesitate. Your encouragement will help them enjoy the activity. </ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64384-8</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

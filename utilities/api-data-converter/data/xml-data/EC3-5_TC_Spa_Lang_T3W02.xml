@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="es">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>¿cómo está el tiempo?</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos el libro <ac_teacher-speaking_emphasis_blue>Nubelina</ac_teacher-speaking_emphasis_blue>. Aprendimos de las nubes y los estados del tiempo.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, veremos varias imágenes. Hablaremos del tiempo que vemos en cada una. Luego, usaremos nuestros cuerpos para mostrar cómo actuaríamos en cada estado del tiempo.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Enseñar/Demostrar</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Veamos esta primera tarjeta. ¿Qué vemos? ¿Qué tipo de día es? Actuemos todos, como si estuviéramos afuera en un día lluvioso. </ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre una tarjeta de ilustraciones y haga la pregunta del reverso de la tarjeta. Según sea necesario, brinde un estímulo adicional o apoyo.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use la última pregunta del reverso de la tarjeta para ampliar la conversación.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad usando la siguiente tarjeta de ilustraciones. </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre el tiempo</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Levanten la mano si alguna vez han estado afuera en un día lluvioso (nevoso, soleado, nublado, ventoso).</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre las estaciones</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hablemos de las estaciones. ¿Quién puede nombrar las cuatro estaciones? ¿Cómo cambia el tiempo con cada estación? ¿Cómo es el tiempo en primavera (verano, otoño, invierno)? ¿Qué estación es la más cálida (más fría)?</ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>¿cómo está el tiempo?</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Según dónde estén y hayan vivido los niños recientemente, puede haber climas y estados del tiempo que nunca han experimentado. Dé materiales que muestren escenas de todo tipo de climas y estados del tiempo, y conversen sobre dónde fueron tomadas esas imágenes.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pregunte: <ac_teacher-talk>Si pudieran aparecer en el lugar que muestra una de estas imágenes, ¿en cuál aparecerían? ¿Por qué? ¿En cuáles no les gustaría aparecer? ¿Por qué?</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Repase los nombres de los distintos estados del tiempo que se muestran en las tarjetas, asegurándose de que todos los niños estén familiarizados con las palabras. Algunos de sus alumnos multilingües pueden querer compartir esas palabras meteorológicas en su idioma del hogar para que los otros niños las aprendan.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad gruesa</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Después de que los niños muevan el cuerpo como lo harían en los distintos estados del tiempo, trabaje con ellos en un espacio abierto grande para combinar algunos movimientos de un baile corto que muestre los estados del tiempo. Los niños pueden decidir el orden de los estados del tiempo que desean seguir, y usted puede ayudarlos a juntar cada movimiento en una sola pieza continua. Realice una lluvia de ideas para darle un nombre al baile.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66296-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>PLANIFICAR SEGÚN EL ESTADO DEL TIEMPO</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy volvimos a leer el libro <ac_teacher-speaking_emphasis_blue>Nubelina</ac_teacher-speaking_emphasis_blue>. Hablamos de lo importante que es hacer planes cuando queremos hacer que algo salga bien. Cuando tenemos un plan, tomamos medidas para alcanzar nuestra meta.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Planificar según el estado del tiempo es muy importante. A veces, planificamos para saber qué ponernos. Cuando hace calor, usamos ropa ligera, y cuando hace frío, abrigada. En esta actividad veremos la ropa que llevan puesta las personas, y decidiremos si pertenece a la pila del tiempo “cálido” o “frío”.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Enseñar/Demostrar</ac_teacher-card_run-in_hed>  Pida a los niños que pongan el pulgar hacia arriba si la imagen muestra algo que usaríamos en días cálidos y hacia abajo si lo usaríamos en días fríos. Verifique que los niños sepan las palabras para traje de baño. Luego, ayúdelos a colocar la tarjeta para <ac_teacher-talk>traje de baño</ac_teacher-talk> en la pila del tiempo “cálido”. </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre una tarjeta de ilustraciones y haga la pregunta del reverso de la tarjeta. Según sea necesario, brinde un estímulo adicional o apoyo.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use la última pregunta del reverso de la tarjeta para ampliar la conversación.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Clasificar</ac_teacher-card_run-in_hed>  Entregue la tarjeta de ilustraciones a un niño para que la clasifique en la pila del tiempo “cálido” o “frío”.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed> Continúe usando la siguiente tarjeta de ilustraciones. </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre planificar los estados del tiempo</ac_teacher-card_run-in_hed>  Hable con los niños de cómo planifican sus familias según el estado del tiempo. ¿Qué plan hacen si va a ser un día lluvioso? ¿Nevoso? ¿Soleado? ¿Un día muy frío? ¿Qué sucede cuando no planean según el estado del tiempo?   </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>PLANIFICAR SEGÚN EL ESTADO DEL TIEMPO</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Puede que algunos niños requieran ayuda para identificar cada prenda de ropa antes de decidir si la tarjeta corresponde a la pila de “cálido” o “frío”. Explique un poco cada tarjeta antes de comenzar. Añada a la actividad otras tarjetas que crea que pueden ser útiles.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Hable con los niños sobre cómo planearon según el tiempo del día de hoy. Pregunte si siempre es posible planificar según el estado del tiempo. Conversen sobre las respuestas dadas.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Asegúrese de que los alumnos multilingües sepan cómo nombrar cada prenda de ropa en español. Si es necesario, repase las palabras en español para cada elemento. Dependiendo de dónde vivan los niños y de sus experiencias anteriores, es posible que no estén familiarizados con algunas prendas de ropa (por ejemplo, mitones, bufanda o chaqueta de invierno). Invítelos a que compartan los nombres de las prendas en el idioma de su hogar.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Aporte elementos de la casa o use elementos de su centro de vestimenta que sean apropiados para días cálidos o fríos. Pida a los niños que practiquen abotonarse, cerrar broches a presión y cremalleras.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66296-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>¿QUÉ HACEN LAS NUBES?</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos el libro <ac_teacher-speaking_emphasis_blue>Nubelina</ac_teacher-speaking_emphasis_blue>, y aprendimos cómo Nubelina y las nubes más grandes podían hacer que lloviera. Algunas nubes hacen caer agua del cielo, pero no todas. Y el agua que cae de las nubes no siempre es igual.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, veremos imágenes de nubes y tres tipos de agua que caen de las nubes. Luego, los nombraremos y hablaremos de ellos.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Enseñar/Demostrar</ac_teacher-card_run-in_hed>  ¿Qué ven en esta imagen? ¿Creen que estas nubes dejarán caer a<ac_teacher-speaking>gua? Conozcamos varios tipos de agua que caen de las nubes.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre una tarjeta de ilustraciones y haga la pregunta del reverso de la tarjeta. Según sea necesario, brinde un estímulo adicional o apoyo.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use la última pregunta del reverso de la tarjeta para ampliar la conversación.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad usando la siguiente tarjeta de ilustraciones, y converse de cómo el tiempo cálido y frío afecta el tipo de agua que dejan caer las nubes. </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre tipos de estados del tiempo “acuosos”</ac_teacher-card_run-in_hed>  Explique qué tipos de agua caen de las nubes en los distintos momentos. Pida a los niños que nombren el tipo de agua que, generalmente, cae de las nubes en días de tiempo cálido. Luego, pídales que relaten cómo está el cielo antes de una tormenta. ¿Qué tipos de agua pueden caer en los días fríos? ¿Cómo está el cielo?  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>¿QUÉ HACEN LAS NUBES?</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Repase todas las palabras de vocabulario meteorológico que los niños han aprendido en esta actividad: tormentoso, lluvioso, nevoso y aguanieve. Según sea necesario, pida a los niños que repitan cada palabra y que tengan más conversaciones sobre cada una de ellas.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Mostrar las ilustraciones permite que los niños que pueden haber experimentado estos estados del tiempo -como una tormenta de nieve o hielo- compartan con los que no los han conocido. Pregunte cuáles son los peligros de una lluvia excesiva y de una insuficiente.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Brinde a los niños tiempo extra para una conversación de compañero a compañero. Anímelos para que trabajen en parejas y conversen de los tipos de estados del tiempo; pídales que compartan sus experiencias y cómo entendieron cada una de ellas. Recuerde a los niños que está bien usar el idioma del hogar cuando hablan con un compañero que habla su mismo idioma del hogar.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo sensorial</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Ofrezca apoyo sensorial al aportar recipientes con agua, agua helada y pedazos de hielo para que los niños puedan tener la experiencia física de tocar esas formas del agua. Además, puede consultar recetas en línea para fabricar su propia nieve.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66296-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>Diario del tiempo</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Prepare unas hojas con el día de la semana en letra grande, un gran contorno de una nube y luego, debajo de la nube, las palabras “El tiempo hoy está <fill-in-the-blank>                  </fill-in-the-blank>”. Haga copias de estas páginas y cree libros para que los niños los completen de forma individual.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy vimos en el <ac_teacher-speaking_emphasis_blue>Papelógrafo de grandes ideas ¿Qué tiempo hace?</ac_teacher-speaking_emphasis_blue> Aprendimos sobre los días lluviosos, nevosos, ventosos y soleados.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, nos volveremos expertos del estado del tiempo. Miraremos hacia afuera y dibujaremos una imagen del tiempo dentro de la nube de nuestros libros del Diario del tiempo.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Enseñar/Demostrar</ac_teacher-card_run-in_hed>  Ayude a los niños con cualquier palabra que quieran escribir. Puede extender esta actividad durante más de un día. </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Observar y registrar</ac_teacher-card_run-in_hed>  Elija un momento para que los niños miren por la ventana o salgan con usted con el fin de obtener toda la información que puedan del tiempo. Cuando vuelvan al salón, pídales que hagan un dibujo que muestre el tiempo que vieron, usando símbolos, letras o dibujos. Dígales que decidan qué palabras les gustaría usar para terminar la  oración “El tiempo hoy está…”. Ayude a transcribir las oraciones de los niños.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre observar los estados del tiempo</ac_teacher-card_run-in_hed> Después del primer día, hable con los niños sobre lo que les gustó cuando observaron o miraron atentamente el tiempo. ¿Qué vieron? ¿Qué sintieron? Proponga conversaciones de ideas para observar otras cosas al aire libre, como los árboles y las hojas. Para continuar con la actividad, puede crear libros pormenorizados del Diario del tiempo.  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>Diario del tiempo</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Si los niños no se sienten cómodos haciendo dibujos en el Diario del tiempo, pueden usar símbolos sencillos como un sol para un día soleado o una nube para un día nublado. Incluso puede tener en el salón sellos de goma con símbolos meteorológicos para usar.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Repase<ac_teacher-talk-emphasis> </ac_teacher-talk-emphasis>con los niños las palabras del tiempo <ac_teacher-talk>lluvioso, nevoso, ventoso</ac_teacher-talk> y <ac_teacher-talk>soleado</ac_teacher-talk> en <ac_teacher-talk>¿Qué tiempo hace?</ac_teacher-talk> del<ac_teacher-talk-emphasis> </ac_teacher-talk-emphasis>Papelógrafo de grandes ideas. Manténgalo visible y observe si alguno de ellos puede escribir solo las palabras en sus libros de Diario del tiempo.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Invite a niños multilingües a enseñar al resto de la clase algunos términos del estado del tiempo en su idioma del hogar. Pregunte a los niños si pueden enseñar al resto de la clase cómo decir “Hace frío”, “Hace calor” y “Está lloviendo” en su idioma del hogar.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Habilidades para la observación</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Los niños pequeños usan continuamente todos sus sentidos para observar el mundo que los rodea y describir lo que ven. Mientras los niños realizan sus observaciones del estado del tiempo, ayúdelos a observar incluso los detalles más mínimos, animándolos a que hablen de todo lo que ven, oyen, huelen y tocan. ¡Recuerde que la ciencia comienza siempre por la curiosidad y el asombro!</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66296-2</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

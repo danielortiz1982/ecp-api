@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flip-chart lang="en">
+  <flip_chart-8 day="4">
+    <flip_chart-8_front>
+      <graphic href="EC3-5_Flipchart_T2W4_TheWheelsOnTheBus.jpg"/>
+    </flip_chart-8_front>
+    <flip_chart-8_back>
+      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <flip_chart-theme-text>OUR COMMUNITY</flip_chart-theme-text>
+          <flip_chart-topic-text>Vehicles at Work</flip_chart-topic-text>
+          <flip_chart-concept-question>What vehicles do we know about? How do they help us?</flip_chart-concept-question>
+        </section-block>
+      </masthead>
+      <display-head-section>
+        <section-block type="display_b_1" index="1">
+          <flip_chart-display-head>The Wheels on the Bus</flip_chart-display-head>
+        </section-block>
+      </display-head-section>
+      <teacher-facing-section>
+        <section-block type="teacher-facing_b_1" index="1">
+          <flip_chart-teacher-facing-content-box>
+            <flip_chart-centered-content>
+              <flip_chart-teacher-facing-paragraph>The wheels on the bus go <flip_chart-bold>round and round,</flip_chart-bold>
+                <flip_chart-br> </flip_chart-br><flip_chart-teacher-direction-text>[rolling motion, hand over hand]</flip_chart-teacher-direction-text>
+                <flip_chart-br> </flip_chart-br>round and round,<flip_chart-br> </flip_chart-br>round and round.<flip_chart-br> </flip_chart-br>The wheels on the bus go round and round,<flip_chart-br> </flip_chart-br>all through the town.</flip_chart-teacher-facing-paragraph>
+              <flip_chart-teacher-facing-paragraph>The wings on the plane go <flip_chart-bold>swoosh, swoosh, swoosh,</flip_chart-bold>
+                <flip_chart-br> </flip_chart-br><flip_chart-teacher-direction-text>[arms outstretched, leaning side to side]</flip_chart-teacher-direction-text>
+                <flip_chart-br> </flip_chart-br>swoosh, swoosh, swoosh,<flip_chart-br> </flip_chart-br>swoosh, swoosh, swoosh.<flip_chart-br> </flip_chart-br>The wings on the plane go swoosh, swoosh, swoosh,<flip_chart-br> </flip_chart-br>all through the sky.</flip_chart-teacher-facing-paragraph>
+              <flip_chart-teacher-facing-paragraph>The horn on the car goes <flip_chart-bold>beep, beep, beep,</flip_chart-bold>
+                <flip_chart-br> </flip_chart-br><flip_chart-teacher-direction-text>[push hand down, like honking a horn]</flip_chart-teacher-direction-text>
+                <flip_chart-br> </flip_chart-br>beep, beep, beep,<flip_chart-br> </flip_chart-br>beep, beep, beep.<flip_chart-br> </flip_chart-br>The horn on the car goes beep, beep, beep,<flip_chart-br> </flip_chart-br>all down the street.</flip_chart-teacher-facing-paragraph>
+              <flip_chart-teacher-facing-paragraph>The oars on the boat go <flip_chart-bold>splash, splash, splash,</flip_chart-bold>
+                <flip_chart-br> </flip_chart-br><flip_chart-teacher-direction-text>[rowing motion with arms]</flip_chart-teacher-direction-text>
+                <flip_chart-br> </flip_chart-br>splash, splash, splash,<flip_chart-br> </flip_chart-br>splash, splash, splash.<flip_chart-br> </flip_chart-br>The oars on the boat go splash, splash, splash,<flip_chart-br> </flip_chart-br>all across the lake.</flip_chart-teacher-facing-paragraph>
+              <flip_chart-teacher-facing-paragraph>The engine on the train goes <flip_chart-bold>chug, chug, chug,</flip_chart-bold>
+                <flip_chart-br> </flip_chart-br><flip_chart-teacher-direction-text>[hands in fists, making pumping motion back and forth]</flip_chart-teacher-direction-text>
+                <flip_chart-br> </flip_chart-br>chug, chug, chug,<flip_chart-br> </flip_chart-br>chug, chug chug.<flip_chart-br> </flip_chart-br>The engine on the train goes chug, chug, chug,<flip_chart-br> </flip_chart-br>on the way to town.</flip_chart-teacher-facing-paragraph>
+              <flip_chart-teacher-facing-paragraph>The bucket on the digger goes <flip_chart-bold>dig, dig, dig,</flip_chart-bold>
+                <flip_chart-br> </flip_chart-br><flip_chart-teacher-direction-text>[palms cupped together, digging]</flip_chart-teacher-direction-text>
+                <flip_chart-br> </flip_chart-br>dig, dig, dig,<flip_chart-br> </flip_chart-br>dig, dig, dig.<flip_chart-br> </flip_chart-br>The bucket on the digger goes dig, dig, dig,<flip_chart-br> </flip_chart-br>all around the town.</flip_chart-teacher-facing-paragraph>
+            </flip_chart-centered-content>
+          </flip_chart-teacher-facing-content-box>
+        </section-block>
+      </teacher-facing-section>
+      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <flip_chart-credit-line>Photos © Shutterstock: top left (Olga V Kulakova), top right (LungLee), center left (Andrey Lobachev), center right (RTimages), bottom left (Eric Fahrner), bottom right (photo one).</flip_chart-credit-line>
+        </section-block>
+      </copyright-section>
+    </flip_chart-8_back>
+  </flip_chart-8>
+</flip-chart>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strategy_cards lang="es">
+  <strategy-card-1>
+    <graphic href="StrategyCards_image_01.svg" hex="008E83"/>
+    <section-block>
+      <strategy-head>Escucha y recuerda </strategy-head>
+    </section-block>
+    <section-block>
+      <strategy-body>Cuando escuchas y recuerdas, prestas atención a las cosas importantes que el autor dice e intentas recordarlas.</strategy-body>
+    </section-block>
+    <isbn-section>
+      <strategy-body>
+        <isbn>978-1-338-64640-5</isbn>
+      </strategy-body>
+    </isbn-section>
+  </strategy-card-1>
+  <strategy-card-2>
+    <graphic href="StrategyCards_image_02.svg" hex="DB0010"/>
+    <section-block>
+      <strategy-head>Hacer una predicción</strategy-head>
+    </section-block>
+    <section-block>
+      <strategy-body>Cuando piensas cuidadosamente en lo que va a pasar más adelante, haces una predicción.</strategy-body>
+    </section-block>
+    <isbn-section>
+      <strategy-body>
+        <isbn>978-1-338-64640-5</isbn>
+      </strategy-body>
+    </isbn-section>
+  </strategy-card-2>
+  <strategy-card-3>
+    <graphic href="StrategyCards_image_03.svg" hex="984A9C"/>
+    <section-block>
+      <strategy-head>Hacer una inferencia </strategy-head>
+    </section-block>
+    <section-block>
+      <strategy-body>Cuando usas lo que ya sabes junto con las ideas del libro para entender lo que dice el autor, haces una inferencia.</strategy-body>
+    </section-block>
+    <isbn-section>
+      <strategy-body>
+        <isbn>978-1-338-64640-5</isbn>
+      </strategy-body>
+    </isbn-section>
+  </strategy-card-3>
+  <strategy-card-4>
+    <graphic href="StrategyCards_image_04.svg" hex="F15D22"/>
+    <section-block>
+      <strategy-head>Preguntar </strategy-head>
+    </section-block>
+    <section-block>
+      <strategy-body>Cuando te preguntas sobre algo en un libro, lo haces porque quieres saber más.</strategy-body>
+    </section-block>
+    <isbn-section>
+      <strategy-body>
+        <isbn>978-1-338-64640-5</isbn>
+      </strategy-body>
+    </isbn-section>
+  </strategy-card-4>
+  <strategy-card-5>
+    <graphic href="StrategyCards_image_05.svg" hex="0054A6"/>
+    <section-block>
+      <strategy-head>Hacer una conexión</strategy-head>
+    </section-block>
+    <section-block>
+      <strategy-body>Cuando algo de un libro te recuerda algo en tu propia vida, haces una conexión.</strategy-body>
+    </section-block>
+    <isbn-section>
+      <strategy-body>
+        <isbn>978-1-338-64640-5</isbn>
+      </strategy-body>
+    </isbn-section>
+  </strategy-card-5>
+  <strategy-card-6>
+    <graphic href="StrategyCards_image_06.svg" hex="288641"/>
+    <section-block>
+      <strategy-head>Conocimiento previo </strategy-head>
+    </section-block>
+    <section-block>
+      <strategy-body>Cuando usas tu conocimiento previo, usas lo que ya sabes para entender un libro.</strategy-body>
+    </section-block>
+    <isbn-section>
+      <strategy-body>
+        <isbn>978-1-338-64640-5</isbn>
+      </strategy-body>
+    </isbn-section>
+  </strategy-card-6>
+  <strategy-card-7>
+    <graphic href="StrategyCards_image_07.svg" hex="552A7E"/>
+    <section-block>
+      <strategy-head>Varios significados</strategy-head>
+    </section-block>
+    <section-block>
+      <strategy-body>Cuando una palabra se puede usar para decir cosas diferentes, hay que pensar cuál significado es el mejor.</strategy-body>
+    </section-block>
+    <isbn-section>
+      <strategy-body>
+        <isbn>978-1-338-64640-5</isbn>
+      </strategy-body>
+    </isbn-section>
+  </strategy-card-7>
+  <strategy-card-8>
+    <graphic href="StrategyCards_image_08.svg" hex="0099BC"/>
+    <section-block>
+      <strategy-head>Cognados</strategy-head>
+    </section-block>
+    <section-block>
+      <strategy-body>Cuando un palabra en español y una palabra en inglés suenan igual y significan lo mismo, las llamamos cognados.</strategy-body>
+    </section-block>
+    <isbn-section>
+      <strategy-body>
+        <isbn>978-1-338-64640-5</isbn>
+      </strategy-body>
+    </isbn-section>
+  </strategy-card-8>
+  <strategy-card-9>
+    <graphic href="StrategyCards_image_09.svg" hex="648212"/>
+    <section-block>
+      <strategy-head>Llegar a una conclusión</strategy-head>
+    </section-block>
+    <section-block>
+      <strategy-body>Cuando juntas varias ideas del libro para formar una nueva idea, llegas a una conclusión. </strategy-body>
+    </section-block>
+    <isbn-section>
+      <strategy-body>
+        <isbn>978-1-338-64640-5</isbn>
+      </strategy-body>
+    </isbn-section>
+  </strategy-card-9>
+</strategy_cards>

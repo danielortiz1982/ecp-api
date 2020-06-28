@@ -1,0 +1,2384 @@
+[{
+    "declaration": {
+      "attributes": {
+        "version": "1.0",
+        "encoding": "UTF-8"
+      }
+    },
+    "elements": [
+      {
+        "type": "element",
+        "name": "teacher-activity-cards",
+        "attributes": {
+          "lang": "en",
+          "module":"literature",
+          "week":"week_002",
+          "theme":"theme_007"
+        },
+        "elements": [
+          {
+            "type": "element",
+            "name": "ac_card-1",
+            "attributes": {
+              "day": "1"
+            },
+            "elements": [
+              {
+                "type": "element",
+                "name": "ac_card-1_front",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_f_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Alphabet H, O, B"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "instructions",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "instructions_f_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Instructions"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "before-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "before_f_1",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Gather Materials  "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "Alphabet Books "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Hearts, On the Box, The Bath"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "; toy hippo, heart, bear, balloon, octopus, box; drawing supplies "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Connect to Large Group"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Today we read "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "Sometimes Rain. "
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": "Now we will look at three Alphabet Books. Let’s noticed the letters"
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": " h, o, "
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": "and "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "b"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": " in the words we see. "
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Review Hh, Oo, Bb Alphabet Books  "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "Read through each Alphabet Book. For each book, stop and have children point to the letter on the page, say the sound it makes and name the picture for the target letter. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Explain the Activity  "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Now let’s be illustrators. What does an illustrator do? Today you will choose a sentence to illustrate. Try to make your picture show what the words say. "
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "during-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "during_f_1",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Set Up  "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "Show the hippo and the heart. At the top of a piece of paper, write: "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Happy Hippo has hearts. "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "Show the bear and balloon. On another paper write: "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Big Bear buys beautiful balloons. "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "Show the octopus and the box. On another paper write: "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Ollie Octopus sits on a box."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Ask  "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "Ask each child to choose one sentence to illustrate. Provide a copy for each child to illustrate. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Extend  "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "While children are drawing, point to the letters "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Hh, Oo, "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "or "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Bb"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " on their pages and ask them to name the letter and the sound it makes.   When children complete their drawings, put them together to make a book. Read through the book together. Place the book in the library for children to share.  "
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "after-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "after_f_1",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Writing Letters Hh, Oo, Bb"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Children may enjoy tracing over dotted letters, writing letters in the air, or making letters in a sand or salt tray. "
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "name": "ac_card-1_back",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_b_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Alphabet H, O, B"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "differentiation-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Differentiation"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_1",
+                          "index": "2"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Support "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Focus attention on each target picture in the book. Ask children to repeat the word with you, emphasizing the initial sound (or middle sound for /o/). Then help children identify the letter on the page. Invite children to trace the letter in the air and say its sound."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_1",
+                          "index": "3"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Challenge "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Invite children to make up their own alliterative sentences for each of the letters. Write the sentences for the children and have them illustrate them.  "
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "modifications-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Modifications"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_1",
+                          "index": "2"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Multilingual Learners "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "In Spanish, the letter "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "Oo"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": " has one sound, long o. Children whose home language is Spanish may have difficulty with this new sound for the letter "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "o."
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": " Create a list of two- and three-letter words with short "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "o (ox, box, on, mop, Bob)."
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": " Explain that "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "o"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": " in these words makes the "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "ah "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": "sound that begins "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "octopus"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": ". Together repeat several times, /o/, /o/, "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "octopus"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": ". "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Attention Support "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Children may find it difficult to sit through the reading of three books. For those children, divide up the activity. Read "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "Hearts"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": " and then have children draw the picture to illustrate the sentence "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "Happy Hippo has hearts."
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": " Continue if children can remain focused. If not, continue the activity at a different time."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "copyright-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "copyright_b_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_back_copyright_line",
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "isbn",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "978-1-338-65563-6"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": ". TM ® & © Scholastic Inc. All rights reserved."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "name": "ac_card-2",
+            "attributes": {
+              "day": "2"
+            },
+            "elements": [
+              {
+                "type": "element",
+                "name": "ac_card-2_front",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_f_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Let’s CHAT "
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "instructions",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "instructions_f_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Instructions"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "before-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "before_f_2",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Gather Materials  "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "Small paper plates, craft sticks, construction paper, glue, scissors. Prepare ahead two stick puppets that show animals from the book.  "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Connect to Large Group  "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Today we read the story "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "Sometimes Rain"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": " and we had a conversation about the seasons. "
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Review Mind Builder  "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "When we ask each other questions and answer with some detail, we can learn new information! Asking and answering questions is a way to share what we know!"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Explain the Activity  "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Today you will make a stick puppet that shows an animal from the book. Then you and a partner will use your puppets to have a conversation about the seasons."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "during-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "during_f_2",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Set Up  "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "Invite children to name some of the animals they saw in the story—red bird, blue bird, squirrel, owl, fox, deer. Show children the puppets you made. Choose a child to be your partner and use the puppets to have a conversation. For example: “Now it’s winter. Where do you go? What do you like about the winter?” "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Do the Activity  "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "Invite children to make their puppets. As children finish, assign partners for conversations. Make sure children are taking turns asking and answering questions.     "
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "after-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "after_f_2",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Talk About Having Conversations  "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "Ask children what they like about having conversations. Then invite them to spend a few minutes chatting with a partner about the activity they just finished. "
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "name": "ac_card-2_back",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_b_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Let’s Chat"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "differentiation-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Differentiation"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_2",
+                          "index": "2"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Support "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Some children may give only “yes” and “no” answers, which limits the extent of the conversation. Slowly try to draw a more elaborate answer from the child by offering a sentence starter or some details to include. Provide praise when the child elaborates. "
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_2",
+                          "index": "3"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Challenge "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Children who enjoy chatting and have lots to say may enjoy trading puppets and having the conversation from a different point of view. "
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "modifications-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Modifications"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_2",
+                          "index": "2"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Multilingual Learners "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Pair children whose home language is not English with an English-speaking partner. A particular child may have an easier time either asking questions or answering them. For these conversations, have children keep the role they feel most comfortable with.  "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Visual Support "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Some children may hesitate to participate in the conversation and allow others to ask all the questions. To make sure everyone participates, make a “My Turn” sticky note button for the child who is asking the questions to wear. Then when prompted, the child can hand over the button, so the other child asks the questions."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "copyright-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "copyright_b_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_back_copyright_line",
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "isbn",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "978-1-338-65563-6"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": ". TM ® & © Scholastic Inc. All rights reserved."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "name": "ac_card-3",
+            "attributes": {
+              "day": "3"
+            },
+            "elements": [
+              {
+                "type": "element",
+                "name": "ac_card-3_front",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_f_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "A Tree In four seasons"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "instructions",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "instructions_f_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Instructions"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "before-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "before_f_3",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Gather Materials  "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "Brown and blue construction paper; cotton balls; crumpled pink and white tissue paper; tiny green triangles; red, yellow, and orange dots; scissors; glue "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Connect to Large Group  "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Today we read the story "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "Sometimes Rain"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": " and noticed things about each season. As the weather changes in each season, some trees change, too.  "
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Explain the Activity  "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "In this activity, you will create a tree for one season. When you are finished, we can talk about what the trees look like in each season."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "during-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "during_f_3",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Set Up  "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "Help children trace their hands on the brown construction paper. Cut out one hand print for each child. Glue the “trees” onto blue construction paper. Say: "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Let’s decorate a tree for one season. Here are some things you can use to decorate your trees."
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " Invite children to suggest how they plan to use these materials: cotton balls to represent winter snow; crumpled pink and white tissue paper for spring; green triangles for summer; and red, yellow, and orange dots for fall. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Do the Activity  "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "Have children use the materials to complete their tree. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Ask  "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "Invite children to show their tree, name the season it shows, and share what they know about the season.   "
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "after-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "after_f_3",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Talk About the Seasons  "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "What are the four seasons we read about?"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " Point out how the seasons change where the children live, especially if the seasons are not like the seasons shown in the book. Talk about the season you are in now. "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "What do you notice about this season? "
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "name": "ac_card-3_back",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_b_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "a Tree in four seasons"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "differentiation-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Differentiation"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_3",
+                          "index": "2"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Support "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Help children decorate their trees as needed. Guide their decisions by asking questions, such as, "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "What happens to trees in winter?"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": " and "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "If they have no leaves, what can we put on them to show it is winter?"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_3",
+                          "index": "3"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Challenge "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Challenge children to use their trees and arrange them in order, starting with winter. Ask them to identify the season for each tree. Ask children if they want to write the name of the season on their work."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "modifications-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Modifications"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_3",
+                          "index": "2"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Multilingual Learners "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "As children share what they know about each season, invite multilingual learns to use physical responses. For winter, have children grab their arms, shiver, and say “cold.” For spring,  have them use their fingers to show rain and say “rainy.” For summer, have children wipe their foreheads and say “hot.” For fall, have them make a big circle with their arms and say “pumpkin.” "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Fine Motor Development "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Some children may need help with gluing. Other children may need help picking up the items, but may able to glue them in place. Model how to accomplish the task. Provide assistance only if children seem frustrated by the effort. "
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "copyright-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "copyright_b_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_back_copyright_line",
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "isbn",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "978-1-338-65563-6"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": ". TM ® & © Scholastic Inc. All rights reserved."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "name": "ac_card-4",
+            "attributes": {
+              "day": "4"
+            },
+            "elements": [
+              {
+                "type": "element",
+                "name": "ac_card-4_front",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_f_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Picture Sort: Seasons"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "instructions",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "instructions_f_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Instructions"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "before-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "before_f_4",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Gather Materials  "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "Activity Cards, masking tape, index cards, connecting cubes "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Connect to Large Group  "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Today we read the "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "Big Chart of Big Ideas: The Changing Seasons,"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": "  and we talked about things children do during   each season.  "
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Explain the Activity  "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "In this activity, we will look at pictures and talk about what season they show. Then we find the label on the table and place the card under the correct season. Finally, we will write about each season.  "
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "during-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "during_f_4",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Ask  "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "Display one picture at a time. Ask the questions on the back of the card, offering help as needed.  "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Extend  "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "Use the last question on the back of the card to extend children’s understanding. Then have the children sort the card. Continue until all the cards have been sorted; "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "Then give each child a connecting cube. Invite children to take turns placing a cube in one of the four seasons and telling a story that takes place in that season. Model with the following: "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "A little boy looked out the window and saw lots of snow. He put on his warmest clothes and took his sled to a big hill. Down, down, down he went! "
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "after-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "after_f_4",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Talk About the Seasons  "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "Point out how the seasons change where the children live, especially if the seasons are not like the seasons shown in the book. Talk about the seasons where the children live and note weather that occurs in the seasons: windy, rainy, sunny, snowy, hot, warm, or cold. "
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "name": "ac_card-4_back",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_b_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Picture Sort: Seasons"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "differentiation-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Differentiation"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_4",
+                          "index": "2"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Support "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Younger children may find it difficult to answer the two questions in the set, so ask each question and have it answered before asking the second question in the set. If children have difficulty providing phrases or sentences to describe a picture, invite them to just use labels.  "
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_4",
+                          "index": "3"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Challenge "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Challenge children to brainstorm words that name and/or describe things in each picture. List the words they say and then read through the list together. "
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "modifications-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Modifications"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_4",
+                          "index": "2"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Multilingual Learners "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Review the names of each season with multilingual learners before you begin the activity. Use sticky notes for each season and draw an object, such as a flower, and write the word as well. Ask children, “Where do I place this?” Encourage children to say the name of the season. Summer and winter may be easy, but children may need guidance for spring and fall. "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Attention Support "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "To keep distracted children on task, have them draw a symbol for each season on a paper circle (yellow sun for summer, snowflake for winter, rain cloud for spring, orange leaves for fall). Have them hold up the matching circle for each season as you present the picture cards. You might have children act out the activity on the card. "
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "copyright-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "copyright_b_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_back_copyright_line",
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "isbn",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "978-1-338-65563-6"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": ". TM ® & © Scholastic Inc. All rights reserved."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }]

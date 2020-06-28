@@ -1,0 +1,2968 @@
+[{
+  "declaration": {
+    "attributes": {
+      "version": "1.0",
+      "encoding": "UTF-8"
+    }
+  },
+  "elements": [
+    {
+      "type": "element",
+      "name": "teacher-activity-cards",
+      "attributes": {
+        "lang": "es",
+        "module":"literature",
+        "week":"week_002",
+        "theme":"theme_004"
+      },
+      "elements": [
+        {
+          "type": "element",
+          "name": "ac_card-1",
+          "attributes": {
+            "day": "1"
+          },
+          "elements": [
+            {
+              "type": "element",
+              "name": "ac_card-1_front",
+              "elements": [
+                {
+                  "type": "element",
+                  "name": "masthead",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "masthead_f_1",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_header-game-card",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "ACTIVIDAD DE ABECEDARIO: u, v"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "instructions",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "instructions_f_1",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Instrucciones"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "before-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "before_f_1",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Reunir los materiales"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  materiales de dibujo y escritura, tarjetas de abecedario, "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-talk",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "¿Qué usamos?"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " y "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-talk",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "La visita."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Asociar con el grupo grande"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Hoy leímos el cuento "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "La perra de hola y adiós"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": ". Vimos la letra "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "u"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": " en la palabra "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "una"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": " y la letra v en la palabra "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "mover"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": ". "
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Enseñar las tarjetas de abecedario Uu"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Muestre las tarjetas de abecedario para las letras "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-talk",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Uu"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": ". Diga la letra en voz alta e invite a los niños a repetirla. "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Esta es la "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "U"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": " mayúscula. La letra "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "U"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": " hace el sonido /u/ que oímos en la palabra "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "Uva"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": ". Esta es la "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "u"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": " minúscula. La letra "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "u"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": " hace el sonido /u/ que oímos en "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "uña"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "."
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Enseñar las tarjetas de abecedario Vv"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Muestre las tarjetas de abecedario para las letras "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-talk",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Vv"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": ". Diga la letra en voz alta e invite a los niños a repetirla."
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": " Esta es la "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "V"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": " mayúscula. La letra "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "V"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": " hace el sonido /v/ que oímos en la palabra "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "vaso"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": ". Esta es la v minúscula. La letra v hace el sonido /v/ que oímos en la palabra verduras."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Explicar la actividad"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Muestre "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-talk",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "¿Qué usamos?"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " y "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-talk",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "La visita"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": ". "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Hoy vamos a leer un libro sobre las letras "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "Uu"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": " y un libro sobre las letras "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "Vv"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": ". "
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "during-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "during_f_1",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Leer"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Lea en voz alta "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-talk",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "¿Qué usamos?"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " y las indicaciones. "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Hacer"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Tóquense la nariz cuando oigan una palabra que comienza con el sonido /u/."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Leer"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Lea en voz alta "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-talk",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "La visita"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " y las indicaciones. "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Hacer"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Tóquense el hombro cuando oigan una palabra que comienza con el sonido /v/."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "after-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "after_f_1",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Practicar cómo hacer las letras Uu y Vv"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Ayude a los niños a practicar cómo hacer las letras "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-talk",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Uu"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " y "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-talk",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Vv"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": ". Demuestre cómo escribir las letras. Invite a los niños a practicar cómo escribir las letras "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-talk",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Uu"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " y las letras "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-talk",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Vv"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": ". "
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "name": "ac_card-1_back",
+              "elements": [
+                {
+                  "type": "element",
+                  "name": "masthead",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "masthead_b_1",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_header-game-card",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "ACTIVIDAD DE ABECEDARIO: u, v"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "differentiation-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_1",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Diferenciación"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_1",
+                        "index": "2"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_diff_support-challenge_heds",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Apoye "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Mientras lee "
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-talk",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "¿Qué usamos?"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": ", deténgase en las palabras que comiencen con "
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-talk",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "Uu"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": ". Invite a los niños a decir /"
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-talk",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "u"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "/ y la palabra que comienza con "
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-talk",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "Uu"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": ". Repita el proceso con "
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-talk",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "La visita"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": " y la letra "
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-talk",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "Vv"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": ". Los que necesiten ayuda, pueden primero trazar las letras en bandejas de sal."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_1",
+                        "index": "3"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_diff_support-challenge_heds",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Estimule "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Después de leer cada cuento, estimule a los niños para que intenten recordar todas las palabras que comienzan con el sonido y la letra de la actividad. Luego pídales que digan otras palabras que conocen que comienzan con la misma letra y sonido."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "modifications-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "modifications_b_1",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Modificaciones"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "modifications_b_1",
+                        "index": "2"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_mod_teacher-card_d_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Alumnos multilingües "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Tenga en cuenta que los niños cuya lengua materna es el español pronuncian igual las letras "
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-talk",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "Bb"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": " y "
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-talk",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "Vv"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": ". Tome el tiempo necesario para repasar los sonidos que estas letras hacen en inglés, tanto aisladas como en el contexto de una palabra. "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_mod_teacher-card_d_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Discriminación auditiva "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Para ayudar a los niños con problemas de discriminación auditiva, exagere los movimientos de la boca mientras forma el sonido de cada letra, teniendo presente la posición de la lengua y los labios. Haga esto mientras dice el sonido aislado y luego dentro de la palabra de la imagen. Invite a los niños a mover la boca de la misma manera mientras hacen el sonido de la letra."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "copyright-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "copyright_b_1",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_back_copyright_line",
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "isbn",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "978-1-338-64414-2"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": ". TM ® & © Scholastic Inc. All rights reserved."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "name": "ac_card-2",
+          "attributes": {
+            "day": "2"
+          },
+          "elements": [
+            {
+              "type": "element",
+              "name": "ac_card-2_front",
+              "elements": [
+                {
+                  "type": "element",
+                  "name": "masthead",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "masthead_f_2",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_header-game-card",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": " IDENTIFICAR EMOCIONES"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "instructions",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "instructions_f_2",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Instrucciones"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "before-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "before_f_2",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Reunir los materiales"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-talk-emphasis",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "materiales de dibujo y escritura, y "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-talk",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "La perra de hola y adiós"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Asociar con el grupo grande"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Hoy leímos "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "La perra de hola y adiós"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": ". Leímos sobre los sentimientos de Moose. ¿Qué sentimientos tuvo Moose cuando Zara se fue a la escuela? Leímos sobre los sentimientos de la Zara. ¿Qué sentimientos tuvo Zara cuando vio a Moose en la escuela? Leímos sobre los sentimientos de la Sra. Perkins. ¿Qué sentimientos tuvo la Sra. Perkins cuando vio a Moose en la escuela?"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Repasar el Mind Builder"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "A veces nuestros sentimientos son iguales. A veces cambian. Conversaremos sobre cómo cambian los sentimientos de Moose a lo largo del libro "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "La perra de hola y adiós"
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": ". "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Explicar la actividad"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Dibujaremos sobre los sentimientos de Moose. "
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "during-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "during_f_2",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Preparar"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Ponga los materiales de dibujo frente a usted. Vaya a la página 3 de La perra de hola y adiós. Dibuje un perro feliz. "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Estoy dibujando a Moose con una sonrisa porque está feliz con Zara. Veamos otros sentimientos que tiene Moose a lo largo de este cuento."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Preguntar"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-talk",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Vaya a la página 4. "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "¿Cómo se siente Moose? ¿Cómo saben Moose se siente así?"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Repetir"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Proporcione materiales de dibujo. Pida a los niños que dibujen a Moose con un sentimiento frustrado. Siga el libro, parando cuando los sentimientos de Moose cambian. Conversen sobre esos cambios. Pida a los niños que dibujen más caras de Moose con distintos sentimientos. "
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "after-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "after_f_2",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Hablar sobre identificar emociones"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Hablen de los detalles de los dibujos que los ayudan a adivinar cómo se siente Moose. Reflexionen sobre la actividad de dibujar sentimientos. "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "¿Son todos los sentimientos iguales? ¡Veamos cuántos sentimientos pueden nombrar!"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "name": "ac_card-2_back",
+              "elements": [
+                {
+                  "type": "element",
+                  "name": "masthead",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "masthead_b_2",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_header-game-card",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": " IDENTIFICAR EMOCIONES"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "differentiation-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_2",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Diferenciación"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_2",
+                        "index": "2"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_diff_support-challenge_heds",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Apoye "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Apoye a los niños mientras hacen la actividad de dibujar: dibujen juntos una tercera cara de Moose. Haga preguntas sobre los detalles de los rasgos faciales para ayudar a los niños a decir el nombre de los sentimientos que se muestran."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_2",
+                        "index": "3"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_diff_support-challenge_heds",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Estimule "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Estimule a los niños a identificar más sentimientos en cada dibujo, como "
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-talk",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "En la página 5, ¿qué sentimiento creen que tiene la mamá de Zaza? "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "Estimule a lo niños a nombrar más sentimientos y a explicar  por qué los personajes se puden sentir de una manera determinada."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "modifications-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "modifications_b_2",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Modificaciones"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "modifications_b_2",
+                        "index": "2"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_mod_teacher-card_d_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Alumnos multilingües "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Ayude a los alumnos multilingües a identificar los nombres de los sentimientos en inglés. Tome el tiempo necesario para repasar sentimientos como "
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-talk",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "happy/feliz, sad/triste, angry/enojado, scared/asustado o excited/entusiasmado."
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_mod_teacher-card_d_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Desarrollo emocional "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Tenga en cuenta que hablar de sentimientos puede ser un tema delicado para los niños. Dé oportunidades para que los niños hablen sobre sus sentimientos, pero entienda que algunos puedan no querer hablar. Ayude a los niños a sentirse seguros en su entorno de aprendizaje y deles la libertad de compartir lo que elijan compartir."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "copyright-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "copyright_b_2",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_back_copyright_line",
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "isbn",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "978-1-338-64414-2"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": ". TM ® & © Scholastic Inc. All rights reserved."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "name": "ac_card-3",
+          "attributes": {
+            "day": "3"
+          },
+          "elements": [
+            {
+              "type": "element",
+              "name": "ac_card-3_front",
+              "elements": [
+                {
+                  "type": "element",
+                  "name": "masthead",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "masthead_f_3",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_header-game-card",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": " PERROs TERAPÉUTICOs"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "instructions",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "instructions_f_3",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Instrucciones"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "before-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "before_f_3",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Reunir los materiales"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  tarjetas de actividad. "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Asociar con el grupo grande"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Hoy leímos "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "La perra de hola y adiós"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": ". Leímos sobre cómo Moose extrañaba a Zara cuando Zara iba a la escuela. ¡Moose se convirtió en una perra terapéutica!"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Enseñar"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Un perro terapéutico va a una escuela especial para aprender a ayudar a la gente. Los perros terapéuticos pueden ir a sitien a los que los demás perros no pueden entrar, ¡como la escuela!"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Explicar la actividad"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "¡En esta actividad vamos a ayudar a Moose a graduarse de la escuela de perros terapéuticos! Vamos a encontrar el dibujo que muestra algo que de lo que examinaron a Moose."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "during-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "during_f_3",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Preparar"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Ponga boca arriba la tarjeta con la imagen del perro con el sombrero de graduación. Deje el resto de las tarjetas boca abajo. "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Preguntar"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Muestre la imagen del perro con el sombrero de graduación y haga las preguntas al dorso de la tarjeta, dé apoyo o estímulo según sea necesario. Voltee las demás tarjetas de actividad. "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "¿Qué tarjeta muestra una perra feliz?"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Repetir"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Continúe la actividad, diciendo las cosas sobre las que examinaron a Moose: acostarse, quedarse quieta, ser buena con los niños y moverse alrededor de sillas de ruedas. Pida a los niños que miren las tarjetas de actividad y que elijan las que corresponden a las habilidades. Use las preguntas al dorso. "
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "after-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "after_f_3",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Hablar sobre perros terapéuticos"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Invite a los niños a hablar de lo que aprendieron sobre los perros terapéuticos. Pídales que hablen sobre cómo estos perros pueden ayudar a la gente. Dé apoyo y sugerencias, si es necesario. "
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "name": "ac_card-3_back",
+              "elements": [
+                {
+                  "type": "element",
+                  "name": "masthead",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "masthead_b_3",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_header-game-card",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": " PERROS TERAPÉUTICOS"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "differentiation-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_3",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Diferenciación"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_3",
+                        "index": "2"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_diff_support-challenge_heds",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Apoye "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Para simplificar la actividad, coloque boca arriba las tarjetas que muestran el entrenamiento del perro, debajo de la del perro con el sombrero de graduación. Diga cada actividad y pida a los niños que la repitan después de usted."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_3",
+                        "index": "3"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_diff_support-challenge_heds",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Estimule "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Trabajen juntos para escribir una oración sobre cada imagen, enfocándose en añadir descripciones en cada oración. Anime a los niños a ayudarle a poner la puntuación final de cada oración."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "modifications-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "modifications_b_3",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Modificaciones"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "modifications_b_3",
+                        "index": "2"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_mod_teacher-card_d_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Alumnos multilingües "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Anime a los niños a usar el títere de Clifford para demostrar qué representa cada tarjeta de actividad. Use el lenguaje para apoyar lo que el niño muestra con el títere, luego anime a los niños a repetir las palabras con usted. "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_mod_teacher-card_d_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Estimulación del discurso "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Ayude a los niños comenzando con preguntas de sí/no sobre la tarjeta. Luego continúe y anímelos a construir oraciones siguiendo un modelo que dé usted, como: "
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-speaking",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "¿El perro está sentado?"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": " (sí). "
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-speaking",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "Digan después de mí: El perro aprende a sentarse. "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "(el niño repite)."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "copyright-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "copyright_b_3",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_back_copyright_line",
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "isbn",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "978-1-338-64414-2"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": ". TM ® & © Scholastic Inc. All rights reserved."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "name": "ac_card-4",
+          "attributes": {
+            "day": "4"
+          },
+          "elements": [
+            {
+              "type": "element",
+              "name": "ac_card-4_front",
+              "elements": [
+                {
+                  "type": "element",
+                  "name": "masthead",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "masthead_f_4",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_header-game-card",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": " EL CUIDADO DE LAS MASCOTAS"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "instructions",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "instructions_f_4",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Instrucciones"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "before-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "before_f_4",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Reunir los materiales"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  masilla. "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Asociar con el grupo grande"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Hoy leímos el póster informativo "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "Lo que necesitan las mascotas"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": " y hablamos sobre cómo mantener a nuestras mascotas saludables. "
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Enseñar"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Repase las tarjetas de vocabulario "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-talk",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "mascotas"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " y "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-talk",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "ejercicio"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": ". "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Explicar la actividad"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "¡En esta actividad vamos a practicar cómo cuidar a nuestra mascotas! Cada uno hará su mascota de masilla. Luego mostraremos cómo cuidarlas."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "during-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "during_f_4",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Preparar"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Demuestre cómo usar la masilla para darle rápidamente la forma de una mascota. Luego dé a cada niño un poco de masilla. Cada uno debe hacer su propia mascota. "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Demuestre"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Las mascotas necesitan alimentos saludables. Vamos a darle comida a nuestra mascota. "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "Simule que le da comida a su mascota. Pida a los niños que “alimenten” a sus mascotas. "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Repetir"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Continúe la actividad; pida a varios niños que, de uno en uno, digan qué necesitan las mascotas y que el grupo represente la acción con gestos usando sus mascotas. Pregunte qué mas necesitan las mascotas. Diga a los niños que miren "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-talk",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Lo que necesitan las mascotas"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": ", si es necesario. "
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "after-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "after_f_4",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Hablar sobre el cuidado de las mascotas"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Hablen sobre qué necesitan las mascotas para mantenerse saludables. "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "¿Por qué las mascotas necesitan esas cosas para mantenerse saludables?"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " Proporcione más sugerencias y apoyo si es necesario. "
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "name": "ac_card-4_back",
+              "elements": [
+                {
+                  "type": "element",
+                  "name": "masthead",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "masthead_b_4",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_header-game-card",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": " EL CUIDADO DE LAS MASCOTAS"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "differentiation-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_4",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Diferenciación"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_4",
+                        "index": "2"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_diff_support-challenge_heds",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Apoye "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Lea "
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-talk",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "Lo que necesitan las mascotas, "
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": "punto por punto, cuando los niños necesiten apoyo extra para decir qué necesitan las mascotas."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_4",
+                        "index": "3"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_diff_support-challenge_heds",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Estimule "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Estimule a los niños a explicar por qué cada necesidad mencionada en "
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-talk",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "Lo que necesitan las mascotas"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": " es esencial para un buen cuidado de las mascotas. "
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-talk",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "¿Por qué es importante mantener nuestras mascotas saludables?"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "modifications-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "modifications_b_4",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Modificaciones"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "modifications_b_4",
+                        "index": "2"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_mod_teacher-card_d_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Estimulación multilingüe "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Ayude a los alumnos multilingües a identificar los nombres en inglés para algunas mascotas comunes, como "
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-talk",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "perro, gato, pájaro, conejo, pez, serpiente"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": " y "
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-talk",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "hámster"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": ". "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_mod_teacher-card_d_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Desarrollo de la motricidad fina "
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Ayude a los niños a hacer la mascota de masilla si es necesario. Pregunte al niño que mascota quiere hacer y haga que participe en lo que pueda mientras usted la moldea."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "copyright-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "copyright_b_4",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_back_copyright_line",
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "isbn",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "978-1-338-64414-2"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": ". TM ® & © Scholastic Inc. All rights reserved."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}]

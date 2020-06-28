@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flip-chart lang="es">
+  <flip_chart-15 day="4">
+    <flip_chart-15_front>
+      <graphic href="EC3-5_Flipchart_T4W3_AtThePond_Spa.jpg"/>
+    </flip_chart-15_front>
+    <flip_chart-15_back>
+      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <flip_chart-theme-text>DESCUBRE LOS ANIMALES</flip_chart-theme-text>
+          <flip_chart-topic-text>Las casas de los animales</flip_chart-topic-text>
+          <flip_chart-concept-question>¿Cómo es el lugar donde viven los animales?</flip_chart-concept-question>
+        </section-block>
+      </masthead>
+      <display-head-section>
+        <section-block type="display_b_1" index="1">
+          <flip_chart-display-head>EL Estanque</flip_chart-display-head>
+        </section-block>
+      </display-head-section>
+      <teacher-facing-section>
+        <section-block type="teacher-facing_b_1" index="1">
+          <flip_chart-teacher-facing-content-box>
+            <flip_chart-centered-content type="centered">
+              <flip_chart-teacher-facing-paragraph>¿Quién vive en el estanque?<flip_chart-br> </flip_chart-br>Acompáñame y observemos.<flip_chart-br> </flip_chart-br>Un <flip_chart-bold>pez</flip_chart-bold> nada en el agua<flip_chart-br> </flip_chart-br>y un <flip_chart-bold>pájaro</flip_chart-bold> que anida ahí, vemos.</flip_chart-teacher-facing-paragraph><flip_chart-teacher-facing-paragraph>Mira una <flip_chart-bold>mariposa</flip_chart-bold>
+                <flip_chart-br> </flip_chart-br>que baja y aletea,<flip_chart-br> </flip_chart-br> y aterriza en una flor<flip_chart-br> </flip_chart-br>en la que bebe y juguetea.</flip_chart-teacher-facing-paragraph><flip_chart-teacher-facing-paragraph>¿Quién vive en el estanque?<flip_chart-br> </flip_chart-br>Acompáñame a escuchar.<flip_chart-br> </flip_chart-br>“Croac”, dice la <flip_chart-bold>rana</flip_chart-bold>
+                <flip_chart-br> </flip_chart-br>cuando ve al <flip_chart-bold>venado</flip_chart-bold> llegar.</flip_chart-teacher-facing-paragraph><flip_chart-teacher-facing-paragraph>Los <flip_chart-bold>gusanitos</flip_chart-bold> excavan,<flip_chart-br> </flip_chart-br>los <flip_chart-bold>saltamontes</flip_chart-bold> se agitan.<flip_chart-br> </flip_chart-br>Y el estanque se ocupa<flip_chart-br> </flip_chart-br>de animales que lo habitan.</flip_chart-teacher-facing-paragraph><flip_chart-teacher-facing-paragraph>¿Quién vive en el estanque?<flip_chart-br> </flip_chart-br>Animales grandes y pequeños.<flip_chart-br> </flip_chart-br>El estanque es el mejor hogar<flip_chart-br> </flip_chart-br>para todos: estos y aquellos.</flip_chart-teacher-facing-paragraph>
+            </flip_chart-centered-content>
+          </flip_chart-teacher-facing-content-box>
+        </section-block>
+      </teacher-facing-section>
+      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <flip_chart-credit-line>Illustration by Annie Davidson, © Scholastic Inc.</flip_chart-credit-line>
+        </section-block>
+      </copyright-section>
+    </flip_chart-15_back>
+  </flip_chart-15>
+</flip-chart>

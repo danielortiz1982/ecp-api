@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="es">  <ac_card-1 day="1">    <ac_card-1_front>       <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card> EL CICLO DE LA VIDA</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos el cuento <ac_teacher-speaking_emphasis_blue>Un árbol muy concurrido</ac_teacher-speaking_emphasis_blue>. Aprendimos sobre casas de animales. Hablamos sobre por qué los animales necesitan casas. Comienzan siendo pequeños y crecen. Esto se llama <ac_teacher-speaking_emphasis_blue>el ciclo de la vida</ac_teacher-speaking_emphasis_blue>.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad veremos imágenes de seres vivos. Ustedes van a decirme si cada imagen muestra una planta o un animal. Luego colocaremos todas las imágenes en dos grupos: “Plantas” y “Animales”.</ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre una tarjeta con imagen y haga la pregunta al dorso; ofrezca estímulo o apoyo adicional según sea necesario. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use la última pregunta al dorso de la tarjeta para ampliar en la conversación. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Clasificar</ac_teacher-card_run-in_hed>  Dé la tarjeta con imagen a un niño para que la coloque en la fila de los animales o en la de las plantas. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe el juego usando la siguiente tarjeta con imagen.   </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre plantas y animales</ac_teacher-card_run-in_hed>  Señale la fila de tarjetas en el lado de “Plantas”. <ac_teacher-speaking>Todas las imágenes de esta fila son parte del ciclo de la vida de un árbol.</ac_teacher-speaking> Haga lo mismo para los animales. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre el ciclo de la vida</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Todas las imágenes muestran momentos en el ciclo de la vida de diferentes plantas y animales. Hablemos de qué les ocurre a los ciclos de vida de las plantas y los animales en cada una de las imágenes.</ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card> EL CICLO DE LA VIDA</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="2">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Muestre a los niños solo dos tarjetas de plantas y una de un animal. Anime a los niños a elegir la tarjeta que no pertenece al grupo.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="3">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Ponga las tarjetas en la mesa boca arriba. Señale una y diga: <ac_teacher-talk>¿Es del ciclo de la vida del árbol, de la polilla o del pájaro?</ac_teacher-talk> Después de colocar cada tarjeta en una de esas categorías, pregunte a los niños por qué colocaron las tarjetas donde las pusieron.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Pida a los niños que respondan sin palabras señalando las tarjetas y colocándolas en las categorías correctas. Haga preguntas con las palabras de la actividad <ac_teacher-speaking>¿Es esta oruga parte del ciclo de vida de la polilla?</ac_teacher-speaking> Anime a los niños a responder con palabras y frases simples. Para colocar las tarjetas en orden, repita el proceso preguntando: <ac_teacher-speaking>¿Está la oruga cerca del principio del ciclo de la vida?</ac_teacher-speaking> </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Coloque todas las tarjetas en la mesa, boca arriba y desordenadas. Diga a cada niño que tome una tarjeta y que la coloque en el lugar aproximado donde iría en una disposición de 3 x 3, con una fila de tres tarjetas por cada forma de vida. Pida a los niños que continúen turnándose y moviendo las tarjetas hasta que cada una esté en el orden correcto en la fila correcta.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64418-0</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>       <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>ENFOCARSE EN COSAS PEQUEÑAS</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Lupas, semillas, piedras, tierra, hojas de diferentes tamaños, texturas y colores, y cualquier material que encuentre en el exterior.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos <ac_teacher-speaking_emphasis_blue>Un árbol muy concurrido</ac_teacher-speaking_emphasis_blue>. Este libro es sobre un árbol que de lejos parecía tranquilo, ¡pero que cuando se miraba de cerca se veía lleno de actividad!</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el Mind Builder</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hablamos sobre sentir curiosidad. Cuando nos sentimos curiosos, hacemos preguntas. Tenemos preguntas sobre cosas que vimos en el libro.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar vocabulario </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Hoy también aprendimos la palabra <ac_teacher-speaking_emphasis_blue>enfocarse.</ac_teacher-speaking_emphasis_blue> Vamos a repasar la palabra porque se relaciona con nuestra actividad de hoy. Repase la tarjeta de vocabulario enfocarse.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad usaremos las lupas para enfocarnos en algunas cosas que vimos en <ac_teacher-speaking_emphasis_blue>Un árbol muy concurrido</ac_teacher-speaking_emphasis_blue> y otras cosas podemos encontrar afuera. Hablaremos sobre lo que aprendimos enfocándonos. Y haremos preguntas sobre cosas qué aún nos dan curiosidad. </ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>¡Enfócate!</ac_teacher-card_run-in_hed>  Dé una lupa a cada niño. Organice los niños en parejas para que examinen objetos naturales durante un minuto o dos. Anime a los niños a hablar sobre lo que ven. Luego pídales que observen el mismo objeto sin lupa y que hablen sobre lo que ven. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad hasta que todas las parejas de niños hayan tenido la oportunidad de observar cada objeto con la lupa.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre ser curioso</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cuando miran a través de una lupa pueden ver más detalles. Miren un objeto que les da curiosidad. ¿Qué detalles especiales observaron cuando miraron el objeto a través de la lupa?</ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>ENFOCARSE EN COSAS PEQUEÑAS</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="2">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Anime a los niños a decir qué ven a través de la lupa. Demuestre modelos de lenguaje para describir detalles que se ven gracias a  la ampliación. Demuestre curiosidad haciendo preguntas sobre lo que ve.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="3">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Estimule a los niños para que comparen los objetos naturales que están examinando con los mismos objetos u objetos similares del libro. Pídales que identifiquen detalles iguales y diferentes en ambas versiones. Sugiera la lectura de libros sobre las cosas que observan.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Para ayudar a los alumnos multilingües a expresar curiosidad, deles iniciadores de oración como: Me pregunto ¿por qué/cómo <fill-in-the-blank>               </fill-in-the-blank>? Demuestre el uso de estos iniciadores de oración mientras observa un objeto con un niño, preguntando <ac_teacher-speaking>¿Tú también te preguntas lo mismo? </ac_teacher-speaking>Escriba las palabras y frases en español que el niño produce en estas estructuras de oración e invite al niño a repetir la oración. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo sensorial </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Ofrezca estimulación sensorial invitando a los niños a oler y tocar con cuidado objetos de la naturaleza. Considere realizar la actividad en el exterior, dejando que los niños reúnan sus propias hojas, semillas u otros objetos. Anime a los niños a hablar de lo que descubrieron a través de sus sentidos. Demuestre cómo usar iniciadores de oración, por ejemplo: Se ve <fill-in-the-blank>               </fill-in-the-blank> . Huele <fill-in-the-blank>                </fill-in-the-blank>. Se siente <fill-in-the-blank>                </fill-in-the-blank>.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64418-0</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>       <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>¿DÓNDE ESTÁN LOS ANIMALES?</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos <ac_teacher-speaking_emphasis_blue>Un árbol muy concurrido</ac_teacher-speaking_emphasis_blue> y hablamos sobre casas de animales. También jugamos a buscar a Scout.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar preposiciones</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Las preposiciones nos indican dónde está alguna cosa. Por ejemplo, nos dicen si está <ac_teacher-speaking_emphasis_blue>dentro, sobre, debajo </ac_teacher-speaking_emphasis_blue>o <ac_teacher-speaking_emphasis_blue>detrás </ac_teacher-speaking_emphasis_blue>de otra cosa.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad veremos imágenes de casas de animales. ¡Luego haremos y responderemos preguntas para decir qué hacen los animales y dónde lo hacen!</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre una tarjeta con imagen y haga a un niño la pregunta al dorso de la tarjeta; dé apoyo o estímulo según sea necesario. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use la última pregunta al dorso de la tarjeta para ampliar la conversación. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad usando la siguiente tarjeta con imagen.      </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre preposiciones</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Todas las preposiciones que usamos decían dónde estaban los animales: <ac_teacher-speaking_emphasis_blue>dentro, sobre, debajo, detrás</ac_teacher-speaking_emphasis_blue> y <ac_teacher-speaking_emphasis_blue>por</ac_teacher-speaking_emphasis_blue>. Estamos descubriendo que se puede usar más de una palabra para hablar del mismo lugar.</ac_teacher-speaking> Elija diferentes objetos en el salón de clases y pida a los niños que se turnen para explicar dónde está el objeto usando una preposición. Demuestre cómo hacerlo.  </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>¿DÓNDE ESTÁN LOS ANIMALES?</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="2">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Lea en voz alta las secciones Pregunte y Apoye de cada tarjeta. Luego pida a los niños que digan qué más saben sobre el animal de la imagen o que hagan preguntas. Estimule tanta conversación como sea posible.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="3">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Estimule a los niños a decir más frases sobre dónde está un animal. Pueden usar detalles de la imagen y su imaginación. P. ej.: “El camaleón descansa en una rama de árbol en una selva de México”. Ayude a los niños a hallar la preposición correcta si es necesario.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Deje que los niños usen una respuesta física, además de la hablada, para conversar sobre la ubicación de los animales en las imágenes. Por ejemplo, coloque una caja de pañuelos de papel vacía y un animal de plástico sobre la mesa. Deje que los niños coloquen el animal en la ubicación junto a la caja que está más cercana a la ubicación del animal en la imagen. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad gruesa </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Realice la actividad en el exterior, cerca de una estructura de juego o en el área de juegos de motricidad. Pida a los niños que simulen ser el animal de la tarjeta y que se pongan dentro, encima, debajo o detrás de las estructuras a medida que describen la ubicación del animal en una oración.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64418-0</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>       <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>iguales pero diferentes</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos <ac_teacher-speaking_emphasis_blue>El estanque</ac_teacher-speaking_emphasis_blue> y vimos en qué se parecía a <ac_teacher-speaking_emphasis_blue>Un árbol muy concurrido</ac_teacher-speaking_emphasis_blue>. Vimos que algunas palabras, como hoja, pueden significar cosas diferentes.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad veremos imágenes que muestran la misma palabra usada de dos maneras. Luego representaremos cada significado.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar palabras de significados múltiples</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Recuerden la palabra hoja. Puede ser una cosa natural, como la hoja de una planta. También puede ser algo que hacen las personas, como una hoja de papel. Muchas palabras significan más de una cosa. Repase las palabras con varios significados compartiendo la tarjeta de estrategia Palabras con varios significados.</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Organizar</ac_teacher-card_run-in_hed>  Planee mostrar la primera tarjeta del primer par, luego la segunda del primer par, luego la primera del segundo par, etc. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre la primera tarjeta y haga a un niño la pregunta al dorso; dé apoyo o estímulo según sea necesario. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use la última pregunta al dorso de la tarjeta para ampliar la conversación. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad usando la siguiente tarjeta con imagen.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre palabras con varios significados</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cuando vemos palabras como estas en un cuento, ¿cómo sabemos qué significado usar? Algunas veces, mirar las imágenes del cuento puede ayudarnos.</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>iguales pero diferentes</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="2">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Para los niños más pequeños o con retraso de desarrollo, lea en voz alta las secciones Pregunte y Apoye de cada tarjeta. Deje que el niño represente primero la palabra. Si es necesario, dé la palabra y pida al niño que la repita. Estimule tanta conversación como sea posible.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="3">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Estimule a los niños a generar más palabras con varios significados. Otras palabras con varios significados son <ac_teacher-talk>capullo</ac_teacher-talk>, de<ac_teacher-talk> Un árbol muy concurrido </ac_teacher-talk>(pág. 20) o<ac_teacher-talk> estanque</ac_teacher-talk> de <ac_teacher-talk>El estanque</ac_teacher-talk>. Acepte, según la edad de los niños, palabras que suenan igual pero se escriben diferente (hola/ola).</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>A los alumnos multilingües les puede beneficiar oír y usar palabras con varios significados en más de una estructura de oración. Por ejemplo, después de presentar la estructura <ac_teacher-talk>Esta es la c</ac_teacher-talk>
+            <fill-in-the-blank>   </fill-in-the-blank> <ac_teacher-talk-emphasis>(copa)</ac_teacher-talk-emphasis>
+            <ac_teacher-talk> de un árbol</ac_teacher-talk>, use una estructura en forma de pregunta: <ac_teacher-talk>¿En la copa de qué árbol pueden poner una estrella?</ac_teacher-talk> Presente diferentes estructuras también para otras palabras. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Proporcione papel y crayones y pida a los niños que dibujen cada significado de la palabra en una sola imagen, por ejemplo un niño leyendo y pasando las hojas de un libro bajo un árbol con hojas. Pida a los niños que describan sus dibujos; anímelos a usar cada palabra con varios significados de más de una manera.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64418-0</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

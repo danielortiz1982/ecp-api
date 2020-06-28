@@ -1,0 +1,106 @@
+[
+{
+  "declaration":{
+    "attributes":{
+      "version":"1.0",
+      "encoding":"UTF-8"
+    }
+  },
+  "elements":[
+    {
+      "type":"element",
+      "name":"alpha-credits",
+      "attributes":{
+        "lang":"en",
+        "module":"literature"
+      },
+      "elements":[
+        {
+          "type":"element",
+          "name":"copyright-section",
+          "elements":[
+            {
+              "type":"element",
+              "name":"credits-hd",
+              "elements":[
+                {
+                  "type":"text",
+                  "text":"Credits"
+                }
+              ]
+            },
+            {
+              "type":"element",
+              "name":"credits-sub",
+              "elements":[
+                {
+                  "type":"text",
+                  "text":"ALPHABET CARDS BOX"
+                }
+              ]
+            },
+            {
+              "type":"element",
+              "name":"credits-body1",
+              "elements":[
+                {
+                  "type":"text",
+                  "text":"Photos ©: front: apple: Ellen Liebermann/Getty Images; bike: Julián Rovagnati/Dreamstime;  cat: Geoffrey Jones/Shutterstock ; elephant: sgtphoto/iStockphoto; hat: C Squared Studios/Getty Images; leaf: Marek Mnich/iStockphoto; back: apple: Ellen Liebermann/Getty Images"
+                }
+              ]
+            },
+            {
+              "type":"element",
+              "name":"credits-sub",
+              "elements":[
+                {
+                  "type":"text",
+                  "text":"ALPHABET CARDS"
+                }
+              ]
+            },
+            {
+              "type":"element",
+              "name":"credits-body2",
+              "elements":[
+                {
+                  "type":"text",
+                  "text":"Photos ©: "
+                },
+                {
+                  "type":"element",
+                  "name":"credits-inline",
+                  "elements":[
+                    {
+                      "type":"text",
+                      "text":"Uppercase:"
+                    }
+                  ]
+                },
+                {
+                  "type":"text",
+                  "text":" Apple: Ellen Liebermann/Getty Images; Bike: Julián Rovagnati/Dreamstime; Car: Iakov Filimonov/Dreamstime; Duck: PNG Image; Elephant: sgtphoto/iStockphoto; Fish: MartinLisner/iStockphoto; Goat: Iakov Filimonov/Dreamstime; Hat: C Squared Studios/Getty Images; Iguana: Yuri Kevhiev/Alamy Images; Jacket: Natallia Bokach/iStockphoto; Kite: ElementalImaging/iStockphoto; Leaf: Marek Mnich/iStockphoto; Milk: Valentyn Volkov/Shutterstock; Nut: Alexander Pladdat/Dreamstime; Octopus: Aizhong Wang/Zhengzaishanchu/Dreamstime; Penguin: Suzi Eszterhas/Minden Pictures/age fotostock; Quilt: Carrie Merrel/iStockphoto; Rabbit: PNG Image; Sun: SStajic/iStockphoto; Tiger: Svetiana Foote/Saddako123/Dreamstime; Umbrella: Ugurhan Betin/iStockphoto; Vest: DanielKrylov/iStockphoto; Wagon: C Squared Studios/Getty Images; Xylophone: sparkla/iStockphoto; Yo-yo: KateLeigh/iStockphoto; Zebra: Patryk Kosmider/Shutterstock; "
+                },
+                {
+                  "type":"element",
+                  "name":"credits-inline",
+                  "elements":[
+                    {
+                      "type":"text",
+                      "text":"Lowercase:"
+                    }
+                  ]
+                },
+                {
+                  "type":"text",
+                  "text":" ant: Andrey Pavlov/Shutterstock; bear: Farinoza/Dreamstime; cat: Geoffrey Jones/Shutterstock; dog: Isselle/Dreamstime; egg: Coprid/Shutterstock; fox: GlobalP/iStockphoto; gift: Hong Vo/Shutterstock; heart: LeArtistique/iStockphoto; insect: Leoshoot/iStockphoto; jam: MaraZe/Shutterstock; kangaroo: Eric Isselee/Shutterstock; ladybug: Potapov Alexander/Shutterstock; mitten: Liubov Pakhtusova/Shutterstock; nest: Madlen/Shutterstock; ostrich: Andrey_Kuzmin/Shutterstock; peach: Danny Smythe/Shutterstock; queen: Odd Andersen/Getty Images; ring: Zentilia/Dreamstime; sock: Antagain/iStockphoto; turtle: Anneka/Shutterstock; up: Scholastic Inc.; vase: design/Shutterstock; wolf: mariait/Shutterstock; x-ray: chris kolaczan/Shutterstock; box: Kostsov/Shutterstock; yarn: shirhan/iStockphoto; zipper: claylib/iStockphoto"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+]

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flip-chart lang="en">
+  <flip_chart-15 day="4">
+    <flip_chart-15_front>
+      <graphic href="EC3-5_Flipchart_T4W3_AtThePond.jpg"/>
+    </flip_chart-15_front>
+    <flip_chart-15_back>
+      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <flip_chart-theme-text>DISCOVER ANIMALS</flip_chart-theme-text>
+          <flip_chart-topic-text>Animal Homes</flip_chart-topic-text>
+          <flip_chart-concept-question>What is it like where animals live?</flip_chart-concept-question>
+        </section-block>
+      </masthead>
+      <display-head-section>
+        <section-block type="display_b_1" index="1">
+          <flip_chart-display-head>At the Pond</flip_chart-display-head>
+        </section-block>
+      </display-head-section>
+      <teacher-facing-section>
+        <section-block type="teacher-facing_b_1" index="1">
+          <flip_chart-teacher-facing-content-box>
+            <flip_chart-teacher-facing-paragraph>Who lives at the pond?<flip_chart-br> </flip_chart-br>Come along and see.<flip_chart-br> </flip_chart-br>A <flip_chart-bold>fish</flip_chart-bold> swims in the water.<flip_chart-br> </flip_chart-br>A <flip_chart-bold>bird</flip_chart-bold> nests in a tree.</flip_chart-teacher-facing-paragraph><flip_chart-teacher-facing-paragraph>Look at the <flip_chart-bold>butterfly</flip_chart-bold>
+              <flip_chart-br> </flip_chart-br>flutter and dip,<flip_chart-br> </flip_chart-br>then land on a flower<flip_chart-br> </flip_chart-br>and take a sip.</flip_chart-teacher-facing-paragraph>
+            <flip_chart-teacher-facing-paragraph>Who lives at the pond?<flip_chart-br> </flip_chart-br>Come along and hear.<flip_chart-br> </flip_chart-br>“Croak,” says the <flip_chart-bold>frog</flip_chart-bold>,<flip_chart-br> </flip_chart-br> as he stares at the <flip_chart-bold>deer</flip_chart-bold>.</flip_chart-teacher-facing-paragraph>
+            <flip_chart-teacher-facing-paragraph>Little <flip_chart-bold>worms</flip_chart-bold> dig,<flip_chart-br> </flip_chart-br>and <flip_chart-bold>grasshoppers</flip_chart-bold> hop.<flip_chart-br> </flip_chart-br>The pond is busy from<flip_chart-br> </flip_chart-br>bottom to top.</flip_chart-teacher-facing-paragraph>
+            <flip_chart-teacher-facing-paragraph>Who lives at the pond?<flip_chart-br> </flip_chart-br>Animals big and small.<flip_chart-br> </flip_chart-br>The pond is the best home<flip_chart-br> </flip_chart-br>for one and for all.</flip_chart-teacher-facing-paragraph>
+          </flip_chart-teacher-facing-content-box>
+        </section-block>
+      </teacher-facing-section>
+      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <flip_chart-credit-line>Illustration by Annie Davidson, © Scholastic Inc.</flip_chart-credit-line>
+        </section-block>
+      </copyright-section>
+    </flip_chart-15_back>
+  </flip_chart-15>
+</flip-chart>

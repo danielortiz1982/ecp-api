@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./preview-styles.css" type="text/css"?>
+<teaching-guide xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" lang="en">
+  <day_1>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 3:</tg_week_hed>
+        <tg_topic_hed>Helpers</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338623147_COV_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Book:Whose Hands Are These?</tg_materials-caption>
+        <graphic href="LGC Redux T2_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large Group Card</tg_materials-caption>
+        <graphic href="VC Redux Eng T2_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Vocabulary Cards</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Measurement</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Executive Function</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Social Studies:</tg_learning-goals_inline-hed> Economics</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Fine Arts:</tg_learning-goals_inline-hed> Music</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to introduce community helpers, engage children with dance, and introduce vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>weigh</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>count</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>
+          <tg_bullet-directions_vocab>.</tg_bullet-directions_vocab></tg_bullet-directions>
+        <tg_bullet-directions>Begin Story Time by asking, <tg_bullet-directions_guiding-question>What helpers work in our community?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Read for enjoyment and understanding, noticing measurement tools in context.</tg_bullet-directions>
+        <tg_bullet-directions>Check understanding, differentiating as needed.</tg_bullet-directions>
+        <tg_bullet-directions>Share daily writing option.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identify measurable attributes like height, length, capacity, weight, and time.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Know the purpose of common measuring tools (e.</tg_skills-focus-skill-text>g., ruler, scale, measuring cup/spoon).</tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Counting:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Recite number words from 1 to 30 in order.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Executive Function:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Remain focused on engaging group activities for up to 20 minutes at a time.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Fine Arts</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Music:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Sing, play musical instruments, and move to the rhythm in classroom activities.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Social Studies</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Economics:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Talk about roles and jobs of the people in their community.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Physical Development </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Fine Motor:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Experiment with a variety of fine-motor tasks but may lack strength and control.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Matching: Measuring Tools</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T2_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Activity Cards</tg_materials-caption>
+        <graphic href="EC_stock_MeasuringTools_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Measuring Tools</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Measurement</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Executive Function</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Physical Development:</tg_learning-goals_inline-hed> Fine Motor</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Challenge children to find cards with matching measurement tools.</tg_bullet-directions>
+        <tg_bullet-directions>Guide children to identify the tool on each card and its use.</tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>Who are the people who help in our community? </tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY ANDLISTENING CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What helpers are in this book?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND LEARN CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Pretend you are at the store. What helpers are there?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND SCIENCE CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>How many Connecting Cubes are you using? Count them carefully.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S CORNER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>A firefighter is a community helper. Tell a story about a firefighter.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY STATION</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Draw a picture of a community helper.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>The word <tg_teacher-talk_emphasis_non-ital>helper</tg_teacher-talk_emphasis_non-ital> starts with the letter<tg_teacher-talk_emphasis_non-ital> H</tg_teacher-talk_emphasis_non-ital>. Can you trace that letter?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What are you making? Do any community helpers work in this building?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Whose Hands Are These? by Miranda Paul, illustrated by Luciana Navarro Powell. Text copyright © 2016 by Miranda Paul. Illustrations copyright © 2016 by Luciana Navarro Powell. Published by Scholastic Inc. by arrangement with Millbrook Press, a division of Lerner Publishing Group, Inc.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Photos © Shutterstock: measuring cup and spoon (Cattlaya Art), measuring tape (pogonici), ruler (photastic).</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_1>
+  <day_2>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 3:</tg_week_hed>
+        <tg_topic_hed>Helpers</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338623147_COV_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Book: <tg_materials-caption_book-title-Ital>Whose Hands Are These?</tg_materials-caption_book-title-Ital></tg_materials-caption>
+        <graphic href="LGC Redux T2_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large Group Card</tg_materials-caption>
+        <graphic href="VC Redux Eng T2_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Vocabulary Cards</tg_materials-caption>
+        <graphic href="EC_stock_MeasuringTools_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Measuring Tools</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Measurement</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Social Development</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Social Studies:</tg_learning-goals_inline-hed> Economics</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Physical Development:</tg_learning-goals_inline-hed> Fine Motor</tg_learning-goal-body></section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to share the Mind Builder <tg_bullet-directions_emphasis_Ital>demonstrate empathy</tg_bullet-directions_emphasis_Ital> and introduce vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>help</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>materials</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>
+          <tg_bullet-directions_vocab>.</tg_bullet-directions_vocab></tg_bullet-directions>
+        <tg_bullet-directions>Begin Story Time by connecting the Mind Builders to <tg_bullet-directions_book-title>Whose Hands are These?</tg_bullet-directions_book-title></tg_bullet-directions>
+        <tg_bullet-directions>Read closely to talk about participating in the class community and taking care of materials.</tg_bullet-directions>
+        <tg_bullet-directions>Offer an extended play opportunity.</tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identify measurable attributes like height, length, capacity, weight, and time.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement: </tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Know the purpose of common measuring tools (e.g., ruler, scale, measuring cup/spoon).</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry: </tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Recognize, name, and describe common two-dimensional shapes—circle, square, rectangle, triangle—describing number and length of sides and number of angles.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text> Explain that a shape remains the same shape even when its size or position changes</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Social Development: </tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Demonstrate empathy for others.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Social Development: </tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Take responsibility for shared materials and jobs.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Social Studies</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Economics: </tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Talk about roles and jobs of the people in their community.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Physical Development </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Fine Motor: </tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Experiment with a variety of fine-motor tasks but may lack strength and control.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Compare: Taller, Longer, Heavier</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T2_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Activity Card</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Measurement</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Social Development</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Physical Development:</tg_learning-goals_inline-hed> Fine Motor</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Guide children to compare the height, length, or weight of two objects by observation.</tg_bullet-directions>
+        <tg_bullet-directions>Challenge children to use the words <tg_bullet-directions_emphasis_Ital>taller, longer, </tg_bullet-directions_emphasis_Ital>or <tg_bullet-directions_emphasis_Ital>heavier</tg_bullet-directions_emphasis_Ital> to describe the comparison.</tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>Who are the people who help in our community? </tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY ANDLISTENING CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Does anyone in this book have a job? Are they a community helper?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND LEARN CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What are you cooking? How did you measure the ingredients?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND SCIENCE CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What measuring tools do you see?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S CORNER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Describe a time that you met a community helper.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY STATION</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What are you making? Why did you choose those materials? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What sound do you hear at the beginning of the word <tg_teacher-talk_emphasis_non-ital>measure</tg_teacher-talk_emphasis_non-ital>? Can you trace the letter that makes that sound?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Make a tower. Which is taller: you or the tower? How do you know?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Whose Hands Are These? by Miranda Paul, illustrated by Luciana Navarro Powell. Text copyright © 2016 by Miranda Paul. Illustrations copyright © 2016 by Luciana Navarro Powell. Published by Scholastic Inc. by arrangement with Millbrook Press, a division of Lerner Publishing Group, Inc. Clifford the Big Red DogTM illustration copyright © The Norman Bridwell Trust. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_2>
+  <day_3>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 3:</tg_week_hed>
+        <tg_topic_hed>Helpers</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338623147_COV_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Book: <tg_materials-caption_book-title-Ital>Whose Hands Are These?</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T2_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large Group Card</tg_materials-caption>
+        <graphic href="VC Redux Eng T2_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Vocabulary Cards</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Measurement; Geometry</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Social Development</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Social Studies:</tg_learning-goals_inline-hed> Economics</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Fine Arts:</tg_learning-goals_inline-hed> Music</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to learn about measurement, engage children with music, and introduce vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>cook</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>measure</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Begin Story Time by revisiting <tg_bullet-directions_book-title>Whose Hands are These?</tg_bullet-directions_book-title> and asking the guiding question, <tg_bullet-directions_guiding-question>What do community helpers measure?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Read interactively for deeper comprehension and a focus on measurement.</tg_bullet-directions>
+        <tg_bullet-directions>Check understanding. Differentiate as needed.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identify measurable attributes like height, length, capacity, weight, and time.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Know the purpose of common measuring tools (e.g., ruler, scale, measuring cup/spoon).</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Recognize, name, and describe common two-dimensional shapes—circle, square, rectangle, triangle—using words related to number of sides, length of sides, and number of points or angles.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Social Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demonstrate empathy for others.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Social Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Take responsibility for shared materials and jobs.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Fine Arts</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Music:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Sing, play musical instruments, and move to the rhythm in classroom activities.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Social Studies</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Economics:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Talk about roles and jobs of the people in their community.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Calling All Architects!</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T2_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Activity Card</tg_materials-caption>
+        <graphic href="EC_stock_PatternBlocks_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Pattern Blocks</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Geometry</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Social Development</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Social Studies:</tg_learning-goals_inline-hed> Economics</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Physical Development:</tg_learning-goals_inline-hed> Fine Motor</tg_learning-goal-body></section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Challenge children to create a building using Pattern Blocks. </tg_bullet-directions>
+        <tg_bullet-directions>Guide children to name shapes and discuss that the position of a shape does not matter.</tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>Who are the people who help in our community?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY ANDLISTENING CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Are any measuring tools used in this book?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND LEARN CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Pretend you are at a construction site. What can you measure here?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND SCIENCE CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Use Connecting Cubes to measure how long or tall three things are. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S CORNER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Make a drawing of or write about a building. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY STATION</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What will you make today? Can you describe it?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Trace the letter <tg_teacher-talk_emphasis_non-ital>T</tg_teacher-talk_emphasis_non-ital>. What sound does it make? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Build a hospital or doctor’s office. What helpers work here? How do they help people? </tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Whose Hands Are These? by Miranda Paul, illustrated by Luciana Navarro Powell. Text copyright © 2016 by Miranda Paul. Illustrations copyright © 2016 by Luciana Navarro Powell. Published by Scholastic Inc. by arrangement with Millbrook Press, a division of Lerner Publishing Group, Inc.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_3>
+  <day_4>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 3:</tg_week_hed>
+        <tg_topic_hed>Helpers</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="EC_FC_Eng_T2W3_redux_cropped.png" index="1"/>
+        <tg_materials-caption index="1">
+          <tg_materials-caption_book-title-Ital>Big Chart of Big Ideas: Super Jobs</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T2_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large Group Card</tg_materials-caption>
+        <graphic href="9781338623147_COV_cropped.png" index="3"/>
+        <tg_materials-caption index="3"> Book: <tg_materials-caption_book-title-Ital>Whose Hands Are These? </tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="VC Redux Eng T2_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Vocabulary Cards</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Measurement</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Social Development</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Social Studies:</tg_learning-goals_inline-hed> Economics</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to revisit the concept question, talk about local community helpers, and introduce vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>doctor</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>firefighter</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>
+          <tg_bullet-directions_vocab>.</tg_bullet-directions_vocab></tg_bullet-directions>
+        <tg_bullet-directions>Begin Story Time by connecting the texts <tg_bullet-directions_book-title>Super Jobs </tg_bullet-directions_book-title>and <tg_bullet-directions_book-title>Whose Hands are These?</tg_bullet-directions_book-title></tg_bullet-directions>
+        <tg_bullet-directions>Read closely to connect to this week’s concept question, <tg_bullet-directions_guiding-question>Who are the people who help in our community?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Offer an extended play opportunity.</tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Recognize, name,and describe common two dimensional shapes—circle, square, rectangle, triangle using words related to number and length of sides and number of angles.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Explain that a shape remains the same shape even when its size or position changes.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Know the purpose of common measuring tools (e.g.,ruler, scale, measuring cup/spoon.)</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Social Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Take responsibility for shared materials and jobs.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Social Studies</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Economics:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Talk about roles and jobs of the people in their community.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Physical Development </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Fine Motor:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Experiment with a variety of fine-motor tasks but may lack strength and control.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Bake a Shape Cake</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T2_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Activity Cards</tg_materials-caption>
+        <graphic href="EC_stock_PatternBlocks_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Pattern Blocks</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Geometry</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Social Development</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Social Studies:</tg_learning-goals_inline-hed> Economics</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Physical Development:</tg_learning-goals_inline-hed> Fine Motor</tg_learning-goal-body></section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Ask children to act as bakers, creating a “cake” with “layers” of Pattern Blocks arranged by shape.</tg_bullet-directions>
+        <tg_bullet-directions>Guide children to name shapes and discuss that the position of a shape does not matter.</tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>Who are the people who help in our community?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY ANDLISTENING CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Does the person in this book help others? How?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND LEARN CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Pretend to work in a store. Are the things you sell heavy or light? Big or small?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND SCIENCE CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you find different-sized shapes in the classroom?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S CORNER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>How does your teacher help you?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY STATION</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Make a hat for community helpers to help them do their jobs. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Use letters to make your name.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>How can you take care of the materials in this center?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Whose Hands Are These? by Miranda Paul, illustrated by Luciana Navarro Powell. Text copyright © 2016 by Miranda Paul. Illustrations copyright © 2016 by Luciana Navarro Powell. Published by Scholastic Inc. by arrangement with Millbrook Press, a division of Lerner Publishing Group, Inc.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_4>
+  <day_5>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 3:</tg_week_hed>
+        <tg_topic_hed>Helpers</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338623147_COV_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Book: <tg_materials-caption_book-title-Ital>Whose Hands Are These?</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T2_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large Group Card</tg_materials-caption>
+        <graphic href="VC Redux Eng T2_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Vocabulary Cards</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Counting</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Social Studies:</tg_learning-goals_inline-hed> Economics</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Fine Arts:</tg_learning-goals_inline-hed> Music</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Physical Development:</tg_learning-goals_inline-hed> Fine Motor</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to practice counting, engage children with a song, and introduce new vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>farmer</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>news reporter</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Start Story Time by revisiting the book <tg_bullet-directions_book-title>Whose Hands are These?</tg_bullet-directions_book-title> and asking, <tg_bullet-directions_guiding-question>How do the people in our community help us?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Read and retell interactively for physical engagement and imagination.</tg_bullet-directions>
+        <tg_bullet-directions>Check understanding. Differentiate as needed.</tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identify measurable attributes like height, length, capacity, weight, and time.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Know the purpose of common measuring tools (e.g., ruler, scale, measuring cup/spoon.) </tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Counting:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Recite number words from 1 to 30 in order.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Social Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demonstrate empathy for others.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Social Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Take responsibility for shared materials and jobs.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Fine Arts</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Music:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Sing, play musical instruments, and move to the rhythm in classroom activities.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Social Studies</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Economics:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Talk about roles and jobs of the people in their community.</tg_skills-focus-skill-text></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Physical Development </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Fine Motor:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Experiment with a variety of fine-motor tasks but may lack strength and control.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Independent Writing, Drawing, or Storytelling</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC3-5_ResponsePrompt_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Response Prompt </tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Measurement</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Social Development</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Social Studies:</tg_learning-goals_inline-hed> Economics</tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Physical Development:</tg_learning-goals_inline-hed> Fine Motor</tg_learning-goal-body></section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Support children as they independently respond to this week’s prompt: <tg_bullet-directions_emphasis_Ital>What kind of community helper would you like to be?</tg_bullet-directions_emphasis_Ital></tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed.</tg_bullet-directions>
+        <tg_bullet-directions>Save children’s writing to display next week.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>Who are the people who help in our community?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY ANDLISTENING CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>How did the character in this book feel? Can you imagine feeling like that?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND LEARN CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Pretend to be a community helper. Why did you choose that one? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND SCIENCE CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Measure how many Connecting Cubes long your favorite book is.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S CORNER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Which classroom job is your favorite? Write about it!</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY STATION</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Why is it so important to take care of the materials in this station?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you make your first name using letters that you see here?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Make two towers. Which one is taller? How could you make the smaller tower larger than the tall tower?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Whose Hands Are These? by Miranda Paul, illustrated by Luciana Navarro Powell. Text copyright © 2016 by Miranda Paul. Illustrations copyright © 2016 by Luciana Navarro Powell. Published by Scholastic Inc. by arrangement with Millbrook Press, a division of Lerner Publishing Group, Inc.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_5>
+  <day_1_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Counting:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use words to rote count from 1 to 30.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Executive Function:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Remain focused on engaging group activities for up to 20 minutes at a time.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.B.3.6, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Social Studies</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Economics:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Discuss the roles and responsibilities of family, school, and community helpers.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VII.B.3)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Fine Arts</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Music:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Participate in classroom music activities including singing, playing musical instruments, and moving to rhythms.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VIII.B.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Physical Development </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Fine Motor:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Show control of tasks that require small-muscle strength and control.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IX.B.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_1_texas>
+  <day_2_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Name common shapes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Slide, flip, and turn shapes to demonstrate that the shapes remain the same.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.4)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Social Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demonstrate empathy and caring for others.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.C.6, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Social Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Take care of and manage classroom materials.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.B.1.b, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Social Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Assume various roles and responsibilities as part of a classroom community.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.C.2, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Social Studies</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Economics:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Discuss the roles and responsibilities of family, school, and community helpers.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VII.B.3)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Physical Development </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Fine Motor:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Show control of tasks that require small-muscle strength and control.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IX.B.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_2_texas>
+  <day_3_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Name common shapes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Social Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demonstrate empathy and caring for others.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.C.6, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Social Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Take care of and manage classroom materials.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.B.1.b, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Fine Arts</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Music:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Participate in classroom music activities including singing, playing musical instruments, and moving to rhythms.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VIII.B.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Social Studies</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Economics:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Discuss the roles and responsibilities of family, school, and community helpers.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VII.B.3)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Physical Development </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Fine Motor:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Show control of tasks that require small-muscle strength and control.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IX.B.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_3_texas>
+  <day_4_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Slide, flip, and turn shapes to demonstrate that the shapes remain the same.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.4)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Geometry:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Name common shapes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.C.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Social Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Take care of and manage classroom materials.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.B.1.b, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Social Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Assume various roles and responsibilities as part of a classroom community.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.C.2, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Social Studies</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Economics:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Discuss the roles and responsibilities of family, school, and community helpers.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VII.B.3)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Physical Development </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Fine Motor:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Show control of tasks that require small-muscle strength and control.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IX.B.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_4_texas>
+  <day_5_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Counting:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use words to rote count from 1 to 30.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.2)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Social Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demonstrate empathy and caring for others.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.C.6, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Social Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Take care of and manage classroom materials.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.B.1.b, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Social Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Assume various roles and responsibilities as part of a classroom community.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.C.2, MB)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Fine Arts</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Music:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Participate in classroom music activities including singing, playing musical instruments, and moving to rhythms.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VIII.B.1)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Social Studies</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Economics:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Discuss the roles and responsibilities of family, school, and community helpers.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VII.B.3)</tg_skills-focus-skill-code></tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Physical Development </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Fine Motor:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Show control of tasks that require small-muscle strength and control.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IX.B.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_5_texas>
+</teaching-guide>

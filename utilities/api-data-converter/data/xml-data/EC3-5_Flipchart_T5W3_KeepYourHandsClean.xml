@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flip-chart lang="en">
+  <flip_chart-19 day="4">
+    <flip_chart-19_front>
+      <graphic href="EC3-5_Flipchart_T5W3_KeepYourHandsClean.jpg"/>
+    </flip_chart-19_front>
+    <flip_chart-19_back>
+      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <flip_chart-theme-text>HEALTHY ME</flip_chart-theme-text>
+          <flip_chart-topic-text>Taking Care</flip_chart-topic-text>
+          <flip_chart-concept-question>How can we stay healthy?</flip_chart-concept-question>
+        </section-block>
+      </masthead>
+      <display-head-section>
+        <section-block type="display_b_1" index="1">
+          <flip_chart-display-head>Keep Your Hands Clean</flip_chart-display-head>
+        </section-block>
+      </display-head-section>
+      <teacher-facing-section>
+        <section-block type="teacher-facing_b_1" index="1">
+          <flip_chart-teacher-facing-content-box>
+            <flip_chart-teacher-facing-paragraph>
+              <flip_chart-teacher-direction-text>[Review the five steps for good hand washing. Then have children pretend to scrub their hands with soap as you sing this hand-washing song to the tune of “Row, Row, Row Your Boat.” Singing this song takes about 20 seconds, the recommended amount of time for a good scrub!]</flip_chart-teacher-direction-text>
+            </flip_chart-teacher-facing-paragraph>
+            <flip_chart-centered-content type="centered">
+              <flip_chart-bold>Wash, wash,<flip_chart-br> </flip_chart-br> wash our hands,<flip_chart-br> </flip_chart-br>that’s how we get them clean.<flip_chart-br> </flip_chart-br>Tops and bottoms, <flip_chart-br> </flip_chart-br> finger by finger,<flip_chart-br> </flip_chart-br>and even in between.</flip_chart-bold>
+            </flip_chart-centered-content>
+            <flip_chart-centered-content type="centered">
+              <flip_chart-bold>Wash, wash, <flip_chart-br> </flip_chart-br>wash our hands,<flip_chart-br> </flip_chart-br>we wash throughout the day.<flip_chart-br> </flip_chart-br>Before we eat,<flip_chart-br> </flip_chart-br> after we sneeze,<flip_chart-br> </flip_chart-br>and when we come in from play.</flip_chart-bold>
+            </flip_chart-centered-content>
+          </flip_chart-teacher-facing-content-box>
+        </section-block>
+      </teacher-facing-section>
+      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <flip_chart-credit-line>Illustration by Wook Jin Jung for Scholastic Inc.</flip_chart-credit-line>
+        </section-block>
+      </copyright-section>
+    </flip_chart-19_back>
+  </flip_chart-19>
+</flip-chart>

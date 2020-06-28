@@ -1,0 +1,2452 @@
+[{
+    "declaration": {
+      "attributes": {
+        "version": "1.0",
+        "encoding": "UTF-8"
+      }
+    },
+    "elements": [
+      {
+        "type": "element",
+        "name": "teacher-activity-cards",
+        "attributes": {
+          "lang": "en",
+          "module":"math",
+          "week":"week_002",
+          "theme":"theme_007"
+        },
+        "elements": [
+          {
+            "type": "element",
+            "name": "ac_card-1",
+            "attributes": {
+              "day": "1"
+            },
+            "elements": [
+              {
+                "type": "element",
+                "name": "ac_card-1_front",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_f_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "BEHIND THE CURTAIN:  FALL LEAVES"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "instructions",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "instructions_f_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Instructions"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "before-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "before_f_1",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Gather Materials"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  For this activity, you will need Pattern Blocks in a variety of colors to use as fall leaves and a book or folder to use as a curtain. You can include colors that might not occur in nature. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Connect to Large Group"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "In "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "The Things That I LOVE About TREES,"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": " we read about how trees change as the seasons change. In the fall, leaves change colors. People like to collect fall leaves and show them off. We also talked about the order of the seasons."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Explain the Activity"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "In this activity, I will arrange Pattern Blocks representing fall leaves behind a curtain. I will tell you which color I put first, second, third, and fourth. You will set up your leaves in the same order. Then I will take down my curtain and we can compare our leaves!"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "during-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "during_f_1",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Set Up"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Arrange a yellow, orange, green, and red Pattern Block, in that order, behind your curtain. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Ask"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Can you set up your fall leaves like mine? Here is my order: first is a yellow leaf, second an orange leaf, third a green leaf, and fourth a red leaf."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Extend"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Ask children to tell which color leaf is first, second, third, and fourth using the sentence frame, "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "The first/second/third/fourth leaf is"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking"
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "fill-in-the-blank"
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": ". Raise the curtain to check whether the order of the children’s leaves matches yours. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Repeat"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Continue with new arrangements of up to five Pattern Blocks.      "
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "after-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "after_f_1",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Talk About Ordinal Terms"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Ask children to use the ordinal terms to describe the leaf orders they recreated. Lead a quick discussion about other instances in which you might use ordinal numbers."
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "name": "ac_card-1_back",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_b_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "BEHIND THE CURTAIN:  FALL LEAVES"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "differentiation-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Differentiation"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Support "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Model placing the leaves in a specific order without the curtain, pointing to each Pattern Block and checking that students match your  arrangement. After children successfully recreate arrangements they can see, continue with the curtain in place."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Challenge "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Have children create an order of leaves with Pattern Blocks behind a curtain. Ask children to describe the order they created using ordinal terms and recreate it behind the curtain. Then compare arrangements. "
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "modifications-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Modifications"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Multilingual Learners "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Before beginning the activity, review the ordinal terms and color names needed to complete the activity. Use visual cues for each term, pointing when possible. As children describe order, encourage them to describe each “leaf” in the way that is most comfortable for them, either by color or shape. "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Fine Motor Development "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Consider using larger manipulatives, such as colored blocks rather than the Pattern Blocks, to support the fine motor needs of the children in each group. To further hone their skills, you can provide smaller manipulatives like Connecting Cubes or colored beads for children to arrange instead."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "copyright-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "copyright_b_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_back_copyright_line",
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "isbn",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "978-1-338-65564-3"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": ". TM ® & © Scholastic Inc. All rights reserved. "
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "name": "ac_card-2",
+            "attributes": {
+              "day": "2"
+            },
+            "elements": [
+              {
+                "type": "element",
+                "name": "ac_card-2_front",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_f_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "IMAGINE FOUR TREES"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "instructions",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "instructions_f_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Instructions"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "before-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "before_f_2",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Gather Materials"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  For this activity, you will need Connecting Cubes or other small manipulatives in four different colors to represent trees. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Connect to Large Group"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "In "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "The Things That I LOVE About TREES,"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": " we read about how beautiful different trees can be. We talked about how when you imagine, you make a picture in your mind. We also thought about the order things happen in."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Review the Vocabulary"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Let’s review the word "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "imagine."
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " Use the "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "imagine"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " Vocabulary Card to reteach the word. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Explain the Activity"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "In this activity, we will imagine we are arranging four beautiful trees. Each of you will imagine your own order for the trees in your head, then describe it and create it using the Connecting Cubes."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "during-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "during_f_2",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Model"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Close your eyes and imagine four trees. "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "I am imagining four trees lined up. One is the green cube, one is the blue cube, one is the red cube, and one is the black cube. Now I open my eyes and put the red tree first, the green tree second, the blue tree third, and the black tree fourth."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Ask"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Imagine the four trees in any order you want. Can you put them in that order and describe the order to us?"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Repeat"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Continue until each child has arranged four trees and described them using ordinal numbers.      "
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "after-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "after_f_2",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Talk About Using Imagination"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Ask children what kinds of pictures they saw in their heads when imagining the trees. What did they like about using their imaginations?  "
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "name": "ac_card-2_back",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_b_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "IMAGINE FOUR TREES"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "differentiation-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Differentiation"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Support "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "To simplify the activity, use only three Connecting Cubes to represent trees. Encourage children to describe the trees’ positions as first, second, and third, having them repeat after you if necessary."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Challenge "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "After they have arranged the Connecting Cubes, provide children with paper and crayons. Ask children to draw pictures of their four trees in the order they described."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "modifications-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Modifications"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Multilingual Learners "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Review the ordinal terms with children before beginning, pointing to the four Connecting Cubes in turn. Also review the names of the colors of each cube you provide. Ensure that students understand the meaning of "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "imagine/imagination"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": " before beginning the activity. "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Attention Support "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "For children who appear to lose focus as they wait for their turns, provide them with Connecting Cubes to quietly arrange. Encourage children to listen to each others’ descriptions of trees and to practice organizing trees as they wait."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "copyright-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "copyright_b_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_back_copyright_line",
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "isbn",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "978-1-338-65564-3"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": ". TM ® & © Scholastic Inc. All rights reserved. "
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "name": "ac_card-3",
+            "attributes": {
+              "day": "3"
+            },
+            "elements": [
+              {
+                "type": "element",
+                "name": "ac_card-3_front",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_f_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "BEHIND The CURTAIN: LOCATIONS"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "instructions",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "instructions_f_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Instructions"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "before-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "before_f_3",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Gather Materials"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  For this activity, you will need Connecting Cubes in a variety of colors and a book or folder to use as a curtain. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Connect to Large Group"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "In "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "The Things That I LOVE About TREES,"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": " we read about what happens to trees during different times of the year. In spring, there are flowers on the trees. In summer, there are bees near the trees. In fall, the leaves fall to the bottom of the tree, and in winter, there is snow on top of the tree."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Review the Vocabulary"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Let’s review the words "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "top"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": " and "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "bottom."
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Use the "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "top"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " and "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "bottom"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " Vocabulary Cards to reteach the words. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Explain the Activity"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "In this activity, I will arrange Connecting Cubes behind a curtain. I will tell you how I have set them up. Then you will try to set up yours in the same way."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "during-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "during_f_3",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Set Up"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Lay out a variety of Connecting Cubes. Arrange a brown Connecting Cube on the top of a black cube, hidden behind your curtain.  "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Ask"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Can you set up your cubes like mine? I have a brown cube on top of a black cube."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Extend"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Lift the curtain and compare the arrangements. Discuss any differences between the two. Encourage children to use location words when describing what is different. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Repeat"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Continue with new arrangements of pairs of Connecting Cubes until each child successfully recreates arrangements.     "
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "after-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "after_f_3",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Talk About Location Words"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Ask children to identify items in the classroom based on your description using location words. "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "What are two objects that are near each other? What is in front of something else?"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "name": "ac_card-3_back",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_b_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "BEHIND The CURTAIN: LOCATIONS"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "differentiation-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Differentiation"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Support "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "To simplify the activity, play one round without a curtain in place, describing positions and then having children recreate the arrangement while looking at your model. Once children have more practice, continue playing with the curtain in place."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Challenge "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Add a third Connecting Cube to the arrangements you are making behind the curtain, and include "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "between"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": " as a location word. Provide a description of the locations of all three cubes."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "modifications-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Modifications"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Multilingual Learners "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Demonstrate each of the location words you will be using with a corresponding model of Connecting Cubes, including "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "on, beside, near, far, in front of,"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": " and "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "behind"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": ". "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Gross Motor Development "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "To use gross motor skills and get children moving, have them recreate the arrangements with their bodies and colored blocks instead."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "copyright-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "copyright_b_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_back_copyright_line",
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "isbn",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "978-1-338-65564-3"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": ". TM ® & © Scholastic Inc. All rights reserved. "
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "name": "ac_card-4",
+            "attributes": {
+              "day": "4"
+            },
+            "elements": [
+              {
+                "type": "element",
+                "name": "ac_card-4_front",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_f_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "SPOT THE MISTAKE: GARDEN"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "instructions",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "instructions_f_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Instructions"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "before-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "before_f_4",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Gather Materials"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  For this activity, you will need Pattern Blocks in a variety of colors to use as vegetables for a garden and a large sheet of paper to use as the base for the garden. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Connect to Large Group"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "In "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "The Changing Seasons,"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": " we read about what happens in each season, as well as different things people like to do during the different seasons. In spring, people plant gardens."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Review the Vocabulary"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Let’s review the word "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "plant."
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " Use the "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "plant"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " Vocabulary Card to reteach the word. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Explain the Activity"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "In this activity, we will imagine that these Pattern Blocks are different types of vegetables. We will discuss where we want to plant each vegetable, and I will plant it on our paper. I might make a mistake though! If I make a mistake, raise your hand to let me know."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "during-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "during_f_4",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Set Up"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Let’s start with carrots and peas. This Pattern Block is our carrots, and this Pattern Block is our peas. I want to plant the carrots "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "under"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": " the peas."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Make a Mistake"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Lay out the “carrots” and “peas” next to each other rather than stacked. Check to make sure children’s hands are up. "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Did I make a mistake? Where should I have put them? How can you tell?"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Repeat"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Continue the activity, sometimes placing the blocks correctly and sometimes making mistakes. When you make a mistake, always ask children to explain why.     "
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "after-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "after_f_4",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Talk About Mistakes"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Ask children how they were able to catch your mistakes. "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Was it ever difficult to tell whether I made a mistake or not? What words did you listen for to tell if I made a mistake?"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "name": "ac_card-4_back",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_b_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "SPOT THE MISTAKE: GARDEN"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "differentiation-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Differentiation"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Support "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "First, model placing Pattern Blocks in different ways using correct location words to describe how the blocks are arranged. Guide children to repeat the descriptions after you. Then, reset to a blank garden and ask children to listen for and correct any mistakes."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Challenge "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "After you have completed a garden, have children describe the relationships between the locations of multiple vegetables using location words."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "modifications-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Modifications"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Multilingual Learners "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Children can share the names of vegetables, fruits, and flowers in their home languages. You may also wish to review various location terms with children, using gestures with each word to illustrate the meanings. "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Fine Motor Development "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Instead of planting the garden using Pattern Blocks, children can help you draw and color in each vegetable. Be sure to outline in pencil, so that you can erase mistake placements and reposition them before coloring them in."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "copyright-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "copyright_b_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_back_copyright_line",
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "isbn",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "978-1-338-65564-3"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": ". TM ® & © Scholastic Inc. All rights reserved. "
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }]

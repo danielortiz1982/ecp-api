@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./preview-styles.css" type="text/css"?>
+<teaching-guide xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" lang="en">
+  <day_1>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 2: </tg_week_hed>
+        <tg_topic_hed>Caring for Pets</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9780545215787_cov_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Book:  <tg_materials-caption_book-title-Ital>Clifford the Big Red Dog</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T4_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large  Group Card</tg_materials-caption>
+        <graphic href="VC Redux Eng T4_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Vocabulary Cards</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed>  Measurement </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  Emotional Development </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed>  Vocabulary</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to build background, engage children with a song, and introduce vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>height</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>habits</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Begin Story Time by introducing the book and asking, <tg_bullet-directions_guiding-question>What are some good things about having a dog?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Read for enjoyment and comparing sizes. </tg_bullet-directions>
+        <tg_bullet-directions>Check understanding, differentiating as needed. </tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Measure, describe and compare height and length of objects using like units and words like small, big, short, tall, and long; Compare and order up to 5 objects by a measurable attribute.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Emotional Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reframe the narrative in order to persist and self-motivate.</tg_skills-focus-skill-text>  </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Executive Function:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Classify and organize to group and arrange items.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use frequently occurring nouns and verbs.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Size Them Up</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T4_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Activity Cards</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed>  Measurement </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  Executive Function </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed>  Vocabulary</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Guide children to compare different sizes of objects and people. </tg_bullet-directions>
+        <tg_bullet-directions>Help children organize and compare people and items by height. </tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>How can we help animals stay healthy?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND  LISTENING CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What sizes of things do you see or hear about? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND  LEARN CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you pretend to be a dog? What do you do? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND  SCIENCE CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Which objects are taller? Which are shorter? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S  CORNER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you write about what it would be like to have a dog? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY  STATION </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What can you draw that is tall? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC  CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What letter makes the sound  you hear at the beginning  of <tg_teacher-talk_emphasis_non-ital>dog</tg_teacher-talk_emphasis_non-ital>? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION  CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What are you building?  How can you make it taller?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Clifford the Big Red Dog by Norman Bridwell. Copyright © 1963, 1985 by Norman Bridwell. Published by Scholastic Inc.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_1>
+  <day_2>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 2: </tg_week_hed>
+        <tg_topic_hed>Caring for Pets</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9780545215787_cov_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Book:  <tg_materials-caption_book-title-Ital>Clifford the Big Red Dog</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T4_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large  Group Card</tg_materials-caption>
+        <graphic href="VC Redux Eng T4_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Vocabulary  Cards</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed>  Measurement </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  Emotional Development </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed>  Vocabulary</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to share the Mind Builder reframe the narrative and introduce vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>positive</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Begin Story Time by connecting the Mind Builder to <tg_bullet-directions_book-title>Clifford the Big Red Dog.</tg_bullet-directions_book-title> </tg_bullet-directions>
+        <tg_bullet-directions>Read closely to notice the Mind Builder. </tg_bullet-directions>
+        <tg_bullet-directions>Offer an extended play opportunity. </tg_bullet-directions>
+        <tg_bullet-directions>Check understanding, differentiating as needed. </tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Measure, describe and compare height and length of objects using like units and words like small, big, short, tall, and long; Compare and order up to 5 objects by a measurable attribute.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Emotional Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reframe the narrative in order to persist and self-motivate.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use frequently occurring nouns and verbs.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Literacy </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Writing:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Compose an informative text.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Taller and Smaller</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T4_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Connecting Cubes</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Activity Cards</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed>  Measurement </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  Emotional Development </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed>  Vocabulary</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Guide children to construct different-sized towers.  </tg_bullet-directions>
+        <tg_bullet-directions>Help children to compare heights and widths of objects.  </tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>How can we help animals stay healthy?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND  LISTENING CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Does anyone feel positive in this book? How do they show it? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND  LEARN CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you act like you are very tall? Very small? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND  SCIENCE CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Which are the biggest objects? Which are the smallest? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S  CORNER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you write about how Emily Elizabeth feels about Clifford? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY  STATION </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you make one bigger thing and one smaller thing? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC  CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What sound do you hear at  the beginning of <tg_teacher-talk_emphasis_non-ital>Clifford</tg_teacher-talk_emphasis_non-ital>? What other sounds do you hear? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION  CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you build a home for a dog?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Clifford the Big Red Dog by Norman Bridwell. Copyright © 1963, 1985 by Norman Bridwell. Published by Scholastic Inc. Clifford the Big Red DogTM illustration copyright © The Norman Bridwell Trust.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_2>
+  <day_3>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 2: </tg_week_hed>
+        <tg_topic_hed>Caring for Pets</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9780545215787_cov_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Book:  <tg_materials-caption_book-title-Ital>Clifford the Big Red Dog</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T4_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large  Group Card</tg_materials-caption>
+        <graphic href="VC Redux Eng T4_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Vocabulary  Cards</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed>  Counting </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  Emotional Development  </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed>  Vocabulary</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to introduce subitizing, play a clapping game, and introduce vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>heavy</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>light</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Begin Story Time by revisiting <tg_bullet-directions_book-title>Clifford the Big Red Dog</tg_bullet-directions_book-title> and asking the guiding question, <tg_bullet-directions_guiding-question>How does Emily Elizabeth take care of Clifford even though he is so big?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Read interactively for deeper comprehension and to review comparing objects and people by size. </tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Counting:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Subitize the number of items in a group up to 5.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body> <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Describe and compare weight of objects using words like heavy and light; Compare and order up to 5 objects by a measurable attribute.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Executive Function:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Classify and organize to group and arrange items.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Emotional Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Describe a situation in a new way in order to empower or motivate.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use frequently occurring nouns and verbs; Understand and use a growing number of words to label and describe people, places, things, and actions.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Heavy or Light</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T4_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Activity Cards</tg_materials-caption>
+        <graphic href="EC_stock_Balls_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Heavy and Light Objects</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed>  Measurement </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  Executive Function  </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed>  Vocabulary</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Have children pick up objects and find objects that are heavier and lighter. </tg_bullet-directions>
+        <tg_bullet-directions>Invite children to talk about and compare the weight of objects. </tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>How can we help animals stay healthy?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND  LISTENING CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>How can you tell which things are heavy and which things are light in that book? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND  LEARN CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>How could you act to pretend  to be a big dog? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND  SCIENCE CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Which object is heavier?  Which object is lighter?  How do you know?  </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S  CORNER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you write about how you would take care of a dog? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY  STATION </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Why did you make that the size you did? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC  CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you think of an animal that begins with the letter <tg_teacher-talk_emphasis_non-ital>d</tg_teacher-talk_emphasis_non-ital>? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION  CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What materials can you build with that are heavy? What materials can you build with that are light?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Clifford the Big Red Dog by Norman Bridwell. Copyright © 1963, 1985 by Norman Bridwell. Published by Scholastic Inc.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Photos © Shutterstock: balls (New Africa),  feathers (Potapov Alexander).</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_3>
+  <day_4>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 2: </tg_week_hed>
+        <tg_topic_hed>Caring for Pets</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="EC_FC_Eng_T4W2_redux_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Big Chart of Big Ideas:  <tg_materials-caption_book-title-Ital>What Pets Need</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T4_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large  Group Card</tg_materials-caption>
+        <graphic href="VC Redux Eng T4_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Vocabulary  Cards</tg_materials-caption>
+        <graphic href="9780545215787_cov_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Book:  <tg_materials-caption_book-title-Ital>Clifford the Big Red Dog</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed>  Measurement; Counting </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  Social Development </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed>  Vocabulary </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Literacy:</tg_learning-goals_inline-hed> Writing</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to play a subitizing game with number cards and introduce vocabulary words <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>exercise</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>pets</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Begin Story Time by connecting the texts  <tg_bullet-directions_book-title>What Pets Need</tg_bullet-directions_book-title> and <tg_bullet-directions_book-title>Clifford the Big Red Dog</tg_bullet-directions_book-title>
+          <tg_bullet-directions_guiding-question>.</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Read interactively, focusing on this week’s question: <tg_bullet-directions_guiding-question>How can we help animals stay healthy?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Offer an extended play opportunity. </tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Compare and order up to 5 objects by a measurable attribute.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Classification:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Describe and sort objects by similarities and differences.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Counting:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Subitize the number of items in a group up to 5.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Social Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Try to help others make things better or easier.</tg_skills-focus-skill-text>  </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Executive Function:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Classify and organize to group and arrange items.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use frequently occurring nouns and verbs.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Literacy </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Writing:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Convey meaning through marks, letters, or symbols.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Compare and Sort</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T4_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Activity Cards</tg_materials-caption>
+        <graphic href="EC_stock_Buttons_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Buttons</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed>  Measurement; Classification </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  Executive Function </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed>  Vocabulary</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Guide children to sort pictures of animals by size. </tg_bullet-directions>
+        <tg_bullet-directions>Guide children to sort a collection, like buttons. </tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>How can we help animals stay healthy?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND  LISTENING CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Is anyone doing any exercise in that book? What kind? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND  LEARN CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Pretend to be any type of pet. Why did you choose that pet? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND  SCIENCE CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What are different ways we can compare the sizes of objects? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S  CORNER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you write about a kind of pet you would like to have? How would that pet compare to Clifford? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY  STATION </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Why did you choose to make that the size it is? How would it change if it were bigger or smaller? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC  CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you look around the room and find a bigger example of that letter? A smaller one? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION  CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>How can you make your structure even bigger?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Clifford the Big Red Dog by Norman Bridwell. Copyright © 1963, 1985 by Norman Bridwell. Published by Scholastic Inc.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Photos © Rainbow4527/Shutterstock.</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_4>
+  <day_5>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 2: </tg_week_hed>
+        <tg_topic_hed>Caring for Pets</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9780545215787_cov_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Book:  <tg_materials-caption_book-title-Ital>Clifford the Big Red Dog</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T4_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large  Group Card</tg_materials-caption>
+        <graphic href="VC Redux Eng T4_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Vocabulary  Cards</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed>  Measurement; Counting </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  Social Development </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed>  Vocabulary </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Literacy:</tg_learning-goals_inline-hed> Writing</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to connect to literacy, have children act out different ways of taking care of a pet, and review vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>pet</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Start Story Time by revisiting the book <tg_bullet-directions_book-title>Clifford the Big Red Dog</tg_bullet-directions_book-title> and asking,<tg_bullet-directions_guiding-question> How would you take care of a pet?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Read and retell interactively for physical engagement and a focus on measurement and counting. </tg_bullet-directions>
+        <tg_bullet-directions>Check understanding, differentiating as needed. </tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Measure, describe and compare height and length of objects using like units and words like small, big, short, tall, and long; Describe and compare weight of objects using words like <tg_skills-focus-skill-text-italic>heavy</tg_skills-focus-skill-text-italic> and <tg_skills-focus-skill-text-italic>light</tg_skills-focus-skill-text-italic>.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Counting:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Subitize the number of items in a group up to 5.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Social Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Try to help others make things better or easier.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use frequently occurring nouns and verbs.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Literacy </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Writing:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Convey meaning through marks, letters, or symbols; Verbally share the meaning of own writing.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Independent Writing, Drawing, or Storytelling</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC3-5_ResponsePrompt_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Response Prompt</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed>  Measurement </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  Social Development </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Literacy:</tg_learning-goals_inline-hed>  Writing</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Support children as they independently respond to the prompt: <tg_bullet-directions_guiding-question>What pet would you like to have, how big would it be, and how would you care for it?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed. </tg_bullet-directions>
+        <tg_bullet-directions>Save children’s writing to display next week.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>How can we help animals stay healthy?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND  LISTENING CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What kind of book would you like to read next? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND  LEARN CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Pretend you are choosing a pet. How will you choose one? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND  SCIENCE CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>This is a small [object]. What is something in the room that is even smaller than it? What is something much larger? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S  CORNER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What story can you tell about a made-up pet? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY  STATION </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you create a big pet that no one has ever seen before? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC  CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Make up a name for a new pet. What sound do you hear at the beginning of the word? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION  CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What ideas do you have for building a home for your new pet? What materials do you need?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Clifford the Big Red Dog by Norman Bridwell. Copyright © 1963, 1985 by Norman Bridwell. Published by Scholastic Inc.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_5>
+  <day_1_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Recognize and compare heights or lengths of people or objects. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.D.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Emotional Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reframe the narrative in order to persist and self-motivate. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Executive Function:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Classify and organize to group and arrange items. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demonstrate understanding in a variety of ways or knowing the meaning of 3,000 to 4,000 words*, many more than they use. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.II.D.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_1_texas>
+  <day_2_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Recognize and compare heights or lengths of people or objects. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.D.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Emotional Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reframe the narrative in order to persist and self-motivate. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demonstrate understanding in a variety of ways or knowing the meaning of 3,000 to 4,000 words*, many more than they use. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.II.D.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Literacy </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Writing:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Write to communicate their ideas for a variety of purposes. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.IV.A.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_2_texas>
+  <day_3_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Counting:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Verbally identify, without counting, the number of objects from 1 to 5. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.A.8)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Informally recognize and compare weights of objects or people. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.D.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Emotional Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reframe the narrative in order to persist and self-motivate. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Executive Function:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Classify and organize to group and arrange items. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use a wide variety of words to label and describe people, places, things, and actions. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.II.D.1);</tg_skills-focus-skill-code>
+          <tg_skills-focus-skill-text> Demonstrate understanding in a variety of ways or knowing the meaning of 3,000 to 4,000 words*, many more than they use. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.II.D.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_3_texas>
+  <day_4_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Counting:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Verbally identify, without counting, the number of objects from 1 to 5. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.A.8)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Informally recognize and compare weights of objects or people. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.D.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Classification:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Sort objects that are the same and different into groups and use language to describe how the groups are similar and different. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.E.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Social Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demonstrate empathy and caring for others. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.I.C.6)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Executive Function:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Classify and organize to group and arrange items. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demonstrate understanding in a variety of ways or knowing the meaning of 3,000 to 4,000 words*, many more than they use. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.II.D.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Literacy </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Writing:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Intentionally use marks, letters, or symbols to record language and verbally share meaning. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.IV.A.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_4_texas>
+  <day_5_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Counting:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Verbally identify, without counting, the number of objects from 1 to 5. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.A.8)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Informally recognize and compare weights of objects or people. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.D.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Social Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demonstrate empathy and caring for others. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.I.C.6, MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demonstrate understanding in a variety of ways or knowing the meaning of 3,000 to 4,000 words*, many more than they use. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.II.D.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Literacy </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Writing:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Intentionally use marks, letters, or symbols to record language and verbally share meaning. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.IV.A.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_5_texas>
+</teaching-guide>

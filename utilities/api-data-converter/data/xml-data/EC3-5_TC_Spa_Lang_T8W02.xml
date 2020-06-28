@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="es">  <ac_card-1 day="1">    <ac_card-1_front>       <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>COMIENZAN IGUAL</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos el libro <ac_teacher-speaking_emphasis_blue>Un pato en bicicleta</ac_teacher-speaking_emphasis_blue>. Conocimos las aventuras de Pato cuando aprendió a andar en bicicleta. También aprendimos sobre las palabras que tienen los mismos sonidos iniciales.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad veremos imágenes de diversos objetos. Los identificaremos y diremos el sonido inicial que escuchamos. Luego, clasificaremos las tarjetas con los sonidos iniciales en dos grupos:</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-speaking>Bb: para palabras que comienzan con<ac_teacher-speaking_emphasis_blue> /b/.</ac_teacher-speaking_emphasis_blue>
+              </ac_teacher-speaking> </ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-speaking>Cc: para palabras que comienzan con <ac_teacher-speaking_emphasis_blue>/c/.</ac_teacher-speaking_emphasis_blue>
+              </ac_teacher-speaking> </ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Enseñar/Demostrar</ac_teacher-card_run-in_hed>  Dé a los niños ejemplos de palabras que tengan el mismo sonido inicial, por ejemplo, <ac_teacher-talk>bicicleta</ac_teacher-talk> y <ac_teacher-talk>buena</ac_teacher-talk>, o <ac_teacher-talk>cabra</ac_teacher-talk> y <ac_teacher-talk>camino</ac_teacher-talk>. </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre una tarjeta de ilustraciones y haga la pregunta del reverso. Según sea necesario, brinde un estímulo adicional o apoyo. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use la última pregunta del reverso de la tarjeta para ampliar la conversación. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Clasificar</ac_teacher-card_run-in_hed>  Entregue a un niño la tarjeta de ilustraciones para que la coloque en la columna “Bb” o “Cc”. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad usando la siguiente tarjeta. </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre los sonidos iniciales</ac_teacher-card_run-in_hed>  Recuerde a los niños todas las palabras que tienen los mismos sonidos iniciales. Recuérdeles las que están en la historia: <ac_teacher-talk>tambaleándose, todos, tenían,</ac_teacher-talk> y las que aprendieron hoy: <ac_teacher-talk>cabra</ac_teacher-talk> y <ac_teacher-talk>camino</ac_teacher-talk>, <ac_teacher-talk>bicicleta</ac_teacher-talk> y <ac_teacher-talk>buena</ac_teacher-talk>. Pídales que piensen otros ejemplos observando el salón de clases. </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>COMIENZAN IGUAL</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="2">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida a los niños que identifiquen el objeto de la imagen enfatizando el sonido inicial de la palabra. A los niños que tengan dificultades para pronunciar la palabra, invítelos a que digan la palabra después de usted.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="3">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida a los niños que piensen en otras palabras que tengan los mismos sonidos iniciales que las tarjetas de ilustraciones. Estimule a los niños preguntándoles si pueden escribir las letras en una hoja  de papel.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Tenga en cuenta que en español, algunas veces las letras <ac_teacher-talk>Bb</ac_teacher-talk> y <ac_teacher-talk>Vv</ac_teacher-talk> se pueden pronunciar igual. Según sea necesario, tómese un tiempo extra para repasar los sonidos de esas letras, tanto de forma aislada como en el contexto de una palabra ilustrada. Estimule a los niños para que nombren el objeto de la imagen en su idioma del hogar. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Discriminación auditiva </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Para ayudar a los niños con los desafíos que plantea la discriminación auditiva, exagere los movimientos de su boca a medida que forma el sonido de cada letra, teniendo en cuenta la posición de la lengua y los labios. Invite a los niños a que muevan la boca de la misma manera que cuando hacen que la letra suene.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66416-4</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>       <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>COMPRENDER NUESTROS SENTIMIENTOS</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy aprendimos que es bueno hablar de nuestros sentimientos. Aprendimos que comprender cómo nos sentimos puede ayudarnos a sentirnos mejor. Por ejemplo, si sabemos que estamos enojados o tristes, podemos hallar una forma de resolver nuestro propio problema.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el vocabulario</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Aprendimos la palabra <ac_teacher-speaking_emphasis_blue>comportamiento</ac_teacher-speaking_emphasis_blue>. Esta palabra nos ayudará a comprender la actividad de hoy.</ac_teacher-speaking> Use la tarjeta de vocabulario <ac_teacher-talk>comportamiento</ac_teacher-talk> para repasar la palabra. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, veremos las imágenes e intentaremos relacionar el comportamiento de la persona que vemos en la imagen con cómo se siente esa persona. Luego, hablaremos de las cosas que podría hacer la persona para sentirse mejor.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Enseñar/Demostrar</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Veamos esta primera tarjeta. ¿Qué vemos? ¿Este niño está feliz o triste? ¿Cómo lo saben?</ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre una tarjeta de ilustraciones y haga la pregunta del reverso. Según sea necesario, brinde un estímulo adicional o apoyo. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use la última pregunta del reverso de la tarjeta para ampliar la conversación. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad usando la siguiente tarjeta de ilustraciones. </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobrelos sentimientos</ac_teacher-card_run-in_hed>  Anime a los niños a que describan su comportamiento cuando están hambrientos, enojados, sorprendidos, cansados, tristes o asustados. Aliente a los niños a pensar formas en las que podrían sentirse mejor cuando están tristes, enojados o cansados.</ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>COMPRENDER NUESTROS SENTIMIENTOS</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="2">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Asegúrese de que los niños entiendan cada sentimiento preguntándoles si alguna vez han sentido ese sentimiento. Para verificar la comprensión, pídales que den ejemplos de cuando se sienten malhumorados, solos, cansados y enojados.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="3">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Aliente a los niños para que traten de sentirse igual a la persona de la imagen. Cada niño tomará dos turnos en la conversación. Recuérdeles que mientras una persona habla, la otra escucha.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Invite voluntarios para que le enseñen a la clase cómo decir <ac_teacher-talk-emphasis>Estoy feliz</ac_teacher-talk-emphasis> y <ac_teacher-talk-emphasis>Estoy triste</ac_teacher-talk-emphasis> en el idioma de su hogar. Los niños se destacarán más en español si sienten que, al aprenderlo, no se ve amenazada su capacidad de comunicarse en el idioma de su hogar. Puede crear una atmósfera en la clase en la que saber otro idioma se considere una habilidad adicional y no una deficiencia. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Apoyo para la auto-regulación </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Ayude a los niños a reconocer los signos de alerta temprana de un sentimiento negativo. Su comprensión en las primeras etapas de un arrebato emocional puede ser vital para reducir la tensión. Ayúdelos a establecer la conexión entre sus sentimientos y comportamientos. También puede intervenir después de un incidente, preguntando cómo se sintieron, qué lo causó y qué pueden hacer para resolver el problema y controlar sus sentimientos.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66416-4</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>       <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>TIEMPO PASADO</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>    <ac_teacher-speaking>Hoy leímos el libro <ac_teacher-speaking_emphasis_blue>Un pato en bicicleta</ac_teacher-speaking_emphasis_blue>.  Conocimos que Pato encontró una bicicleta que un niño había dejado en el camino y decidió pasear en ella. Pedaleó y pedaleó hasta que aprendió a montar bicicleta.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el vocabulario</ac_teacher-card_run-in_hed> <ac_teacher-speaking>Aprendimos las palabras <ac_teacher-speaking_emphasis_blue>dejaron</ac_teacher-speaking_emphasis_blue> y <ac_teacher-speaking_emphasis_blue>pedaleó</ac_teacher-speaking_emphasis_blue>. Ambas palabras están en tiempo pasado.</ac_teacher-speaking> Repase lo que significa el tiempo pasado. Use las tarjetas de vocabulario <ac_teacher-talk>dejaron</ac_teacher-talk> y <ac_teacher-talk>pedaleó</ac_teacher-talk> para repasar las palabras. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, veremos imágenes que muestran a personas realizando distintas acciones. Hablaremos de lo que están haciendo y describiremos la actividad como si la acción la hubieran hecho ayer.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Enseñar/Demostrar</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Por ejemplo, puedo decir que me gusta subir las escaleras: “Ayer subí las escaleras”. <ac_teacher-speaking_emphasis_blue>Subí</ac_teacher-speaking_emphasis_blue> es el tiempo pasado del verbo <ac_teacher-speaking_emphasis_blue>subir</ac_teacher-speaking_emphasis_blue> porque ya sucedió.</ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre una tarjeta de ilustraciones y haga la pregunta del reverso. Según sea necesario, brinde un estímulo adicional o apoyo. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use la última pregunta del reverso de la tarjeta para ampliar la conversación. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad usando la siguiente tarjeta de ilustraciones. </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre el tiempo pasado</ac_teacher-card_run-in_hed>  Invite a los niños a que hablen de algo que hayan hecho hoy y, luego, de algo que hayan hecho ayer. Anime a los niños a usar verbos en tiempo pasado mientras describen lo que han hecho. </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>TIEMPO PASADO</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="2">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Para los niños con problemas de desarrollo, diga la respuesta correcta a las preguntas del reverso de las tarjetas y pídales que repitan las respuestas. Enfatice verbos que están conjugados en tiempo pasado.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="3">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Invite a los niños a que compartan con un compañero otros verbos en pasado que se les ocurran. Si no pueden dar ejemplos, muestre acciones que puedan haber hecho hoy en clase o en casa.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Los alumnos multilingües aprenden mejor a través de las experiencias del lenguaje oral. Los niños que están inmersos en un lenguaje enriquecedor, a través de la lectura en voz alta y en métodos basados en modelos por parte de los padres y maestros, aprenderán a usar las formas correctas de los verbos naturalmente. Hay tiempos verbales en pasado que hasta los adultos tienen que repasar de vez en cuando, pero los más comunes llegarán naturalmente a los niños que están expuestos a ellos de forma regular. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Apoyo para el déficit de atención </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>En esta actividad, realice una vista previa de la primera tarjeta con los niños, asegurándose de que entienden que deben responder con una oración completa. Diga a los niños que si necesitan ayuda, dirá la respuesta y la repetirá. Haga más atractiva la actividad pidiéndoles que repitan la oración en voz alta y, luego, en voz baja.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66416-4</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>       <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>¿SALUDABLE O NO SALUDABLE?</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy aprendimos lo que debemos hacer para estar saludables. Hablamos de comer alimentos saludables y hacer ejercicio.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, veremos imágenes de varios alimentos y clasificaremos las tarjetas de ilustraciones en dos grupos: Alimentos saludables: alimentos que son buenos para la salud. Pueden comerlos todo el tiempo. Alimentos no saludables: alimentos que no son buenos para la salud. No deberían comerlos todo el tiempo.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Enseñar/Demostrar</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Veamos esta primera tarjetas. ¿Qué vemos? ¿Las manzanas son saludables o no saludables? </ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre una tarjeta de ilustraciones y haga la pregunta del reverso. Según sea necesario, brinde un estímulo adicional o apoyo. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use la última pregunta del reverso de la tarjeta para ampliar la conversación. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Clasificar</ac_teacher-card_run-in_hed>  Pida a los niños que clasifiquen cada tarjeta de ilustraciones en las categorías de “Alimentos saludables” y “Alimentos no saludables”. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir </ac_teacher-card_run-in_hed>Continúe la actividad usando la siguiente tarjeta. </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre alimentos saludables y no saludables</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Veamos cuántos alimentos saludables podemos nombrar. Ahora, veamos cuántos alimentos no saludables podemos nombrar.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre comer sano</ac_teacher-card_run-in_hed>  Hable con los niños de la moderación y explique que está bien comer una galleta, un dulce, una bebida azucarada o alimentos fritos, pero que deben limitar la cantidad de alimentos no saludables que comen cada día.  </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>¿SALUDABLE O NO SALUDABLE?</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="2">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Antes de comenzar, repase cada tarjeta de ilustraciones. Pida a los niños que practiquen las palabras <ac_teacher-talk>saludable</ac_teacher-talk> y <ac_teacher-talk>no</ac_teacher-talk> <ac_teacher-talk>saludable</ac_teacher-talk>.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="3">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Converse sobre qué formas de cocinar los alimentos son saludables y no saludables. Muestre a los niños imágenes de alimentos horneados, al vapor y fritos.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>La comida está, a menudo, vinculada a la identidad cultural, por lo que es aconsejable tener cuidado de no criticar una comida en particular o un método de preparación de alimentos que sea importante y conocido por sus alumnos. Más bien, ayude a los niños a que reconozcan los alimentos con alto contenido de azúcar y grasas que no son saludables, y enfatice la moderación. Lo importante es que los niños aprendan a elegir alimentos saludables y reconozcan que pueden limitar los no saludables. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad gruesa </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Diga a los niños que el ejercicio es también una parte importante de la salud. Explique que correr y saltar es bueno para sus corazones. Pida a los niños que corran y salten en su lugar. Pregúnteles por qué es bueno que se ejerciten durante el día.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66416-4</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

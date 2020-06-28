@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="en">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>SIZE THEM UP</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to the Large Group</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>As we read <ac_teacher-speaking_emphasis_blue>Clifford the Big Red Dog</ac_teacher-speaking_emphasis_blue> today, we talked about Clifford’s size. Some things are small and some, like Clifford, are very big!</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>In this activity we will compare the size of different objects and people in the classroom.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Model</ac_teacher-card_run-in_hed>  Say your own name and <ac_teacher-speaking>Walk over to something taller than you,</ac_teacher-speaking> then do so.</ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask</ac_teacher-card_run-in_hed>  Call a name and give one of the following instructions:</ac_teacher-card-body>
+            <ac_teacher-card-teacher_talk_bulleted>Walk over to something that is taller than you.</ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>Stand next to something that is smaller than you.</ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>Find something that is smaller than your hand and pick it up.</ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>Pretend to pick up something that is bigger than you.</ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-body>Wait until one child has finished before asking the next child.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Extend</ac_teacher-card_run-in_hed>  Tell the children to line up in height order, from shortest to tallest. Once children have lined up, ask the following questions:</ac_teacher-card-body>
+            <ac_teacher-card-teacher_talk_bulleted>Who is taller than [name of child]?</ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>Who is shorter than [name of child]?</ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>Who is the tallest?</ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>Who is the shortest?</ac_teacher-card-teacher_talk_bulleted>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Measurement</ac_teacher-card_run-in_hed>  Invite children to talk about other ways they could measure objects or people in the classroom.</ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>SIZE THEM UP</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="1">
+          <ac_diff_support-challenge_heds>Support</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>To simplify the activity, line up the children by height (instead of having them do it themselves) and discuss differences in height before asking questions.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Have children come up with their own questions to ask each other about the size of objects.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="1">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Before beginning the activity, accompany the size words <ac_teacher-talk>big, small, tall,</ac_teacher-talk> and <ac_teacher-talk>short</ac_teacher-talk> with gestures that indicate their meanings. Have the children repeat the words and copy your gestures. You can also encourage children to use these words from their home language as they copy your gestures.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Fine Motor Development</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Instead of having children move around and compare themselves to objects, have children pick up objects from a set on the table. Instruct children to select objects that are smaller or bigger than another object you name. You may also invite children to draw pictures of objects that are smaller or bigger than the ones that are named.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64415-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>TALLER AND SMALLER</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Gather Materials</ac_teacher-card_run-in_hed>  For this activity, you will need 15 Connecting Cubes for each pair of children.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>As we reread <ac_teacher-speaking_emphasis_blue>Clifford the Big Red Dog</ac_teacher-speaking_emphasis_blue> today, we learned that Clifford is bigger than things like a house, a bathtub, and a car. Emily Elizabeth can see him behind the house, because the house is smaller than Clifford.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>In this activity, you and a friend will share 15 Connecting Cubes. First, one of you will make a tower that is taller. The other one will make a tower that is smaller. Then you will switch.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Model Comparing</ac_teacher-card_run-in_hed>  Show how to build one “taller” tower using most of the 15 Connecting Cubes, and a smaller tower using fewer cubes.</ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask</ac_teacher-card_run-in_hed>  Assign one child from each pair to build the taller tower, and the other to build the smaller tower. If there are an odd number of children, partner with one child. When the towers are complete, help the pairs compare the heights of each by placing them next to each other.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat</ac_teacher-card_run-in_hed>  Have children switch roles, so that the partner who built the taller tower builds a smaller tower and the partner who built a smaller tower builds a taller one. Help children compare the heights again.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Extend</ac_teacher-card_run-in_hed>  Have children lay the cubes next to each other in pairs to build two wide buildings instead of tall ones. Help them compare to see which is bigger than the other. </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Height</ac_teacher-card_run-in_hed>  Remind children of the definition of the word <ac_teacher-talk>height</ac_teacher-talk>. Have children discuss the heights of the different towers they made, and how they compare to the heights of other classroom items.</ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>TALLER AND SMALLER</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Support</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Some children may become frustrated during the activity. Encourage them to use the Mind Builder skill to reframe the narrative in order to persist and keep going. Remind them both partners will get turns to build a taller building.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Have children count the cubes in each tower to measure the height of each. Encourage children to compare measurements. For example: this tower is 12 cubes high. This tower is 3 cubes high. The first tower is taller.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="1">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Explain that the word <ac_teacher-talk>tower</ac_teacher-talk> is another word for a tall, skinny building. If possible, give some examples of towers children may have seen nearby or share pictures of towers.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Gross Motor Development</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>In order to engage children and help strengthen their gross motor skills, have them hold up their arms next to another child’s and compare heights. Then have children find new partners. Children can also hold their hands close together and far apart to show smaller and bigger widths.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64415-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>HEAVY OR LIGHT</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Gather Materials </ac_teacher-card_run-in_hed> For this activity, you will need several objects of varying weights. These can include glue sticks, pencils, rocks, small balls, paperweights, books, etc. Arrange the objects in a line on the table.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>As we read <ac_teacher-speaking_emphasis_blue>Clifford the Big Red Dog</ac_teacher-speaking_emphasis_blue> today, we talked about the difference between heavy and light. Today, we will compare different objects and decide if they are heavy or light. Let’s review the words <ac_teacher-speaking_emphasis_blue>heavy</ac_teacher-speaking_emphasis_blue> and <ac_teacher-speaking_emphasis_blue>light</ac_teacher-speaking_emphasis_blue>.</ac_teacher-speaking> Use <ac_teacher-talk>heavy</ac_teacher-talk> and <ac_teacher-talk>light</ac_teacher-talk> Vocabulary Cards to reteach the words.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity </ac_teacher-card_run-in_hed> <ac_teacher-speaking>In this activity, we will pick up some objects and decide which object is heavy and which object is light.</ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask </ac_teacher-card_run-in_hed> Have a child choose one object from the set. Then ask the child to pick up a second object that is heavier than the first. The child should “weigh” the objects, one in each hand, and decide which is heavier. The child should place the heavier object on the table.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed/>Then ask the child to pick up an object that they think is lighter than the first. The child should repeat the “weighing” activity.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat</ac_teacher-card_run-in_hed>  Have each child repeat the activity using different objects.</ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Heavy and Light</ac_teacher-card_run-in_hed>  Invite children to talk about the different objects they weighed. <ac_teacher-speaking>Which objects were heavy? Which objects were light? Can you tell how light or heavy an object is just by looking at it?</ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>HEAVY OR LIGHT</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_diff_support-challenge_heds>Support</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>To simplify this activity, you can pre-select the two objects the child will hold and ask the child to determine which is heavier and which is lighter. Ask guiding questions to ensure that children grasp the difference between heavy and light.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Once the activity is completed, invite children to order the objects in a line from lightest to heaviest. Encourage the children to describe the relative sizes and weights of the objects as they do so.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="1">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Some children may already be comfortable with <ac_teacher-talk>more</ac_teacher-talk> and <ac_teacher-talk>less</ac_teacher-talk> in English, or you can elicit the words for <ac_teacher-talk>more</ac_teacher-talk> and <ac_teacher-talk>less</ac_teacher-talk> in their home languages. Connect <ac_teacher-talk>more</ac_teacher-talk> to <ac_teacher-talk>heavy</ac_teacher-talk> and <ac_teacher-talk>less</ac_teacher-talk> to <ac_teacher-talk>light</ac_teacher-talk> for children and allow multilingual learners to use both.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Speech Support</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Small group activities are great for strengthening language skills in preschoolers. They can also help quieter children feel more confident participating in discussions because there are fewer children. Prompt children with open questions like, “what can you tell me about this object?”</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64415-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>compare and SORT</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Gather Materials</ac_teacher-card_run-in_hed>  For this activity, you will need buttons or a collection of other materials like rocks for children to sort.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to the Large Group</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>We read <ac_teacher-speaking_emphasis_blue>What Pets Need</ac_teacher-speaking_emphasis_blue> and we saw children with their pets. Now let’s look at those same pictures and think about each animal’s size.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>In this game, we will compare the sizes of different pets. You will decide which animal is smaller and which is bigger.</ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Set Up</ac_teacher-card_run-in_hed>  Lay out the Activity Cards on the table. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>These pictures show children and their pets. We are going to sort the pets from smallest to biggest. Start with the pet that is smallest. Which is next? Keep going in order of size. The last one should be the biggest pet.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat</ac_teacher-card_run-in_hed>  Ask children to sort the pictures of the animals into two categories. Encourage children to think of different categories for the same cards.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Extend</ac_teacher-card_run-in_hed>  Put a collection of buttons or rocks in the center of the table and ask children to sort them. Children can sort by any attribute they choose. Ask questions as they sort to probe their thinking.</ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Comparing </ac_teacher-card_run-in_hed> Ask children to explain all of the ways they organized and sorted the animal cards. Then discuss how they sorted the buttons. Ask: <ac_teacher-speaking>What was the same about organizing the animals and the collection? What was different?</ac_teacher-speaking> Guide children to explain their thinking.</ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>compare and SORT</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_diff_support-challenge_heds>Support</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Limit the Activity Cards to three animals: hamster, rabbit, and dog. Help children gauge how big each animal is by holding out their hands to approximate the animal’s size. Ask children to order them as small, medium, and large.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Ask children to combine the Activity Cards and buttons to become a new set to sort. Challenge children to sort this new set into categories that do not include animals or buttons.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="1">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Review the names of the animals in English or the children’s home language. Allow and encourage children to call the animals by more specific names, like parrot for the bird, or use alternate names, like bunny for rabbit, or similar animals, like guinea pig for hamster.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Gross Motor Development</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Have the children act out holding each of the animals from the cards. They can also act out the various care activities like feeding and bathing the pet. In addition to developing gross motor skills, this may also help children determine relative sizes.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64415-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved. </ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

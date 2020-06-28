@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="es">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card> COMPARTIMOS</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed> <ac_teacher-speaking>Hoy leímos el libro<ac_teacher-speaking_emphasis_blue> ¡Gracias, Omu! </ac_teacher-speaking_emphasis_blue>y supimos que Omu compartió su delicioso guiso con sus vecinos. Cuando compartes algo, dejas que alguien lo use o lo tenga. Omu dejó que sus vecinos comieran todo su delicioso guiso.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Hoy vamos a ver distintas imágenes. Cada imagen muestra a personas compartiendo cosas diferentes. Miren la imagen y expresen qué están compartiendo las personas de las imágenes.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar </ac_teacher-card_run-in_hed>Muestre una tarjeta de ilustraciones y haga la pregunta del reverso de la tarjeta. Según sea necesario, brinde un estímulo adicional o apoyo.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar </ac_teacher-card_run-in_hed>Use la última pregunta del reverso de la tarjeta para ampliar la conversación.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed> Continúe la actividad usando la siguiente tarjeta de ilustraciones. </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre compartir </ac_teacher-card_run-in_hed>Pida a los niños que piensen otras formas en las que pueden compartir con sus amigos y familias. Anímelos a usar la mayor cantidad posible de palabras descriptivas mientras hablan de los objetos. Pídales que compartan cosas que encuentren en el salón de clases. </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card> COMPARTIMOS</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida a los niños que hablen sobre lo que ven en la imagen. Invítelos a decir lo que hace cada persona. Luego, pregúnteles si creen que una persona está dejando que la otra persona use o tenga algo.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Anime a los niños a participar en conversaciones de compañero a compañero, sobre compartir, en las que cada uno tenga dos turnos para hablar. Recuerde a los niños que mientras una persona habla, la otra escucha.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Los niños pequeños son, en varios sentidos, mejores que los adultos para aprender un nuevo idioma. Los padres de los niños, por ejemplo, pueden temer que digan algo mal en español. Los niños pequeños, por otro lado, son más desinhibidos y están dispuestos a correr riesgos. Cree un entorno libre de estrés en el que los niños disfruten probando palabras y oraciones nuevas.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Enfoque en la atención</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Puede estimular la atención repitiendo las preguntas de cada tarjeta y pidiendo a los niños que repitan la pregunta. Mejorar el vocabulario receptivo los ayudará a mantener la atención. Pruebe y aumente el vocabulario cada semana, usando palabras nuevas todos los días y brindando oportunidades para que las usen por sí mismos.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65734-0</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card> Yo COMPARTO, TÚ COMPARTES</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed> <ac_teacher-speaking>Hoy leímos el libro <ac_teacher-speaking_emphasis_blue>¡Gracias, Omu! </ac_teacher-speaking_emphasis_blue>Aprendimos a ver las cosas de otra manera. Leímos que Omu dio todo su delicioso guiso a sus vecinos porque tenían hambre. Omu estaba feliz de compartir su delicioso guiso con ellos, pero cuando el guiso se terminó, a Omu no le quedaba nada, así que se puso triste.</ac_teacher-speaking>
+            </ac_teacher-card-body><ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed> <ac_teacher-speaking>Hoy vamos a hablar de cómo Omu fue quien primero dio el guiso, y los vecinos fueron quienes recibieron el guiso. Luego, al final del libro, los vecinos fueron quienes le dieron comidaa Omu.</ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Proporcionar preguntas </ac_teacher-card_run-in_hed>Invite a los niños a hablar sobre lo que Omu hizo por sus vecinos. ¿Por qué les dio todo su guiso? Luego, invítelos a hablar sobre lo que hicieron los vecinos por Omu. ¿Por qué le dieron comida a Omu?</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Fomentar</ac_teacher-card_run-in_hed>  Al final de la historia, Omu estaba colmada de felicidad y amor. Anime a los niños a hacer un dibujo que muestre cómo se sentía Omu. Pueden agregar otros personajes o inventar una historia propia con Omu compartiendo otras cosas con sus vecinos.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Escribir o dibujar</ac_teacher-card_run-in_hed>  Invite a los niños a que escriban o le dicten lo que muestran sus dibujos.   </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre tomar distintas perspectivas</ac_teacher-card_run-in_hed>  Invite a los niños a que se turnen representando que son Omu dando la comida o recibiéndola de los vecinos, o los vecinos que reciben la comida de Omu o le dan comida a ella.  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card> Yo COMPARTO, TÚ COMPARTES</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Verifique la comprensión de los niños mediante la acción de darles un objeto y luego pedirles que le den un objeto a cambio. Esto ayudará a que los niños identifiquen los roles de dar y recibir.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Anime a los niños a participar en conversaciones, de compañero a compañero, sobre cómo cambió el rol de Omu al final del libro. Recuerde a los niños que mientras una persona habla, la otra escucha.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Anime a los estudiantes multilingües a que hablen de sus dibujos y cuenten la historia acerca de lo que dibujaron. Pueden elegir usar palabras que utilicen cotidianamente para explicar sus historias. Si es necesario, obtenga ayuda de otros hablantes nativos de esa lengua.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Tomar otra perspectiva</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Algunos niños pueden tener dificultades para aprender cómo tomar la perspectiva de otra persona. Usar el ejemplo de que hay alimentos que les parecen deliciosos a algunas personas y a otras no, podría ayudarlos a ver la perspectiva de otra persona sobre el mismo tema. Mencione una comida y pida a los niños que levanten la mano si les gusta. Esto aportará una confirmación visual de que hay diferencias entre sus compañeros de clase y ellos mismos.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65734-0</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card> ¡REPRESÉNTALO y DILO!</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed> <ac_teacher-speaking>Hoy leímos <ac_teacher-speaking_emphasis_blue>¡Gracias, Omu!</ac_teacher-speaking_emphasis_blue>, otra vez. Este libro tiene cantidad de palabras y oraciones interesantes que serán divertidas de representar.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>En esta actividad, seremos actores y actrices. Representaremos oraciones que dijeron las distintas personas de la historia. Usaremos nuestros cuerpos y nuestras voces.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Usar el cuerpo y la voz </ac_teacher-card_run-in_hed>Para cada cita que sigue a continuación, diríjase a la página del superlibro, señale el texto y la ilustración que lo acompaña, y lea el texto. Muestre a los niños cómo usa sus gestos corporales y su voz para mostrar a Omu saboreando su guiso y pensando que está delicioso. Primero, pida a los niños que muestren la emoción o sentimiento sin usar palabras. Luego, pídales que agreguen palabras a sus emociones, repitiendo las oraciones después de usted.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Actuar y repetir </ac_teacher-card_run-in_hed>Pida a los niños que <ac_teacher-talk-emphasis>exclamen</ac_teacher-talk-emphasis>: “Qué guiso tan delicioso! La cena de esta noche será sin duda la mejor de todas”(p. 7); pida a los niños que <ac_teacher-talk-emphasis>exclamen</ac_teacher-talk-emphasis>: “¡SR. PERROCALENTERO! ¿Qué lo trae a mi casa?” (p. 22); pídales que <ac_teacher-talk-emphasis>suspiren</ac_teacher-talk-emphasis>: “¡UMMM, GUISO! Suena riquísimo” (p. 11); pídales que <ac_teacher-talk-emphasis>se relaman los labios</ac_teacher-talk-emphasis> y luego digan: “¡OH, GUISO! Eso suena muy apetecible” (p. 22), y pídales que <ac_teacher-talk-emphasis>resoplen</ac_teacher-talk-emphasis> mientras dicen: “Me quedé sin la cena más rica del mundo” (p. 31).   </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar </ac_teacher-card_run-in_hed>Diga a los niños que los escritores usan palabras como <ac_teacher-talk-emphasis>exclamó, suspiró</ac_teacher-talk-emphasis> y <ac_teacher-talk-emphasis>resopló</ac_teacher-talk-emphasis> para que los lectores entiendan la historia. Ayúdelos a repetir varias oraciones diciendo: <ac_teacher-speaking>¿Estaban suspirando lo suficiente?</ac_teacher-speaking> <ac_teacher-speaking>Esta vez, ¡suspiremos de verdad!</ac_teacher-speaking> o <ac_teacher-speaking>No sé si estaban resoplando lo suficiente.</ac_teacher-speaking> Vamos todos a resoplar mucho ¡otra vez!   </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card> ¡REPRESÉNTALO y DILO!</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Antes de que los niños digan la oración, explique qué significan las palabras <ac_teacher-talk-emphasis>exclamar, suspirar</ac_teacher-talk-emphasis> y <ac_teacher-talk-emphasis>resoplar</ac_teacher-talk-emphasis>. Demuéstrelas. Luego, invite a los niños a que digan la oración demostrando sus expresiones.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida a los niños que repitan varias frases con distintas emociones. Por ejemplo, en lugar de que Omu se sienta triste y melancólica, podría estar muy enojada cuando descubre que su olla está vacía. ¿Cómo cambiarían sus rostros, cuerpos y voces para mostrar ese enojo?</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>La concordancia sujeto-verbo es un concepto abstracto incluso para niños de mayor edad que los preescolares. Es de mucha ayuda sentar una buena base para que los niños aprendan la gramática del lenguaje académico en estos primeros años. Si un niño dice algo de forma incorrecta, como “Ellos está comiendo”, responda repitiendo la afirmación correctamente: <ac_teacher-talk>Sí. Ellos están comiendo</ac_teacher-talk>.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Apoyo para la oratoria</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Si los niños tienen dificultades para hablar, permítales representar la historia sin que repitan las oraciones completas o simplemente repitiendo ciertas palabras como “¡Suena riquísimo!”. Ayúdelos a practicar su oratoria con esquemas eficaces, mientras les brinda formas no verbales de comunicación cuando estén cansados o frustrados.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65734-0</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card> ¿QUIÉN TRABAJA AQUÍ?</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed> Necesitará el <ac_teacher-talk>Papelógrafo de grandes ideas</ac_teacher-talk> y el libro <ac_teacher-talk-emphasis>¡Gracias, Omu!</ac_teacher-talk-emphasis></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed> <ac_teacher-speaking>Hoy leímos el póster <ac_teacher-speaking_emphasis_blue>Trabajos importantes</ac_teacher-speaking_emphasis_blue>. Aprendimos de los trabajos que cada una de las personas hace en su comunidad. A principios de esta semana leímos el libro,<ac_teacher-speaking_emphasis_blue> ¡Gracias, Omu! </ac_teacher-speaking_emphasis_blue>Leímos sobre personas que tienen diferentes trabajos en la comunidad de Omu, como la oficial de policía, el chofer del autobús, el médico y el panadero.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Hoy veremos imágenes de lugares diferentes e intentaremos adivinar quién trabaja allí. Podría ser el panadero, el chofer del autobús, la doctora o cualquiera de las personas sobre las que leímos esta semana.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar </ac_teacher-card_run-in_hed>Muestre una tarjeta de ilustraciones y haga la pregunta del reverso de la tarjeta. Según sea necesario, brinde un estímulo adicional o apoyo.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed> Use la última pregunta del reverso de la tarjeta para ampliar la conversación.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed> Continúe la actividad usando la siguiente tarjeta de ilustraciones.   </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre trabajos </ac_teacher-card_run-in_hed>Invite a los niños a pensar en otros trabajos que las personas tienen en sus comunidades. Puede recordarles los trabajos de su comunidad en el <ac_teacher-talk>Papelógrafo de grandes ideas</ac_teacher-talk> y en <ac_teacher-talk>¡Gracias, Omu!</ac_teacher-talk>
+            </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card> ¿QUIÉN TRABAJA AQUÍ?</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida a los niños que describan lo que ven en la imagen. Si en la imagen hay una persona, pídales que describan lo que está haciendo. Esto los ayudará a identificar el vínculo entre el lugar y la persona que podría trabajar allí.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida a los niños que piensen en otros lugares en los que pueden llegar a ver a las personas que trabajan en el lugar que ven en las imágenes. Por ejemplo, un bombero trabaja en una estación de bomberos, pero es posible que lo vean apagando un incendio.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Anime a los niños a que usen una respuesta física, además de hablada, para expresar lo que hacen las personas en sus trabajos. Por ejemplo, pueden extender las manos para mostrar a un bombero usando una manguera para apagar un incendio.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Apoyo para las habilidades de conversación</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Promueva una conversación de los diferentes alimentos y cómo se hacen. Una estrategia es repetir lo que ha dicho un niño y luego preguntarle: <ac_teacher-talk>¿Es eso lo que quisiste decir? </ac_teacher-talk>Al repetir lo que dice un niño, usted se asegura de haberlo entendido y demuestra el lenguaje correcto. Puede pedirles que repitan lo que sus compañeros han dicho, usando el mismo método: <ac_teacher-talk>¿Es eso lo que quiso decir?</ac_teacher-talk> Ellos escucharán con más atención si saben que usted puede pedir voluntarios para que repitan lo que acaba de decir un compañero.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65734-0</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

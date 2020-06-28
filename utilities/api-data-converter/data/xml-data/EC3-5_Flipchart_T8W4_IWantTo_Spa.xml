@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flip-chart lang="es">
+  <flip_chart-32 day="4">
+    <flip_chart-32_front>
+      <graphic href="EC3-5_Flipchart_T8W4_IWantTo_Spa.jpg"/>
+    </flip_chart-32_front>
+    <flip_chart-32_back>
+      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <flip_chart-theme-text>En sus marcas, listos, fuera</flip_chart-theme-text>
+          <flip_chart-topic-text>Grandes sueños</flip_chart-topic-text>
+          <flip_chart-concept-question>Estamos listos. ¿Qué sigue?</flip_chart-concept-question>
+        </section-block>
+      </masthead>
+      <display-head-section>
+        <section-block type="display_b_1" index="1">
+          <flip_chart-display-head>YO QUIERO...</flip_chart-display-head>
+        </section-block>
+      </display-head-section>
+      <teacher-facing-section>
+        <section-block type="teacher-facing_b_1" index="1">
+          <flip_chart-teacher-facing-content-box>
+            <flip_chart-teacher-facing-paragraph>Una nueva canción quiero cantar,</flip_chart-teacher-facing-paragraph>
+            <flip_chart-teacher-facing-paragraph>y mis <flip_chart-bold>zapatos</flip_chart-bold> poder amarrar.</flip_chart-teacher-facing-paragraph>
+            <flip_chart-teacher-facing-paragraph>También quiero aprender a contar </flip_chart-teacher-facing-paragraph>
+            <flip_chart-teacher-facing-paragraph>de uno a dos y aún más allá.</flip_chart-teacher-facing-paragraph><flip_chart-teacher-facing-paragraph>Un día dentro de poco (¡muy pronto!), </flip_chart-teacher-facing-paragraph>
+            <flip_chart-teacher-facing-paragraph>un avión quiero pilotear. </flip_chart-teacher-facing-paragraph>
+            <flip_chart-teacher-facing-paragraph>Muchos países poder visitar,</flip_chart-teacher-facing-paragraph>
+            <flip_chart-teacher-facing-paragraph>y un <flip_chart-bold>tren</flip_chart-bold> muy rápido yo manejar.</flip_chart-teacher-facing-paragraph><flip_chart-teacher-facing-paragraph>Mi nombre con letras quiero escribir.</flip_chart-teacher-facing-paragraph>
+            <flip_chart-teacher-facing-paragraph>Ciudades con bloques quiero construir,</flip_chart-teacher-facing-paragraph>
+            <flip_chart-teacher-facing-paragraph>y <flip_chart-bold>arte</flip_chart-bold> de muchos colores hacer.</flip_chart-teacher-facing-paragraph>
+            <flip_chart-teacher-facing-paragraph>La hora del reloj yo quiero leer.</flip_chart-teacher-facing-paragraph><flip_chart-teacher-facing-paragraph>Cuando ya sea grande</flip_chart-teacher-facing-paragraph>
+            <flip_chart-teacher-facing-paragraph>quiero ser un bombero,</flip_chart-teacher-facing-paragraph>
+            <flip_chart-teacher-facing-paragraph>o tal vez un <flip_chart-bold>doctor</flip_chart-bold>,</flip_chart-teacher-facing-paragraph>
+            <flip_chart-teacher-facing-paragraph>o tal vez escritor.</flip_chart-teacher-facing-paragraph>
+          </flip_chart-teacher-facing-content-box>
+        </section-block>
+      </teacher-facing-section>
+      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <flip_chart-credit-line>Photos ©: top left: Camilla Bandeira/Getty Images; top right: Michael H/Getty Images; bottom left: paulaphoto/Shutterstock; bottom right: Digital Vision/Getty Images. Icons by The Noun Project. Art by Wook Jin Jun for Scholastic Inc.</flip_chart-credit-line>
+        </section-block>
+      </copyright-section>
+    </flip_chart-32_back>
+  </flip_chart-32>
+</flip-chart>

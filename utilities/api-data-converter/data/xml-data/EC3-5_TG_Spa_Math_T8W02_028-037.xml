@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./preview-styles.css" type="text/css"?>
+<teaching-guide xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" lang="es">
+  <day_1>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 2: </tg_week_hed>
+        <tg_topic_hed>¡Inténtalo!</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338646207_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Superlibro:  <tg_materials-caption_book-title-Ital>Patos al agua</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T8_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T8_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo social </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> conteo; operaciones; sentido espacial </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> conceptos de lo impreso; conciencia fonológica </tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Dessarrolle conocimientos, cante con los niños y presente vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>debajo</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>cayó</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento preguntando: <tg_bullet-directions_guiding-question>¿Qué hace Mamá Pato cuando los patitos se caen al agua?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Lea por gusto y para comprender, concentrándose en las operaciones. </tg_bullet-directions>
+        <tg_bullet-directions>Verifique la comprensión. Diferencie si es necesario. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa el último número contado para mostrar “cuántos” objetos hay en un conjunto; Comprende que el orden en que los objetos están organizados o contados no afecta el conteo total.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operaciones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa los dedos, objetos o dibujos para demostrar verbalmente una suma o resta  de un conjunto de hasta 5 objetos.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operaciones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuenta hacia adelante o hacia atrás un número dado hasta 5 para resolver un problema.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Sentido espacial:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa palabras de ubicación como “encima de”, “debajo”, “sobre”, “encima”, “al lado”, “entre”, “delante de”, “al lado”  y “lejos”; “encima”, “debajo”, “arriba”, “abajo”  y “detrás”.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Empieza a jugar y se integra al juego. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conceptos de lo impreso:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica que hay significado en un texto.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conciencia fonológica:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Mezcla grupos consonánticos y rima.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>¿Cuántos patos?</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T8_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Cubos conectores</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  conteo; operaciones; sentido espacial </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo social </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> conciencia fonológica</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:  </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Pida a los niños que digan cuántos patitos hay sobre y debajo de un puente representados con tubos conectores.  </tg_bullet-directions>
+        <tg_bullet-directions>Guíelos para que vean que el total no cambia cuando se cuenta en órdenes diferentes. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Qué puede suceder cuando probamos algo nuevo?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y  CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué libro nuevo elegiste? ¿Por qué lo elegiste? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Imaginen que son un grupo de patitos. ¿Qué harán cuando caigan en el agua?  </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cuántas fichas tienes? ¿Qué pasa si quitas una? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Sobre qué estás escribiendo? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE  CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué estás dibujando? ¿Puedes agregar un puente a tu dibujo? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO  ABC  </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué sonido oyes al principio de <tg_teacher-talk_emphasis_non-ital>pato</tg_teacher-talk_emphasis_non-ital>? ¿Cómo suena el resto de la palabra? Digamos juntos la palabra completa: <tg_teacher-talk_emphasis_non-ital>pato</tg_teacher-talk_emphasis_non-ital>. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo puedes construir un puente que no se caiga?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Patos, al agua by Mem Fox, illustrated by Judy Horocek. Text copyright © 2016 by Mem Fox. Illustrations copyright © 2016 by Judy Horocek. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_1>
+  <day_2>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 2: </tg_week_hed>
+        <tg_topic_hed>¡Inténtalo!</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338646207_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Superlibro:  <tg_materials-caption_book-title-Ital>Patos al agua</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T8_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T8_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Cubos conectores</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  conteo; operaciones </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo social </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> conceptos de lo impreso; conciencia fonológica</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para compartir el Mind Builder <tg_bullet-directions_emphasis_Ital>jugar con otros</tg_bullet-directions_emphasis_Ital>, y presente el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>trabajan en equipo</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>cooperan</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento relacionando el Mind Builder con Topina atrapa el cielo. </tg_bullet-directions>
+        <tg_bullet-directions>Haga una lectura atenta para comentar cómo los personajes trabajan en equipo y para repasar grupos equivalentes. </tg_bullet-directions>
+        <tg_bullet-directions>Ofrezca una oportunidad para prolongar el juego. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa el último número contado para mostrar “cuántos” objetos hay en un conjunto.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operaciones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa estrategias informales para separar hasta 10 objetos en dos conjuntos iguales.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Empieza a jugar y se integra al juego. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conceptos de lo impreso:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica que hay significado en un texto.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conciencia fonológica:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Mezcla grupos consonánticos y rima.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Patos en fila</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T8_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Cubos conectores</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  conteo; operaciones </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo social </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> conciencia fonológica</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:  </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Pida a los niños que trabajen en parejas para crear grupos equivalentes de patitos con cubos conectores.  </tg_bullet-directions>
+        <tg_bullet-directions>Anímelos a que describan el proceso y cuenten para hallar el total de cada grupo. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Qué puede suceder cuando probamos algo nuevo?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y  CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo trabajan en equipo los personajes del cuento? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo usas el trabajo en equipo para jugar?  </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes hacer dos grupos con la misma cantidad? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escribe un cuento sobre dos patos que trabajan o juegan juntos. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE  CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes hacer cinco patos? ¿Qué materiales usarás? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO  ABC  </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué sonido oyes al principio de <tg_teacher-talk_emphasis_non-ital>jugar</tg_teacher-talk_emphasis_non-ital>? ¿Cómo suena el resto de la palabra? Digamos  juntos la palabra completa: <tg_teacher-talk_emphasis_non-ital>jugar</tg_teacher-talk_emphasis_non-ital>. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Haz una estanque. ¿Cuántos patos hay allí?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Patos, al agua by Mem Fox, illustrated by Judy Horocek. Text copyright © 2016 by Mem Fox. Illustrations copyright © 2016 by Judy Horocek. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. Clifford the Big Red Dog™ illustration copyright © The Norman Bridwell Trust. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_2>
+  <day_3>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 2: </tg_week_hed>
+        <tg_topic_hed>¡Inténtalo!</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338646207_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Superlibro:  <tg_materials-caption_book-title-Ital>Patos al agua</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T8_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T8_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  sentido espacial; conteo  </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo social </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> conceptos de lo impreso; conciencia fonológica</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para repasar el sentido espacial, involucrar a los niños en un juego y presentar vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>abajo</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>arriba</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento releyendo <tg_bullet-directions_book-title>Patos al agua</tg_bullet-directions_book-title> y pregunte: <tg_bullet-directions_guiding-question>¿Adónde van los patitos?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Lea de manera interactiva para profundizar la comprensión y concéntrese en el sentido espacial. </tg_bullet-directions>
+        <tg_bullet-directions>Verifique la comprensión, diferenciando según sea necesario. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa el último número contado para mostrar “cuántos” objetos hay en un conjunto.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Sentido espacial:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa palabras de ubicación como “encima de”, “debajo”, “sobre”, “encima”, “al lado”, “entre”, “delante de”, “al lado”  y “lejos”; “encima”, “debajo”, “arriba”, “abajo”  y “detrás”; Sigue instrucciones para mover su cuerpo a través de un lugar.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Empieza a jugar y se integra al juego. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conciencia fonológica:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Mezcla grupos consonánticos y rima.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conceptos de lo impreso:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica que hay significado en un texto.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>¿Arriba o abajo?</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T8_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  sentido espacial </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo social </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> conciencia fonológica</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Pregunte a los niños si cada Tarjeta de actividad representa arriba o abajo. </tg_bullet-directions>
+        <tg_bullet-directions>Guíelos para que expliquen su razonamiento.  </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Qué puede suceder cuando probamos algo nuevo?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y  CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Dónde está el personaje en esta página? ¿Cómo puedes describir lo que hay a su alrededor? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo puedes agregar más participantes a este juego?  </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo te ayuda a contar si vas moviendo los objetos al contarlos? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escribe sobre un animal que vive en el aire. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE  CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Dibuja algo que flota en el aire. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO  ABC  </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué sonido oyes al principio de <tg_teacher-talk_emphasis_non-ital>arriba</tg_teacher-talk_emphasis_non-ital>? ¿Cómo suena el resto de la palabra? Digamos juntos la palabra completa: <tg_teacher-talk_emphasis_non-ital>arriba</tg_teacher-talk_emphasis_non-ital>. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Intenta hacer un tobogán. ¿Qué puedes deslizar por el tobogán?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Patos, al agua by Mem Fox, illustrated by Judy Horocek. Text copyright © 2016 by Mem Fox. Illustrations copyright © 2016 by Judy Horocek. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_3>
+  <day_4>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 2: </tg_week_hed>
+        <tg_topic_hed>¡Inténtalo!</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="EC3-5_Flipchart_T8W2_ILiketoRace_SPAN_Redux_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Papelógrado de grandes ideas:  <tg_materials-caption_book-title-Ital>Me gusta echar carreras</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T8_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="9781338646207_COV_SP_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Superlibro: <tg_materials-caption_book-title-Ital>Patos al agua </tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="VC Redux Spa T8_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  operaciones; conteo </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo social </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> conceptos de lo impreso; conciencia fonológica</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para hablar sobre probar cosas nuevas, involucrar a los niños en un juego y presentar el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>me estiro</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>echar carreras</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento conectando <tg_bullet-directions_book-title>Me gusta echar carreras </tg_bullet-directions_book-title>y <tg_bullet-directions_book-title>Patos al agua.</tg_bullet-directions_book-title> </tg_bullet-directions>
+        <tg_bullet-directions>Lea atentamente para conectar con la pregunta esencial de esta semana, <tg_bullet-directions_guiding-question>¿Qué puede suceder cuando probamos algo nuevo?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Ofrezca una oportunidad para el juego ampliado. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operaciones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa los dedos, objetos o dibujos para demostrar verbalmente una suma o resta  de un conjunto de hasta 5 objetos; Cuenta hacia adelante o hacia atrás un número dado hasta 5 para resolver un problema. </tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa el último número contado para mostrar “cuántos” objetos hay en un conjunto;  Comprende que el orden en que los objetos están organizados o contados no afecta el conteo total. </tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Empieza a jugar y se integra al juego. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conceptos de lo impreso:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identifica que hay significado en un texto.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conciencia fonológica:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Mezcla grupos consonánticos y rima.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Carrera a la meta</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T8_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+        <graphic href="EC_stock_TwoColorCounters_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Fichas de dos colores</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  operaciones; conteo </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo social </tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:  </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Pida a los niños que pasen fichas a través de una “meta” y digan cuántas hay de cada lado. </tg_bullet-directions>
+        <tg_bullet-directions>Guíelos para que vean que el orden en el que los “corredores” cruzan la línea no afecta a la cantidad total. </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Qué puede suceder cuando probamos algo nuevo?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y  CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Ves alguna palabra que puedas deletrear? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Imaginen que son corredores estirándose. ¿Quién se puede estirar más?  </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Cuenta las fichas en órdenes distintos. ¿Hay la misma cantidad? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Crees que sería divertido correr? Escribe sobre eso. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE  CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Dibuja un grupo de gente corriendo. ¿Cómo corren? ¿Quién es el más rápido? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO  ABC  </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué sonido oyes al principio de <tg_teacher-talk_emphasis_non-ital>correr</tg_teacher-talk_emphasis_non-ital>? ¿Cómo suena el resto de la palabra? Digamos juntos la palabra completa: <tg_teacher-talk_emphasis_non-ital>correr</tg_teacher-talk_emphasis_non-ital>. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Construye dos coches con un compañero. ¿Cuál es más rápido?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Patos, al agua by Mem Fox, illustrated by Judy Horocek. Text copyright © 2016 by Mem Fox. Illustrations copyright © 2016 by Judy Horocek. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_4>
+  <day_5>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 2: </tg_week_hed>
+        <tg_topic_hed>¡Inténtalo!</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338646207_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Superlibro:  <tg_materials-caption_book-title-Ital>Patos al agua</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T8_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC Redux Spa T8_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  conteo; operaciones; sentido espacial </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo social </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> escritura</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para involucrar a los niños en una actividad de probar algo nuevo y contar. </tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento repasando <tg_bullet-directions_book-title>Patos al agua</tg_bullet-directions_book-title> y pregunte: <tg_bullet-directions_guiding-question>¿Qué cosas nuevas prueban los patos?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Lea y vuelva a narrar de manera interactiva propiciando la participación física y concéntrese en contar. </tg_bullet-directions>
+        <tg_bullet-directions>Verifique la comprensión. Diferencie si es necesario. </tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa el último número contado para mostrar “cuántos” objetos hay en un conjunto; Comprende que el orden en que los objetos están organizados o contados no afecta el conteo total.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operaciones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuenta hacia adelante o hacia atrás un número dado hasta 5 para resolver un problema; Usa los dedos, objetos o dibujos para demostrar verbalmente una suma o resta  de un conjunto de hasta 5 objetos.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Sentido espacial:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa palabras de ubicación tales como “encima de”, “debajo”; Sigue instrucciones para mover su cuerpo a través de un lugar.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Empieza a jugar y se integra al juego. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lectoescritura </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Redacta una narración.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Escritura independiente, dibujar o narrar un cuento</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC3-5_ResponsePrompt_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Hoja de respuestas </tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed>  conteo; sentido espacial </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  desarrollo social </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed> escritura</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Apoye a los niños en su intento por responder a la propuesta de esta semana: <tg_bullet-directions_emphasis_Ital>Escribe un cuento sobre alguien que prueba algo nuevo.</tg_bullet-directions_emphasis_Ital> </tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario. </tg_bullet-directions>
+        <tg_bullet-directions>Guarde los escritos de los niños para mostrarlos la próxima semana. </tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Qué puede suceder cuando probamos algo nuevo?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y  CENTRO DE ESCUCHA </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué tipo de libro te gustaría leer ahora? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Busca algo con lo que nunca hayas jugado. ¡Pruébalo!  </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Haz un puente con bloques patrón. ¿Cuántos usaste? ¿Puedes contarlos en este orden? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL  ESCRITOR </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escribe sobre algo que nunca hayas hecho y que te gustaría intentar. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE  CREATIVIDAD </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Crea una comida que nadie haya visto nunca. ¿La probarías? ¿A qué sabe? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO  ABC  </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Usa letras para hacer la palabra <tg_teacher-talk_emphasis_non-ital>pato</tg_teacher-talk_emphasis_non-ital>. ¿Cuántas letras usaste? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cuál bloque es el más alto? ¿Cuál es el más bajo?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Patos, al agua by Mem Fox, illustrated by Judy Horocek. Text copyright © 2016 by Mem Fox. Illustrations copyright © 2016 by Judy Horocek. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_5>
+  <day_1_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuenta hasta 10 objetos y demuestra que lo último que contó indica la cantidad de objetos que se contaron. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.A.5);</tg_skills-focus-skill-code>
+          <tg_skills-focus-skill-text> Demuestra que entiende que cuando cuenta, los objetos se pueden elegir en cualquier orden. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.A.6)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Sentido espacial:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra el uso de palabras de ubicación. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.C.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operaciones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa objetos concretos, crea modelos en imágenes y comparte un problema con un planteamiento oral para agregar hasta 5 objetos. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.B.1);</tg_skills-focus-skill-code>
+          <tg_skills-focus-skill-text> Usa modelos concretos o hace un problema con un planteamiento oral para restar 0-5 objetos de un conjunto. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.B.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Alfabetización </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conceptos de lo impreso:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce que el texto tiene significado. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.III.A.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conciencia fonológica:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Une los inicios (consonante o consonantes iniciales) y las rimas (desde la vocal hasta el final) para formar  palabras conocidas de una sílaba con y sin apoyo de imágenes. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.III.B.8)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Interactúa y se comunica cada vez más con sus compañeros para iniciar situaciones de juegos de simulación que compartan un plan y una meta común. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.I.C.4, MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_1_texas>
+  <day_2_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuenta hasta 10 objetos y demuestra que lo último que contó indica la cantidad de objetos que se contaron. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.A.5)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operaciones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa estrategias informales para separar hasta 10 objetos en grupos iguales. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.B.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Interactúa y se comunica cada vez más con sus compañeros para iniciar situaciones de juegos de simulación que compartan un plan y una meta común. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.I.C.4, MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Alfabetización </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conceptos de lo impreso:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce que el texto tiene significado. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.III.A.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conciencia fonológica:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Une los inicios (consonante o consonantes iniciales) y las rimas (desde la vocal hasta el final) para formar  palabras conocidas de una sílaba con y sin apoyo de imágenes. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.III.B.8)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_2_texas>
+  <day_3_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuenta hasta 10 objetos y demuestra que lo último que contó indica la cantidad de objetos que se contaron. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.A.5)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Sentido espacial:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra el uso de palabras de ubicación (tal como “sobre”, “debajo”, “encima”, “arriba”, “al lado”, “entre”, “en frente”, “cerca”, “lejos”, etc. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.C.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Interactúa y se comunica cada vez más con sus compañeros para iniciar situaciones de juegos de simulación que compartan un plan y una meta común. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.I.C.4 MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Alfabetización </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conciencia fonológica:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Une los inicios (consonante o consonantes iniciales) y las rimas (desde la vocal hasta el final) para formar  palabras conocidas de una sílaba con y sin apoyo de imágenes. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.III.B.8)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conceptos de lo impreso:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce que el texto tiene significado. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.III.A.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_3_texas>
+  <day_4_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operaciones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa objetos concretos, crea modelos en imágenes y comparte un problema con un planteamiento oral para agregar hasta 5 objetos. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.B.1);</tg_skills-focus-skill-code>
+          <tg_skills-focus-skill-text> Usa modelos concretos o hace un problema con un planteamiento oral para restar 0-5 objetos de un conjunto. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.B.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuenta hasta 10 objetos y demuestra que lo último que contó indica la cantidad de objetos que se contaron. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.A.5);</tg_skills-focus-skill-code>
+          <tg_skills-focus-skill-text> Demuestra que entiende que cuando cuenta, los objetos se pueden elegir en cualquier orden.  </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.A.6)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Interactúa y se comunica cada vez más con sus compañeros para iniciar situaciones de juegos. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.I.C.4, MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Alfabetización </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conciencia fonológica:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Une los inicios (consonante o consonantes iniciales) y las rimas (desde la vocal hasta el final) para formar  palabras conocidas de una sílaba. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.III.B.8)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conceptos de lo impreso:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Reconoce que el texto tiene significado. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.III.A.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_4_texas>
+  <day_5_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Cuenta hasta 10 objetos y demuestra que lo último que contó indica la cantidad de objetos que se contaron. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.A.5);</tg_skills-focus-skill-code>
+          <tg_skills-focus-skill-text> Demuestra que entiende que cuando cuenta, los objetos se pueden elegir en cualquier orden. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.A.6)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Sentido espacial:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demuestra el uso de palabras de ubicación.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operaciones:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Usa objetos concretos, crea modelos en imágenes y comparte un problema con un planteamiento oral para agregar hasta 5 objetos. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.B.1);</tg_skills-focus-skill-code>
+          <tg_skills-focus-skill-text> Usa modelos concretos o hace un problema con un planteamiento oral para restar 0-5 objetos de un conjunto. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.B.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Interactúa y se comunica cada vez más con sus compañeros para iniciar situaciones de juegos de simulación que compartan un plan y una meta común. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.I.C.4, MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Alfabetización </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Escribe en forma independiente para comunicar sus ideas con varios fines. </tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.IV.A.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_5_texas>
+</teaching-guide>

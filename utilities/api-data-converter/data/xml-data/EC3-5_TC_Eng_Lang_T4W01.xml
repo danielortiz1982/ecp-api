@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="en">  <ac_card-1 day="1">    <ac_card-1_front>       <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>“where are they?”</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Today we read an informational book called <ac_teacher-speaking_emphasis_blue>Baby on Board</ac_teacher-speaking_emphasis_blue>. We learned about how different animal parents care for their babies. </ac_teacher-speaking>
+            </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>In this activity, we will look at pictures of different animal parents and their babies and talk about where they are.</ac_teacher-speaking>      </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask  </ac_teacher-card_run-in_hed>Show a picture card and ask the question(s) on the back of the card, offering extra challenge or support as needed. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Extend  </ac_teacher-card_run-in_hed>Use the last question on the back of the card to extend conversation. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat  </ac_teacher-card_run-in_hed>Continue the activity using the next picture card.    </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Prepositions  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>You used words like <ac_teacher-speaking_emphasis_blue>on, in, next to, and under</ac_teacher-speaking_emphasis_blue> to talk about where the animals are in the pictures. Little words like these are very helpful when we want to talk about where someone or something is located.    </ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>“where are they?”</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="2">
+          <ac_diff_support-challenge_heds>Support<ac_teacher-speaking> </ac_teacher-speaking>
+          </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Ask “yes/no” questions to guide children to the correct answer. <ac_teacher-talk>Is the baby elephant on top of its mother? Is it behind its mother? Is it next to its mother?</ac_teacher-talk> Help children use a complete sentence by providing a sentence frame: The baby elephant is n<fill-in-the-blank>   </fill-in-the-blank> (next) to its mother.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="3">
+          <ac_diff_support-challenge_heds>Challenge </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Challenge children to use what they know about other animal families to make inferences about how each of the animal parents depicted on the cards care for their young. Say, <ac_teacher-talk>Why do you think the mother koala is holding her baby up in a tree? How is she helping her baby?</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="2">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners  </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Children whose first language is Spanish will recognize the Spanish cognate <ac_teacher-talk>familia</ac_teacher-talk> for the English word <ac_teacher-talk>family</ac_teacher-talk>. Help children make this connection as well as the connection between <ac_teacher-talk>elephant</ac_teacher-talk> and <ac_teacher-talk>elefante</ac_teacher-talk>. Encourage multilingual learners to use gestures and hand signals if they cannot remember the correct English preposition (for example, putting one hand underneath the other to indicate under).  </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Fine Motor Development </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Help children gain additional practice with prepositions by challenging them to draw or paint pictures of animal families. Say, for example, <ac_teacher-speaking>Show me a fish baby swimming under its mother</ac_teacher-speaking>
+            <ac_teacher-talk> or </ac_teacher-talk>
+            <ac_teacher-speaking>Show me a baby horse sleeping next to its mother.</ac_teacher-speaking> Provide children with art materials such as construction paper and crayons or paints.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64405-0</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>       <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>Animal families</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Today we reread the book <ac_teacher-speaking_emphasis_blue>Baby on Board,</ac_teacher-speaking_emphasis_blue> and we stayed focused on the book by asking and answering questions about it.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>In this activity, I will show you pictures of some of the animal families we read about in <ac_teacher-speaking_emphasis_blue>Baby on Board.</ac_teacher-speaking_emphasis_blue> I will ask you questions about the animal families, and you will answer questions by remembering information you learned from the book.</ac_teacher-speaking>    </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask  </ac_teacher-card_run-in_hed>Show one picture card and ask the question on the back. Offer extra support or challenge as needed. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Extend  </ac_teacher-card_run-in_hed>Continue the discussion by asking the question in the Extended Play section. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat  </ac_teacher-card_run-in_hed>Continue the activity using the next picture card.       </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Animal Families  </ac_teacher-card_run-in_hed>Help children compare and contrast the animal families on the picture cards. Ask: <ac_teacher-talk>How are the animal families different? How are they the same?</ac_teacher-talk> </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>Animal Families</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="2">
+          <ac_diff_support-challenge_heds>Support </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Have the book <ac_teacher-talk>Baby on Board</ac_teacher-talk> handy for this activity. If children have trouble remembering an answer, reread the relevant pages of the book and help children identify details that answer the question. Help children formulate an answer in a complete sentence.  Model.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="3">
+          <ac_diff_support-challenge_heds>Challenge </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Put children in pairs to participate in peer-to-peer conversations about animal families. Encourage them to ask and answer questions about the animals. Remind children that while one person is talking, the other is listening. The talker should hold the card as a reminder of this.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="2">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Help children formulate their answers to the questions by providing simplified sentence frames. For example: The loon carries his baby to keep it s<fill-in-the-blank>    </fill-in-the-blank> (safe). Allow children to point to specific parts of the picture, as appropriate, in order to complete their responses. Provide children with any missing vocabulary. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Fine Motor Development </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Allow children to draw a response to each question using colored pencils, crayons, or markers. Then have children share their drawings and talk about what they drew.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64405-0</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>       <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>Animal or Human Parents? </ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Today we reread the informational book <ac_teacher-speaking_emphasis_blue>Baby on Board.</ac_teacher-speaking_emphasis_blue> You thought about how animal parents and human parents are the same and how they are different.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>In this activity, we will look at pictures of human parents caring for their children and see if animal parents do the same thing for their babies. We will sort the pictures into two groups: </ac_teacher-speaking>
+            </ac_teacher-card-body>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-card_run-in_hed>Human parents only. </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>This group is for things that only human parents do. Animal parents do not do these things for their babies.</ac_teacher-speaking> </ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-card_run-in_hed>Human and animal parents.</ac_teacher-card_run-in_hed> <ac_teacher-speaking>This group is for things that both human and animal parents do for their babies.</ac_teacher-speaking> </ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Teach Hand Signals</ac_teacher-card_run-in_hed>  Ask children to give a thumbs-up if the picture shows something that animal parents do or a thumbs-down if it does not. Model.       </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask  </ac_teacher-card_run-in_hed>Show one picture card and read the teacher text under “Ask.” Offer children extra challenge or support as needed. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Extend  </ac_teacher-card_run-in_hed>Use the last question on the back of the card to extend conversation. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Sort  </ac_teacher-card_run-in_hed>Give the picture card to a child to line up in the “Human parents only” or “Human and animal parents” column. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat  </ac_teacher-card_run-in_hed>Continue the activity using the next picture card.      </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Animal Parents  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>How many cards are in the “Human parents only” group? How many are in the “Human and animal parents” group? Which group has more cards? How are animal parents the same as human parents? </ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>Animal or Human Parents? </ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="2">
+          <ac_diff_support-challenge_heds>Support<ac_teacher-speaking> </ac_teacher-speaking>
+          </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Ask “yes/no” questions to help children answer the questions. For example: <ac_teacher-talk>Have you ever seen a picture of an animal parent hugging its baby? </ac_teacher-talk>Then help children answer by providing a sentence frame: Yes. I have seen an animal parent h<fill-in-the-blank>    </fill-in-the-blank> (hug) its baby.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="3">
+          <ac_diff_support-challenge_heds>Challenge </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>At the end of the activity, ask, <ac_teacher-talk>Are human parents and animal parents more the same or more different?</ac_teacher-talk> Encourage children to use their knowledge of animal families and the picture cards to justify their responses.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="2">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Let children use thumbs-up and thumbs-down to respond to the questions. Then help them formulate their answers in complete sentences by providing sentence frames and any necessary vocabulary. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Gross Motor Development </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Let children work together in twos or threes to act out their answer to each question. For example, ask, <ac_teacher-speaking>How do animal parents move their babies from one place to another?</ac_teacher-speaking> Children could respond by acting out how a particular animal (e.g., an opossum or a loon) transports its babies. Children can use objects in the classroom to represent the animal babies.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64405-0</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>       <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>Is This a shelter? </ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Today we learned a song called “The Chicks Say ‘Pio, Pio, Pio.’” We learned about how a mother hen cares for her chicks by giving them shelter. Guide children as they act out scenes from the Big Chart. </ac_teacher-speaking>
+            </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Revisit Vocabulary </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>We learned the word <ac_teacher-speaking_emphasis_blue>shelter.</ac_teacher-speaking_emphasis_blue> Let’s revisit that word since that has something to do with the game we’ll play today. Use the shelter Vocabulary Card to revisit the word.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>In this activity, we will look at pictures of different animal families in different places. Then we will sort them into two groups—<ac_teacher-speaking_emphasis_blue>Shelter</ac_teacher-speaking_emphasis_blue> and <ac_teacher-speaking_emphasis_blue>Not Shelter.</ac_teacher-speaking_emphasis_blue>
+              </ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-card_run-in_hed> Shelter group </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>is for pictures that show animals in a shelter. The shelter protects the animals from bad weather or danger. </ac_teacher-speaking>
+            </ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-card_run-in_hed> Not Shelter group </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>is for pictures that show animal families in a place that is not a shelter.</ac_teacher-speaking>      </ac_teacher-card-teacher_talk_bulleted>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask   </ac_teacher-card_run-in_hed>Show one picture card and ask the question on the back of the card. Offer additional challenge or support as needed. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Extend  </ac_teacher-card_run-in_hed>Use the last question on the back of the card to extend conversation. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat  </ac_teacher-card_run-in_hed>Continue the activity using the next picture card.       </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Shelters  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>All of the pictures on this side show animal families in their shelters. How do you know these places are shelters?</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Places That Are Not Shelters   </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>All of the pictures on this side show animal families in places that are not shelters. How do you know these places are not shelters?   </ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>Is this a shelter? </ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="2">
+          <ac_diff_support-challenge_heds>Support<ac_teacher-speaking> </ac_teacher-speaking>
+          </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Show children two picture cards that show a shelter and one that does not. Ask, <ac_teacher-talk>Which one doesn’t belong?</ac_teacher-talk> Then ask, <ac_teacher-talk>How do you know?</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="3">
+          <ac_diff_support-challenge_heds>Challenge </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Show children one picture card that shows a place that is a shelter and a picture card that shows a place that is not a shelter. Ask, <ac_teacher-talk>What is different about these two places?</ac_teacher-talk> Repeat with another pair of cards.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="2">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Allow children to respond to the questions with a physical response. For example, if a picture card shows a shelter, they might crouch down and cover their heads with their arms. If it does not show a shelter, they might spread their arms wide open. Physical and visual clues like these can help language learners participate in small-group activities as their language skills develop. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Fine Motor Development </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>After finishing the activity, consider having children make their own physical representations of the shelters depicted on the picture  cards. For example, they might make a bird nest out of found materials or dig a fox den in a sandbox.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64405-0</isbn>. TM ® &#38; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

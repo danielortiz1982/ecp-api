@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./preview-styles.css" type="text/css"?>
+<teaching-guide xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" lang="en">
+  <day_1>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 4: </tg_week_hed>
+        <tg_topic_hed>Build It</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338581980_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Book:  <tg_materials-caption_book-title-Ital>Bird Builds a Nest</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T6_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large Group Card</tg_materials-caption>
+        <graphic href="VC Redux Eng T6_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Vocabulary Cards</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Connecting Cubes</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Measurement; Operations; Counting </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed> Conversation; Vocabulary </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Science:</tg_learning-goals_inline-hed> Physical Science</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to build math background, engage children with an activity, and introduce vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>push</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>pull</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Begin Story Time by introducing the book and asking, <tg_bullet-directions_guiding-question>What did Bird need to do to build her nest?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Read for enjoyment and understanding, noticing opportunities for measurement. </tg_bullet-directions>
+        <tg_bullet-directions>Check understanding, differentiating as needed. </tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operations:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use fingers, objects, or drawings to show a verbal word problem adding to or subtracting from a set of up to 5 objects.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Informally describe and compare the weight of objects using like units and words like “heavy” and “light.</tg_skills-focus-skill-text>” </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Counting:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Subitize the number of items in a group up to five.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Executive Function:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identify and solve problems.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversation:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Ask and answer questions about a text.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Understand and use academic language.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Science </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Physical Science:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identify, investigate, talk about, and describe the location and movement of common objects.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Five Twigs</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T6_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Activity Card</tg_materials-caption>
+        <graphic href="EC_stock_PipeCleaners_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Pipe Cleaners</tg_materials-caption>
+        <graphic href="EC_stock_MaskingTape_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tape</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Operations; Counting </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Science:</tg_learning-goals_inline-hed> Physical Science </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed> Conversation</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Set up and explain a 5-frame. </tg_bullet-directions>
+        <tg_bullet-directions>Model using a 5-frame to count. </tg_bullet-directions>
+        <tg_bullet-directions>Have children use the 5-frame to get from numbers zero to five total sticks. </tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>Why do we build things?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND LISTENING CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Was anything being built in the book? Describe it. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND LEARN CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Pretend to gather objects for a nest like Bird. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND SCIENCE CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>How many worms will you put out for Bird to eat? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S CORNER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Write a story or real information about a bird. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY STATION </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you make a bird’s nest? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What sound do you hear at the beginning of <tg_teacher-talk_emphasis_non-ital>bird</tg_teacher-talk_emphasis_non-ital>? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Use blocks and other objects to build a bird’s nest. Why did you use those objects to build the bird’s nest?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Bird Builds a Nest by Martin Jenkins, illustrated by Richard Jones. Text copyright © 2018 by Martin Jenkins. Illustrations copyright © 2018 by Richard Jones. Published by Scholastic Inc. by arrangement with Candlewick Press.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Photo © An Nguyen/Shutterstock.</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_1>
+  <day_2>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 4: </tg_week_hed>
+        <tg_topic_hed>Build It</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338581980_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Book:  <tg_materials-caption_book-title-Ital>Bird Builds a Nest</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T6_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large Group Card</tg_materials-caption>
+        <graphic href="VC Redux Eng T6_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Vocabulary Cards</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Connecting Cubes</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Measurement </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Executive Function </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Languages:</tg_learning-goals_inline-hed> Conversation; Vocabulary</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to share the Mind Builder <tg_bullet-directions_guiding-question>identify and solve problems</tg_bullet-directions_guiding-question> and introduce vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>solve</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>problem</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Begin Story Time by connecting the Mind Builder to <tg_bullet-directions_book-title>Bird Builds a Nest.</tg_bullet-directions_book-title> </tg_bullet-directions>
+        <tg_bullet-directions>Read closely to identify problems and their solutions and focus on operations. </tg_bullet-directions>
+        <tg_bullet-directions>Offer an extended play opportunity. </tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operations:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use fingers, objects, or drawings to show a verbal word problem adding to or subtracting from a set of up to 5 objects.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Informally describe and compare the weight of objects using like units and words like “heavy” and “light.</tg_skills-focus-skill-text>” </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Counting:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Subitize the number of items in a group up to five.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Executive Function:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identify and solve problems.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversation:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Ask and answer questions about a text.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Understand and use academic language.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Science </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Physical Science:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identify, investigate, talk about, and describe the location and movement of common objects.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>We Can Solve It</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T6_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Activity Card</tg_materials-caption>
+        <graphic href="EC_stock_Counters_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Counters</tg_materials-caption>
+        <graphic href="EC_stock_MaskingTape_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tape</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Operations; Counting </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Executive Function </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed> Vocabulary</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Explain that 5-frames can be used to understand and solve math problems. </tg_bullet-directions>
+        <tg_bullet-directions>Guide children to use the 5-frame to add numbers of materials from the book. </tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>Why do we build things?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND LISTENING CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Does anyone in your book have a  problem? What is it? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND LEARN CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you move like a bird? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND SCIENCE CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you show three on a 5-frame? What about one more? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S CORNER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Have you ever had a problem? What did you do to solve it? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY STATION </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you make or draw a bird in a nest? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What letter do you hear at the beginning of the word <tg_teacher-talk_emphasis_non-ital>nest</tg_teacher-talk_emphasis_non-ital>? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Did you make a plan for what you are building? Have you had any problems while you are working? How will you try to solve them?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Bird Builds a Nest by Martin Jenkins, illustrated by Richard Jones. Text copyright © 2018 by Martin Jenkins. Illustrations copyright © 2018 by Richard Jones. Published by Scholastic Inc. by arrangement with Candlewick Press. Clifford the Big Red DogTM illustration copyright © The Norman Bridwell Trust.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Photo © An Nguyen/Shutterstock.</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_2>
+  <day_3>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 4: </tg_week_hed>
+        <tg_topic_hed>Build It</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338581980_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Book:  <tg_materials-caption_book-title-Ital>Bird Builds a Nest</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T6_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large Group Card</tg_materials-caption>
+        <graphic href="VC Redux Eng T6_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Vocabulary Cards</tg_materials-caption>
+        <graphic href="NumberCards_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Number Cards</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Operations; Measurement; Counting </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed> Conversation; Vocabulary </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Science:</tg_learning-goals_inline-hed> Physical Science</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to discuss measurement, engage children a game, and introduce vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>heavy</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>light</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Begin Story Time by revisiting <tg_bullet-directions_book-title>Bird Builds a Nest</tg_bullet-directions_book-title> and asking the guiding question,<tg_bullet-directions_guiding-question> What makes Bird’s nest cozy?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Read interactively for a closer understanding of the story and weight. </tg_bullet-directions>
+        <tg_bullet-directions>Check understanding, differentiating as needed. </tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operations:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use fingers, objects, or drawings to show a verbal word problem adding to or subtracting from a set of up to 5 objects.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Informally describe and compare the weight of objects using like units and words like “heavy” and “light.</tg_skills-focus-skill-text>” </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Counting:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Subitize the number of items in a group up to five.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Executive Function:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identify and solve problems.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversation:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Ask and answer questions about a text.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Sentence Structure:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Try to use new words and grammar.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Sentence Structure:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>State multiple ideas in a single sentence.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Understand and use academic language.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Science </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Physical Science:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identify, investigate, talk about, and describe the location and movement of common objects.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Pillow Count</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T6_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Activity Card</tg_materials-caption>
+        <graphic href="EC_stock_Counters_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Two-Color Counters</tg_materials-caption>
+        <graphic href="EC_stock_MaskingTape_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tape</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Operations; Counting </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Science:</tg_learning-goals_inline-hed> Physical Science </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed> Conversation; Sentence Structure</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Use counters to represent pillows. </tg_bullet-directions>
+        <tg_bullet-directions>Guide children to use the 5-frame to subitize numbers between one and five. </tg_bullet-directions>
+        <tg_bullet-directions>Challenge children to display numbers in a 5-frame. </tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>Why do we build things?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND LISTENING CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Is there anything in your book that is heavy? Is there anything light? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND LEARN CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you pretend to carry something really heavy? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND SCIENCE CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Which items feel heavy? Which items feel light? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S CORNER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you write about a problem you’ve had? How did you solve it? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY STATION </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What materials would you use to make something heavy? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What sound do you hear at the beginning of <tg_teacher-talk_emphasis_non-ital>heavy</tg_teacher-talk_emphasis_non-ital>? Can you write this letter? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>How could you make what you are building heavier? How could you make it lighter?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Bird Builds a Nest by Martin Jenkins, illustrated by Richard Jones. Text copyright © 2018 by Martin Jenkins. Illustrations copyright © 2018 by Richard Jones. Published by Scholastic Inc. by arrangement with Candlewick Press.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Photo © An Nguyen/Shutterstock.</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_3>
+  <day_4>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 4: </tg_week_hed>
+        <tg_topic_hed>Build It</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="EC_FC_Eng_T6W4_redux_cropped.png" index="1"/>
+        <tg_materials-caption index="1">
+          <tg_materials-caption_book-title-Ital>Big Chart of Big Ideas:  The Three Little Rabbits</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T6_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large Group Card</tg_materials-caption>
+        <graphic href="VC Redux Eng T6_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Vocabulary Cards</tg_materials-caption>
+        <graphic href="9781338581980_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Book:  <tg_materials-caption_book-title-Ital>Bird Builds a Nest</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Measurement </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Executive Function </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Science:</tg_learning-goals_inline-hed> Physical Science </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed> Vocabulary</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to get children excited to read about building on the Big Chart of Big Ideas and introduce vocabulary words <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>sticks</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>straw</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Begin Story Time by connecting the texts <tg_bullet-directions_book-title>The Three Little Rabbits </tg_bullet-directions_book-title>and <tg_bullet-directions_book-title>Bird Builds a Nest.</tg_bullet-directions_book-title> </tg_bullet-directions>
+        <tg_bullet-directions>Read interactively and connect to measurement by discussing whether different building materials are heavy or light. </tg_bullet-directions>
+        <tg_bullet-directions>Offer an extended play opportunity. </tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operations:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use fingers, objects, or drawings to show a verbal word problem adding to or subtracting from a set of up to 5 objects.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Informally describe and compare the weight of objects using like units and words like “heavy” and “light.</tg_skills-focus-skill-text>” </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Counting:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Subitize the number of items in a group up to five.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Executive Function:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identify and solve problems.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversation:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Ask and answer questions about a text.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Understand and use academic language.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Science </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Physical Science:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identify, investigate, talk about, and describe the location and movement of common objects.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>How Many Bags?</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T6_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Activity Card</tg_materials-caption>
+        <graphic href="EC_stock_Counters_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Two-Color Counters</tg_materials-caption>
+        <graphic href="EC_stock_MaskingTape_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tape</tg_materials-caption>
+        <graphic href="EC_stock_crayons_28968187_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Crayons or Markers</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Operations; Counting </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Science:</tg_learning-goals_inline-hed> Physical Science </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed> Conversation</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Use counters on a 5-frame to represent bags of materials. </tg_bullet-directions>
+        <tg_bullet-directions>Have children use 5-frames to determine how many bags are needed to have five bags in all. </tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>Why do we build things?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND LISTENING CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Does anyone in your book have a problem? How did they solve it? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND LEARN CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Pretend to be building a house. What materials are you using? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND SCIENCE CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What could you count with a 5-frame? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S CORNER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What materials would you use to build a house? Why? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY STATION </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you draw a strong house? What does it look like? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What sound do you hear at the beginning of <tg_teacher-talk_emphasis_non-ital>rabbit</tg_teacher-talk_emphasis_non-ital>? What sound do you hear at the end of <tg_teacher-talk_emphasis_non-ital>rabbit</tg_teacher-talk_emphasis_non-ital>? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Which heavy materials could you use to build a strong house?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Bird Builds a Nest by Martin Jenkins, illustrated by Richard Jones. Text copyright © 2018 by Martin Jenkins. Illustrations copyright © 2018 by Richard Jones. Published by Scholastic Inc. by arrangement with Candlewick Press.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Photos © Shutterstock: crayons (Svitlana Kataieva), tape (An Nguyen).</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_4>
+  <day_5>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 4: </tg_week_hed>
+        <tg_topic_hed>Build It</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338581980_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Book:  <tg_materials-caption_book-title-Ital>Bird Builds a Nest</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T6_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large Group Card</tg_materials-caption>
+        <graphic href="VC Redux Eng T6_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Vocabulary Cards</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Operations; Measurement </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Science:</tg_learning-goals_inline-hed> Physical Science </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Executive Function</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to connect the book to scientific thinking, engage children with a song, and review vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>heavy</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>light</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Begin Story Time by revisiting the book and asking, <tg_bullet-directions_guiding-question>Why did Bird build a nest?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Read and retell interactively for physical engagement and a focus on measurement. </tg_bullet-directions>
+        <tg_bullet-directions>Check understanding and differentiate as needed. </tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operations:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use fingers, objects, or drawings to show a verbal word problem adding to or subtracting from a set of up to 5 objects.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Informally describe and compare the weight of objects using like units and words like “heavy” and “light.</tg_skills-focus-skill-text>”</tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Executive Function:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identify and solve problems.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Science </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Physical Science:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identify, investigate, talk about, and describe the location and movement of common objects.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conversation:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Ask and answer questions about a text.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Sentence Structure:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Try to use new words and grammar; State multiple ideas in a single sentence.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Independent Writing, Drawing, or Storytelling</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC3-5_ResponsePrompt_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Response Prompt</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Measurement </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed> Conversation; Sentence Structure </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Executive Function</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Support children as they independently respond to this week’s prompt: <tg_bullet-directions_guiding-question>What materials would you use to build a house? What would your house be like?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed. </tg_bullet-directions>
+        <tg_bullet-directions>Save children’s responses to display next week.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>Why do we build things?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND LISTENING CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Did you like this book? Would you tell a friend to read it? Why? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND LEARN CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you pretend to build a house? What is it made of? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND SCIENCE CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>How can you use a 5-frame to show four? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S CORNER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Write a story about an animal building a home. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY STATION </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you draw a cozy home? Show me the parts that make it cozy. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Think about the words <tg_teacher-talk_emphasis_non-ital>stick</tg_teacher-talk_emphasis_non-ital> and <tg_teacher-talk_emphasis_non-ital>straw</tg_teacher-talk_emphasis_non-ital>. What sound do you hear at the beginning of these words? What letters make that sound? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Which materials in this center would you use to build a house? Why did you pick those?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Bird Builds a Nest by Martin Jenkins, illustrated by Richard Jones. Text copyright © 2018 by Martin Jenkins. Illustrations copyright © 2018 by Richard Jones. Published by Scholastic Inc. by arrangement with Candlewick Press.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved.</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_5>
+  <day_1_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Counting:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Verbally identify, without counting, the number of objects from one to five.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.8)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operations:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Using concrete objects, create pictorial models and share a verbal word problem for adding up to five objects.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.B.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Informally recognize and compare weights of objects or people.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.D.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Executive Function:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Show initiative in independent situations and persist in attempting to solve problems.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.A.4, MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demonstrate understanding of terms used in the instructional language of the classroom.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.2);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Demonstrate understanding in a variety of ways or knowing the meaning of 3,000 to 4,000 words.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Science </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Physical Science:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observe, investigate, describe, and discuss position and motion of objects.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.A.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_1_texas>
+  <day_2_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Counting:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Verbally identify, without counting, the number of objects from 1–5.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.8)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operations:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Using concrete objects, create pictorial models and share a word problem for adding up to 5 objects.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.B.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Informally recognize and compare weights of objects or people.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.D.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Executive Function:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Show initiative in independent situations and persist in attempting to solve problems.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.A.4, MB);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Initiate problem-solving strategies and seek adult help when necessary.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.C.5, MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demonstrate understanding of terms used in the instructional language of the classroom.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.2);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Demonstrate understanding in a variety of ways or knowing the meaning of 3,000–4,000 words.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Science </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Physical Science:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observe, investigate, describe, and discuss motion of objects.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.A.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_2_texas>
+  <day_3_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Counting:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Verbally identify, without counting, the number of objects from 1–5.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.8)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operations:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use concrete models or make a verbal word problem for subtracting 0–5 objects from a set.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.B.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Informally recognize and compare weights of objects or people.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.D.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Executive Function:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Initiate problem-solving strategies and seek adult help when necessary.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.C.5, MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demonstrate understanding of terms used in the instructional language of the classroom.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.2);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Demonstrate understanding in a variety of ways or knowing the meaning of 3,000 to 4,000 words.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Sentence Structure:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Combine more than one idea using complex sentences.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.E.4);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Attempt to use new vocabulary and grammar in speech.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.E.8)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Science </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Physical Science:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observe, investigate, describe, and discuss motion of objects.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.A.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_3_texas>
+  <day_4_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Counting:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Verbally identify, without counting, the number of objects from one to five.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.8)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operations:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Using concrete objects, create pictorial models and share a verbal word problem for adding up to five objects.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.B.1)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Informally recognize and compare weights of objects or people.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.D.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Executive Function:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Show initiative in independent situations and persist in attempting to solve problems.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.A.4, MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demonstrate understanding of terms used in the instructional language of the classroom.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demonstrate understanding in a variety of ways or knowing the meaning of 3,000 to 4,000 words.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Science </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Physical Science:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observe, investigate, describe, and discuss position and motion of objects.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.A.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_4_texas>
+  <day_5_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operations:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use concrete models or make a verbal word problem for subtracting 0–5 objects from a set.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.B.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Informally recognize and compare weights of objects or people.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.D.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Executive Function:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Initiate problem-solving strategies and seek adult help when necessary.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.C.5, MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Science </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Physical Science:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observe, investigate, describe, and discuss position and motion of objects.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.A.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demonstrate understanding in a variety of ways or knowing the meaning of 3,000 to 4,000 words.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Sentence Structure:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Combine more than one idea using complex sentences.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.E.4);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Attempt to use new vocabulary and grammar in speech.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.E.8)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_5_texas>
+</teaching-guide>

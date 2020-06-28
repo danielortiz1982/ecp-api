@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="es">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>Palabras dentrode palabras</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos el cuento <ac_teacher-speaking_emphasis_blue>Feliz cumpleaños, Luna.</ac_teacher-speaking_emphasis_blue> Seguimos a Oso mientras hablaba con la Luna sobre su cumpleaños. También aprendimos sobre un nuevo tipo de palabras: las palabras compuestas.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Recuerden, una palabra compuesta es una palabra que está formada por dos palabras más pequeñas. Les mostraré una imagen de una palabra compuesta. ¡Luego separaremos la palabra y volveremos a juntarla!</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-speaking>Todas estas palabras están relacionadas con nuestro libro o con las preguntas conceptuales de esta semana: ¿Qué hacemos durante el día? ¿Qué hacemos durante la noche?</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre una tarjeta con imagen y haga la pregunta al dorso; ofrezca estímulo o apoyo adicional según sea necesario.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use la última pregunta al dorso de la tarjeta para ampliar la conversación. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad usando la siguiente tarjeta con imagen.</ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre palabras compuestas</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Algunas de estas palabras ya las conocíamos. ¿Se sorprendieron de encontrar palabras dentro de ellas? ¿Por qué? A veces, cuando miramos las palabras pequeñas dentro de una palabra más grande, podemos descubrir qué significa la palabra más grande.</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>Palabras dentrode palabras</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Los niños más pequeños o con retraso en el desarrollo pueden necesitar más apoyo para realizar la actividad. Diga la palabra de manera normal, luego dígala despacio, haciendo énfasis en cada palabra. Por último, diga la primera parte de la palabra e invite al niño a completarla.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Estimule a los niños para identificar otros compuestos como, por ejemplo,<ac_teacher-talk> afilalápices, subibaja, lavamanos.</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Diga al grupo que las palabras compuestas existen en muchos idiomas. Aprenda algunas palabras compuestas en las lenguas maternas de sus alumnos multilingües. Por ejemplo, <ac_teacher-talk>cumpleaños</ac_teacher-talk>, o <ac_teacher-talk>birthday</ac_teacher-talk>, están formadas por dos palabras: <ac_teacher-talk>cumple </ac_teacher-talk>+<ac_teacher-talk> años; birth (nacimiento) </ac_teacher-talk>+ <ac_teacher-talk>day (día).</ac_teacher-talk> Invite a los alumnos multilingües a separar las dos palabras.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Proporcione al grupo papel y materiales de dibujo. Dé una tarjeta a cada pareja de estudiantes. Pida a cada pareja que dibuje una parte diferente de la palabra compuesta. Luego pídales que pongan las tarjetas una al lado de la otra y que digan cómo las imágenes se unen para hacer la palabra más grande.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66401-0</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>¡mira LO quepuedo hacer!</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Necesitará papel y crayones, además de bloques de construcción, para que los niños demuestren el objetivo que se indica en la tarjeta.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos <ac_teacher-speaking_emphasis_blue>Feliz cumpleaños, Luna. </ac_teacher-speaking_emphasis_blue>Vimos cómo Oso trabajó mucho para hablar con la Luna.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el vocabulario</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Aprendimos la palabra objetivo. Repasemos esa palabra, ya que tiene algo que ver con la actividad de hoy.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>Use la tarjeta de vocabulario <ac_teacher-talk>objetivo </ac_teacher-talk>para repasar la palabra.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Ahora que estamos cerca del final del curso, hemos alcanzado algunos objetivos importantes. ¡Hoy representarán el objetivo que se sientan más orgullosos de haber alcanzado!</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Extienda las tarjetas de actividad en una mesa. Pregunte a los niños qué pueden hacer ahora que los haga sentirse orgullosos. No tiene que ser uno de los objetivos que se muestran. Pero si un niño señala una tarjeta, tómela y haga las preguntas. Si no es el caso, pida al niño que represente su nueva habilidad y que hable de ella.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use la última pregunta al dorso de la tarjeta para ampliar la conversación, o pregunte al niño cual podría ser su próximo objetivo.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad usando la siguiente tarjeta con imagen.</ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre objetivos</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Antes hablamos sobre lo importante que es perseverar para alcanzar objetivos. Al principio, alcanzar un objetivo puede ser difícil, pero si perseveramos, podemos lograrlo.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre manifestar orgullo</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cuando alcanzamos un objetivo, nos gusta compartir con los demás lo que hicimos porque nos sentimos orgullosos. ¿Con quién hablan ustedes cuando alcanzan un objetivo?</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>¡mira LO quepuedo hacer!</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Aunque las tarjetas de actividad muestran varias habilidades, algunos niños pueden no encontrar las suyas. Piense en las habilidades de los niños de su grupo que son más pequeños o que tienen retraso en el desarrollo. ¡Esté preparado para recordarles habilidades que pueden haber adquirido recientemente!</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Algunas habilidades de lectoescritura, como escribir el nombre, pueden ser difíciles de representar sin materiales. Tenga algunos objetos a mano, como un libro del abecedario y papel y crayones, para los estudiantes que quieran mostrar sus nuevas habilidadesde lectoescritura.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Dé un tiempo extra para una conversación entre amigos. Anime a los niños a trabajar en parejas y a hablar de sus objetivos. Recuérdeles que se turnen para hablar: una persona escucha de manera activa mientras la otra habla. Recuérdeles que pueden hablar en cualquier idioma que conozcan los dos amigos si ambos son multilingües.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad gruesa</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Puede hacer esta actividad en el espacio para el grupo grande o en el exterior, para que los niños puedan mostrar sus nuevas habilidades de motricidad gruesa, como pueden ser pedalear en un triciclo, impulsarse en un columpio o cruzar los pasamanos. Las actividades en las que se mueve todo el cuerpo animan a la participación, activan la memoria y ayudan a desarrollar la fuerza.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66401-0</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>¿queda bien?</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos el cuento <ac_teacher-speaking_emphasis_blue>Feliz cumpleaños, Luna.</ac_teacher-speaking_emphasis_blue> Fuimos con Oso a comprar un regalo de cumpleaños para la Luna. ¿Quién recuerda qué compró Oso?</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el vocabulario</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Aprendimos un significado de quedó. Repasemos esa palabra, ya que la usaremos en la actividad de hoy.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>Use la tarjeta de vocabulario <ac_teacher-talk>quedó </ac_teacher-talk>para revisar la palabra.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Oso pensó que el sombrero le quedaba perfecto a la Luna. ¿En realidad le quedaba bien? Veamos algunas imágenes: Las clasificaremos en dos grupos: quedó bien y no quedó bien.</ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre una tarjeta con imagen a un niño y haga la pregunta al dorso; dé estímulo o apoyo adicional según sea necesario.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use la última pregunta al dorso de la tarjeta para ampliarla conversación.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad mostrando la siguiente tarjeta con imagen al niño siguiente. </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre cosas que quedaron bien</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Algunas de estas imágenes muestran cosas que le quedan bien a alguien, como el sombrero que le quedó bien a Oso. Otras no tienen nada que ver con ropa. Podemos hablar de si un dibujo o algo que terminamos quedó bien o no.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre cosas que no quedaron bien</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Por cada cosa que queda bien, tenemos un ejemplo de cosas que no quedan bien. ¿Cuáles son esas tarjetas? ¿Qué otras palabras podemos usar para describirestas tarjetas? </ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>¿queda bien?</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Muestre a los niños tres tarjetas a la vez, dos deben mostrar algo que “quedó bien” y otra algo que “no quedó bien”. Pregunte: <ac_teacher-talk>¿Qué imagen muestra algo que quedó bien?</ac_teacher-talk> Luego pregunte: <ac_teacher-talk>¿Cómo lo saben?</ac_teacher-talk>Por último pregunte: <ac_teacher-talk>¿Cuál muestra algo que no quedó bien? ¿Cómo lo saben?</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Muestre a los niños un par de tarjetas que tengan alguna relación (dos tarjetas que muestren una torre o dos tarjetas que muestren algo que quedó bien). Pida al niño que describa las dos tarjetasen una oración larga. Comparta este modelo: <ac_teacher-talk>Esta tarjeta muestra ropa que le queda bien al niño y esta tarjeta muestra ropa que nole queda bien.</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Los alumnos multilingües de su clase quizás se sientan más cómodos usando una respuesta física en lugar de hablar. Invite a los niños que están aprendiendo español a tomar la tarjeta y ponerla en la columna correspondiente, en lugar de decirlo.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Estimulación sensorial</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Los niños que necesitan estimulación sensorial pueden entretenerse clasificando objetos que quedan bien o no quedan bien. Ponga en la mesa un sombrero de niño y un sombrero grande; un cuadro con un solo objeto (una flor, por ejemplo), pegado cuidadosamente y otro con el mismo objeto mal pegado y estropeado. Invite a los niños a describir si los objetos quedan/quedaron bien o no y por qué.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66401-0</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>¿día o noche?</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande:</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy vimos el Papelógrafo de grandes ideas. Vimos ejemplos de lo que ocurre durante el día y durante la noche en las montañas, en el campo y en la ciudad.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad hablaremos sobre cosas que hacen las personas y los animales. Clasificaremos estas cosas en grupos que corresponden a escenas o cosas que ocurren durante el día y durante la noche. </ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre una tarjeta con imagen y use el texto al dorso para preguntar si la actividad ocurre durante el día o durante la noche. Dé apoyo o estímulo según sea necesario.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use la última pregunta para ampliar la conversación.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Clasificar</ac_teacher-card_run-in_hed>  Dé la tarjeta con imagen a un niño para que la coloque en una de las dos columnas: “día” o “noche”.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe la actividad mostrando la siguiente tarjeta al niño siguiente. </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre actividades durante el día y durante la noche</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¿Qué observamos sobre las actividades que se hacen durante el día? ¿Qué observamos sobre las actividades que se hacen durante la noche? ¿Qué hacen algunos animales cuando nosotros estamos durmiendo? </ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>¿día o noche?</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Muestre a los niños tres tarjetas a la vez, dos deben mostrar algo que ocurre durante el día y una algo que ocurre durante la noche. Pregunte: <ac_teacher-talk>¿Cuál tarjeta es diferente de las otras dos?</ac_teacher-talk> Luego pregunte: <ac_teacher-talk>¿Cómo lo saben?</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Muestre el par de tarjetas en las que se ven niños durante el día y niños durante la noche. Pregunte: <ac_teacher-talk>¿En qué se parecen y en qué se diferencian estas imágenes? </ac_teacher-talk>Anime a los niños a decir dos cosas sobre las tarjetas en una oración, por ejemplo: <ac_teacher-talk>Aquí vemos unos niños durante el día y aquí vemos un niño durante la noche.</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Anime a los alumnos multilingües de su clase a compartir los sonidos que hacen las personas cuando roncan o los sonidos que hace cada animal que se ve en las tarjetas cuando está despierto y activo. A los niños les divertirá saber que los animales, en distintos lugares del mundo “hablan” distintos idiomas.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad gruesa</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Anime a los niños a representar las actividades que ven en cada tarjeta al mismo tiempo que las describen con palabras. Deje que los niños se acurruquen y ronquen o que vuelen a través del aire como un búho. Las actividades en las que se mueve todo el cuerpo animan a la participación y activan la memoria. Además ayudan a desarrollar la fuerza y la coordinación de los niños.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66401-0</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

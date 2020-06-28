@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="es">  <ac_card-1 day="1">    <ac_card-1_front>       <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>poner OBJETOS en orden</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cuando leímos <ac_teacher-speaking_emphasis_blue>Ricitos de Oro y los tres osos,</ac_teacher-speaking_emphasis_blue> vimos que los osos tenían cosas de tres tamaños: grande para el papá, mediano para la mamá y pequeño para el bebé.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, les mostraré imágenes de tres objetos que los osos tenían en la casa: camas, sillas y tazones. Tendrán que decirme si el objeto es grande, mediano o pequeño. Luego, ordenaremos las imágenes por tamaño.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre la primera tarjeta de actividad y pregunte si el objeto es pequeño, mediano o grande. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Anime a los niños a explicar cómo pueden saber el tamaño del objeto. Guíelos para usar otras pistas que puedan dar las imágenes. Está bien si los niños dicen un tamaño diferente del que figura en la tarjeta, siempre que puedan explicar su razonamiento. Más tarde, podrán comparar las tarjetas. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe con todas las otras tarjetas de actividad. Anime a los niños a comparar los tamaños del mismo objeto en distintas tarjetas.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre ordenar</ac_teacher-card_run-in_hed>  Cuando hayan visto todas las tarjetas, colóquelas boca arriba sobre la mesa. <ac_teacher-speaking>Ordenemos los objetos de mayor a menor.</ac_teacher-speaking> Guíe a los niños para que ordenen las tres sillas, las tres camas y los tres tazones. Hable sobre cómo supieron en qué orden colocar los objetos. Pregunte si podría haber una silla más grande que la de papá oso y si es así, en qué lugar la ordenarían. ¿Cómo cambiaría eso la manera en que describieron la silla del papá? </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>poner OBJETOS en orden</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="1">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Muestre a los niños las tres tarjetas de un conjunto (p. ej., las tres sillas) y señale cada tarjeta mientras pregunta el tamaño. Demuestre la comparación de tamaño: <ac_teacher-talk>¡Esta silla es mucho más delgada y baja que las otras sillas! Es pequeña</ac_teacher-talk>.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida a los niños que clasifiquen las tarjetas en pilas: pequeño, mediano y grande. Luego pídales que ordenen las tarjetas por tamaño, ayúdelos a reconocer los tamaños relativos de los objetos entre sí (el tazón grande es más pequeño que la cama pequeña).</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Use movimientos de brazos y manos mientras dice las palabras <ac_teacher-talk>grande, mediano</ac_teacher-talk> y <ac_teacher-talk>pequeño</ac_teacher-talk> durante la actividad: abra completamente los brazos para <ac_teacher-talk>grande</ac_teacher-talk>, abra las manos a la altura de los hombros para <ac_teacher-talk>mediano</ac_teacher-talk> y acerque sus manos entre sí para <ac_teacher-talk>pequeño</ac_teacher-talk>. Anime a los niños a usar gestos similares mientras realizan la actividad. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Estimulación sensorial </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>A los niños con dificultades de procesamiento visual las pistas táctiles les pueden resultar más útiles que las visuales. Considere usar juguetes y otros objetos del salón de diferentes tamaños en lugar de las tarjetas de actividad.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66307-5</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>       <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>¡perfecto!</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cuando leímos <ac_teacher-speaking_emphasis_blue>Ricitos de Oro y los tres osos</ac_teacher-speaking_emphasis_blue>, vimos que Ricitos de Oro trataba de encontrar lo que era “perfecto” para ella. También hablamos de los patrones en el libro.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, diremos que el tamaño de su mano desde donde empieza la palma hasta la punta del dedo más largo es “¡perfecto!”. Buscarán objetos en el salón que sean demasiado largos, demasiado cortos y “perfectos”. Luego, crearemos un patrón.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Demostrar</ac_teacher-card_run-in_hed>  Recorra el salón y muestre cómo coloca su mano sobre objetos, diciendo si son demasiado largos, demasiado cortos o perfectos. Lleve los objetos a su mesa. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Buscar</ac_teacher-card_run-in_hed>  Pida a los niños que busquen objetos que sean demasiado largos comparados con el tamaño de su mano. Pídales que los lleven a la mesa y los coloquen frente a ellos. Ahora guíelos para que busquen un objeto que sea demasiado corto y uno que sea “perfecto”. Diga a los niños que un objeto “perfecto” puede tener un tamaño parecido al de la mano, aunque no sea exactamente igual. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Crear un patrón</ac_teacher-card_run-in_hed>  Compare los tamaños de los objetos de los niños. Luego, use los objetos para crear un patrón: <ac_teacher-speaking>Pongan sus objetos en este orden: demasiado largo, demasiado corto, perfecto. Ahora, hagamos una línea que recorra todos sus objetos. ¡Crearon un patrón! El patrón es “demasiado largo, demasiado corto, perfecto, demasiado largo, demasiado corto, perfecto”.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre perspectiva</ac_teacher-card_run-in_hed>  Tome los objetos que usó usted. Colóquelos sobre la línea de los objetos de los niños y compare. <ac_teacher-speaking>¿El tamaño “perfecto” de mi objeto es igual al de ustedes? ¿Por qué?</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>¡perfecto!</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Antes de la actividad, busque objetos que sean demasiado largos, demasiado cortos y “perfectos” para la mano de los niños. Comparta los objetos con el grupo y guíelos para crear un patrón usando solo dos tamaños: demasiado largo y demasiado corto.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida a los niños que practiquen crear diferentes patrones con los objetos: demasiado largo, demasiado largo, demasiado corto, demasiado corto, perfecto, perfecto; demasiado largo, perfecto, demasiado corto; etc.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Repase la palabra <ac_teacher-talk>perfecto</ac_teacher-talk>, junto con los términos de medición <ac_teacher-talk>largo</ac_teacher-talk> y <ac_teacher-talk>corto</ac_teacher-talk>. Cuando hable de cada término de medición, levante el objeto con el que lo demostró y colóquelo contra su mano para que los términos sean más concretos. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Apoyo para el déficit de atención </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Recuerde a los niños qué deben buscar para asegurarse de que se concentran en la tarea: <ac_teacher-speaking>¡Estoy impaciente por ver qué objetos “perfectos” encuentran! ¿Creen que un lápiz podría ser “perfecto”?</ac_teacher-speaking>
+          </ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66307-5</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>       <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>patrones de tamaño II</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Para esta actividad, necesitará bloques patrón. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cuando leímos <ac_teacher-speaking_emphasis_blue>Ricitos de oro y los tres osos,</ac_teacher-speaking_emphasis_blue> encontramos un patrón en las cosas de la casa: grande/mediano/pequeño, grande/mediano/pequeño.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, crearé un patrón con bloques patrón grandes y pequeños. ¡Ustedes describirán el patrón que hice y tratarán de hacerlo! También podrán crear sus propios patrones.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Demostrar</ac_teacher-card_run-in_hed>  Cree un patrón ABAB usando bloques patrón. Describa mientras señala cada bloque: <ac_teacher-speaking>¡Mi patrón es grande, pequeño, grande, pequeño!</ac_teacher-speaking> Luego, demuestre cómo continuar su propio patrón. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Describir</ac_teacher-card_run-in_hed>  Cree otro patrón con dos bloques patrón de diferentes tamaños. Pida a los niños que describan el patrón. Anímelos a señalar cada bloque mientras dicen el tamaño. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Copiar</ac_teacher-card_run-in_hed>  Pida a los niños que copien su patrón usando sus propios bloques patrón. Cuando terminen, pídales que señalen sus bloques y describan el patrón. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Use diferentes patrones para repetir la actividad: pequeño/pequeño, grande/grande, pequeño/grande/pequeño, etc. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Crear</ac_teacher-card_run-in_hed>  Anime a los niños a crear sus propios patrones. Cuando terminen, pídales que describan el patrón que crearon. </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar</ac_teacher-card_run-in_hed>  Hable sobre cómo fue describir y copiar patrones. <ac_teacher-speaking>¿Qué patrón fue fácil de hacer? ¿Qué patrón fue difícil? ¿Por qué creen que uno fue más difícil de hacer que el otro?</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>patrones de tamaño II</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Describa el patrón en voz alta a medida que lo hace. Pida a los niños que lo repitan. Para cada patrón, demuestre, junto con los niños, cómo continuarlo.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Agregue bloques patrón trapeciales como bloques “medianos” y cree patrones usando los tres tamaños. Anime a los niños a copiar su patrón y a continuarlo, usando todos los bloques que tienen.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Repase el vocabulario clave, como <ac_teacher-talk>grande</ac_teacher-talk>, <ac_teacher-talk>pequeño</ac_teacher-talk> y <ac_teacher-talk>patrón</ac_teacher-talk>. Antes de la actividad, pida a los niños que ordenen los bloques patrón en pequeños y grandes para reforzar la conexión con las palabras en este nuevo contexto. Saque bloques de cada pila a medida que cree los patrones. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Estimulación sensorial </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Para que los niños vean sus patrones como usted desea, asegúrese de que los niños y usted estén todos mirando hacia el mismo lado. Para que sus patrones se lean de izquierda a derecha, demuestre empezando por la izquierda y continuando hacia la derecha mirando los bloques desde el mismo lugar que los niños.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66307-5</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>       <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>¿QUÉ TAN grande es mi casa?</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Para esta actividad, necesitará bastantes cubos conectores para que los niños construyan estructuras de diferentes tamaños. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¡Cuando leímos <ac_teacher-speaking_emphasis_blue>La voz en casa de Conejo</ac_teacher-speaking_emphasis_blue>, vimos que todos los personajes eran de tamaños muy diferentes!</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, asignaré un personaje a cada uno. Su tarea será construir con cubos conectores una casa en la que ese personaje pueda vivir. No se preocupen si no es perfecta, ¡fíjense solo en que sea del tamaño correcto!</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el tamaño de los personajes</ac_teacher-card_run-in_hed>  Converse con los niños sobre los personajes del cuento y guíelos para entender este orden definido de tamaño: Oruga, Rana, Conejo, Leopardo y Rinoceronte. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asignar</ac_teacher-card_run-in_hed>  Asigne a cada niño un personaje para que le construya una casa. Recuérdeles que deben tener en cuenta el tamaño del personaje. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Construir</ac_teacher-card_run-in_hed>  Pida a los niños que construyan una casa para su personaje con cubos conectores. Anímelos a ser creativos y a no preocuparse por los detalles: lo que importa es el tamaño. </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre tamaño</ac_teacher-card_run-in_hed>  ¡Felicite a los niños por su buen trabajo de construcción! Compare el tamaño de las casas que construyeron y converse sobre la perspectiva: <ac_teacher-speaking>¡La casa de Leopardo parece perfecta para él! Si Oruga viviera en esta casa, ¿pensaría que es perfecta para ella? ¿Y qué pensaría Rinoceronte?</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>¿QUÉ TAN grande es mi casa?</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Asigne a los niños solo dos personajes para que construyan la casa: Oruga y Rinoceronte. También puede pedirles que se sienten en orden según el tamaño del personaje asignado y que cada niño construya desde la casa más pequeña hasta la más grande.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Asigne a cada niño su personaje en secreto. Cuando todos terminen de construir la casa, anímelos a adivinar para qué personaje construyó cada uno y a explicar por qué creen que la casa es para ese personaje.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Repase el vocabulario clave, señalando los cognados a los angloparlantes <ac_teacher-talk>leopardo</ac_teacher-talk> (leopard) y <ac_teacher-talk>rinoceronte</ac_teacher-talk> (rhinoceros). Al asignar el personaje a cada niño, haga un gesto con la mano para mostrar el tamaño del personaje. También puede buscar un conjunto de cinco objetos de distintas alturas y señalar el que representa el tamaño del personaje de cada niño. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad gruesa </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Pida a los niños que representen el tamaño de cada personaje. Pueden pararse muy estirados para hacerse altos y representar ser anchos como Rinoceronte o agacharse para ser la pequeña Oruga. Una vez que terminen las casas, anímelos a representar su personaje cuando entra en su casa. <ac_teacher-speaking>¿Cómo entra Oruga en la casa? ¡Arrastrémonos!</ac_teacher-speaking>
+          </ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66307-5</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

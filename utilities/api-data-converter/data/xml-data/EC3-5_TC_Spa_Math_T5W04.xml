@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="es">  <ac_card-1 day="1">    <ac_card-1_front>       <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>¿DÓNDE ESTÁ...?</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cuando leímos <ac_teacher-speaking_emphasis_blue>Simulacro de incendio,</ac_teacher-speaking_emphasis_blue> hablamos sobre dónde estaban los niños y los objetos usando palabras de ubicación.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el vocabulario</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Repasemos las palabras de ubicación.</ac_teacher-speaking> Use la tarjeta de vocabulario <ac_teacher-talk>cerca</ac_teacher-talk> para repasar la palabra. Repase otras palabras clave de ubicación que serán útiles para esta actividad: <ac_teacher-talk-emphasis>delante de</ac_teacher-talk-emphasis>, <ac_teacher-talk-emphasis>detrás</ac_teacher-talk-emphasis>, <ac_teacher-talk-emphasis>arriba</ac_teacher-talk-emphasis> y <ac_teacher-talk-emphasis>debajo</ac_teacher-talk-emphasis>. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, veremos tarjetas que muestran a niños en diferentes lugares. Haré preguntas sobre dónde están los niños y qué hay a su alrededor, y ustedes responderán usando palabras de ubicación.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre a los niños la primera tarjeta de actividad. Haga la pregunta de la tarjeta. Anime a los niños a responder repitiendo la palabra de ubicación usada. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Estimular</ac_teacher-card_run-in_hed>  Invite a los niños a usar otra palabra de ubicación para describir dónde está el niño y qué hay a su alrededor. Por ejemplo: <ac_teacher-speaking>Hay una computadora arriba del niño.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Pida a los niños que describan su propia posición con la primera palabra de ubicación. Por ejemplo: <ac_teacher-speaking>¿Qué hay debajo de ustedes ahora mismo?</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe con las tarjetas de actividad restantes. </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre ubicación</ac_teacher-card_run-in_hed>  Comente que muchas palabras de ubicación son opuestas: <ac_teacher-speaking>Cuando dijimos que el niño estaba debajo de la mesa, también podríamos haber dicho que la mesa estaba arriba del niño.</ac_teacher-speaking> Invite a los niños a conversar sobre otras palabras de ubicación que sean opuestas, como <ac_teacher-talk-emphasis>detrás</ac_teacher-talk-emphasis> y <ac_teacher-talk-emphasis>delante</ac_teacher-talk-emphasis>. Pregunte, <ac_teacher-speaking>¿Fue difícil decidir qué palabra de ubicación usar? ¿Cómo la eligieron?</ac_teacher-speaking>
+            </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>¿DÓNDE ESTÁ...?</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="1">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Demuestre cómo describir objetos con palabras de ubicación: <ac_teacher-speaking>El niño está debajo de la mesa. ¿Está el niño cerca de la mesa?</ac_teacher-speaking> Limite la actividad solo a dos o tres términos, como <ac_teacher-speaking>cerca</ac_teacher-speaking>, <ac_teacher-speaking>encima</ac_teacher-speaking> y <ac_teacher-speaking>debajo</ac_teacher-speaking>.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Invite a los niños a usar otras palabras de ubicación que puedan conocer para describir cada imagen, como <ac_teacher-talk-emphasis>entre</ac_teacher-talk-emphasis>, <ac_teacher-talk-emphasis>al lado</ac_teacher-talk-emphasis>, <ac_teacher-talk-emphasis>debajo</ac_teacher-talk-emphasis> y <ac_teacher-talk-emphasis>sobre</ac_teacher-talk-emphasis>.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Mientras repasa el vocabulario, haga una demostración con un objeto concreto, como un cubo conector. Cuando muestre una tarjeta, señale los elementos importantes y repase sus nombres, como <ac_teacher-talk>computadora, mesa</ac_teacher-talk> y <ac_teacher-talk>flores</ac_teacher-talk>, antes de pedir a los niños que describan su ubicación. Proporcione oraciones para completar según sea necesario. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Estimulación de la motricidad gruesa </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Invite a los niños a representar la palabra de ubicación para cada tarjeta. Pídales que pongan las manos debajo de las piernas, arriba de la cabeza, delante de la cara o detrás de la espalda. Anímelos también a levantarse y moverse, a sentarse debajo de una mesa o a pararse detrás de una silla.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65753-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>       <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>SIMÓN DICE: HAZLO CUIDADOSEMENTE</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cuando leímos <ac_teacher-speaking_emphasis_blue>Simulacro de incendio,</ac_teacher-speaking_emphasis_blue> vimos que los niños seguían instrucciones y se movían cuidadosamente en un simulacro de incendio. En esta actividad veremos si podemos seguir instrucciones y movernos muy cuidadosamente.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el vocabulario</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Repasemos la palabra cuidadosamente.</ac_teacher-speaking> Use la tarjeta de vocabulario <ac_teacher-talk>cuidadosamente</ac_teacher-talk> para repasar la palabra. Demuestre su significado hacieno movimientos cuidadosos y revisando lo que hay alrededor antes de moverse. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, les daré una instrucción que deberán hacer de una de dos maneras. Les diré qué hacer o les diré qué hacer cuidadosamente. ¡Escuchen lo que digo y hagan movimientos cuidadosos o no cuidadosos lo mejor que puedan!</ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Demostrar</ac_teacher-card_run-in_hed>  Demuestre movimientos cuidadosos y no cuidadosos. Primero diga: <ac_teacher-speaking>Pongan las manos sobre la cabeza</ac_teacher-speaking> y deje caer las manos con despreocupación sobre la cabeza. Luego diga: <ac_teacher-speaking>Pongan las manos sobre la cabeza CUIDADOSAMENTE</ac_teacher-speaking>, y demuestre muy lentamente y con cuidado cómo poner las manos sobre la cabeza, mirando a su alrededor para asegurarse de no tropezar con nada ni nadie. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Pedir</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Siéntense CUIDADOSAMENTE. Levántense.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe con las instrucciones, a veces repitiendo acciones. Asegúrese de que los niños actúen cuidadosamente cuando se les indique. Anímelos a exagerar ser cuidadosos mientras practican.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre ser cuidadoso</ac_teacher-card_run-in_hed>  Invite a los niños a comentar las diferencias entre hacer una acción normalmente y hacer la misma acción cuidadosamente. Señale la importancia de ser consciente no solo de su propio cuerpo, sino también de las personas que hay a su alrededor. </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>SIMÓN DICE: HAZLO CUIDADOSEMENTE</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Anime a los niños a moverse más despacio y a pensar en sus movimientos, para moverse de manera reflexiva y deliberada. Si es necesario, pida a los niños que se sienten en el piso para la primera ronda.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida a un niño que sea el líder que da instrucciones. Asegúrese de que el líder dé instrucciones para moverse de manera cuidadosa y no cuidadosa. Ayúdelo a demostrar los movimientos correctos cuando sea necesario.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Además de la palabra <ac_teacher-talk>cuidadosamente</ac_teacher-talk>, repase las palabras correspondientes a las partes del cuerpo, los movimientos y las palabras de ubicación antes de empezar la actividad. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad gruesa </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Seguir las instrucciones y exagerar los gestos puede ayudar a los niños a practicar habilidades de motricidad gruesa. Anime a los niños a hacer que sus movimientos sean lo más amplios y precisos posible.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65753-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>       <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>hacer una gráfica de nuestro mundo</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Para esta actividad, necesitará una cantidad desigual de dos manipulativos, como cubos conectores y fichas de dos colores. Haga una cuadrícula en la mesa con cinta de enmascarar para hacer casillas del mismo tamaño. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cuando leímos <ac_teacher-speaking_emphasis_blue>Simulacro de incendio,</ac_teacher-speaking_emphasis_blue> hicimos un seguimiento de los niños usando cubos conectores. También hicimos una tabla de triángulos, círculos y cuadrados. ¡Ahora vamos a hacer una tabla con objetos reales!</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, vamos a comparar dos tipos de objetos y ver de cuál hay más organizándolos en una gráfica y observándolos.</ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preparar</ac_teacher-card_run-in_hed>  Coloque la cinta y los objetos que clasificará. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Demostrar</ac_teacher-card_run-in_hed>  Tome un cubo conector. Diga que es un cubo y póngalo en una columna para cubos. Haga lo mismo con una ficha de dos colores. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¿Pueden continuar clasificando estos objetos en cubos o fichas? Vamos a agregarlos a la gráfica uno a uno.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe y haga que cada niño se turne para tomar un objeto y colocarlo en la columna correcta hasta que todos los objetos estén clasificados. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Pida a los niños que digan de qué objetos hay más, cubos o fichas. Pregunte cómo lo saben. </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre gráficas</ac_teacher-card_run-in_hed>  Invite a los niños a comentar la gráfica que hicieron durante la actividad y la que hicieron antes. Pregunte cómo creen que debería llamarse cada gráfica y qué pueden ver en cada una.  </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>hacer una gráfica de nuestro mundo</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Comience con pocos objetos con colores uniformes, como cinco cubos conectores azules, dos fichas de dos colores colocadas por la misma cara. Ayude a los niños a determinar en qué columna debe ir cada objeto, de uno en uno.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Una vez que la tabla de la mesa esté completa, trabaje con los niños para usar la tecnología en el salón de clases y crear una gráfica digital de dos columnas.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Comience la actividad usando las tarjetas de números para repasar el conteo del uno al diez. Además, repase los nombres de ambos tipos de objetos y asegúrese de que los niños entienden la conexión entre la palabra y la actividad. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Apoyo para el déficit de atención </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Los niños pueden distraerse con el ruido del salón de clases y tener problemas para concentrarse en la actividad. Dé a cada niño el siguiente objeto que deberá colocar con anticipación para que pueda empezar a pensar dónde ponerlo por adelantado. Es posible que a algunos niños les resulte más fácil clasificar primero todos los elementos y luego colocarlos en la tabla.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65753-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>       <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>detrás de  la cortina: ubicaciones</ac_header-game-card>
+        </section-block>
+      </masthead>       <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>         <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Para esta actividad, necesitará cubos conectores de varios colores y un libro o carpeta para usar como “cortina”. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En <ac_teacher-speaking_emphasis_blue>Cinco ranitas saltando en la cama,</ac_teacher-speaking_emphasis_blue> hablamos sobre dónde estaban las ranas y cómo no escucharon al doctor al principio. Para esta actividad, vamos a practicar cómo poner los cubos en los lugares correctos escuchando a la persona que da las instrucciones.</ac_teacher-speaking> </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, colocaré dos o tres cubos conectores detrás de esta cortina. Les diré cómo están colocados mis cubos, pero no se los mostraré. Ustedes colocarán sus cubos de la misma manera del otro lado de la cortina. Luego, levantaré la cortina y veremos si nuestros cubos coinciden.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>         <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preparar</ac_teacher-card_run-in_hed>  Ponga un cubo verde encima de un cubo azul escondidos detrás de su cortina. Deje cubos adicionales de todos los colores sobre la mesa, para los niños. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Pongo un cubo verde encima de un cubo azul. ¿Pueden poner un cubo verde encima de un cubo azul?</ac_teacher-speaking> Pida a los niños que coloquen los cubos en forma independiente. Luego, levante la cortina. Compare sus disposiciones y ayude a corregir cualquier malentendido. </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Describa disposiciones de cubos usando diferentes colores y números. Varíe las palabras de ubicación en cada ronda.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>         <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre ubicaciones</ac_teacher-card_run-in_hed>  Pida a los niños que expliquen cómo colocaron sus cubos. Comente qué términos de ubicación les parecieron difíciles y practiquen hacer disposiciones juntos usando esos términos. </ac_teacher-card-body>
+          </section-block>
+        </after-section>       </instructions>     </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>Detrás de  la cortina: ubicaciones</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_diff_support-challenge_heds>Apoye </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Para simplificar la actividad, use los mismos dos colores todas las veces, independientemente de la disposición de los cubos detrás de la cortina. Esto permite que los niños necesiten tener en cuenta menos cosas para recrear su disposición.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_diff_support-challenge_heds>Estimule </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Intercambien los papeles. Pida a los niños que hagan sus propias disposiciones para que usted las copie detrás de la cortina. Si su disposición no coincide con la del niño, haga preguntas para ayudarlo a determinar qué causó la diferencia.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="1">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Para empezar la actividad, repase palabras de posición como <ac_teacher-talk-emphasis>sobre</ac_teacher-talk-emphasis>, <ac_teacher-talk-emphasis>al lado</ac_teacher-talk-emphasis>, <ac_teacher-talk-emphasis>junto a</ac_teacher-talk-emphasis>, <ac_teacher-talk-emphasis>delante de</ac_teacher-talk-emphasis>, <ac_teacher-talk-emphasis>cerca</ac_teacher-talk-emphasis>, <ac_teacher-talk-emphasis>lejos</ac_teacher-talk-emphasis> y <ac_teacher-talk-emphasis>detrás</ac_teacher-talk-emphasis> con cubos conectores. Use estos manipulativos para demostrar la colocación usando palabras de ubicación. </ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo del habla </ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Explique que a veces hay más de una palabra de ubicación que significa lo mismo. Por ejemplo, puede decir que el cubo azul está encima del cubo rojo, o que el cubo rojo está <ac_teacher-talk>debajo del</ac_teacher-talk> cubo azul. También puede describir dos cubos como uno <ac_teacher-talk>cerca</ac_teacher-talk> del otro o como uno <ac_teacher-talk>junto al</ac_teacher-talk> otro.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-65753-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./preview-styles.css" type="text/css"?>
+<teaching-guide xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" lang="en">
+  <day_1>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 3:</tg_week_hed>
+        <tg_topic_hed>Taking Care</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9780439241014_FC_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Book: <tg_materials-caption_book-title-Ital>How Do Dinosaurs Get Well Soon?</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC%20Redux%20T5_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large Group Card</tg_materials-caption>
+        <graphic href="VC%20Redux%20Eng%20T5_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Vocabulary Cards</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Literacy:</tg_learning-goals_inline-hed>Print Concepts; Read-Aloud Comprehension; Alphabet Knowledge</tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Physical Development:</tg_learning-goals_inline-hed> Health</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to talk about the alphabet <tg_bullet-directions_vocab>(Ff, Ll, Mm)</tg_bullet-directions_vocab>, engage children with song and rhymes, and introduce the vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>whine</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>between</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Begin Story Time by introducing the guiding question: <tg_bullet-directions_guiding-question>What happens when a dinosaur gets</tg_bullet-directions_guiding-question> <tg_bullet-directions_guiding-question>the flu?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Read for enjoyment and understanding.</tg_bullet-directions>
+        <tg_bullet-directions>Differentiate as needed.</tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Literacy</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Print Concepts:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Understand conventions of print including end punctuation and case.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Read-Aloud Comprehension:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Uses information to describe.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Alphabet Knowledge:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Produce at least 20 letter-sound correspondences.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivation and Creativity:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Talk and share.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Physical Development </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Health:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Exercise good habits of personal health and hygiene.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Fun With Alphabet Books</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AlphabetCards_Eng_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Alphabet Cards</tg_materials-caption>
+        <graphic href="AC_Redux_Eng_Lit_T5_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Activity Card</tg_materials-caption>
+        <graphic href="EC3-5_AlphabetBook_COV_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Alphabet Books</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Literacy:</tg_learning-goals_inline-hed> Alphabet Knowledge; Read-Aloud Comprehension</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Review the sounds for <tg_bullet-directions_emphasis_Ital>Ff, Ll,</tg_bullet-directions_emphasis_Ital> and <tg_bullet-directions_emphasis_Ital>Mm </tg_bullet-directions_emphasis_Ital>with children.</tg_bullet-directions>
+        <tg_bullet-directions>Give children alphabet books to explore: <tg_bullet-directions_emphasis_Ital>What Can You Find?</tg_bullet-directions_emphasis_Ital>, <tg_bullet-directions_emphasis_Ital>The Little Lion</tg_bullet-directions_emphasis_Ital>, and <tg_bullet-directions_emphasis_Ital>My Mess.</tg_bullet-directions_emphasis_Ital></tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed. </tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>How can we stay healthy?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND LISTENING CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you find a character in your book who doesn’t feel well?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND LEARN CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Pretend you are a sick dinosaur.  How would you act?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND SCIENCE CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you name two things you may do to get well if you’re sick? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S CORNER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you write what you would tell a sick dino to do to get well soon?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY STATION</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you draw your favorite dino from the book?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you say the sounds made by the letters <tg_teacher-talk_emphasis_non-ital>Ff, Ll, </tg_teacher-talk_emphasis_non-ital>and <tg_teacher-talk_emphasis_non-ital>Mm</tg_teacher-talk_emphasis_non-ital>? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>How can you build a place for a dino to rest until he feels better?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. How Do Dinosaurs Get Well Soon? by Jane Yolen, illustrated by Mark Teague. Text copyright © 2003 by Jane Yolen. Illustrations copyright © 2003 by Mark Teague. Published by Scholastic Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_1>
+  <day_2>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 3:</tg_week_hed>
+        <tg_topic_hed>Taking Care</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9780439241014_FC_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Book: <tg_materials-caption_book-title-Ital>How Do Dinosaurs Get Well Soon?</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC%20Redux%20T5_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large Group Card</tg_materials-caption>
+        <graphic href="VC%20Redux%20Eng%20T5_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Vocabulary Cards</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Literacy:</tg_learning-goals_inline-hed>Alphabet Knowledge; Print Concepts</tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed>Emotional Development; Motivation and Creativity</tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Physical Development:</tg_learning-goals_inline-hed> Health</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to share the Mind Builder <tg_bullet-directions_bold-italic>move carefully through surroundings</tg_bullet-directions_bold-italic> and <tg_bullet-directions_bold-italic>Talk and Share</tg_bullet-directions_bold-italic> and introduce the vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>share</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Begin Story Time by connecting the Mind Builder to the book <tg_bullet-directions_book-title>How Do Dinosaurs Get Well Soon</tg_bullet-directions_book-title>
+          <tg_bullet-directions_guiding-question>?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Read closely and discuss the Mind Builders.</tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Literacy</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Alphabet Knowledge:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Identify at least 20 uppercase and at least 20 lowercase letters in text.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Print Concepts:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Understand conventions of print, including end punctuation and case.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Emotional Development:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Identify their own bodies within surroundings and respects others’ personal space.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivation and Creativity:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Talk and share.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Physical Development </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Health:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Exercise good habits of personal health and hygiene.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Fine Arts </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Art:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Use different art materials for exploration and for sensory experience.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Dino Says</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lit_T5_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Activity Card</tg_materials-caption>
+        <graphic href="EC_stock_ArtSupplies_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Art Supplies</tg_materials-caption>
+        <graphic href="EC_stock_PaperPlates_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Paper Plates </tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Mind Builders:</tg_learning-goals_inline-hed> Emotional Development; Motivation and Creativity </tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Fine Arts:</tg_learning-goals_inline-hed> Art</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Invite children to create Stegosaurus dinosaur puppets.</tg_bullet-directions>
+        <tg_bullet-directions>Have children use their puppets to practice respecting personal space.</tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed. </tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>How can we stay healthy?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND LISTENING CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you find ways that the characters in your book respect each others’ personal space?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND LEARN CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What sounds does a sick dino make? Can you make those sounds?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND SCIENCE CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you make a number game with counters for sick dinosaurs to play?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S CORNER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Imagine you had a real personal-space bubble that eveyrone could see. Can you write about what that would be like?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY STATION</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you draw your personal-space bubble? Show yourself inside it!</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you draw things that start with the letter <tg_teacher-talk_emphasis_non-ital>Ff</tg_teacher-talk_emphasis_non-ital>? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you build a personal-space bubble around yourself?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. How Do Dinosaurs Get Well Soon? by Jane Yolen, illustrated by Mark Teague. Text copyright © 2003 by Jane Yolen. Illustrations copyright © 2003 by Mark Teague. Published by Scholastic Inc. Clifford the Big Red DogTM illustration copyright © The Norman Bridwell Trust. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved.Photo © Aleksey Sagitov/Shutterstock. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_2>
+  <day_3>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 3:</tg_week_hed>
+        <tg_topic_hed>Taking Care</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9780439241014_FC_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Book: <tg_materials-caption_book-title-Ital>How Do Dinosaurs Get Well Soon?</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC%20Redux%20T5_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large Group Card</tg_materials-caption>
+        <graphic href="VC%20Redux%20Eng%20T5_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Vocabulary Cards</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Literacy:</tg_learning-goals_inline-hed>Read-Aloud Comprehension; Print Concepts; Phonological Awareness </tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Physical Development:</tg_learning-goals_inline-hed> Health</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to build background on healthy habits and introduce the vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>whispers</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Begin Story Time by revisiting the book and ask: <tg_bullet-directions_guiding-question>What can a dinosaur do to get well soon?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Read interactively for deeper comprehension.</tg_bullet-directions>
+        <tg_bullet-directions>Check for understanding and differentiate as needed.</tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Literacy</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Phonological Awareness:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Identify rhyming words.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Read-Aloud Comprehension:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Make inferences.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Print Concepts:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Understand conventions of print, including end punctuation and case.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Writing:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Write for different purposes.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivation and Creativity:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Talk and share.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Physical Development </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Health:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Exercise good habits of personal health and hygiene.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Fine Arts </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Art:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Use art for self-expression.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Rhyme Time</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Lit_T5_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Activity Card</tg_materials-caption>
+        <graphic href="EC_stock_ArtSupplies_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Art Supplies</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Literacy:</tg_learning-goals_inline-hed> Phonological Awareness; Writing</tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Fine Arts:</tg_learning-goals_inline-hed> Art</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Help children identify rhyming words in pictures and print.</tg_bullet-directions>
+        <tg_bullet-directions>Guide children to create get well cards for a sick dinosaur.</tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed. </tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>How can we stay healthy?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND LISTENING CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>How are the characters in your book like the dinosaurs in our story? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND LEARN CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What would you tell a sick dinosaur to do to get well soon?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND SCIENCE CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you pretend you’re a sick dinosaur and quietly work on some puzzles?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S CORNER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you write about a time when you were sick?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY STATION</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you make a dinosaur stick puppet?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you draw things that start with the letter <tg_teacher-talk_emphasis_non-ital>Ll</tg_teacher-talk_emphasis_non-ital>?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you build a doctor’s office for the sick dinosaur?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. How Do Dinosaurs Get Well Soon? by Jane Yolen, illustrated by Mark Teague. Text copyright © 2003 by Jane Yolen. Illustrations copyright © 2003 by Mark Teague. Published by Scholastic Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Photo © Aleksey Sagitov/Shutterstock.</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_3>
+  <day_4>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 3:</tg_week_hed>
+        <tg_topic_hed>Taking Care</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="EC_FC_Eng_T5W3_redux_cropped.png" index="1"/>
+        <tg_materials-caption index="1">
+          <tg_materials-caption_book-title-Ital>Big Chart of Big Ideas: Keep Your Hands Clean</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC%20Redux%20T5_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large Group Card</tg_materials-caption>
+        <graphic href="VC%20Redux%20Eng%20T5_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Vocabulary Cards</tg_materials-caption>
+        <graphic href="9780439241014_FC_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Book: How Do Dinosaurs Get Well Soon?</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Literacy:</tg_learning-goals_inline-hed> Read-Aloud Comprehension; Writing</tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Physical Development:</tg_learning-goals_inline-hed> Health</tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Fine Arts:</tg_learning-goals_inline-hed> Drama</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to introduce the <tg_bullet-directions_emphasis_Ital>Big Chart of Big Ideas</tg_bullet-directions_emphasis_Ital>; talk about healthy habits, and introduce the vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>scrub</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>rinse</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Begin Story Time by connecting the texts <tg_bullet-directions_book-title>Keep Your Hands Clean</tg_bullet-directions_book-title> and <tg_bullet-directions_guiding-question>How Do Dinosaurs Get</tg_bullet-directions_guiding-question> <tg_bullet-directions_guiding-question>Well Soon?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Offer an extended play opportunity.</tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Literacy</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Read-Aloud Comprehension:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Use information to describe; relate own experiences to those in books.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Writing:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Write for different purposes.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivation and Creativity:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Talk and share.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Physical Development </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Health:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Exercise good habits of personal health and hygiene.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Fine Arts </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Drama:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Act out to recreate and retell stories, moods, or experiences.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>We Wash Our Hands!</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC_FC_Eng_T5W3_redux_cropped.png" index="1"/>
+        <tg_materials-caption index="1">
+          <tg_materials-caption_book-title-Ital>Big Chart of Big Ideas</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Literacy:</tg_learning-goals_inline-hed> Read-Aloud Comprehension</tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Physical Development:</tg_learning-goals_inline-hed> Health</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Help children practice the healthy habit of handwashing after their hands get dirty.</tg_bullet-directions>
+        <tg_bullet-directions>Guide children to follow and order the directions for handwashing.</tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed. </tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>How can we stay healthy?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND LISTENING CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Why do we wash our hands?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND LEARN CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Pretend your hands are covered with sticky goo. How will you get them clean?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND SCIENCE CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Put these steps for washing hands in the correct order: Dry, Rinse, Scrub, Soap, Wet</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S CORNER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you write about why we should wash our hands?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY STATION</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Trace your hand on a piece of paper. Can you decorate it?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you put these letters in alphabetical order: l, f, m?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you build a step to help a dinosaur or animal reach the sink?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. How Do Dinosaurs Get Well Soon? by Jane Yolen, illustrated by Mark Teague. Text copyright © 2003 by Jane Yolen. Illustrations copyright © 2003 by Mark Teague. Published by Scholastic Inc.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Photo © originalpunkt/Shutterstock.</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_4>
+  <day_5>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 3:</tg_week_hed>
+        <tg_topic_hed>Taking Care</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9780439241014_FC_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Book: <tg_materials-caption_book-title-Ital>How Do Dinosaurs Get Well Soon?</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC%20Redux%20T5_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large Group Card</tg_materials-caption>
+        <graphic href="VC%20Redux%20Eng%20T5_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Vocabulary Cards</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Literacy:</tg_learning-goals_inline-hed> Read-Aloud Comprehension</tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> Motivation and Creativity  </tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Physical Development:</tg_learning-goals_inline-hed> Health</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to sing a song and review vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>share</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>between</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Begin Story Time by revisiting the book and asking the guiding question: <tg_bullet-directions_guiding-question>What might children do if they get the flu?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Read and retell interactively for physical engagement and enjoyment.</tg_bullet-directions>
+        <tg_bullet-directions>Check for understanding. Differentiate as needed.</tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing activity.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Literacy</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Read-Aloud Comprehension:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Share and repeat details in a text.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Writing:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Write for different purposes.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivation and Creativity:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Talk and share.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Physical Development </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Health:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Exercise good habits of personal health and hygiene.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Fine Arts </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Drama:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Act out to recreate and retell stories, moods, or experiences.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Independent Writing</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC3-5_ResponsePrompt_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Response Prompt</tg_materials-caption>
+        <graphic href="EC_stock_WritingTools_95648428_90156058_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Writing Tools</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Literacy:</tg_learning-goals_inline-hed>  Writing</tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Physical Development:</tg_learning-goals_inline-hed> Health</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Support children as they independently respond to this week’s writing prompt: <tg_bullet-directions_guiding-question>When you’re sick, what might you do to get well?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed. </tg_bullet-directions>
+        <tg_bullet-directions>Save children’s writing to display next week.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>How can we stay healthy?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND LISTENING CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Which sick dinosaur that we’ve read about is your favorite?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND LEARN CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you pretend to be a doctor? How would you take care of the sick dinosaurs?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND SCIENCE CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you find the real names of the dinosaurs hidden in the book?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed> WRITER’S CORNER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Imagine you are taking care of a sick dinosaur. Can you write about it? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY STATION</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Draw a picture of your favorite dino from the book.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you draw things that start with the letter <tg_teacher-talk_emphasis_non-ital>Mm</tg_teacher-talk_emphasis_non-ital>?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION CENTER</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you build a bed where the sick dinosaur can rest?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. How Do Dinosaurs Get Well Soon? by Jane Yolen, illustrated by Mark Teague. Text copyright © 2003 by Jane Yolen. Illustrations copyright © 2003 by Mark Teague. Published by Scholastic Inc.</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Photos © Shutterstock: crayons (Lucie Lang), pencils (urfin).</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_5>
+  <day_1_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Literacy</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Print Concepts:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Identify some conventional features of print that communicate meaning including end punctuation and case.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.III.E.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Read-Aloud Comprehension:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Use information learned from books by describing relating, categorizing, or comparing and contrasting.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.III.D.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Alphabet Knowledge:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Produce at least 20 distinct letter-sound correspondences in the language of instruction.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.III.C.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivation and Creativity:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Talk and share.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Physical Development</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Health:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Practice good habits of personal health and hygiene.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.IX.C.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_1_texas>
+  <day_2_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Literacy</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Alphabet Knowledge:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Produce at least 20 distinct letter-sound correspondences in the language of instruction.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.III.C.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Print Concepts:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Identify some conventional features of print that communicate meaning including end punctuation and case.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.III.E.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builders</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Emotional Development:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Are aware of their own bodies in space and respect personal boundaries.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.I.A.1, MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivation and Creativity:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Talk and share.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Physical Development</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Health:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Practice good habits of personal health and hygiene.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.IX.C.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Fine Arts</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Art:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Use a variety of art materials and activities for sensory experience and exploration.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.VIII.A.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_2_texas>
+  <day_3_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Literacy</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Phonological Awareness:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Recognize rhyming words.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.III.B.6)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Read-Aloud Comprehension:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Make inferences and predictions about text.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.III.D.4)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Print Concepts:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Identify some conventional features of print that communicate meaning including end punctuation and case.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.III.E.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Writing:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Independently write to communicate ideas for a variety of purposes.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.IV.A.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivation and Creativity:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Talk and share.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Physical Development</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Health:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Practice good habits of personal health and hygiene.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.IX.C.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Fine Arts</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Art:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Use art as a form of creative self-expression and representation.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.VIII.A.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_3_texas>
+  <day_4_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Literacy</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Read-Aloud Comprehension:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Uses information learned from books by describing relating, categorizing, or comparing and contrasting.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.III.D.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Writing:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Independently write to communicate ideas for a variety of purposes.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.IV.A.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivation and Creativity:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Talk and share.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Physical Development</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Health:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Practice good habits of personal health and hygiene.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.IX.C.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Fine Arts</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Drama:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Create or recreate stories, moods, or experiences through dramatic representations.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.VIII.C.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_4_texas>
+  <day_5_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Literacy</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Read-Aloud Comprehension:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Retell or reenact a story after it is read aloud.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.III.D.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Writing:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Independently write to communicate ideas for a variety of purposes.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.VI.A.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motivation and Creativity:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Talk and share.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Physical Development</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Health:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Practice good habits of personal health and hygiene.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.IX.C.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Fine Arts</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Drama:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Create or recreate stories, moods, or experiences through dramatic representations.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.VIII.C.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_5_texas>
+</teaching-guide>

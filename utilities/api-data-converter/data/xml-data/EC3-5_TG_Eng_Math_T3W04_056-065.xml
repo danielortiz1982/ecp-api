@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./preview-styles.css" type="text/css"?>
+<teaching-guide xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" lang="en">
+  <day_1>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 4: </tg_week_hed>
+        <tg_topic_hed>Make It Move</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338609684_COV_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Book:  <tg_materials-caption_book-title-Ital>The Seesaw</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T3_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large  Group Card</tg_materials-caption>
+        <graphic href="VC Redux Eng T3_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Vocabulary Cards</tg_materials-caption>
+        <graphic href="EC_stock_MeasuringTools_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Measuring Tools</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed>  Measurement </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  Social Development </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed> Vocabulary</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to practice measurement, engage children with a game, and introduce vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>seesaw</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>weigh</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Begin Story Time by introducing the book and asking, <tg_bullet-directions_guiding-question>What animals use the seesaw?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Read for enjoyment and understanding, comparing animals by weight. </tg_bullet-directions>
+        <tg_bullet-directions>Check understanding, differentiating as needed.  </tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Measure, describe, and compare height and length of objects using like units and words like “small,” “big,” “short,” “tall,” and “long ”; Informally describe and compare the weight of objects using like units and words like “heavy” and “light.</tg_skills-focus-skill-text>” </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Social Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Initiate play and join a group in play.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Understand a large number of words and begin to use more and more of those words.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Let’s Compare!</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T3_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Activity Card</tg_materials-caption>
+        <graphic href="NumberCards_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Number Cards</tg_materials-caption>
+        <graphic href="EC_stock_Blocks_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Classroom Objects</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed>  Measurement </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  Social Development</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will:  </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Gather classroom objects for children to compare. </tg_bullet-directions>
+        <tg_bullet-directions>Challenge children to compare two objects first by size and then by weight. </tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>How can we make things go? </tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND  LISTENING CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Is there anything really heavy in the story? What is it? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND  LEARN CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you pretend to play on a seesaw? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND  SCIENCE CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Compare different objects. Which weigh more? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S  CORNER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Write a story that happens on a playground. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY  STATION </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What can you make that weighs a lot? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC  CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What is the first letter sound you hear in the word <tg_teacher-talk_emphasis_non-ital>seesaw</tg_teacher-talk_emphasis_non-ital>? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION  CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you build a seesaw?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. The Seesaw by Judith Koppens, illustrated by Eline van Lindenhuizen. Copyright © 2013 by Clavis Publishing Inc. Published by Scholastic Inc. by arrangement with Clavis Publishing Inc. Photos © Shutterstock: measuring bowls (Cattlaya Art), measuring tape (pogonici), ruler (photastic).</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_1>
+  <day_2>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 4: </tg_week_hed>
+        <tg_topic_hed>Make It Move</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338609684_COV_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Book:  <tg_materials-caption_book-title-Ital>The Seesaw</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T3_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large  Group Card</tg_materials-caption>
+        <graphic href="VC Redux Eng T3_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Vocabulary  Cards</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Measurement </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  Social Development </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Language:</tg_learning-goals_inline-hed>  Vocabulary</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to share the Mind Builder <tg_bullet-directions_guiding-question>work together towards a goal</tg_bullet-directions_guiding-question> and introduce vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>work together</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>goal</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Begin Story Time by connecting the Mind Builder to <tg_bullet-directions_book-title>The Seesaw</tg_bullet-directions_book-title>. </tg_bullet-directions>
+        <tg_bullet-directions>Read closely to notice and talk about working together and measuring the animals. </tg_bullet-directions>
+        <tg_bullet-directions>Offer an extended play opportunity. </tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Measure, describe, and compare height and length of objects using like units and words like “small,” “big,” “short,” “tall,” and “long ”; Informally describe and compare the weight of objects using like units and words like “heavy” and “light.</tg_skills-focus-skill-text>”</tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operations:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Understand that adding or taking away one from a small group of objects changes the total quantity by one.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Social Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Initiate play and join a group in play.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Science </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Physical Science:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identify, investigate, talk about, and describe the location and movement of common objects.</tg_skills-focus-skill-text>  </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Understand a large number of words and begin to use more and more of those words.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Build a Seesaw</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T3_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Activity Card</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Connecting Cubes</tg_materials-caption>
+        <graphic href="EC_stock_Blocks_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Building Blocks</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed> Measurement; Operations </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  Social Development </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Science:</tg_learning-goals_inline-hed> Physical Science</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will:  </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Give children materials to work together with a partner to build a seesaw. </tg_bullet-directions>
+        <tg_bullet-directions>Have children place cubes on their seesaws to compare amounts. </tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>How can we make things go? </tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND  LISTENING CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Do the characters in your book work together? How? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND  LEARN CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you add a friend to your pretend activity? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND  SCIENCE CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Weigh objects on a balance scale. Which weighs more? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S  CORNER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>How can you work together with a friend to move something? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY  STATION </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Can you show people working together? What are they doing? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC  CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What sounds do you hear in <tg_teacher-talk_emphasis_non-ital>work</tg_teacher-talk_emphasis_non-ital>?  </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION  CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What can you and a friend build together?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. The Seesaw by Judith Koppens, illustrated by Eline van Lindenhuizen. Copyright © 2013 by Clavis Publishing Inc. Published by Scholastic Inc. by arrangement with Clavis Publishing Inc. Clifford the Big Red DogTM illustration copyright  © The Norman Bridwell Trust. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Photo © Nenov Brothers Images/Shutterstock.</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_2>
+  <day_3>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 4: </tg_week_hed>
+        <tg_topic_hed>Make It Move</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338609684_COV_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Book:  <tg_materials-caption_book-title-Ital>The Seesaw</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T3_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large  Group Card</tg_materials-caption>
+        <graphic href="VC Redux Eng T3_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Vocabulary  Cards</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed>  Counting; Operations; Measurement </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  Social Development</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to review operations, engage children with a song, and introduce vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>more</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>less</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Begin Story Time by revisiting <tg_bullet-directions_book-title>The Seesaw</tg_bullet-directions_book-title> and asking the guiding question, <tg_bullet-directions_guiding-question>How does the seesaw show which side weighs more?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Read interactively for deeper comprehension and to review adding and subtracting one. </tg_bullet-directions>
+        <tg_bullet-directions>Check understanding. Differentiate as needed. </tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Counting:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Understand that the order in which items are arranged or counted does not affect the total count.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Measure, describe, and compare height and length of objects using like units and words like “small,” “big,” “short,” “tall,” and “long ”; Informally describe and compare the weight of objects using like units and words like “heavy” and “light.</tg_skills-focus-skill-text>” </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operations:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Understand that adding or taking away one from a small group of objects changes the total quantity by one.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Social Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Initiate play and join a group in play.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Physical Development </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Fine Motor:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Experiment with a variety of fine-motor tasks but may lack strength and control.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Balance It Out</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T3_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Activity Card</tg_materials-caption>
+        <graphic href="EC_stock_Scale_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Balance Scale</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Connecting Cubes</tg_materials-caption>
+        <graphic href="EC_stock_Buttons_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Small Objects</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed>  Counting; Operations; Measurement </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Physical Development:</tg_learning-goals_inline-hed>  Fine Motor</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will:  </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Challenge children to weigh objects compared to Connecting Cubes. </tg_bullet-directions>
+        <tg_bullet-directions>Guide children to identify which side weighs more and which side weighs less. </tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>How can we make things go? </tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND  LISTENING CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What goal does the person in the story have? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND  LEARN CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Pretend to make muffins. How many did you make? How many is one more? How many is one less? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND  SCIENCE CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Count items. How does the count change when you add one more? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S  CORNER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What do you and your friends like to play together? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY  STATION </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk> Draw a picture of something tall. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC  CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Use letters to make the word <tg_teacher-talk_emphasis_non-ital>go</tg_teacher-talk_emphasis_non-ital>. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION  CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>How tall can you make a tower of blocks? Do you think you could make it even taller?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. The Seesaw by Judith Koppens, illustrated by Eline van Lindenhuizen. Copyright © 2013 by Clavis Publishing Inc. Published by Scholastic Inc. by arrangement with Clavis Publishing Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. Photos © Shutterstock: buttons  (Rainbow4527), scale (Victor Moussa).</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_3>
+  <day_4>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 4: </tg_week_hed>
+        <tg_topic_hed>Make It Move</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="EC_FC_Eng_T3W4_redux_cropped.png" index="1"/>
+        <tg_materials-caption index="1">
+          <tg_materials-caption_book-title-Ital>Big Chart of Big Ideas: The Great Big Enormous Yuca</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T3_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large  Group Card</tg_materials-caption>
+        <graphic href="9781338609684_COV_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Book:  <tg_materials-caption_book-title-Ital>The Seesaw</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="VC Redux Eng T3_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Vocabulary Cards</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed>  Counting; Operations; Measurement </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  Social Development</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to discuss operations and counting, engage children with dance, and introduce vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>pull</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>enormous</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Begin Story Time by connecting the texts <tg_bullet-directions_book-title>The Great Big Enormous Yuca</tg_bullet-directions_book-title> and <tg_bullet-directions_book-title>The Seesaw</tg_bullet-directions_book-title>. </tg_bullet-directions>
+        <tg_bullet-directions>Read interactively and connect to counting and working together by showing how many characters pull the yuca. </tg_bullet-directions>
+        <tg_bullet-directions>Offer an extended play opportunity. </tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Counting:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Understand that the order in which items are arranged or counted does not affect the total count.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operations:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Understand that adding or taking away one from a small group of objects changes the total quantity by one.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Measure, describe, and compare height and length of objects using like units and words like “small,” “big,” “short,” “tall,” and “long ”; Informally describe and compare the weight of objects using like units and words like “heavy” and “light.</tg_skills-focus-skill-text>”</tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Social Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Initiate play and join a group in play.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Science </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Physical Science:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identify, investigate, talk about, and describe the location and movement of common objects.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>How Many Yuca?</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T3_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Activity Card </tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Connecting Cubes</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed>  Operations; Counting </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Science:</tg_learning-goals_inline-hed> Physical Science</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will:  </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Give children Connecting Cubes to represent yuca plants. </tg_bullet-directions>
+        <tg_bullet-directions>Guide children to discuss how adding or taking away one affects the total number in all. </tg_bullet-directions>
+        <tg_bullet-directions>Discuss push and pull. </tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>How can we make things go? </tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND  LISTENING CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What is this story about? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND  LEARN CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Pretend to pull up something big and heavy. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND  SCIENCE CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Count how many there are from one side. Then count from the other. Is the number the same? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S  CORNER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Write about two people who work together. What happens when one more helps? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY  STATION </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Make something that is enormous. How can you tell it is so big? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC  CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Which letter sound do you hear at the end of <tg_teacher-talk_emphasis_non-ital>pull</tg_teacher-talk_emphasis_non-ital>? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION  CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Make something you can pull. </tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. The Seesaw by Judith Koppens, illustrated by Eline van Lindenhuizen. Copyright © 2013 by Clavis Publishing Inc. Published by Scholastic Inc. by arrangement with Clavis Publishing Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_4>
+  <day_5>
+    <week>
+      <section-block>
+        <tg_week_hed>WEEK 4: </tg_week_hed>
+        <tg_topic_hed>Make It Move</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Circle Time and Story Time</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338609684_COV_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Book:  <tg_materials-caption_book-title-Ital>The Seesaw</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC Redux T3_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Large  Group Card</tg_materials-caption>
+        <graphic href="VC Redux Eng T3_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Vocabulary  Card</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed>  Measurement </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  Social Development </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Science:</tg_learning-goals_inline-hed>  Physical Science</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>In this lesson, you will: </tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use Circle Time to connect the book to physical science, engage children with song, and introduce vocabulary <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>equal</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>. </tg_bullet-directions>
+        <tg_bullet-directions>Start Story Time by revisiting the book and asking,<tg_bullet-directions_guiding-question> What makes the seesaw go up and down?</tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Read and retell interactively for physical engagement and a focus on measurement. </tg_bullet-directions>
+        <tg_bullet-directions>Check understanding. Differentiate as needed. </tg_bullet-directions>
+        <tg_bullet-directions>Share the daily writing option.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Measure, describe, and compare height and length of objects using like units and words like “small,” “big,” “short,” “tall,” and “long ”; Informally describe and compare the weight of objects using like units and words like “heavy” and “light.</tg_skills-focus-skill-text>”</tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operations:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Understand that adding or taking away one from a small group of objects changes the total quantity by one.</tg_skills-focus-skill-text> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Social Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Initiate play and join a group in play.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Science </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Physical Science:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Identify, investigate, talk about, and describe the location and movement of common objects.</tg_skills-focus-skill-text>  </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Literacy </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Writing:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Write for different purposes.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Independent Writing, Drawing, or Storytelling</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC3-5_ResponsePrompt_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Response Prompt</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Math:</tg_learning-goals_inline-hed>  Counting; Operations </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed>  Social Development </tg_learning-goal-body>
+        <tg_learning-goal-body>
+          <tg_learning-goals_inline-hed>Literacy:</tg_learning-goals_inline-hed> Writing</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>In this activity, you will:  </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Support children as they independently respond to the prompt: <tg_bullet-directions_guiding-question>How can you meet a goal by working together? </tg_bullet-directions_guiding-question> </tg_bullet-directions>
+        <tg_bullet-directions>Differentiate and modify as needed. </tg_bullet-directions>
+        <tg_bullet-directions>Save children’s writing to display next week.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Purposeful Play</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>How can we make things go? </tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>LIBRARY AND  LISTENING CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>How did characters in the story work together? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>PRETEND AND  LEARN CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>What can you do to pretend to make something move? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>MATH AND  SCIENCE CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>How many can you count? What happens if you take away one? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>WRITER’S  CORNER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Why is it important for people moving something very heavy to work together? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CREATIVITY  STATION </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Draw a seesaw. How can you show one side weighs more than the other? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ABC  CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Trace the word <tg_teacher-talk_emphasis_non-ital>equal</tg_teacher-talk_emphasis_non-ital> using your finger. </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CONSTRUCTION  CENTER </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Work with a partner on a tower. What is your goal? How can you work together to make that happen? </tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. The Seesaw by Judith Koppens, illustrated by Eline van Lindenhuizen. Copyright © 2013 by Clavis Publishing Inc. Published by Scholastic Inc. by arrangement with Clavis Publishing Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_5>
+  <day_1_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Recognize and compare heights or lengths of people or objects.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.D.1);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Informally recognize and compare weights of objects or people.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.D.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Social Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Increasingly interact and communicate with peers to initiate pretend play scenarios that share a common plan and goal.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.C.4, MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demonstrate understanding in a variety of ways or knowing the meaning of 3,000 to 4,000 words, many more than they use.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_1_texas>
+  <day_2_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Recognize and compare heights or lengths of people or objects.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.D.1);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Informally recognize and compare weights of objects or people.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.D.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operations:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use concrete objects, create pictorial models and share a verbal word problem for adding up to 5 objects.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.B.1);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Use concrete models or make a verbal word problem for subtracting 0–5 objects from a set.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.B.2)</tg_skills-focus-skill-code>  </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Social Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Increasingly interact and communicate with peers to initiate pretend play scenarios that share a common plan and goal.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.C.4, MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Language </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulary:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demonstrate understanding in a variety of ways or knowing the meaning of 3,000 to 4,000 words, many more than they use.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.II.D.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Science </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Physical Science:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observe, investigate, describe, and discuss position and motion of objects.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.A.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_2_texas>
+  <day_3_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Counting:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demonstrate understanding that when counting, the items can be chosen in any order.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.6)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Recognize and compare heights or lengths of people or objects.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.D.1);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Informally recognize and compare weights of objects or people.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.D.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operations:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use concrete objects, create pictorial models and share a verbal word problem for adding up to 5 objects.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.B.1);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Use concrete models or make a verbal word problem for subtracting 0–5 objects from a set.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.B.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Social Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Increasingly interact and communicate with peers to initiate pretend play scenarios that share a common plan and goal.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.C.4, MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Physical Development </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Fine Motor:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Show control of tasks that require small-muscle strength and control.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IX.B.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_3_texas>
+  <day_4_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operations:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use concrete models or make a verbal word problem for subtracting 0–5 objects from a set.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.B.2);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Use concrete objects, create pictorial models and share a verbal word problem for adding up to 5 objects.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.B.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Informally recognize and compare weights of objects or people.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.D.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Counting:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Demonstrate understanding that when counting, the items can be chosen in any order.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.A.6)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Social Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Increasingly interact and communicate with peers to initiate pretend play scenarios that share a common plan and goal.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.C.4, MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Science </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Physical Science:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observe, investigate, describe, and discuss position and motion of objects.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.A.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_4_texas>
+  <day_5_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Math </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Measurement:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Recognize and compare heights or lengths of people or objects.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.D.1);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Informally recognize and compare weights of objects or people.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.D.3)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operations:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Use concrete objects, create pictorial models and share a verbal word problem for adding up to 5 objects.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.B.1);</tg_skills-focus-skill-code> <tg_skills-focus-skill-text>Use concrete models or make a verbal word problem for subtracting 0–5 objects from a set.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.V.B.2)</tg_skills-focus-skill-code>  </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder  </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Social Development:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Increasingly interact and communicate with peers to initiate pretend play scenarios that share a common plan and goal.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.I.C.4, MB)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Literacy </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Writing:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Independently write to communicate their ideas for a variety of purposes.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.IV.A.2)</tg_skills-focus-skill-code> </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Science </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Physical Science:</tg_skills-focus_in-line-hed> <tg_skills-focus-skill-text>Observe, investigate, describe, and discuss position and motion of objects.</tg_skills-focus-skill-text> <tg_skills-focus-skill-code>(TX.VI.A.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_5_texas>
+</teaching-guide>

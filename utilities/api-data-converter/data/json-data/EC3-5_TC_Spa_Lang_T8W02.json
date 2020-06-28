@@ -1,0 +1,2566 @@
+[{
+    "declaration": {
+      "attributes": {
+        "version": "1.0",
+        "encoding": "UTF-8"
+      }
+    },
+    "elements": [
+      {
+        "type": "element",
+        "name": "teacher-activity-cards",
+        "attributes": {
+          "lang": "es",
+          "module":"language",
+          "week":"week_002",
+          "theme":"theme_008"
+        },
+        "elements": [
+          {
+            "type": "element",
+            "name": "ac_card-1",
+            "attributes": {
+              "day": "1"
+            },
+            "elements": [
+              {
+                "type": "element",
+                "name": "ac_card-1_front",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_f_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "COMIENZAN IGUAL"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "instructions",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "instructions_f_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Instrucciones"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "before-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "before_f_1",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Asociar con el grupo grande"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Hoy leímos el libro "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "Un pato en bicicleta"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": ". Conocimos las aventuras de Pato cuando aprendió a andar en bicicleta. También aprendimos sobre las palabras que tienen los mismos sonidos iniciales."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Explicar la actividad"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "En esta actividad veremos imágenes de diversos objetos. Los identificaremos y diremos el sonido inicial que escuchamos. Luego, clasificaremos las tarjetas con los sonidos iniciales en dos grupos:"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-teacher_talk_bulleted",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Bb: para palabras que comienzan con"
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": " /b/."
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-teacher_talk_bulleted",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Cc: para palabras que comienzan con "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "/c/."
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Enseñar/Demostrar"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Dé a los niños ejemplos de palabras que tengan el mismo sonido inicial, por ejemplo, "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "bicicleta"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " y "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "buena"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": ", o "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "cabra"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " y "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "camino"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": ". "
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "during-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "during_f_1",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Preguntar"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Muestre una tarjeta de ilustraciones y haga la pregunta del reverso. Según sea necesario, brinde un estímulo adicional o apoyo. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Ampliar"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Use la última pregunta del reverso de la tarjeta para ampliar la conversación. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Clasificar"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Entregue a un niño la tarjeta de ilustraciones para que la coloque en la columna “Bb” o “Cc”. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Repetir"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Continúe la actividad usando la siguiente tarjeta. "
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "after-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "after_f_1",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Conversar sobre los sonidos iniciales"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Recuerde a los niños todas las palabras que tienen los mismos sonidos iniciales. Recuérdeles las que están en la historia: "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "tambaleándose, todos, tenían,"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " y las que aprendieron hoy: "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "cabra"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " y "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "camino"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": ", "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "bicicleta"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " y "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "buena"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": ". Pídales que piensen otros ejemplos observando el salón de clases. "
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "name": "ac_card-1_back",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_b_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "COMIENZAN IGUAL"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "differentiation-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Diferenciación"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_1",
+                          "index": "2"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Apoye "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Pida a los niños que identifiquen el objeto de la imagen enfatizando el sonido inicial de la palabra. A los niños que tengan dificultades para pronunciar la palabra, invítelos a que digan la palabra después de usted."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_1",
+                          "index": "3"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Estimule "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Pida a los niños que piensen en otras palabras que tengan los mismos sonidos iniciales que las tarjetas de ilustraciones. Estimule a los niños preguntándoles si pueden escribir las letras en una hoja  de papel."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "modifications-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Modificaciones"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_1",
+                          "index": "2"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Alumnos multilingües "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Tenga en cuenta que en español, algunas veces las letras "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "Bb"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": " y "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "Vv"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": " se pueden pronunciar igual. Según sea necesario, tómese un tiempo extra para repasar los sonidos de esas letras, tanto de forma aislada como en el contexto de una palabra ilustrada. Estimule a los niños para que nombren el objeto de la imagen en su idioma del hogar. "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Discriminación auditiva "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Para ayudar a los niños con los desafíos que plantea la discriminación auditiva, exagere los movimientos de su boca a medida que forma el sonido de cada letra, teniendo en cuenta la posición de la lengua y los labios. Invite a los niños a que muevan la boca de la misma manera que cuando hacen que la letra suene."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "copyright-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "copyright_b_1",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_back_copyright_line",
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "isbn",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "978-1-338-66416-4"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": ". TM ® & © Scholastic Inc. All rights reserved."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "name": "ac_card-2",
+            "attributes": {
+              "day": "2"
+            },
+            "elements": [
+              {
+                "type": "element",
+                "name": "ac_card-2_front",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_f_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "COMPRENDER NUESTROS SENTIMIENTOS"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "instructions",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "instructions_f_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Instrucciones"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "before-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "before_f_2",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Asociar con el grupo grande"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Hoy aprendimos que es bueno hablar de nuestros sentimientos. Aprendimos que comprender cómo nos sentimos puede ayudarnos a sentirnos mejor. Por ejemplo, si sabemos que estamos enojados o tristes, podemos hallar una forma de resolver nuestro propio problema."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Repasar el vocabulario"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Aprendimos la palabra "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "comportamiento"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": ". Esta palabra nos ayudará a comprender la actividad de hoy."
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " Use la tarjeta de vocabulario "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "comportamiento"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " para repasar la palabra. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Explicar la actividad"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "En esta actividad, veremos las imágenes e intentaremos relacionar el comportamiento de la persona que vemos en la imagen con cómo se siente esa persona. Luego, hablaremos de las cosas que podría hacer la persona para sentirse mejor."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Enseñar/Demostrar"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Veamos esta primera tarjeta. ¿Qué vemos? ¿Este niño está feliz o triste? ¿Cómo lo saben?"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "during-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "during_f_2",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Preguntar"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Muestre una tarjeta de ilustraciones y haga la pregunta del reverso. Según sea necesario, brinde un estímulo adicional o apoyo. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Ampliar"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Use la última pregunta del reverso de la tarjeta para ampliar la conversación. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Repetir"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Continúe la actividad usando la siguiente tarjeta de ilustraciones. "
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "after-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "after_f_2",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Conversar sobrelos sentimientos"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Anime a los niños a que describan su comportamiento cuando están hambrientos, enojados, sorprendidos, cansados, tristes o asustados. Aliente a los niños a pensar formas en las que podrían sentirse mejor cuando están tristes, enojados o cansados."
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "name": "ac_card-2_back",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_b_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "COMPRENDER NUESTROS SENTIMIENTOS"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "differentiation-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Diferenciación"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_2",
+                          "index": "2"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Apoye "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Asegúrese de que los niños entiendan cada sentimiento preguntándoles si alguna vez han sentido ese sentimiento. Para verificar la comprensión, pídales que den ejemplos de cuando se sienten malhumorados, solos, cansados y enojados."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_2",
+                          "index": "3"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Estimule "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Aliente a los niños para que traten de sentirse igual a la persona de la imagen. Cada niño tomará dos turnos en la conversación. Recuérdeles que mientras una persona habla, la otra escucha."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "modifications-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Modificaciones"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_2",
+                          "index": "2"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Alumnos multilingües "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Invite voluntarios para que le enseñen a la clase cómo decir "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk-emphasis",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "Estoy feliz"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": " y "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk-emphasis",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "Estoy triste"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": " en el idioma de su hogar. Los niños se destacarán más en español si sienten que, al aprenderlo, no se ve amenazada su capacidad de comunicarse en el idioma de su hogar. Puede crear una atmósfera en la clase en la que saber otro idioma se considere una habilidad adicional y no una deficiencia. "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Apoyo para la auto-regulación "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Ayude a los niños a reconocer los signos de alerta temprana de un sentimiento negativo. Su comprensión en las primeras etapas de un arrebato emocional puede ser vital para reducir la tensión. Ayúdelos a establecer la conexión entre sus sentimientos y comportamientos. También puede intervenir después de un incidente, preguntando cómo se sintieron, qué lo causó y qué pueden hacer para resolver el problema y controlar sus sentimientos."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "copyright-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "copyright_b_2",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_back_copyright_line",
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "isbn",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "978-1-338-66416-4"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": ". TM ® & © Scholastic Inc. All rights reserved."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "name": "ac_card-3",
+            "attributes": {
+              "day": "3"
+            },
+            "elements": [
+              {
+                "type": "element",
+                "name": "ac_card-3_front",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_f_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "TIEMPO PASADO"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "instructions",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "instructions_f_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Instrucciones"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "before-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "before_f_3",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Asociar con el grupo grande"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Hoy leímos el libro "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "Un pato en bicicleta"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": ".  Conocimos que Pato encontró una bicicleta que un niño había dejado en el camino y decidió pasear en ella. Pedaleó y pedaleó hasta que aprendió a montar bicicleta."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Repasar el vocabulario"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Aprendimos las palabras "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "dejaron"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": " y "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "pedaleó"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": ". Ambas palabras están en tiempo pasado."
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " Repase lo que significa el tiempo pasado. Use las tarjetas de vocabulario "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "dejaron"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " y "
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-talk",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "pedaleó"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": " para repasar las palabras. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Explicar la actividad"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "En esta actividad, veremos imágenes que muestran a personas realizando distintas acciones. Hablaremos de lo que están haciendo y describiremos la actividad como si la acción la hubieran hecho ayer."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Enseñar/Demostrar"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Por ejemplo, puedo decir que me gusta subir las escaleras: “Ayer subí las escaleras”. "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "Subí"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": " es el tiempo pasado del verbo "
+                                      },
+                                      {
+                                        "type": "element",
+                                        "name": "ac_teacher-speaking_emphasis_blue",
+                                        "elements": [
+                                          {
+                                            "type": "text",
+                                            "text": "subir"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "type": "text",
+                                        "text": " porque ya sucedió."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "during-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "during_f_3",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Preguntar"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Muestre una tarjeta de ilustraciones y haga la pregunta del reverso. Según sea necesario, brinde un estímulo adicional o apoyo. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Ampliar"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Use la última pregunta del reverso de la tarjeta para ampliar la conversación. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Repetir"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Continúe la actividad usando la siguiente tarjeta de ilustraciones. "
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "after-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "after_f_3",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Conversar sobre el tiempo pasado"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Invite a los niños a que hablen de algo que hayan hecho hoy y, luego, de algo que hayan hecho ayer. Anime a los niños a usar verbos en tiempo pasado mientras describen lo que han hecho. "
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "name": "ac_card-3_back",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_b_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "TIEMPO PASADO"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "differentiation-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Diferenciación"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_3",
+                          "index": "2"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Apoye "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Para los niños con problemas de desarrollo, diga la respuesta correcta a las preguntas del reverso de las tarjetas y pídales que repitan las respuestas. Enfatice verbos que están conjugados en tiempo pasado."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_3",
+                          "index": "3"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Estimule "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Invite a los niños a que compartan con un compañero otros verbos en pasado que se les ocurran. Si no pueden dar ejemplos, muestre acciones que puedan haber hecho hoy en clase o en casa."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "modifications-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Modificaciones"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_3",
+                          "index": "2"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Alumnos multilingües "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Los alumnos multilingües aprenden mejor a través de las experiencias del lenguaje oral. Los niños que están inmersos en un lenguaje enriquecedor, a través de la lectura en voz alta y en métodos basados en modelos por parte de los padres y maestros, aprenderán a usar las formas correctas de los verbos naturalmente. Hay tiempos verbales en pasado que hasta los adultos tienen que repasar de vez en cuando, pero los más comunes llegarán naturalmente a los niños que están expuestos a ellos de forma regular. "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Apoyo para el déficit de atención "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "En esta actividad, realice una vista previa de la primera tarjeta con los niños, asegurándose de que entienden que deben responder con una oración completa. Diga a los niños que si necesitan ayuda, dirá la respuesta y la repetirá. Haga más atractiva la actividad pidiéndoles que repitan la oración en voz alta y, luego, en voz baja."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "copyright-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "copyright_b_3",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_back_copyright_line",
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "isbn",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "978-1-338-66416-4"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": ". TM ® & © Scholastic Inc. All rights reserved."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "element",
+            "name": "ac_card-4",
+            "attributes": {
+              "day": "4"
+            },
+            "elements": [
+              {
+                "type": "element",
+                "name": "ac_card-4_front",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_f_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "¿SALUDABLE O NO SALUDABLE?"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "instructions",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "instructions_f_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Instrucciones"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "before-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "before_f_4",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Asociar con el grupo grande"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Hoy aprendimos lo que debemos hacer para estar saludables. Hablamos de comer alimentos saludables y hacer ejercicio."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Explicar la actividad"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "En esta actividad, veremos imágenes de varios alimentos y clasificaremos las tarjetas de ilustraciones en dos grupos: Alimentos saludables: alimentos que son buenos para la salud. Pueden comerlos todo el tiempo. Alimentos no saludables: alimentos que no son buenos para la salud. No deberían comerlos todo el tiempo."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Enseñar/Demostrar"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Veamos esta primera tarjetas. ¿Qué vemos? ¿Las manzanas son saludables o no saludables? "
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "during-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "during_f_4",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Preguntar"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Muestre una tarjeta de ilustraciones y haga la pregunta del reverso. Según sea necesario, brinde un estímulo adicional o apoyo. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Ampliar"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Use la última pregunta del reverso de la tarjeta para ampliar la conversación. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Clasificar"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Pida a los niños que clasifiquen cada tarjeta de ilustraciones en las categorías de “Alimentos saludables” y “Alimentos no saludables”. "
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Repetir "
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "Continúe la actividad usando la siguiente tarjeta. "
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "after-section",
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "section-block",
+                            "attributes": {
+                              "type": "after_f_4",
+                              "index": "1"
+                            },
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Conversar sobre alimentos saludables y no saludables"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-speaking",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Veamos cuántos alimentos saludables podemos nombrar. Ahora, veamos cuántos alimentos no saludables podemos nombrar."
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-card-body",
+                                "elements": [
+                                  {
+                                    "type": "element",
+                                    "name": "ac_teacher-card_run-in_hed",
+                                    "elements": [
+                                      {
+                                        "type": "text",
+                                        "text": "Conversar sobre comer sano"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "type": "text",
+                                    "text": "  Hable con los niños de la moderación y explique que está bien comer una galleta, un dulce, una bebida azucarada o alimentos fritos, pero que deben limitar la cantidad de alimentos no saludables que comen cada día.  "
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "element",
+                "name": "ac_card-4_back",
+                "elements": [
+                  {
+                    "type": "element",
+                    "name": "masthead",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "masthead_b_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_header-game-card",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "¿SALUDABLE O NO SALUDABLE?"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "differentiation-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Diferenciación"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_4",
+                          "index": "2"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Apoye "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Antes de comenzar, repase cada tarjeta de ilustraciones. Pida a los niños que practiquen las palabras "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "saludable"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": " y "
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "no"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "element",
+                                "name": "ac_teacher-talk",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "saludable"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": "."
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "differentiation_b_4",
+                          "index": "3"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_diff_support-challenge_heds",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Estimule "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Converse sobre qué formas de cocinar los alimentos son saludables y no saludables. Muestre a los niños imágenes de alimentos horneados, al vapor y fritos."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "modifications-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Modificaciones"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "modifications_b_4",
+                          "index": "2"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Alumnos multilingües "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "La comida está, a menudo, vinculada a la identidad cultural, por lo que es aconsejable tener cuidado de no criticar una comida en particular o un método de preparación de alimentos que sea importante y conocido por sus alumnos. Más bien, ayude a los niños a que reconozcan los alimentos con alto contenido de azúcar y grasas que no son saludables, y enfatice la moderación. Lo importante es que los niños aprendan a elegir alimentos saludables y reconozcan que pueden limitar los no saludables. "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_mod_teacher-card_d_hed",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Desarrollo de la motricidad gruesa "
+                              }
+                            ]
+                          },
+                          {
+                            "type": "element",
+                            "name": "ac_teacher-card-body",
+                            "elements": [
+                              {
+                                "type": "text",
+                                "text": "Diga a los niños que el ejercicio es también una parte importante de la salud. Explique que correr y saltar es bueno para sus corazones. Pida a los niños que corran y salten en su lugar. Pregúnteles por qué es bueno que se ejerciten durante el día."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "element",
+                    "name": "copyright-section",
+                    "elements": [
+                      {
+                        "type": "element",
+                        "name": "section-block",
+                        "attributes": {
+                          "type": "copyright_b_4",
+                          "index": "1"
+                        },
+                        "elements": [
+                          {
+                            "type": "element",
+                            "name": "ac_back_copyright_line",
+                            "elements": [
+                              {
+                                "type": "element",
+                                "name": "isbn",
+                                "elements": [
+                                  {
+                                    "type": "text",
+                                    "text": "978-1-338-66416-4"
+                                  }
+                                ]
+                              },
+                              {
+                                "type": "text",
+                                "text": ". TM ® & © Scholastic Inc. All rights reserved."
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }]

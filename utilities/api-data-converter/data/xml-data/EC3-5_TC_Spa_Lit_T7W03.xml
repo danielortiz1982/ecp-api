@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="es">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>acento y rima</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Tarjetas del abecedario para repasar las letras: <ac_teacher-talk>gallo, gato, dedo, durazno, uva, uña</ac_teacher-talk>; Tarjetas del abecedario para la actividad: <ac_teacher-talk>tigre, dedo, durazno, canguro, corazón, gallo, gato, iguana, yuca, jugo, vaso, foco, hoja, regalo, verduras.</ac_teacher-talk></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos <ac_teacher-speaking_emphasis_blue>Un huerto en cualquier lugar.</ac_teacher-speaking_emphasis_blue> Practicamos combinar sonidos para hacer palabras.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar las tarjetas del abecedario Gg, Dd, Uu</ac_teacher-card_run-in_hed>  Muestre las letras mayúsculas y minúsculas para cada sonido objetivo. Diga una palabra e invite a los niños a encontrar la imagen que muestra la palabra.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Ahora haremos una actividad de escuchar. Voy a decir el sonido inicial (principio) de una palabra y el resto de la palabra (rima). Usaré estos sonidos para formar una palabra. Luego buscarán la imagen que muestra la palabra que formé combinando los sonidos.</ac_teacher-speaking>      </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preparar</ac_teacher-card_run-in_hed>  Muestre cinco tarjetas del abecedario a la vez. Comience con <ac_teacher-talk>dedo, durazno, yuca, vaso</ac_teacher-talk> y <ac_teacher-talk>gallo</ac_teacher-talk>. Diga los sonidos hasta el anterior a la vocal acentuada y luego los sonidos finales, <ac_teacher-talk>d</ac_teacher-talk> + <ac_teacher-talk>edo</ac_teacher-talk>. Invite a un niño a señalar la imagen correcta. Una vez seleccionada, voltee la tarjeta.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe con <ac_teacher-talk>dur</ac_teacher-talk> + <ac_teacher-talk>azno</ac_teacher-talk>; <ac_teacher-talk>y</ac_teacher-talk> + <ac_teacher-talk>uca</ac_teacher-talk>; <ac_teacher-talk>v</ac_teacher-talk> + <ac_teacher-talk>aso</ac_teacher-talk> y <ac_teacher-talk>g</ac_teacher-talk> + <ac_teacher-talk>allo</ac_teacher-talk>.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use otro juego de tarjetas y continúe la actividad. Después de haber usado todas las tarjetas, invite a los niños a voltear una, demuestre cómo separar el sonido inicial y los sonidos finales; pida a los niños que los repitan.</ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Escribir las letras Gg, Dd, Uu</ac_teacher-card_run-in_hed>  A los niños les puede resultar divertido trazar las letras sobre puntos, escribirlas en el aire o hacerlas en una bandeja de arena o de sal.  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>acento y rima</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Para algunos niños puede ser mejor limitar las opciones a dos tarjetas. Muestre dos tarjetas y diga: <ac_teacher-talk>Vamos a combinar sonidos. ¿Qué tarjeta muestra la palabra que formamos combinando los sonidos?</ac_teacher-talk> Cuando hayan identificado la palabra, diga: <ac_teacher-talk>Sí, la palabra que formamos es</ac_teacher-talk> <fill-in-the-blank>            </fill-in-the-blank> <ac_teacher-talk>y esta imagen muestra un(a)</ac_teacher-talk> <fill-in-the-blank>             </fill-in-the-blank>.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Estimule a los niños a crear sus propias imágenes para palabras que usted presente como sonidos iniciales y finales. Diga cada palabra como sonido inicial y final, luego pida a los niños que hagan un dibujo rápido para ilustrar la palabra. Comience con estas palabras: <ac_teacher-talk>sol, miel</ac_teacher-talk> y <ac_teacher-talk>nuez</ac_teacher-talk>. Los niños pueden también escribir las palabras.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Explique que en español, la letra <ac_teacher-talk>Gg</ac_teacher-talk> tiene dos sonidos: /g/ delante de las vocales <ac_teacher-talk>a, o, u</ac_teacher-talk> (<ac_teacher-talk>gato, gorro, gusano</ac_teacher-talk>) y /j/ semejante a la <ac_teacher-talk>h</ac_teacher-talk> aspirada en inglés, delante de <ac_teacher-talk>e, i</ac_teacher-talk> (<ac_teacher-talk>gente, girasol</ac_teacher-talk>). La <ac_teacher-talk>Gg</ac_teacher-talk> se combina con la <ac_teacher-talk>u</ac_teacher-talk> para cambiar el sonido delante de <ac_teacher-talk>e, i</ac_teacher-talk> (<ac_teacher-talk>guepardo, guitarra</ac_teacher-talk>). Diga que en inglés, la <ac_teacher-talk>Gg</ac_teacher-talk> tiene dos sonidos diferentes de los sonidos en español. En esta lección veremos el sonido /g/ de la <ac_teacher-talk>g</ac_teacher-talk> en inglés.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Estimulación auditiva</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Para ayudar a los niños con problemas de discriminación auditiva, exagere los movimientos de la boca al pronunciar los sonidos iniciales y los finales. Es posible que los niños necesiten oír los sonidos iniciales y finales varias veces antes de ser capaces de identificar la palabra.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66408-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>hacer y responder preguntas</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Bolsas de papel marrón, cada una con una verdura u hortaliza real o de juguete. Use las tarjetas de actividad 7.3.3.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos <ac_teacher-speaking_emphasis_blue>Un huerto en cualquier lugar.</ac_teacher-speaking_emphasis_blue> Nos divertimos haciendo preguntas unos a otros y respondiéndolas.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el Mind Builder</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cuando hacemos y respondemos preguntas, aprendemos. Hacer y responder preguntas es una manera de aprender cosas que no sabemos.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy veremos imágenes de verduras y hortalizas. Luego les mostraré una bolsa con una verdura o una hortaliza dentro. Ustedes harán muchas preguntas para saber qué hay en la bolsa. Las respuestas a sus preguntas les darán cada vez más información. ¡Entonces ustedes podrán adivinar qué hay en la bolsa!</ac_teacher-speaking>    </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre una imagen a la vez. Haga las preguntas al dorso.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe hasta que se terminen las tarjetas. Mantenga las tarjetas a la vista mientras hacen la actividad de adivinanza.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hacer la actividad</ac_teacher-card_run-in_hed>  Muestre una bolsa con una verdura u hortaliza dentro. Invite a los niños a turnarse para hacer preguntas sobre lo que hay en la bolsa. Si necesitan ayuda, dé modelos de preguntas: <ac_teacher-speaking>¿Es grande? ¿Es rojo? ¿Es jugoso? ¿Es bueno para ensalada? ¿Se hace en puré? ¿Se cuece? ¿Tiene semillas dentro?</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe hasta que hayan adivinado todas las imágenes.</ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar de hacer y responder preguntas</ac_teacher-card_run-in_hed>  Conversen sobre por qué es tan importante que los niños hagan muchas preguntas.  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>hacer y responder preguntas</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Para los niños más pequeños, puede limitar la actividad. Muestre tres tarjetas de actividad y luego pídales que adivinen qué hay en la bolsa. Continúe con las siguientes tres tarjetas de actividad y una verdura u hortaliza oculta. Luego use las últimas tres tarjetas.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Para estimular a los niños, ponga otros alimentos en las bolsas y continúe la actividad de hacer preguntas.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Mientras hacen la actividad con las tarjetas, concéntrese en el nombre de las verduras y hortalizas y pida a los niños que repitan el nombre después de que usted lo diga. Para la actividad de adivinar, empareje a los alumnos multilingües con hispanohablantes para que estos los ayuden a formar preguntas y enunciar suposiciones.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Estimulación sensorial</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>A algunos niños les puede beneficiar recibir estimulación sensorial. Para estos niños, use verduras reales que puedan tocar antes de presentar las tarjetas de actividad. Anime a los niños a tocar y decir el nombre de cada verdura u hortaliza.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66408-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>mercado de agricultores</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Tarjetas de actividad, dinero de juguete.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos el cuento <ac_teacher-speaking_emphasis_blue>Un huerto en cualquier lugar.</ac_teacher-speaking_emphasis_blue> En la historia, la niña tiene un puesto en un mercado de agricultores en el que vende las verduras y hortalizas que cultiva.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar las tarjetas de actividad</ac_teacher-card_run-in_hed>  Use las tarjetas de actividad para repasar los nombres de las verduras y hortalizas que venderán hoy.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy haremos un mercado de agricultores en el que decidirán qué verduras u hortalizas van a comprar. Se turnarán para ser compradores y vendedores.</ac_teacher-speaking>     </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preparar</ac_teacher-card_run-in_hed>  Ponga las tarjetas de actividad, boca arriba, sobre la mesa, de manera que se vean todas. Ponga algún dinero en la mesa.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Dé dinero a un niño para que sea el comprador. Elija otro niño para hacer de vendedor. Pregunte al comprador qué verdura u hortaliza quiere comprar. El vendedor toma la tarjeta que muestra ese alimento. El comprador le entrega el dinero al vendedor a cambio de la verdura. Fomente conversaciones entre el comprador y el vendedor.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe hasta que todos hayan tenido una oportunidad de ser tanto el comprador como el vendedor.</ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre comprar y vender</ac_teacher-card_run-in_hed>  Tenga presente que en esta actividad, los niños serán unas veces compradores y otras vendedores. Invítelos a compartir alguna vez en que fueron a comprar con miembros de la familia y fueron compradores en la vida real. Pídales que hablen de cómo su familiar pagó por algo que ellos quisieron comprar.</ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>mercado de agricultores</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Los niños no tienen la obligación de saber los nombres de las verduras y hortalizas. Si tienen dificultad para decir el nombre de algo que quieren comprar, invítelos a decir: “Quisiera comprar esto”, al mismo tiempo que señalan lo que eligieron.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Anime a los niños a usar dinero de juguete y frutas y verduras de juguete para hacer un puesto de un mercado de agricultores y continuar la actividad en el centro de dramatización y aprendizaje.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Los niños que hablan inglés como lengua materna, pueden encontrar que los nombres de algunas verduras son muy similares en inglés y español. Ayúdelos a conectar palabras siempre que sea posible para facilitarles el aprendizarje de la palabra en español. Por ejemplo: <ac_teacher-talk>broccoli</ac_teacher-talk> = <ac_teacher-talk>brócoli</ac_teacher-talk>; <ac_teacher-talk>lettuce</ac_teacher-talk> = <ac_teacher-talk>lechuga</ac_teacher-talk>; <ac_teacher-talk>potato</ac_teacher-talk> = <ac_teacher-talk>papa/patata</ac_teacher-talk>; <ac_teacher-talk>tomato</ac_teacher-talk> = <ac_teacher-talk>tomate</ac_teacher-talk>.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Apoyo para el déficit de atención</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>A algunos niños les puede resultar difícil esperar su turno mientras otros están haciendo el papel de comprador y vendedor. Dé a cada niño un alimento de juguete para que lo sostenga mientras espera su turno; así sentirán que participan en la actividad.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66408-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>arriba, abajo,sobre, bajo</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Varias piezas de comida de juguete, una toalla de papel, una caja cerrada y una cesta.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos el cuento <ac_teacher-speaking_emphasis_blue>Juan y los frijoles mágicos.</ac_teacher-speaking_emphasis_blue> En el cuento, Juan sube arriba y arriba, por el tallo de una mata de frijoles muy alta. Luego va abajo y abajo, por la mata.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar vocabulario</ac_teacher-card_run-in_hed>  Use la tarjeta de vocabulario para repasar la palabra <ac_teacher-talk>gigantes</ac_teacher-talk>.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy haremos una actividad en la que pueden demostrar cómo usar diferentes palabras que indican en dónde está ubicado algo en comparación con otra cosa.</ac_teacher-speaking>    </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preparar</ac_teacher-card_run-in_hed>  Ponga en la mesa la comida de juguete, la toalla de papel, la caja y la cesta.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Describir</ac_teacher-card_run-in_hed>  Pida a un niño que elija un alimento y que lo ponga en la cesta. Pida a otro niño que describa donde está el alimento (ej.: “La zanahoria está en la cesta”).</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Continúe con los otros niños y diferentes preposiciones y adverbios para que todos tengan una oportunidad de comprender y usar varias palabras de relación, como <ac_teacher-talk>arriba, abajo, sobre, bajo, en, dentro, fuera, entre, detrás, junto a</ac_teacher-talk> y <ac_teacher-talk>cerca</ac_teacher-talk>).</ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Practicar el uso de preposiciones y adverbios</ac_teacher-card_run-in_hed>  A lo largo del día, use distintas preposiciones y adverbios mientras hacen las actividades de la clase. Anime a los niños a entender y usar un número cada vez mayor de estas palabras.  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>arriba, abajo,sobre, bajo</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Primero demuestre la ubicación relativa del alimento y luego pida a los niños que la repitan. Continúe usando la misma preposición o adverbio con distintos artículos hasta que los niños dominen la palabra antes de pasar a la preposición o adverbio siguiente.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Para estimular a los niños, haga la actividad al revés. Diga una oración que describa la ubicación de un artículo usando una de las preposiciones o adverbios. Pida a los niños que escuchen y que luego pongan el artículo en el lugar correspondiente.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Represente el significado de preposiciones y adverbios usando objetos y describiendo la ubicación. Luego, pida a los niños que digan la palabra y representen la acción. Por ejemplo, ponga una papa en la cesta y diga: <ac_teacher-speaking>En. La papa está en la cesta. Digan conmigo: en.</ac_teacher-speaking></ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Estimulación del habla</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Ayude a los niños comenzando con preguntas de sí o no sobre la ubicación relativa del alimento, luego anímelos a construir oraciones siguiendo su modelo, como: <ac_teacher-speaking>¿Está el frijol cerca del pimiento?</ac_teacher-speaking> (sí). <ac_teacher-speaking>Repitan: “El frijol está cerca del pimiento”.</ac_teacher-speaking> (el niño repiete).</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66408-9</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

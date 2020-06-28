@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flip-chart lang="en">
+  <flip_chart-18 day="4">
+    <flip_chart-18_front>
+      <graphic href="EC3-5_Flipchart_T5W2_LetsMakeFruitSalad.jpg"/>
+    </flip_chart-18_front>
+    <flip_chart-18_back>
+      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <flip_chart-theme-text>HEALTHY ME</flip_chart-theme-text>
+          <flip_chart-topic-text>Let’s Eat!</flip_chart-topic-text>
+          <flip_chart-concept-question>What foods do we like? Where do they come from?</flip_chart-concept-question>
+        </section-block>
+      </masthead>
+      <display-head-section>
+        <section-block type="display_b_1" index="1">
+          <flip_chart-display-head>Let’s Make Fruit Salad!</flip_chart-display-head>
+        </section-block>
+      </display-head-section>
+      <teacher-facing-section>
+        <section-block type="teacher-facing_b_1" index="1">
+          <flip_chart-teacher-facing-content-box>
+            <flip_chart-teacher-facing-paragraph>Whether you’re looking for a delicious snack or a healthy dessert, everyone loves delicious fruit salad! This recipe is a favorite, but you can change it to add a different favorite fruit if you’d like.</flip_chart-teacher-facing-paragraph>
+            <flip_chart-teacher-facing-paragraph><flip_chart-bold>Ingredients:</flip_chart-bold>
+              <flip_chart-br> </flip_chart-br>3 sliced bananas<flip_chart-br> </flip_chart-br> 2 cups of sliced apples<flip_chart-br> </flip_chart-br> 1  cup of sliced strawberries<flip_chart-br> </flip_chart-br> 2 cut-up mangoes</flip_chart-teacher-facing-paragraph> <flip_chart-teacher-facing-paragraph>
+              <flip_chart-bold>Directions:</flip_chart-bold>
+              <flip_chart-br> </flip_chart-br><flip_chart-bold>Step 1.</flip_chart-bold> Wash the fruit.<flip_chart-br> </flip_chart-br><flip_chart-bold>Step 2.</flip_chart-bold> Peel the bananas and ask an adult to help cut all the fruit.<flip_chart-br> </flip_chart-br><flip_chart-bold>Step 3.</flip_chart-bold> Use measuring cups to measure the apples and strawberries and put them in the bowl.<flip_chart-br> </flip_chart-br><flip_chart-bold>Step 4.</flip_chart-bold> Add the mangoes to the bowl.<flip_chart-br> </flip_chart-br><flip_chart-bold>Step 5.</flip_chart-bold> Mix all of the fruit together.</flip_chart-teacher-facing-paragraph><flip_chart-teacher-facing-paragraph>Serve the fruit salad. Enjoy!</flip_chart-teacher-facing-paragraph>
+          </flip_chart-teacher-facing-content-box>
+        </section-block>
+      </teacher-facing-section>
+      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <flip_chart-credit-line>Illustration by Same Rennocks Illustration, © Scholastic Inc.</flip_chart-credit-line>
+        </section-block>
+      </copyright-section>
+    </flip_chart-18_back>
+  </flip_chart-18>
+</flip-chart>

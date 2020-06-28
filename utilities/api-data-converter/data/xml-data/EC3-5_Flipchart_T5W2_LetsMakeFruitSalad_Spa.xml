@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flip-chart lang="es">
+  <flip_chart-18 day="4">
+    <flip_chart-18_front>
+      <graphic href="EC3-5_Flipchart_T5W2_LetsMakeFruitSalad_Spa.jpg"/>
+    </flip_chart-18_front>
+    <flip_chart-18_back>
+      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <flip_chart-theme-text>ESTOY SALUDABLE</flip_chart-theme-text>
+          <flip_chart-topic-text>¡A comer!</flip_chart-topic-text>
+          <flip_chart-concept-question>¿Qué alimentos nos gustan? ¿De dónde vienen?</flip_chart-concept-question>
+        </section-block>
+      </masthead>
+      <display-head-section>
+        <section-block type="display_b_1" index="1">
+          <flip_chart-display-head>¡Hagamos una ensalada de frutas!</flip_chart-display-head>
+        </section-block>
+      </display-head-section>
+      <teacher-facing-section>
+        <section-block type="teacher-facing_b_1" index="1">
+          <flip_chart-teacher-facing-content-box>
+            <flip_chart-teacher-facing-paragraph>Ya sea que se te antoje una merienda deliciosa o un postre saludable, ¡a todos les encanta la ensalada de frutas! Esta receta es la preferida, pero la puedes cambiar añadiendo frutas diferentes si quieres.</flip_chart-teacher-facing-paragraph><flip_chart-teacher-facing-paragraph>
+              <flip_chart-ul class="no-style">
+                <flip_chart-li>
+                  <flip_chart-bold>Ingredientes:</flip_chart-bold>
+                </flip_chart-li><flip_chart-li>3 plátanos rebanados</flip_chart-li><flip_chart-li>2 tazas de manzanas rebanadas</flip_chart-li> <flip_chart-li>1 taza de fresas rebanadas</flip_chart-li><flip_chart-li>2 mangos cortados en pedazos</flip_chart-li> </flip_chart-ul>
+            </flip_chart-teacher-facing-paragraph><flip_chart-teacher-facing-paragraph>
+              <flip_chart-ul class="no-style">
+                <flip_chart-li>
+                  <flip_chart-bold>Preparación:</flip_chart-bold>
+                </flip_chart-li><flip_chart-li>
+                  <flip_chart-bold>Paso 1.</flip_chart-bold> Lava las frutas.</flip_chart-li><flip_chart-li>
+                  <flip_chart-bold>Paso 2.</flip_chart-bold> Pela los plátanos y pide a un adulto que te ayude a cortar la fruta. </flip_chart-li><flip_chart-li>
+                  <flip_chart-bold>Paso 3.</flip_chart-bold> Mide las manzanas y las fresas con una taza medidora y colócalas en un tazón.</flip_chart-li><flip_chart-li>
+                  <flip_chart-bold>Paso 4.</flip_chart-bold> Añade los mangos al tazón.</flip_chart-li><flip_chart-li>
+                  <flip_chart-bold>Paso 5.</flip_chart-bold> Mezcla todas las frutas. </flip_chart-li>
+              </flip_chart-ul>
+            </flip_chart-teacher-facing-paragraph><flip_chart-teacher-facing-paragraph>Sirve la ensalada de frutas. ¡Disfruta!</flip_chart-teacher-facing-paragraph>
+          </flip_chart-teacher-facing-content-box>
+        </section-block>
+      </teacher-facing-section>
+      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <flip_chart-credit-line>Illustration by Same Rennocks Illustration, © Scholastic Inc.</flip_chart-credit-line>
+        </section-block>
+      </copyright-section>
+    </flip_chart-18_back>
+  </flip_chart-18>
+</flip-chart>

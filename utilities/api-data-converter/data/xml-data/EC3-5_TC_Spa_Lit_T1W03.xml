@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="es">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>¡Qué lindo nombre!</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales </ac_teacher-card_run-in_hed>Necesitará tarjetas del abecedario ilustradas con la primera letra del nombre de cada niño; hojas grandes de papel con las iniciales de los nombres de los niños; materiales de arte para decorar letras; pegamento y una letra decorada para su propio nombre.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Hoy leímos <ac_teacher-speaking_emphasis_blue>El pequeño Elliot y su gran familia</ac_teacher-speaking_emphasis_blue>. ¿Qué sonido oyen al comienzo de la palabra <ac_teacher-speaking_emphasis_blue>familia</ac_teacher-speaking_emphasis_blue>? /f/ Otra palabra que empieza con /f/ es <ac_teacher-speaking_emphasis_blue>fiesta</ac_teacher-speaking_emphasis_blue>. ¡Vamos a hacer una fiesta con nuestros nombres!</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed> <ac_teacher-speaking>En esta actividad van a decorar la primera letra de su nombre.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-teacher_talk_bulleted>Muestre tarjetas del abecedario para que los niños las escojan.</ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>Ayude a los niños a identificar la primera letra de su nombre. Pídales que tracen la letra con su nombre.</ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>Cuando los niños hayan identificado las letras, reparta las tarjetas con letras para decorar que han preparado.</ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Demostrar</ac_teacher-card_run-in_hed> <ac_teacher-speaking>Mi nombre empieza con el sonido /m/. ¿Qué letra hace el sonido /m/? Miren la letra <ac_teacher-speaking_emphasis_blue>M</ac_teacher-speaking_emphasis_blue> que decoré.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed> <ac_teacher-speaking>¿Conocen a alguien más cuyo nombre empiece con la misma letra que el suyo? ¿Qué otras palabras empiezan con esa letra?</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ayudar</ac_teacher-card_run-in_hed> Apoye a los niños mientras pegan los materiales en sus letras.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar </ac_teacher-card_run-in_hed>Invite a los niños a compartir sus letras: <ac_teacher-speaking>¿Con qué letra empiezan sus nombres? ¿Qué cosa que les gusta empieza con la misma letra?</ac_teacher-speaking> Una vez que hayan compartido, escriba el nombre completo del niño debajo de su letra. </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>¡Qué lindo nombre!</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Puede que algunos niños tengan dificultad identificando la primera letra de su nombre. Antes de usar las tarjetas del abecedario, muéstreles sus nombres. Señale la primera letra e identifíquela. Luego ayúdelos a encontrar la tarjeta del abecedario.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Prepare algunas letras iniciales de los apellidos de los niños. Anímelos a decorar también las primeras letras de sus apellidos. <ac_teacher-talk>Todos tenemos nombres y apellidos. Nuestros apellidos empiezan también con una letra. ¿Con qué letra empiezan sus apellidos?</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Ayude a los niños de habla inglesa a identificar los cognados del cuento: <ac_teacher-talk>familia/family</ac_teacher-talk>, <ac_teacher-talk>reunión/reunion</ac_teacher-talk>, <ac_teacher-talk>momento/moment</ac_teacher-talk>, <ac_teacher-talk>bebé/baby</ac_teacher-talk>, <ac_teacher-talk>nombre/name</ac_teacher-talk>.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>A los niños a los que les cuesta usar pegamento, deles una variedad de etiquetas y cinta adhesiva para usar en su decoración. Ayúdelos, si es necesario, a aplicar las etiquetas o pegar los materiales con cinta adhesiva.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64396-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>resolución de conflictos al jugar</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales </ac_teacher-card_run-in_hed>Necesitará una pelota, una canasta, un aro de plástico y una pelota rellena de semillas.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed> <ac_teacher-speaking>Hoy leímos <ac_teacher-speaking_emphasis_blue>El pequeño Elliot y su gran familia</ac_teacher-speaking_emphasis_blue>. Ratoncito quiso resolver el problema de Elliot y lo invitó a la reunión de su familia.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el Mind Builder</ac_teacher-card_run-in_hed> Recuerde a los niños que hablaron sobre maneras de resolver problemas con sus amigos.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed> Diga a los niños que para esta actividad trabajarán en parejas. Cada par se turnará para hacer una actividad. Uno de los niños realizará la actividad, hasta que su pareja diga: “¿Puede ser mi turno, por favor?”. </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preparar</ac_teacher-card_run-in_hed> Trace una línea recta para que una pareja camine sobre ella, disponga un lanzamiento de pelota en la canasta para otra pareja, y un lanzamiento de pelota rellena de semillas en el aro para otra pareja. Demuestre las tres actividades con la ayuda de un niño.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hacer la actividad</ac_teacher-card_run-in_hed> Pida a uno de los niños que realice la actividad hasta que su pareja diga: “¿Puede ser mi turno, por favor?”. Continúe hasta que las tres parejas se hayan turnado para hacer cada actividad.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Profundizar</ac_teacher-card_run-in_hed>  Mientras los niños participan, fíjese si existe algún conflicto y de ser el caso, cómo lo resuelven.</ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar de turnarse </ac_teacher-card_run-in_hed>Guíe a los niños en una conversación sobre cómo fue realizar cada actividad y esperar su turno para cada una. Pídales que piensen en qué otros momentos del día, al estar en el prekínder, pueden decir: “¿Puede ser mi turno, por favor?”. </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>resolución de conflictos al jugar</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Si algunos niños no están listos para trabajar en parejas sin supervisión, cambie la actividad de modo que una sola pareja realice la actividad mientras los demás observan. En algún punto, las parejas pueden estar listas para hacer cada actividad sin supervisión.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Después de que los niños sugieran otros momentos en los que pueden decir “¿Puede ser mi turno, por favor?”, invítelos a pensar en distintas maneras de pedir turnarse, y haga que el resto del grupo las repita. Por ejemplo: “¿Puede ser mi turno ahora?”.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Invite a los alumnos multilingües a enseñarles a sus compañeros cómo se dice “¿Puede ser mi turno, por favor?” en su lengua materna.  Aproveche la oportunidad para que los niños hispanohablantes aprendan la expresión y disfruten diciéndola.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Apoyo a la atención</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Para algunos niños puede ser difícil esperar su turno, y tal vez lo soliciten con impaciencia, sin dar suficiente tiempo a sus parejas. Para ayudarlos a ser pacientes, deles un pequeño reloj de arena o un número hasta el cual contar, antes de que pidan su turno.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64396-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>Diversión en familia  con elliot</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales </ac_teacher-card_run-in_hed>Necesitará materiales de arte; papel para dibujar y un dibujo de su propia familia para compartirlo.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Hoy volvimos a leer <ac_teacher-speaking_emphasis_blue>El pequeño Elliot y su gran familia</ac_teacher-speaking_emphasis_blue>. Vimos a diferentes familias en diferentes actividades. Hicimos preguntas y las respondimos para entender mejor el cuento.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>En esta actividad, vamos a hacer que Elliot forme también parte de nuestras familias. Hagan un dibujo de su familia compartiendo una actividad divertida. ¡Acuérdense de incluir a Elliot en la diversión!</ac_teacher-speaking> Pida a los niños que usen marcadores y materiales de arte para sus dibujos.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Demostrar</ac_teacher-card_run-in_hed> <ac_teacher-speaking>A mi familia y a mí nos gusta ir a la playa. Este es un dibujo de mi familia disfrutando de un día de playa con Elliot.</ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed> <ac_teacher-speaking>¿De qué actividad están disfrutando la familia de ustedesy Elliot? ¿Cuándo hacen esta actividad sus familias?</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Guiar </ac_teacher-card_run-in_hed>Si a los niños les cuesta pensar en actividades que comparten con sus familias, guíelos preguntando: <ac_teacher-speaking>¿Qué hacen ustedes los fines de semana? ¿Leen juntos? ¿Ven televisión juntos?</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar del tema </ac_teacher-card_run-in_hed>Use los dibujos de los niños para conversar sobre que hay familias de muchos tamaños distintos. Todas son diferentes y todas son fantásticas. Pregunte: <ac_teacher-speaking>¿Qué está haciendo Elliot con esta familia? ¿Hay otras familias que estén haciendo la misma actividad? Elliot está haciendo muchas actividades distintas con familias diferentes. Se está divirtiendo con todas las familias.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>Diversión en familia  con elliot</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Para limitar la actividad, pida a los niños que simplemente hagan un dibujo de ellos con Elliot. Ayúdelos a etiquetar el dibujo.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Anime a los niños a dibujar, etiquetar y emparejar diferentes miembros de familia. Por ejemplo, invítelos a dibujar a su abuela y a la abuela de Ratoncito, o a su hermano y al hermano de Ratoncito.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>A medida que los alumnos multilingües de su clase hablen sobre sus dibujos, invítelos a usar palabras en su lengua materna. Pídales que digan cómo invitarían a Elliot a su casa, usando su lengua materna.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Estimulación sensorial</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Provea ilustraciones o ejemplos de otras familias compartiendo sus actividades. Repase las actividades con los niños. <ac_teacher-speaking>¿Qué está haciendo la familia? ¿Qué miembros de la familia vemos?</ac_teacher-speaking>
+          </ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64396-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>la gran familiade ratoncito</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales </ac_teacher-card_run-in_hed>Necesitará materiales de arte y “marcos para cuadros”, creados usando etiquetas o dibujando un borde en el contorno de hojas de papel.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed> <ac_teacher-speaking>Hoy volvimos a leer <ac_teacher-speaking_emphasis_blue>El pequeño Elliot y su gran familia</ac_teacher-speaking_emphasis_blue>. Nos divertimos representando distintas partes del cuento y hablando sobre las familias.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed> En esta actividad, ustedes van a dibujar a diferentes miembros de la familia de Ratoncito.</ac_teacher-card-body>
+            <ac_teacher-card-teacher_talk_bulleted>Al comienzo y al final del libro vemos a distintos miembrosde la familia de Ratoncito en cuadros con marcos que se llaman retratos.</ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>Hoy van a elegir a uno de los miembros de la familia de Ratoncito para dibujarlo.</ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>¿Quiénes son? ¿Qué están haciendo en la imagen?</ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Demostrar</ac_teacher-card_run-in_hed> Dibuje a uno de los miembros de la familia de Ratoncito. <ac_teacher-speaking>Esta es la abuela de Ratoncito. Está haciendo pastel de queso.</ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar </ac_teacher-card_run-in_hed>Mientras observa el proceso creativo de los niños, haga comentarios y preguntas como:</ac_teacher-card-body>
+            <ac_teacher-card-teacher_talk_bulleted>¿A qué miembro de la familia están dibujando? ¿Qué está haciendo? ¿Qué ropa lleva? </ac_teacher-card-teacher_talk_bulleted>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar del tema </ac_teacher-card_run-in_hed>Invite a los niños a mostrar y compartir sus retratos con la clase. Hable sobre por qué es divertido hacer cosas con miembros de la familia.  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>la gran familiade ratoncito</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Ayude a los niños trazando dos círculos para que ellos puedan completar el cuerpo y la cabeza del ratón que están dibujando. Sugiera las partes que pueden añadir: ojos, orejas, nariz, boca, brazos, piernas y cola.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Aliente a los niños a nombrar los distintos miembros que puede haber en una familia. Escriba sus sugerencias y luego léanlas juntos. Pida a los niños que señalen las letras que conocen con las que empiece cualquiera de las palabras.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Para cada alumno multilingüe de su clase, provea los nombres de los miembros de una familia en español y en su lengua materna. Invite a los niños multilingües a compartir las palabras con sus compañeros hispanohablantes, quienes pueden tratar de decir esas palabras. Esta inversión de roles permite a los niños experimentar lo que significa aprender un idioma.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Reparta siluetas de ratones a los niños con dificultades en motricidad fina. Invítelos a decorar la silueta usando etiquetas u otros materiales de arte. Ayúdelos a aplicar las etiquetas o los demás materiales.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64396-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

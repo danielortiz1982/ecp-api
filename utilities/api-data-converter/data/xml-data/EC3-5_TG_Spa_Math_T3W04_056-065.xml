@@ -1,0 +1,758 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="./preview-styles.css" type="text/css"?>
+<teaching-guide xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/" xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" lang="es">
+  <day_1>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 4:</tg_week_hed>
+        <tg_topic_hed>En movimiento</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338609691_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>El subibaja</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC%20Redux%20T3_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC%20Redux%20Spa%20T3_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+        <graphic href="EC_stock_MeasuringTools_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Herramientas de medición</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> medición</tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social</tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed>vocabulario</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para practicar mediciones, involucrar a los niños con un juego y presentar el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>subibaja</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>pesar</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento presentando el libro y pregunte: <tg_bullet-directions_guiding-question>¿Qué animales usan el subibaja?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Lea por placer y comprensión, comparando animales según su peso. </tg_bullet-directions>
+        <tg_bullet-directions>Verifique la comprensión, diferenciando según sea necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Medición:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Mide, describe y compara la altura y longitud de los objetos usando unidades similares y palabras como “pequeño”, “grande”, “bajo”, “alto” y “largo”; Describe y compara el peso de objetos, usando unidades similares y palabras como “pesado” y “ligero”.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Empieza a jugar y se integra a un grupo para jugar.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Comprende una gran cantidad de palabras y empieza a usarlas más y más.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>¡Vamos a comparar!</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T3_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+        <graphic href="NumberCards_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjetas de números</tg_materials-caption>
+        <graphic href="EC_stock_Blocks_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Objetos del salón</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> medición</tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Busque objetos del salón de clases para que los niños comparen. </tg_bullet-directions>
+        <tg_bullet-directions>Anímelos a que comparen dos objetos según su tamaño primero y según su peso después.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario. </tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo podemos mover cosas?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Hay algo muy pesado en el cuento? ¿Qué es? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes actuar como si jugaras en un subibaja?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Compara diferentes objetos. ¿Cuál pesa más?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escribe un cuento que ocurre en el patio de juegos.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué puedes hacer que sea muy pesado?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cuál es el primer sonido de letra que oyes en la palabra <tg_teacher-talk_emphasis_non-ital>subibaja</tg_teacher-talk_emphasis_non-ital>?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes construir un subibaja?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. El subibaja by Judith Koppens, illustrated by Eline van Lindenhuizen. Copyright © 2013 by Clavis Publishing Inc., New York. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Clavis Publishing Inc. Photos © Shutterstock: measuring bowls (Cattlaya Art), measuring tape (pogonici), ruler (photastic).</tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved.Photo © Nenov Brothers Images/Shutterstock.</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_1>
+  <day_2>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 4:</tg_week_hed>
+        <tg_topic_hed>En movimiento</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338609691_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>El subibaja</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC%20Redux%20T3_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC%20Redux%20Spa%20T3_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> medición</tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social</tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Lenguaje:</tg_learning-goals_inline-hed>vocabulario</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para compartir el Mind Builder <tg_bullet-directions_emphasis_Ital>trabaja en grupo</tg_bullet-directions_emphasis_Ital>, y presente el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>trabajar juntos</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>meta</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento relacionando el Mind Builder con <tg_bullet-directions_book-title>El subibaja.</tg_bullet-directions_book-title></tg_bullet-directions>
+        <tg_bullet-directions>Haga una lectura atenta para observar y comentar el trabajo en grupo y medir a los animales.</tg_bullet-directions>
+        <tg_bullet-directions>Ofrezca una oportunidad para prolongar el juego.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Medición:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Mide, describe y compara la altura y longitud de los objetos usando unidades similares y palabras como “pequeño”, “grande”, “bajo”, “alto” y “largo”; Describe y compara el peso de objetos, usando unidades similares y palabras como “pesado” y “ligero”.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operaciones:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Comprende que sumar o restar uno de un grupo pequeño de objetos cambia la cantidad total en uno.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Empieza a jugar y se integra a un grupo para jugar.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Física:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Identifica, investiga, habla y describe partes de objetos comunes.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Comprende una gran cantidad de palabras y empieza a usarlas más y más.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Construimos un subibaja</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T3_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Cubos conectores</tg_materials-caption>
+        <graphic href="EC_stock_Blocks_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Bloques</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> medición; operaciones</tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social</tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed>física</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Entregue a los niños materiales para que construyan un subibaja en parejas.</tg_bullet-directions>
+        <tg_bullet-directions>Pídales que pongan cubos en sus subibajas para comparar cantidades.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo podemos mover cosas?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Los personajes del libro trabajan en grupo? ¿Cómo? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes agregar a un amigo a tu actividad de dramatización?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Pesa objetos en una balanza. ¿Cuál pesa más?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo puedes trabajar con un amigo para mover algo?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Puedes mostrar a personas trabajando en grupo? ¿Qué hacen?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué sonidos oyes en <tg_teacher-talk_emphasis_non-ital>trabajar</tg_teacher-talk_emphasis_non-ital>?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué puedes construir junto con un amigo?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. El subibaja by Judith Koppens, illustrated by Eline van Lindenhuizen. Copyright © 2013 by Clavis Publishing Inc., New York. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Clavis Publishing Inc. Clifford the Big Red DogTM illustration copyright © The Norman Bridwell Trust. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved.Photo © Nenov Brothers Images/Shutterstock.</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_2>
+  <day_3>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 4:</tg_week_hed>
+        <tg_topic_hed>En movimiento</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338609691_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>El subibaja</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC%20Redux%20T3_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC%20Redux%20Spa%20T3_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario </tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> conteo; operaciones; medición</tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para repasar operaciones, cantar con los niños y presentar el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>más</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>menos</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento releyendo <tg_bullet-directions_book-title>El subibaja</tg_bullet-directions_book-title> y formule la pregunta guía: <tg_bullet-directions_guiding-question>¿Cómo el subibaja muestra qué lado pesa más?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Lea de manera interactiva para profundizar la comprensión y repasar sumar y restar uno.</tg_bullet-directions>
+        <tg_bullet-directions>Verifique la comprensión. Diferencie si es necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Contar:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Comprende que el orden en que los objetos están organizados o contados no afecta el conteo total.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Medición:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Mide, describe y compara la altura y longitud de los objetos usando unidades similares y palabras como “pequeño”, “grande”, “bajo”, “alto” y “largo”; Describe y compara el peso de objetos, usando unidades similares y palabras como “pesado” y “ligero”.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operaciones:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Comprende que sumar o restar uno de un grupo pequeño de objetos cambia la cantidad total en uno.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Empieza a jugar y se integra a un grupo para jugar.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Desarrollo físico</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motricidad fina:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Experimenta con una variedad de destrezas motoras finas, pero puede carecer de fuerza y control.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Vamos a equilibrarlo</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T3_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad</tg_materials-caption>
+        <graphic href="EC_stock_Scale_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Balanza</tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Cubos conectores</tg_materials-caption>
+        <graphic href="EC_stock_Buttons_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Objetos pequeños</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> conteo; operaciones; medición</tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Desarrollo físico:</tg_learning-goals_inline-hed> motricidad fina</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Anime a los niños a pesar objetos en comparación con cubos conectores.</tg_bullet-directions>
+        <tg_bullet-directions>Guíe a los niños para que identifiquen qué lado pesa más y cuál pesa menos.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo podemos mover cosas?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué meta tiene la persona del cuento? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Imagina que haces magdalenas. ¿Cuántas hiciste? ¿Cuántas hay si agregas una? ¿Cuántas hay si quitas una?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Cuenta diferentes objetos. ¿Cómo cambia la cuenta cuando agregas uno más?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿A qué te gusta jugar con tus amigos?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Haz un dibujo de algo alto.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Haz la palabra <tg_teacher-talk_emphasis_non-ital>ir</tg_teacher-talk_emphasis_non-ital> con letras.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué tan alta puedes hacer una torre con bloques? ¿Puedes hacerla más alta aún?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. El subibaja by Judith Koppens, illustrated by Eline van Lindenhuizen. Copyright © 2013 by Clavis Publishing Inc., New York. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Clavis Publishing Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved.Photos © Shutterstock: buttons (Rainbow4527), scale (Victor Moussa).</tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_3>
+  <day_4>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 4:</tg_week_hed>
+        <tg_topic_hed>En movimiento</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="EC3-5_Flipchart_T3W4_TheGreatBigEnormousYuca_SPAN_Redux_cropped.png" index="1"/>
+        <tg_materials-caption index="1">
+          <tg_materials-caption_book-title-Ital>Papelógrafo de grandes ideas: La gran yuca enorme</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC%20Redux%20T3_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="9781338609691_COV_SP_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Libro:<tg_materials-caption_book-title-Ital> El subibaja”</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="VC%20Redux%20Spa%20T3_cropped.png" index="4"/>
+        <tg_materials-caption index="4">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> conteo; operaciones; medición</tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para comentar las operaciones y contar, bailar con los niños y presentar el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>jalar</tg_bullet-directions_vocab>, <tg_bullet-directions_vocab>enorme</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento conectando <tg_bullet-directions_book-title>La gran yuca enorme </tg_bullet-directions_book-title>y <tg_bullet-directions_book-title>El subibaja</tg_bullet-directions_book-title>.</tg_bullet-directions>
+        <tg_bullet-directions>Lea de forma interactiva y muestre cuántos personajes jalan la yuca para conectar con contar y trabajar en grupo. </tg_bullet-directions>
+        <tg_bullet-directions>Ofrezca una oportunidad para prolongar el juego.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Comprende que el orden en que los objetos están organizados o contados no afecta el conteo total.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operaciones:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Comprende que sumar o restar uno de un grupo pequeño de objetos cambia la cantidad total en uno.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Medición:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Mide, describe y compara la altura y longitud de los objetos usando unidades similares y palabras como “pequeño”, “grande”, “bajo”, “alto” y “largo”; Describe y compara el peso de objetos, usando unidades similares y palabras como “pesado” y “ligero”.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Empieza a jugar y se integra a un grupo para jugar.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Física:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Identifica, investiga, habla y describe partes de objetos comunes.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>¿Cuántas yucas?</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="AC_Redux_Eng_Math_T3_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Tarjetas de actividad </tg_materials-caption>
+        <graphic href="EC_stock_ConnectingCubes_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Cubos conectores</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> operaciones; conteo;</tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed>física</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad: </tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Dé a los niños cubos conectores para representar plantas de yuca.</tg_bullet-directions>
+        <tg_bullet-directions>Guíelos para comentar cómo afecta al número total agregar o quitar uno.</tg_bullet-directions>
+        <tg_bullet-directions>Comente empujar y jalar.</tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo podemos mover cosas?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿De qué trata el cuento? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Haz como si jalaras algo grande y pesado.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Cuenta cuántos hay de un lado. Luego cuenta del otro. ¿Es el número igual?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escribe sobre dos personas que trabajan juntas. ¿Qué pasa si los ayuda uno más?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Haz algo enorme. ¿Cómo sabes que es tan grande?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué sonido de letra oyes al final de <tg_teacher-talk_emphasis_non-ital>jaló</tg_teacher-talk_emphasis_non-ital>?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Haz algo que puedas jalar.</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. El subibaja by Judith Koppens, illustrated by Eline van Lindenhuizen. Copyright © 2013 by Clavis Publishing Inc., New York. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Clavis Publishing Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_4>
+  <day_5>
+    <week>
+      <section-block>
+        <tg_week_hed>SEMANA 4:</tg_week_hed>
+        <tg_topic_hed>En movimiento</tg_topic_hed>
+      </section-block>
+    </week>
+    <large-group-section>
+      <section-block>
+        <tg_a-hed>Hora del círculo y hora del cuento</tg_a-hed>
+      </section-block>
+      <large-group-materials>
+        <graphic href="9781338609691_COV_SP_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Libro: <tg_materials-caption_book-title-Ital>El subibaja</tg_materials-caption_book-title-Ital>
+        </tg_materials-caption>
+        <graphic href="LGC%20Redux%20T3_cropped.png" index="2"/>
+        <tg_materials-caption index="2">Tarjeta para grupo grande</tg_materials-caption>
+        <graphic href="VC%20Redux%20Spa%20T3_cropped.png" index="3"/>
+        <tg_materials-caption index="3">Tarjetas de vocabulario</tg_materials-caption>
+      </large-group-materials>
+      <section-block>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> medición</tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social</tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Ciencias:</tg_learning-goals_inline-hed>física</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_large_group_c-hed_span_column>En esta lección:</tg_large_group_c-hed_span_column>
+        <tg_bullet-directions>Use la hora del círculo para conectar el libro con física, cantar con los niños y presentar el vocabulario <tg_bullet-directions_bold>(<tg_bullet-directions_vocab>igual</tg_bullet-directions_vocab>)</tg_bullet-directions_bold>.</tg_bullet-directions>
+        <tg_bullet-directions>Comience la hora del cuento repasando el libro y pregunte: <tg_bullet-directions_guiding-question>¿Qué hace que el subibaja suba y baje?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Lea de manera interactiva propiciando la participación física y un enfoque en la medición.</tg_bullet-directions>
+        <tg_bullet-directions>Verifique la comprensión. Diferencie si es necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Comparta la opción de escritura diaria.</tg_bullet-directions>
+      </section-block>
+    </large-group-section>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Medición:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Mide, describe y compara la altura y longitud de los objetos usando unidades similares y palabras como “pequeño”, “grande”, “bajo”, “alto” y “largo”; Describe y compara el peso de objetos, usando unidades similares y palabras como “pesado” y “ligero”.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operaciones:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Comprende que sumar o restar uno de un grupo pequeño de objetos cambia la cantidad total en uno.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Empieza a jugar y se integra a un grupo para jugar.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body><tg_skills-focus_in-line-hed>Física:</tg_skills-focus_in-line-hed><tg_skills-focus-skill-text>Identifica, investiga, habla y describe partes de objetos comunes.</tg_skills-focus-skill-text> Lectoescritura</tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Escribe con propósitos diferentes.</tg_skills-focus-skill-text>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+    <small-group-section>
+      <section-block>
+        <tg_a-hed>Escritura independiente, dibujar o narrar un cuento</tg_a-hed>
+      </section-block>
+      <small-group-materials>
+        <graphic href="EC3-5_ResponsePrompt_cropped.png" index="1"/>
+        <tg_materials-caption index="1">Hoja de respuestas</tg_materials-caption>
+      </small-group-materials>
+      <section-block>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Matemáticas:</tg_learning-goals_inline-hed> conteo; operaciones</tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Mind Builder:</tg_learning-goals_inline-hed> desarrollo social</tg_learning-goal-body>
+        <tg_learning-goal-body><tg_learning-goals_inline-hed>Lectoescritura:</tg_learning-goals_inline-hed>escritura</tg_learning-goal-body>
+      </section-block>
+      <section-block>
+        <tg_small-group_c-hed_centered>En esta actividad:</tg_small-group_c-hed_centered>
+        <tg_bullet-directions>Apoye a los niños en su intento por responder a la pregunta de esta semana: <tg_bullet-directions_guiding-question>¿Cómo puedes cumplir una meta si trabajas en grupo?</tg_bullet-directions_guiding-question></tg_bullet-directions>
+        <tg_bullet-directions>Diferencie y modifique según sea necesario.</tg_bullet-directions>
+        <tg_bullet-directions>Guarde los escritos de los niños para mostrarlos la próxima semana. </tg_bullet-directions>
+      </section-block>
+    </small-group-section>
+    <independent-centers-section>
+      <section-block>
+        <tg_a-hed>Juego con propósito</tg_a-hed>
+      </section-block>
+      <section-block>
+        <tg_essential-question>¿Cómo podemos mover cosas?</tg_essential-question>
+      </section-block>
+      <section-block>
+        <tg_ind-center_hed>BIBLIOTECA Y CENTRO DE ESCUCHA</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cómo trabajaron en grupo los personajes del cuento? </tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE DRAMATIZACIÓN Y APRENDIZAJE</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Qué puedes hacer para actuar como si movieras algo?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE MATEMÁTICAS Y CIENCIAS</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Cuántos puedes contar? ¿Qué pasa si quitas uno?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>RINCÓN DEL ESCRITOR</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>¿Por qué es importante que las personas que quieren mover algo pesado trabajen en grupo?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>ESTACIÓN DE CREATIVIDAD</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Dibuja un subibaja. ¿Cómo puedes mostrar que un lado pesa más que el otro?</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO ABC </tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Escribe la palabra <tg_teacher-talk_emphasis_non-ital>igual</tg_teacher-talk_emphasis_non-ital> con el dedo.</tg_ind-center_teacher-talk>
+        <tg_ind-center_hed>CENTRO DE CONSTRUCCIÓN</tg_ind-center_hed>
+        <tg_ind-center_teacher-talk>Trabaja con un compañero en una torre. ¿Cuál es tu meta? ¿Cómo pueden trabajar juntos para alcanzarla?</tg_ind-center_teacher-talk>
+      </section-block>
+    </independent-centers-section>
+    <copyright-section>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. El subibaja by Judith Koppens, illustrated by Eline van Lindenhuizen. Copyright © 2013 by Clavis Publishing Inc., New York. Translation copyright © 2021 by Scholastic Inc. Published by Scholastic Inc. by arrangement with Clavis Publishing Inc. </tg_copyright-line>
+      </section-block>
+      <section-block>
+        <tg_copyright-line>TM ® &amp; © Scholastic Inc. All rights reserved. </tg_copyright-line>
+      </section-block>
+    </copyright-section>
+  </day_5>
+  <day_1_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Medición:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Reconoce y compara alturas o longitudes de personas u objetos.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.D.1);</tg_skills-focus-skill-code>
+          <tg_skills-focus-skill-text>Reconoce y compara informalmente los pesos de los objetos o de las personas.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.D.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Interactúa y se comunica cada vez más con sus compañeros para iniciar situaciones de juegos de simulación que compartan un plan y una meta común.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.I.C.4, MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Demuestra que comprende de varias maneras o que conoce el significado de 3000 a 4000 palabras, muchas más de las que usa.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.II.D.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_1_texas>
+  <day_2_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Medición:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Reconoce y compara alturas o longitudes de personas u objetos.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.D.1);</tg_skills-focus-skill-code>
+          <tg_skills-focus-skill-text>Reconoce y compara informalmente los pesos de los objetos o de las personas.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.D.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Interactúa y se comunica cada vez más con sus compañeros para iniciar situaciones de juegos de simulación que compartan un plan y una meta común.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.I.C.4, MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Lenguaje</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Vocabulario:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Demuestra que comprende de varias maneras o que conoce el significado de 3000 a 4000 palabras, muchas más de las que usa.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.II.D.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Física:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Observa, investiga descripciones y discute la posición y el movimiento de los objetos.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.VI.A.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_2_texas>
+  <day_3_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Demuestra que entiende que cuando cuenta, los objetos se pueden elegir en cualquier orden.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.A.6)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Medición:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Reconoce y compara alturas o longitudes de personas u objetos.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.D.1);</tg_skills-focus-skill-code>
+          <tg_skills-focus-skill-text>Reconoce y compara informalmente los pesos de los objetos o de las personas.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.D.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operaciones:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Usa objetos concretos, crea modelos en imágenes y comparte un problema con un planteamiento oral para agregar hasta 5  objetos.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.B.1);</tg_skills-focus-skill-code>
+          <tg_skills-focus-skill-text>Usa modelos concretos o hace un problema con un planteamiento oral para restar 0-5 objetos de un conjunto.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.B.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Interactúa y se comunica cada vez más con sus compañeros para iniciar situaciones de juegos de simulación que compartan un plan y una meta común.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.I.C.4, MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Desarrollo físico</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Motricidad fina:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Muestra control de las tareas que requieren fuerza y el control de los músculos pequeños.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.IX.B.1)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_3_texas>
+  <day_4_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operaciones:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Usa objetos concretos, crea modelos en imágenes y comparte un problema con un planteamiento oral para agregar hasta 5  objetos.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.B.1);</tg_skills-focus-skill-code>
+          <tg_skills-focus-skill-text>Usa modelos concretos o hace un problema con un planteamiento oral para restar 0-5 objetos de un conjunto.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.B.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Medición:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Reconoce y compara informalmente los pesos de los objetos o de las personas.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.D.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Conteo:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Demuestra que entiende que cuando cuenta, los objetos se pueden elegir en cualquier orden.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.A.6)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Interactúa y se comunica cada vez más con sus compañeros para iniciar situaciones de juegos de simulación que compartan un plan y una meta común.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.I.C.4, MB)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Física:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Observa, investiga descripciones y discute la posición y el movimiento de los objetos.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.VI.A.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_4_texas>
+  <day_5_texas>
+    <skills-section>
+      <section-block>
+        <tg_skills-focus_domain_hed>Matemáticas</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Medición:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Reconoce y compara alturas o longitudes de personas u objetos.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.D.1);</tg_skills-focus-skill-code>
+          <tg_skills-focus-skill-text>Reconoce y compara informalmente los pesos de los objetos o de las personas.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.D.3)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Operaciones:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Usa objetos concretos, crea modelos en imágenes y comparte un problema con un planteamiento oral para agregar hasta 5  objetos.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.B.1);</tg_skills-focus-skill-code>
+          <tg_skills-focus-skill-text>Usa modelos concretos o hace un problema con un planteamiento oral para restar 0-5 objetos de un conjunto.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.V.B.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Mind Builder </tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Desarrollo social:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Interactúa y se comunica cada vez más con sus compañeros para iniciar situaciones de juegos de simulación que compartan un plan y una meta común.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.I.C.4)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Alfabetización</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Escritura:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Escribe en forma independiente para comunicar sus ideas con varios fines.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.IV.A.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+        <tg_skills-focus_domain_hed>Ciencias</tg_skills-focus_domain_hed>
+        <tg_skills-focus_body>
+          <tg_skills-focus_in-line-hed>Física:</tg_skills-focus_in-line-hed>
+          <tg_skills-focus-skill-text>Observa, investiga descripciones y discute la posición y el movimiento de los objetos.</tg_skills-focus-skill-text>
+          <tg_skills-focus-skill-code>(TX.VI.A.2)</tg_skills-focus-skill-code>
+        </tg_skills-focus_body>
+      </section-block>
+    </skills-section>
+  </day_5_texas>
+</teaching-guide>

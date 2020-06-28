@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="es">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>¡hablemos de nuestros sentidos!</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy aprendimos sobre los cinco sentidos. Aprendimos que nuestros sentidos nos permiten conocer el mundo que nos rodea. Miraremos imágenes y hablaremos de nuestros cinco sentidos basados en lo que vemos.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>En esta actividad, veremos cada imagen y usaremos uno de nuestros sentidos para responder a la pregunta</ac_teacher-speaking>.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Enseñar/Demostrar</ac_teacher-card_run-in_hed> Invente señales de mano para los cinco sentidos para así guiar a los niños a representar la respuesta correcta.   </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar </ac_teacher-card_run-in_hed>Muestre una tarjeta de ilustraciones y haga la pregunta del reverso de la tarjeta. Según sea necesario, brinde un estímulo adicional o apoyo.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed> Use la última pregunta del reverso de la tarjeta para ampliar la conversación.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed> Continúe la actividad usando la siguiente tarjeta de ilustraciones.   </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre los cinco sentidos </ac_teacher-card_run-in_hed>Invite a los niños a hablar sobre lo que aprendieron de sus cinco sentidos. Brinde tiempo y tecnología para que los niños aprendan de sus cinco sentidos. Use herramientas digitales con el fin de reforzar el aprendizaje. </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>¡hablemos de nuestros sentidos!</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Demuestre los cinco sentidos antes de comenzar. Ayude a los niños a identificar cada imagen antes de pedirles que representen el sentido asociado a la tarjeta.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida de nuevo a los niños que piensen en nuestros cinco sentidos. <ac_teacher-talk>¿Qué otras cosas nos muestran los ojos? ¿Qué otra cosa produce un sonido fuerte? ¿Qué es más suave que un animal de peluche? ¿Qué es dulce como la miel? ¿Qué huele mal además de la basura?</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Antes de comenzar, asegúrese de que los niños conocen las etiquetas de los cinco sentidos en español. Pida a voluntarios que enseñen, al resto de la clase, las palabras para <ac_teacher-talk>vista, oído, gusto, tacto</ac_teacher-talk> y <ac_teacher-talk>olfato</ac_teacher-talk> en el idioma de su hogar.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Apoyo para la oratoria</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Ayude a los niños a ajustar el volumen y la entonación de sus voces según las distintas situaciones. Explique cuándo está bien hablar en voz alta y cuándo en voz baja. Pídales que hablen con una voz como para estar “afuera” (alta) y una para “adentro” (baja). Pregúnteles qué tipo de voz debieran usar cuando están jugando afuera, en un centro de estudios, a la hora de comer y haciendo una pregunta al maestro. Según sea necesario, ayúdelos para que ajusten el volumen de sus voces.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66293-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>¿objetos o seres vivos?</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy aprendimos acerca de la habilidad de hacer y contestar preguntas. Cuando no entendemos algo, podemos hacer preguntas para encontrar respuestas.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>En esta actividad, veremos imágenes de varias cosas y colocaremos las tarjetas en dos categorías o grupos. Debajo de la imagen de la oruga, ordenaremos todas las imágenes de los seres vivos. Debajo de los zapatos, todas las que muestran objetos.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Enseñar/Demostrar</ac_teacher-card_run-in_hed> Pida a los niños que describan la primera imagen. <ac_teacher-speaking>¿Qué ven en esta imagen? ¿Esto es un objeto o un ser vivo? ¿Cómo lo saben?</ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar </ac_teacher-card_run-in_hed>Muestre una tarjeta de ilustraciones y haga la pregunta del reverso de la tarjeta. Según sea necesario, brinde un estímulo adicional o apoyo.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed> Use la última pregunta del reverso de la tarjeta para ampliar la conversación.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed> Continúe la actividad usando la siguiente tarjeta de ilustraciones.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar</ac_teacher-card_run-in_hed>  Pida a los niños que expliquen las dos categorías. <ac_teacher-speaking>¿Cuál es la diferencia entre objetos y seres vivos?</ac_teacher-speaking> Anímelos a nombrar otras cosas que sean objetos (por ejemplo, lápiz, lonchera, reloj, buzón) y cosas que sean seres vivos (perro, ardilla, lombriz, árbol). Como inspiración, pueden usar elementos del salón de clases o de sus hogares. </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>¿objetos o seres vivos?</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Compruebe la comprensión de los niños sobre los seres vivos y las cosas u objetos no vivos. Para brindar contexto a la actividad, señale, como ejemplos, elementos del salón de clases que estén vivos y elementos que no lo estén.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Anime a los niños a que participen en conversaciones, de compañero a compañero, sobre objetos y seres vivos, en las que cada niño tome dos turnos. Recuérdeles que mientras una persona habla, la otra escucha.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Permita que los niños usen señales y gestos con las manos para responder a las preguntas. Luego, ayúdelos a formular sus respuestas con oraciones completas brindándoles marcos de oraciones y el vocabulario necesario.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Permita que los niños dibujen con lápices de colores, crayones o marcadores, una respuesta a cada pregunta. Luego, pida a los niños que compartan sus dibujos y hablen de lo que dibujaron.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66293-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>¡nuestros fabulosos cinco sentidos!</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Hoy leímos el libro <ac_teacher-speaking_emphasis_blue>Frío, crujiente y colorido. El uso de nuestros cinco sentidos</ac_teacher-speaking_emphasis_blue>, y aprendimos de nuestros cinco sentidos.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, veremos las páginas del libro y haremos conexiones con las imágenes y lo que vemos en nuestras vidas.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Enseñar/Demostrar</ac_teacher-card_run-in_hed> Pida a los niños que digan cuál es la primera imagen. Luego, pregúnteles si pueden relacionarla con algo de sus propias vidas.    </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar </ac_teacher-card_run-in_hed>Muestre las siguientes páginas del libro y haga las preguntas mientras los niños miran las imágenes.</ac_teacher-card-body>
+            <ac_teacher-card-teacher_talk_bulleted>pág. 11 <ac_teacher-speaking>- Miren la imagen. ¿Tu vecindario luce así? ¿Cómo luce?</ac_teacher-speaking></ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>pág. 20<ac_teacher-speaking> - Miren las imágenes. ¿Hay flores en tu barrio? Las flores, ¿huelen bien o mal?</ac_teacher-speaking></ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>pág. 22<ac_teacher-speaking> - Miren las imágenes. ¿Qué olores son ricos? ¿Qué aromas huelen en primavera? Los duraznos maduros, ¿tienen sabor dulce o salado?</ac_teacher-speaking>   </ac_teacher-card-teacher_talk_bulleted>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre los sentidos</ac_teacher-card_run-in_hed>  Señale elementos del salón de clases que los niños puedan identificar usando sus sentidos. Invite a los niños a que hablen de cómo usan sus sentidos. Por ejemplo, puede señalar un libro rojo en la estantería y preguntar qué color ven. O pida a un niño que tome un peluche, de uno de los centros, y que lo pase a sus compañeros y pregunte cómo se siente al tocarlo.   </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>¡nuestros fabulosos cinco sentidos!</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Si los niños responden con una frase, pídales que repitan una oración completa después de usted.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Anime a los niños a que piensen otros ejemplos donde pueden usar sus sentidos. Por ejemplo, puede preguntar: <ac_teacher-talk>¿Qué alimentos comen en la cena? ¿Qué cosas tienen mal olor? ¿Qué ven todos los días</ac_teacher-talk>  <ac_teacher-talk>en sus vecindarios?</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Dé a los niños tiempo extra para que conversen de compañero a compañero. Anímelos a trabajar en parejas, comparando y contrastando las historias representadas en sus imágenes. Recuérdeles que se turnen para hablar: una persona escucha activamente mientras la otra habla. Recuerde a los niños que está bien que usen todos los idiomas que conocen cuando hablan con un compañero que también es multilingüe.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Habilidades para la observación</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Los niños pequeños usan continuamente todos sus sentidos para observar y describir el mundo que los rodea. Cuando los niños hablen de los elementos que hay en el salón de clases, ayúdelos a percibir los detalles, animándolos a hablar de todo lo que ven, oyen, huelen, saborean y tocan. ¡Recuerde que la ciencia siempre comienza gracias a la curiosidad y el asombro!</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66293-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>¿ñami o puaj?</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy aprendimos cómo usamos nuestros ojos para ver y nuestras lenguas para saborear.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En esta actividad, veremos imágenes de diferentes cosas. Usaremos nuestros ojos para descubrir qué es cada alimento e imaginar qué gusto tiene. Clasificaremos las imágenes en dos grupos:</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-speaking>Cosas que tienen un gusto rico.</ac_teacher-speaking></ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-speaking>Cosas que tienen un gusto feo.</ac_teacher-speaking></ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Enseñar/Demostrar</ac_teacher-card_run-in_hed> Pida a los niños que digan cuál es la primera imagen. Pregúnteles si tiene gusto dulce o agrio.    </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar </ac_teacher-card_run-in_hed>Muestre una tarjeta de ilustraciones y haga la pregunta del reverso de la tarjeta. Según sea necesario, brinde un estímulo adicional o apoyo.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar </ac_teacher-card_run-in_hed>Use la última pregunta del reverso de la tarjeta para ampliar la conversación.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed> Continúe la actividad usando la siguiente tarjeta de ilustraciones.   </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre alimentos</ac_teacher-card_run-in_hed>  Invite a los niños a hablar de sus comidas favoritas y sus sabores. Anímelos a dar más ejemplos de alimentos que les gustan (por ejemplo, galletas, pizza, manzanas) y de los que no les gustan (coles de bruselas, frijoles, huevos).    </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>¿ñami o puaj?</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Anime a los niños a que digan cómo se sienten cuando miran la imagen. ¿Comer la comida que ven en la imagen los hace felices o los hace poner una cara rara?</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pregunte a los niños qué alimentos de las tarjetas han probado. ¿Qué gusto tenía cada comida? ¿Les gustó? Si pudieran elegir comer alimentos ácidos o dulces, ¿cuáles elegirían?</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Demuestre y anime a los niños a que usen una respuesta física, además de hablada, para conversar de si las imágenes muestran algo que tiene gusto dulce o agrio. Por ejemplo, los niños pueden sacudir la cabeza y sacar la lengua con disgusto para mostrar que algo tiene un gusto feo. O sonreír y darse palmaditas en la barriga para mostrar que algo tiene un gusto rico.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Brinde a los niños la opción de dibujar una respuesta a la actividad con lápices, crayones o marcadores. Asegúrese de darles colores que coincidan con las comidas que hay en las tarjetas (por ejemplo, verde, rojo, blanco, etc.). Anime a los niños a hablar mientras dibujan, usando tantas palabras descriptivas como les sea posible.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66293-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

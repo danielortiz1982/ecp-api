@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="es">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>ELIJE TU PINTURA</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos el cuento <ac_teacher-speaking_emphasis_blue>Casi.</ac_teacher-speaking_emphasis_blue> Vimos que la hermana de Ramón, Marisol, colgó el arte de Ramón en su habitación.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Voy a mostrarles unas pinturas. Hablaremos sobre ellas. Luego ustedes decidirán cuál les gustaría más para colgar en su habitación y nos dirán por qué eligieron esa pintura.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Enseñar con señales con la mano</ac_teacher-card_run-in_hed>  Mientras los niños hablan, anime a los demás a escuchar y a usar las señal de la mano de <ac_teacher-talk>hacer una conexión</ac_teacher-talk> si están de acuerdo con la elección. Represente cómo hacerlo.  </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre cada tarjeta con imagen y haga la pregunta al dorso; ofrezca estímulo o apoyo adicional según sea necesario.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use la última pregunta al dorso de cada tarjeta para ampliar la conversación.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Elegir</ac_teacher-card_run-in_hed>  Muestre las tarjetas y pida a un niño que se acerque, que levante y muestre la pintura que más le gusta y que explique por qué sería esa la pintura que elegiría para colgar en la pared.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Pida al primer niño que regrese la tarjeta a dónde estaba y continúe dándole el turno a cada uno de los otros niños.  </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre elecciones</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¿Qué pintura fue la que le gustó a más de una persona? ¿Qué pintura fue la que no le gustó a nadie?</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre crear arte</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Cada una de estas pinturas la pintó un artista diferente. ¿Cuál pintura les parece más interesante? ¿Cuál les asombra más? ¿Cuál les hace sentir más emoción?</ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>ELIJE TU PINTURA</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Muestre a los niños dos tarjetas con imagen a la vez. Pregunte: <ac_teacher-talk>¿Cuál les gusta más? ¿Por qué les gusta? </ac_teacher-talk>Repita la pregunta para otras combinaciones.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Muestre las cinco tarjetas con imagen y estimule a los niños a turnarse para ordenarlas de la favorita a la menos favorita. Anime a los niños a explicar las elecciones que hicieron.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Presente un avance de palabras desconocidas que podrían surgirde manera natural durante una conversación sobre las pinturas.Por ejemplo, podría presentar<ac_teacher-talk> puente, mujer, gato, fruta, pera, manzanas, playa, arena, tigre, ramas, ovejas, burro. </ac_teacher-talk>Puede usar estructuras de oración para ayudar a los niños a explicar sus elecciones: <ac_teacher-talk>Me gusta </ac_teacher-talk>
+            <fill-in-the-blank>   </fill-in-the-blank>  <ac_teacher-talk>porque</ac_teacher-talk>  <fill-in-the-blank>   </fill-in-the-blank>
+            <ac_teacher-talk>.</ac_teacher-talk></ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Apoyo para el déficit de atención</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Si los niños tienen dificultades para escucharse con educación unos a otros, use una rutina para que vuelvan a enfocarse. Para evitar interrupciones adicionales, puede usar una señal visual, como una luz roja o agitar una bandera roja. Los niños pronto aprenderán que la señal significa que deben dejar de hacer lo que están haciendo y prestar atención al niño que está hablando.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66317-4</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>Cuenta un Cuento</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Leímos sobre cómo un joven artista aprende a sentirse orgulloso de su trabajo.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Tengo algunas imágenes de personas que están sintiendo orgullo. Después de que hablemos de las imágenes, cada uno de ustedes contará un cuento sobre una tarjeta.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar las habilidades de escucha</ac_teacher-card_run-in_hed>  Recuerde a los niños que cuando sus compañeros de clase hablen, tienen que mirarlos y escucharlos en silencio y con educación.   </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre cada tarjeta con imagen y haga la pregunta al dorso; ofrezca estímulo o apoyo adicional según sea necesario.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use la última pregunta al dorso de cada tarjeta para ampliar la conversación.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Contar un cuento</ac_teacher-card_run-in_hed>  Deje que cada niño elija una tarjeta. Pídale que mire la tarjeta con atención y que luego les cuente a sus compañeros de clase un cuento sobre lo que ocurre y por qué la persona de la tarjeta se siente orgullosa.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Aplaudir</ac_teacher-card_run-in_hed>  Pida al grupo que aplauda a cada niño que hace una presentación para animarlo a sentirse orgulloso de su cuento.   </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre orgullo</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Si fueran la persona de la tarjeta, ¿también se sentirían orgullosos? ¿Por qué?</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hacer una conexión</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¿Cuál de estas personas les gustaría más ser? ¿Por qué? ¿Cómo podrían hacer lo que hizo esa persona?</ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>Cuenta un Cuento</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Use estructuras de oraciones para ayudar a los niños a contar cuentos sobre sus tarjetas. Algunas estructuras podrían ser <ac_teacher-talk>Estos amigos son </ac_teacher-talk>
+            <fill-in-the-blank>  </fill-in-the-blank>
+            <ac_teacher-talk>. Les gusta</ac_teacher-talk>
+            <fill-in-the-blank>   </fill-in-the-blank>  <ac_teacher-talk>juntos. Se sienten orgullosos porque</ac_teacher-talk>
+            <fill-in-the-blank>    </fill-in-the-blank>
+            <ac_teacher-talk>.</ac_teacher-talk>
+          </ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Anime a los niños a contar sus cuentos con oraciones completas usando el orden sujeto, verbo y objeto. Demuéstrelo usando una estructura de oración como <ac_teacher-talk>A </ac_teacher-talk>
+            <fill-in-the-blank>   </fill-in-the-blank>
+            <ac_teacher-talk> le gusta </ac_teacher-talk>
+            <fill-in-the-blank>   </fill-in-the-blank> <ac_teacher-talk>pinturas/dibujos de</ac_teacher-talk> <fill-in-the-blank>   </fill-in-the-blank>.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Para los alumnos que estudian un idioma nuevo, en lugar de pedirles que cuenten cuentos complejos, hágales preguntas sencillas sobre las personas de las tarjetas. Acepte como respuestas palabras y frases, pero amplíe cada una de ellas formando una oración y pídale a los niños que la repitan.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Estimulación del habla</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Hasta los niños más expresivos pueden tener dificultades con la sintaxis, la concordancia y la elección de las palabras. Sin interrumpir el flujo de ideas del niño, intente repetir y demostrar la manera correcta de estructurar la oración en cuestión, diciendo, por ejemplo: <ac_teacher-speaking>Sí. A mí también me gusta escalar hasta la cima de una montaña</ac_teacher-speaking> como respuesta a una frase como: “A yo me gusta escalar una montaña”.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66317-4</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>Dibujar sin preocuparse</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Reunir los materiales</ac_teacher-card_run-in_hed>  Dé a cada niño un papel para dibujar y algunos crayones o lápices de colores.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>En <ac_teacher-speaking_emphasis_blue>Casi</ac_teacher-speaking_emphasis_blue>, vimos cómo Ramón dibuja con trazos fluidos y sin preocuparse después de hablar con Marisol.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Haremos dibujos con trazos fluidos y sin preocuparnos. Daré instrucciones y ustedes harán lo mejor posible.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar las habilidades de escucha</ac_teacher-card_run-in_hed>  Recuerde a los niños que deben dejar los crayones y mirarlo a usted mientras describe lo que tienen que hacer. </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Demostrar</ac_teacher-card_run-in_hed>  Demuestre cómo dibujar con trazos largos y fluidos, usando todo el papel.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Dar instrucciones</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Mientras les doy instrucciones, usen crayones para hacer lo que les diga.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-speaking>Primero, hagan una línea larga y fluida a todo lo largo del papel.</ac_teacher-speaking></ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-speaking>Luego dibujen algunas líneas cortas que salen de esa línea.</ac_teacher-speaking></ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-speaking>Ahora dibujen figuras de flores sobre cada línea corta.</ac_teacher-speaking></ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-speaking>Por último, agreguen los colores que quieran.</ac_teacher-speaking></ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Describir</ac_teacher-card_run-in_hed>  Permita a los niños que describan sus dibujos. ¿Parece un “casi” jardín?   </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre dibujar</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¿Fue divertido dibujar con trazos fluidos y sin preocuparse? ¿Creen que volverán a dibujar así alguna otra vez?</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hacer una conexión</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¿Cómo creen que se sentía Ramón cuando estaba dibujando sus “casi” dibujos?</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>Dibujar sin preocuparse</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>A medida que lee las instrucciones, demuestre cada una de ellas y pida a los niños que copien lo que usted hace y dice. Cuando termine la actividad, compare su dibujo con los de los niños.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida a los niños que usen el estilo de dibujo fluido y sin preocuparse que usted demostró para dibujar cualquiera de estas cosas: un barco, una casa, un pez, un árbol, una criatura imaginaria. Pida a los niños que describan cómo hicieron sus dibujos.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Use señales con la mano para ilustrar las palabras clave <ac_teacher-talk>a través</ac_teacher-talk>, <ac_teacher-talk>hacia arriba</ac_teacher-talk> y <ac_teacher-talk>encima </ac_teacher-talk>mientras lee las instrucciones para los dibujos de los niños. Espere a que los niños terminen cada paso antes de leer la instrucción siguiente.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Desarrollo de la motricidad fina</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Es importante ayudar a los niños a agarrar los crayones de la misma manera que luego tendrán que agarrar el lápiz. Use un pedazo pequeño de cinta de enmascarar para sujetar el papel para dibujar en la mesa e impedir que se deslice. Demuestre cómo agarrar un crayón y ajuste el agarre de los niños según sea necesario. Anime a los niños a agarrar los crayones usando solo el pulgar y el índice (demuestre cómo hacerlo) y que luego giren el crayón para que descanse de manera correcta sobre el dedo medio en la pinza trípode.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66317-4</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>Emparejael verbo</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instrucciones</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Asociar con el grupo grande</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Hoy leímos sobre diferentes tipos de arte. Las personas hacen caballos con pintura, metal y arcilla.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explicar la actividad</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Veremos algunas tarjetas que muestran a personas creando arte. Ustedes tendrán que decidir cuáles emparejar, basándose en las acciones de los artistas.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repasar el vocabulario</ac_teacher-card_run-in_hed>  Pida a voluntarios que sugieran sus propias definiciones de los verbos y frases <ac_teacher-talk>pintar, hacer una escultura</ac_teacher-talk> y <ac_teacher-talk>dibujar.</ac_teacher-talk>  </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Preguntar</ac_teacher-card_run-in_hed>  Muestre cada tarjeta con imagen y haga la pregunta al dorso; ofrezca estímulo o apoyo adicional según sea necesario.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ampliar</ac_teacher-card_run-in_hed>  Use la última pregunta al dorso de cada tarjeta para ampliar la conversación.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Jugar</ac_teacher-card_run-in_hed>  Mezcle las tarjetas y pida a los niños que elijan una. Pídales que busquen su pareja mirando las tarjetas de los otros. Los niños con tarjetas que muestren la misma acción deben colocarse juntos.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repetir</ac_teacher-card_run-in_hed>  Mezcle las tarjetas y jueguen de nuevo.   </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Hablar sobre verbos</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¿En qué se diferencia pintar de dibujar? ¿En qué se diferencia hacer una escultura de hacer una pintura?</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Conversar sobre crear arte</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>¿Qué trabajo de arte de los que se muestran en las tarjetas les gustaría hacer? ¿Cómo lo harían?</ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>Emparejael verbo</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Diferenciación</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="2">
+          <ac_diff_support-challenge_heds>Apoye</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Muestre a los niños una sola tarjeta con imagen a la vez. Pregunte: <ac_teacher-talk>¿Esto muestra a alguien pintando, haciendo una escultura o dibujando?</ac_teacher-talk> Luego coloque las tarjetas sobre la mesa y pida a los niños que identifiquen pares de tarjetas y el verbo o frase correspondientes.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="3">
+          <ac_diff_support-challenge_heds>Estimule</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Pida a parejas de niños que coloquen las tarjetas boca abajo y que jueguen un juego de concentración: voltearán dos tarjetas hasta encontrar un par. El niño que consiga más pares, gana.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modificaciones</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="2">
+          <ac_mod_teacher-card_d_hed>Alumnos multilingües</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Presente un avance de los verbos y frases pidiendo a los niños que imiten sus acciones exageradas mientras demuestra pintar, hacer una escultura y dibujar mientras dice las palabras <ac_teacher-talk>pintar</ac_teacher-talk>, <ac_teacher-talk>hacer una escultura</ac_teacher-talk> y <ac_teacher-talk>dibujar</ac_teacher-talk>. Luego diga los verbos en orden aleatorio y pida a los niños que demuestren cada uno antes de empezar la actividad Empareja el verbo.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Estimulación sensorial</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Los niños que tienen dificultades para enfocarse visualmente pueden necesitar que trabaje con ellos de manera independiente, mirando las tarjetas con imagen una a una. Como alternativa, montar cada tarjeta en el centro de una carpeta de color puede ayudar a los niños a enfocarse con más facilidad en el contenido de la tarjeta, ya que el encuadre producido por la carpeta oculta distractores.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-66317-4</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>

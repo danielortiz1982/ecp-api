@@ -1,0 +1,2380 @@
+[{
+  "declaration": {
+    "attributes": {
+      "version": "1.0",
+      "encoding": "UTF-8"
+    }
+  },
+  "elements": [
+    {
+      "type": "element",
+      "name": "teacher-activity-cards",
+      "attributes": {
+        "lang": "es",
+        "module":"language",
+        "week":"week_001",
+        "theme":"theme_005"
+      },
+      "elements": [
+        {
+          "type": "element",
+          "name": "ac_card-1",
+          "attributes": {
+            "day": "1"
+          },
+          "elements": [
+            {
+              "type": "element",
+              "name": "ac_card-1_front",
+              "elements": [
+                {
+                  "type": "element",
+                  "name": "masthead",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "masthead_f_1",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_header-game-card",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": " PARTES DEL CUERPO"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "instructions",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "instructions_f_1",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Instrucciones"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "before-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "before_f_1",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Asociar con el grupo grande"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Hoy leímos el libro "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "Mi cuerpo"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": ". Aprendimos sobre distintas partes de nuestro cuerpo."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Explicar la actividad"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "En esta actividad miraremos imágenes de distintas cosas y las clasificaremos en dos grupos:"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card-teacher_talk_bulleted",
+                                  "elements": [
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking",
+                                      "elements": [
+                                        {
+                                          "type": "element",
+                                          "name": "ac_teacher-speaking_emphasis_blue",
+                                          "elements": [
+                                            {
+                                              "type": "text",
+                                              "text": "Partes del cuerpo"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "type": "text",
+                                          "text": " es para las tarjetas que muestran partesdel cuerpo."
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card-teacher_talk_bulleted",
+                                  "elements": [
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking",
+                                      "elements": [
+                                        {
+                                          "type": "element",
+                                          "name": "ac_teacher-speaking_emphasis_blue",
+                                          "elements": [
+                                            {
+                                              "type": "text",
+                                              "text": "No partes de cuerpo"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "type": "text",
+                                          "text": " es para las tarjetas que muestran cosas que no son partes del cuerpo."
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Enseñar señales la mano"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Pida a los niños que indiquen con un pulgar hacia arriba si la imagen muestra una parte del cuerpo o con un pulgar hacia abajo si muestra algo que no lo es. Demuestre.   "
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "during-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "during_f_1",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Preguntar"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Muestre una tarjeta con imagen y haga la pregunta al dorso; dé apoyo o estímulo según sea necesario."
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Ampliar"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Use la última pregunta al dorso de la tarjeta para ampliar en la conversación."
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Clasificar"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Dé la tarjeta con imagen a un niño para que la coloque en el grupo “Partes del cuerpo” o “No partes del cuerpo”."
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Repetir"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Continúe la actividad con la siguiente tarjeta con imagen.  "
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "after-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "after_f_1",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Hablar sobre partes del cuerpo"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Todas las imágenes de este lado muestran p"
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "fill-in-the-blank"
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "(partes)"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": " del cuerpo. ¿Qué saben sobre estas partes del cuerpo?"
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Hablar sobre imágenes que no son partes del cuerpo"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Todas estas imágenes muestran cosas que nos ponemos en partes del cuerpo, pero no son partes del cuerpo. ¿Pueden nombrar otras cosas que se pongan ustedes?"
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "name": "ac_card-1_back",
+              "elements": [
+                {
+                  "type": "element",
+                  "name": "masthead",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "masthead_b_1",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_header-game-card",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": " PARTES DEL CUERPO"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "differentiation-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_1",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Diferenciación"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_1",
+                        "index": "2"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_diff_support-challenge_heds",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Apoye"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Muestre a los niños tres tarjetas con imagen juntas, de las que dos sean ejemplos de partes del cuerpo y la tercera no (ej.: mano,pie, manopla). Pregunte: "
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-talk",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "¿Cuál no pertenece al grupo?"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": " Luego pregunte, "
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-talk",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "¿Cómo lo saben?"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": " Repita con otros grupos de tres tarjetas."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_1",
+                        "index": "3"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_diff_support-challenge_heds",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Estimule"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Muestre dos tarjetas con imagen, de las que una sea un ejemplo de una parte del cuerpo y la otra de algo que se usa en esa parte del cuerpo (ej.: mano y manopla). Pregunte: "
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-talk",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "¿En qué se parecen y en qué se diferencian estas cosas?"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": " Repita con otros pares de tarjetas."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "modifications-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "modifications_b_1",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Modificaciones"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "modifications_b_1",
+                        "index": "2"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_mod_teacher-card_d_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Alumnos multiligües"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Anime a los niños a usar una respuesta física, además de la hablada. Por ejemplo, invítelos a señalar sus propias manos, pies y cabeza cuando se muestren las imágenes correspondientes. Estas pistas físicas y visuales apoyarán el desarrollo del lenguaje y los niños podrán participar en la actividad al mismo tiempo que desarrollan sus habilidades lingüísticas."
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_mod_teacher-card_d_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Desarrollo de la motricidad gruesa"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Invite a los niños a jugar este juego en el espacio para el grupo grande o en el exterior, donde puedan sostener las tarjetas cerca de las partes del cuerpo correspondientes. Cuando los niños elijan una tarjeta que muestre un objeto que no sea una parte del cuerpo, pueden mover la mano, el pie, la cabeza o la parte del cuerpo en la que se pone ese objeto."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "copyright-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "copyright_b_1",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_back_copyright_line",
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "isbn",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "978-1-338-65742-5"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": ". TM ® & © Scholastic Inc. All rights reserved."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "name": "ac_card-2",
+          "attributes": {
+            "day": "2"
+          },
+          "elements": [
+            {
+              "type": "element",
+              "name": "ac_card-2_front",
+              "elements": [
+                {
+                  "type": "element",
+                  "name": "masthead",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "masthead_f_2",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_header-game-card",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": " REGLAS DE COMUNICACIÓN"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "instructions",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "instructions_f_2",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Instrucciones"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "before-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "before_f_2",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Asociar con el grupo completo"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Hoy leímos "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "Mi cuerpo"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": " y nos enfocamos en seguir reglas y rutinas sobre el cuidado de nuestro cuerpo. Repasamos las razones de las reglas del salón de clases, como turnarse para hacer tareas y manejar los materiales del salón con cuidado."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Repasar el vocabulario"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Aprendimos la palabra "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "comunicar. "
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": "Repasaremos esta palabra y la usaremos al hablar de la actividad."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "Use la tarjeta de vocabulario "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-talk",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "comunicar"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " para repasar la palabra."
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Explicar la actividad"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "En esta actividad veremos imágenes de personas que usan diferentes maneras de comunicarse. Comentaremos cada imagen y luego responderemos preguntas sobre rutinas que seguimos cuando nos comunicamos."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "during-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "during_f_2",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Preguntar"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Muestre una tarjeta al grupo y haga la pregunta al dorso; dé apoyo o estímulo según sea necesario."
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Ampliar"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Use la última pregunta al dorso de la tarjeta para ampliar en la conversación."
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Repetir"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Muestre la tarjeta siguiente y repita los pasos anteriores.   "
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "after-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "after_f_2",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Hablar sobre reglas de comunicación"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Hablen sobre las distintas partes del cuerpo que usamos cuando nos comunicamos, incluido el cerebro. Anime a los niños a pensar en más maneras de comunicarse y comenten las reglas involucradas, como hablar consigo mismo. Recuerde a los niños que es importante que comuniquen lo que necesitan.  "
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "name": "ac_card-2_back",
+              "elements": [
+                {
+                  "type": "element",
+                  "name": "masthead",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "masthead_b_2",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_header-game-card",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": " REGLAS DE COMUNICACIÓN"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "differentiation-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_2",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Diferenciación"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_2",
+                        "index": "2"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_diff_support-challenge_heds",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Apoye"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Para los niños más pequeños o con retraso de desarrollo, lea en voz alta las secciones Pregunte y Apoye de cada tarjeta. Luego invite a los niños a decir qué ocurre en la imagen y a hablar más sobre ella. Estimule tanta conversación como sea posible."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_2",
+                        "index": "3"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_diff_support-challenge_heds",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Estimule"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Anime a los niños a decir mensajes que usan como parte de sus rutinas diarias (ej.: dar los buenos días o las buenas noches). Pida a los niños que hablen sobre maneras en las que nos comunicamos siguiendo las reglas de educación, como decir “por favor” y “gracias”."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "modifications-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "modifications_b_2",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Modificaciones"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "modifications_b_2",
+                        "index": "2"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_mod_teacher-card_d_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Alumnos multiligües"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Los niños cuya lengua materna es el inglés reconocerán el cognado español "
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-talk",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "comunicar"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": " para la palabra inglesa "
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-talk",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "communicate"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": ". Ayude a los niños a hacer esta conexión si aún no la han hecho. Esto los ayudará a desarrollar su vocabulario y a mejorar su participación en la actividad."
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_mod_teacher-card_d_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Habilidades de motricidad fina"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Invite a los niños a responder a las tarjetas con imagen y a escribir sobre maneras en las que las personas se comunican en las tarjetas. Hable con los niños sobre las partes del cuerpo que usan en sus propias actividades de escritura y dibujo; recuérdeles que dibujar y escribir son también maneras de comunicarse."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "copyright-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "copyright_b_2",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_back_copyright_line",
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "isbn",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "978-1-338-65742-5"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": ". TM ® & © Scholastic Inc. All rights reserved."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "name": "ac_card-3",
+          "attributes": {
+            "day": "3"
+          },
+          "elements": [
+            {
+              "type": "element",
+              "name": "ac_card-3_front",
+              "elements": [
+                {
+                  "type": "element",
+                  "name": "masthead",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "masthead_f_3",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_header-game-card",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": " MÁS PARTES DEL CUERPO"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "instructions",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "instructions_f_3",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Instrucciones"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "before-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "before_f_3",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Asociar con el grupo completo"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Hoy leímos "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "Mi cuerpo"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": " y nos enfocamos en lo que hace nuestro cerebro. También repasamos detalles sobre alimentos y sobre nuestro cuerpo. Además miramos un glosario, que es una lista de palabras especiales del libro. El glosario incluye lo que significan las palabras."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Explicar la actividad"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "En esta actividad veremos imágenes de diferentes partes del cuerpo. Haremos y responderemos preguntas sobre por qué es importante cada parte del cuerpo."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "during-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "during_f_3",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Preguntar"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Muestre una tarjeta con imagen de una parte del cuerpo y coméntenla. Haga la pregunta al dorso de la tarjeta y ofrezca estímulo o apoyo adicional según sea necesario."
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Ampliar"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Use la última pregunta al dorso de la tarjeta para ampliar en la conversación."
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Repetir"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Muestre la tarjeta siguiente y repita los pasos anteriores.   "
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "after-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "after_f_3",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Hablar sobre las partes del cuerpo"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Aprendimos mucho sobre las partes del cuerpo y por qué son importante distintas partes del cuerpo. Ahora podemos hablar sobre en qué se parecen y en qué se diferencian distintas partes del cuerpo. Usen tantos adjetivos como puedan mientras hablamos."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "name": "ac_card-3_back",
+              "elements": [
+                {
+                  "type": "element",
+                  "name": "masthead",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "masthead_b_3",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_header-game-card",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": " MÁS PARTES DEL CUERPO"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "differentiation-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_3",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Diferenciación"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_3",
+                        "index": "2"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_diff_support-challenge_heds",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Apoye"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Para los niños más pequeños o con retraso de desarrollo, lea en voz alta las secciones Pregunte y Apoye de cada tarjeta. Luego pida a los niños que digan qué más saben sobre esa parte del cuerpo. Anímelos a prolongar la conversación."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_3",
+                        "index": "3"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_diff_support-challenge_heds",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Estimule"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Anime a los niños a hablar sobre los distintos mensajes que el cerebro envía y recibe desde cada una de las partes del cuerpo. Hablen de cómo el cerebro envía mensajes para que algunas partes se muevan y qué partes del cuerpo envían mensajes al cerebro."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "modifications-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "modifications_b_3",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Modificaciones"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "modifications_b_3",
+                        "index": "2"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_mod_teacher-card_d_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Alumnos multiligües"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Anime a los niños a hacer un movimiento con cada parte del cuerpo que se muestra en las tarjetas con imagen. Por ejemplo, los niños pueden estirar los brazos, patear suavemente, asentir con la cabeza, tirarse las orejas y abrir mucho los ojos. Esto los ayudará a desarrollar habilidades de lenguaje más sólidas."
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_mod_teacher-card_d_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Desarrollo de la motricidad fina"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Invite a los niños a responder a las tarjetas con imagen haciendo sus propios dibujos de partes del cuerpo. Pueden representar las maneras en que las partes del cuerpo envían mensajes al cerebro. Apóyelos mientras hablan sobre lo que dibujan y anímelos a usar adjetivos."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "copyright-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "copyright_b_3",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_back_copyright_line",
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "isbn",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "978-1-338-65742-5"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": ". TM ® & © Scholastic Inc. All rights reserved."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "element",
+          "name": "ac_card-4",
+          "attributes": {
+            "day": "4"
+          },
+          "elements": [
+            {
+              "type": "element",
+              "name": "ac_card-4_front",
+              "elements": [
+                {
+                  "type": "element",
+                  "name": "masthead",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "masthead_f_4",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_header-game-card",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": " MI SILUETA"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "instructions",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "instructions_f_4",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Instrucciones"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "before-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "before_f_4",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Reunir los materiales"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Necesitará hojas grandes de papel para dibujar y materiales de dibujo, como crayones y marcadores."
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Asociar con el grupo completo"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Hoy leímos "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "Cabeza, hombros, rodillas y pies"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": " y aprendimos más sobre las partes del cuerpo."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Repasar el vocabulario"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Aprendimos las palabras "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "hombros"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": " y "
+                                    },
+                                    {
+                                      "type": "element",
+                                      "name": "ac_teacher-speaking_emphasis_blue",
+                                      "elements": [
+                                        {
+                                          "type": "text",
+                                          "text": "rodillas"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "type": "text",
+                                      "text": ". Repasaremos estas palabras ya que las usaremos cuando hablemos de la actividad."
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "Use las tarjetas de vocabulario "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-talk",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "hombros "
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "y "
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-talk",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "rodillas"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": " para repasar las palabras."
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Explicar la actividad"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-speaking",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "En esta actividad, trazaremos los contornos de nuestros cuerpos. Luego colorearemos las siluetas y las exhibiremos."
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "during-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "during_f_4",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Trazar"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Trace el contorno del cuerpo de cada niño en papel de envolver. Escriba el nombre del niño en el dorso del papel."
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Dibujar"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Pida a los niños que usen crayones o marcadores para dibujar las siluetas. Pueden dibujar su cara, su ropa y su pelo."
+                                }
+                              ]
+                            },
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Ver"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Coloque todas las siluetas en el piso. Pida a los niños que caminen por el salón para ver todas las siluetas.  "
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "after-section",
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "section-block",
+                          "attributes": {
+                            "type": "after_f_4",
+                            "index": "1"
+                          },
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "ac_teacher-card-body",
+                              "elements": [
+                                {
+                                  "type": "element",
+                                  "name": "ac_teacher-card_run-in_hed",
+                                  "elements": [
+                                    {
+                                      "type": "text",
+                                      "text": "Invite a los niños a hablar sobre sus dibujos"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "type": "text",
+                                  "text": "  Anímelos a señalar dónde están sus rodillas, sus hombros y otras partes del cuerpo. Dígales que comparen cómo colorearon sus siluetas. "
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "element",
+              "name": "ac_card-4_back",
+              "elements": [
+                {
+                  "type": "element",
+                  "name": "masthead",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "masthead_b_4",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_header-game-card",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": " MI SILUETA"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "differentiation-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_4",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Diferenciación"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_4",
+                        "index": "2"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_diff_support-challenge_heds",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Apoye"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Apoye a los niños mientras colorean y dibujan las siluetas. Anímelos a hablar sobre los detalles en los que trabajan. Invítelos a hablar sobre lo que hacen y transcriba sus palabras."
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "differentiation_b_4",
+                        "index": "3"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_diff_support-challenge_heds",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Estimule"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Anime a los niños que estén preparados para un mayor estímulo a hablar sobre todas las partes del cuerpo que ven en la silueta y a dibujar y colorear ojos, nariz, boca, pelo, manos y pies. Luego anímelos a dibujar en la silueta la ropa que les guste."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "modifications-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "modifications_b_4",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Modificaciones"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "modifications_b_4",
+                        "index": "2"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_mod_teacher-card_d_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Alumnos multiligües"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Dé un tiempo extra a los niños para que hablen sobre las siluetas y sobre cómo las dibujaron y colorearon. Anímelos a trabajar en pareja para comparar qué hicieron con sus siluetas. Dígales que pueden usar cualquier idioma que conozcan cuando hablen con un niño que conozca ese mismo idioma."
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_mod_teacher-card_d_hed",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Desarrollo físico"
+                            }
+                          ]
+                        },
+                        {
+                          "type": "element",
+                          "name": "ac_teacher-card-body",
+                          "elements": [
+                            {
+                              "type": "text",
+                              "text": "Si algunos de los niños tienen problemas físicos que hacen difícil trazar el contorno del cuerpo, invítelos a trazar su propio contorno en papel que puedan manejar con facilidad. Ayúdelos en lo que sea necesario. Anímelos a dibujar y colorear sus siluetas de manera que los dibujos los representen."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "element",
+                  "name": "copyright-section",
+                  "elements": [
+                    {
+                      "type": "element",
+                      "name": "section-block",
+                      "attributes": {
+                        "type": "copyright_b_4",
+                        "index": "1"
+                      },
+                      "elements": [
+                        {
+                          "type": "element",
+                          "name": "ac_back_copyright_line",
+                          "elements": [
+                            {
+                              "type": "element",
+                              "name": "isbn",
+                              "elements": [
+                                {
+                                  "type": "text",
+                                  "text": "978-1-338-65742-5"
+                                }
+                              ]
+                            },
+                            {
+                              "type": "text",
+                              "text": ". TM ® & © Scholastic Inc. All rights reserved."
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}]

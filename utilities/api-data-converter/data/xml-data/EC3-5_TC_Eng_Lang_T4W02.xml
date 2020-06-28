@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teacher-activity-cards lang="en">  <ac_card-1 day="1">    <ac_card-1_front>      <masthead>
+        <section-block type="masthead_f_1" index="1">
+          <ac_header-game-card>REAL OR NOT REAL?</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_1" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Today we read the story <ac_teacher-speaking_emphasis_blue>Lola Gets a Cat </ac_teacher-speaking_emphasis_blue>and we focused on asking and answering questions about the story. We read about how Lola pretended her stuffed animal, Dinah, was a real cat so that she could learn how to take care of a real cat.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>In this activity, we will look at pictures of different animals and sort them into two groups:</ac_teacher-speaking>
+            </ac_teacher-card-body>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-speaking>Real</ac_teacher-speaking>
+              <ac_teacher-speaking_emphasis_blue> This group is for animals that are alive, and that move, breathe, eat, and drink.</ac_teacher-speaking_emphasis_blue>
+              <ac_teacher-speaking/>
+            </ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-speaking>Not Real</ac_teacher-speaking>
+              <ac_teacher-speaking_emphasis_blue> The other group is for animals that are not real. These may be stuffed animals, statues, or even a kind of food, but they are not alive. They look like real animals but they are not.</ac_teacher-speaking_emphasis_blue>
+              <ac_teacher-speaking/>
+            </ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Teach Hand Signals</ac_teacher-card_run-in_hed>  Ask children to give a thumbs-up if the picture shows a real animal and a thumbs-down if it does not. Model.    </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask  </ac_teacher-card_run-in_hed>Show one picture card and ask the question on the back of the card, offering support or challenge as needed.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Extend  </ac_teacher-card_run-in_hed>Use the last question on the back of the card to extend the conversation.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Sort  </ac_teacher-card_run-in_hed>Give the picture card to a child to sort in the correct group.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat  </ac_teacher-card_run-in_hed>Continue the activity using the next picture card.   </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_1" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Real Animals  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>All of the photos in this group show real animals. How do you know these animals are real?</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Animals that Are Not Real  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>All of the pictures in this group show animals that are not real. How do you know these animals are not real?    </ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-1_front>    <ac_card-1_back>      <masthead>
+        <section-block type="masthead_b_1" index="1">
+          <ac_header-game-card>REAL OR NOT REAL?</ac_header-game-card>
+        </section-block>
+      </masthead>            <differentiation-section>
+        <section-block type="differentiation_b_1" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>      <section-block type="differentiation_b_1" index="2">
+          <ac_diff_support-challenge_heds>Support<ac_teacher-speaking/>
+          </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Show children three picture cards at a time, where two are examples of real animals and the other is not (e.g., real dog, real snake, and stuffed cat). Ask, <ac_teacher-talk>Which one doesn’t belong?</ac_teacher-talk> Then ask, <ac_teacher-talk>How do you know?</ac_teacher-talk> Repeat with other groups of three cards.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_1" index="3">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Show children two picture cards at a time, where one is an example of a real animal and one not real (e.g., real snake and stuffed snake). Ask, <ac_teacher-talk>What is the same and what is different about these animals?</ac_teacher-talk> Repeat with other pairs of cards.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_1" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_1" index="2">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Encourage children to use a physical response, in addition to speaking. For example, invite children to move like the animal shown when the animal is real (e.g., hop like a rabbit or slither like a snake). These physical and visual cues will support language development, and children will be able to participate in the activity while their language skills grow.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Gross Motor Development</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Invite children to play this activity in the large-group space or outdoors where they can move their bodies like each animal would. This activity would give children the opportunity to hop like a rabbit and slither like a snake, etc. When children choose a card for an animal that is not real, they can take the pose of that animal and stay still for a moment. Using their whole bodies to play helps children to develop their memories and their strength.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>      <copyright-section>
+        <section-block type="copyright_b_1" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64411-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-1_back>  </ac_card-1>  <ac_card-2 day="2">    <ac_card-2_front>      <masthead>
+        <section-block type="masthead_f_2" index="1">
+          <ac_header-game-card>what makes me proud</ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_2" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Today we read the story <ac_teacher-speaking_emphasis_blue>Lola Gets a Cat</ac_teacher-speaking_emphasis_blue> and we focused on the things Lola did that she was proud of. We talked about how she learned what her cat would need, practiced taking care of a cat, and then took good care of Makeda.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Review Mind Builder</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>When we are proud, we show or talk about the things that we do well. Lola was proud because she takes good care of Makeda. She does that well.</ac_teacher-speaking>
+            </ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>In this activity, we will look at different pictures of children doing things that make them proud. We will ask and answer questions about what makes each person in the picture proud.</ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask  </ac_teacher-card_run-in_hed>Show one picture of a child and ask the question on the back of the picture card, offering support or challenge as needed.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Extend  </ac_teacher-card_run-in_hed>Use the last question on the back of the card to extend the conversation.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat  </ac_teacher-card_run-in_hed>Continue the activity using the next picture card.    </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_2" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Expressing Pride  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Let’s talk about the different children on the cards in today’s game. Let’s talk about what made those children proud and what makes you proud. Finish the sentence “I feel proud when I <fill-in-the-blank>                              </fill-in-the-blank> .” How do you show you are proud? How do other people show they are proud of you?</ac_teacher-speaking>  </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-2_front>    <ac_card-2_back>      <masthead>
+        <section-block type="masthead_b_2" index="1">
+          <ac_header-game-card>what makes me proud</ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_2" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_2" index="2">
+          <ac_diff_support-challenge_heds>Support<ac_teacher-speaking/>
+          </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Encourage younger children or children who are developmentally delayed to talk about the things they like. Invite them to talk about how doing those things makes them feel. Explain that the feeling may mean they are proud. </ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_2" index="3">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Encourage children to participate in peer-to-peer conversations about the activity cards, with each child taking two turns in the conversation. Remind children that while one person is talking, the other is listening. The talker should hold the card as a reminder of this.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_2" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_2" index="2">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Encourage children to use a physical response, in addition to speaking, to talk about what each child on the activity cards is proud of being able to do. For example, children can pretend to catch a ball when discussing the card that shows a girl catching a ball. Or, they can pretend to brush a dog or feed a cat when they see those pictures.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Fine Motor Development</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Offer children the option to draw a response to the activity using pencils, crayons, or markers. Children may want to draw something they saw on the cards that makes them feel proud. They may want to draw something else that they are proud of. Be sure to provide a wide range of colors so that children are not limited. Encourage children to talk as they draw, using possessive pronouns such as mine, hers, and his, as much as possible.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_2" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64411-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-2_back>  </ac_card-2>  <ac_card-3 day="3">    <ac_card-3_front>      <masthead>
+        <section-block type="masthead_f_3" index="1">
+          <ac_header-game-card>WHOSE PET IS IT? </ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_3" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Today we read the story <ac_teacher-speaking_emphasis_blue>Lola Gets a Cat. </ac_teacher-speaking_emphasis_blue>We asked and answered a lot of questions about Lola’s pet cat Makeda. </ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>In this activity, we will look at pictures of children doing different things for pets. We will ask and answer questions about whose pets these are, and what the person is doing with the pet.</ac_teacher-speaking>   </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask  </ac_teacher-card_run-in_hed>Show one picture of a child and ask the question on the back of the picture card, offering support or challenge as needed.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Extend  </ac_teacher-card_run-in_hed>Use the last question on the back of the card to extend the conversation.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat  </ac_teacher-card_run-in_hed>Continue the activity using the next picture card.    </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_3" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About What Pets Need  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>Let’s talk about the different children and their pets on the cards in today’s activity. What pet does each child have and what does that pet need? Finish these sentences, “She has a <fill-in-the-blank>       </fill-in-the-blank>. Her pet needs <fill-in-the-blank>         </fill-in-the-blank>.” “He has a <fill-in-the-blank>         </fill-in-the-blank>. His pet needs <fill-in-the-blank>         </fill-in-the-blank>.” What pet do you have and what does your pet need? Finish these sentences, “I have a <fill-in-the-blank>       </fill-in-the-blank>. My pet needs<fill-in-the-blank>         </fill-in-the-blank>.”</ac_teacher-speaking>     </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-3_front>    <ac_card-3_back>      <masthead>
+        <section-block type="masthead_b_3" index="1">
+          <ac_header-game-card>Whose Pet Is It? </ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_3" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_3" index="2">
+          <ac_diff_support-challenge_heds>Support<ac_teacher-speaking/>
+          </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>For younger children and/or developmentally delayed children, ask questions about what is in the picture. Then encourage children to tell what is happening. Invite children to say more about what they see. Encourage as much conversation as possible.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_3" index="3">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Encourage children to tell original stories about the children and the pets on the cards. Invite children to use different possessive pronouns. Have them use the pictures as a starting point, and let them work together to make up their own stories.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_3" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_3" index="2">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Encourage children to use a physical response, in addition to speaking, to talk about the pets on the activity cards. For example, they can stretch their backs like a cat or pretend to hop like a bunny. Or, they can pretend to run like a dog or swim like a fish when they see those pictures.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Fine Motor Development</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Offer children the option to draw a response to the activity using pencils, crayons, or markers. Children may want to draw pictures of themselves, friends or family members doing something with a pet, like the children in the pictures. Encourage children to describe what’s in their drawing while using possessive pronouns such as <ac_teacher-talk>mine, hers,</ac_teacher-talk> and <ac_teacher-talk>his,</ac_teacher-talk> as much as possible. Provide model sentences.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_3" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64411-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-3_back>  </ac_card-3>  <ac_card-4 day="4">    <ac_card-4_front>      <masthead>
+        <section-block type="masthead_f_4" index="1">
+          <ac_header-game-card>PET or a wild animal? </ac_header-game-card>
+        </section-block>
+      </masthead>      <instructions>
+        <section-block type="instructions_f_4" index="1">
+          <ac_teacher-card_hed>Instructions</ac_teacher-card_hed>
+        </section-block>        <before-section>
+          <section-block type="before_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Connect to Large Group</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>Today we read a poster called <ac_teacher-speaking_emphasis_blue>What Pets Need</ac_teacher-speaking_emphasis_blue>. We learned about what pets need in order to stay healthy.</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Explain the Activity</ac_teacher-card_run-in_hed>  <ac_teacher-speaking>In this activity, we will look at pictures of different animals, and sort them into two groups:</ac_teacher-speaking>
+            </ac_teacher-card-body>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-speaking>Pet</ac_teacher-speaking> <ac_teacher-speaking_emphasis_blue>This group is for animals that could live in our homes and that we can take care of.</ac_teacher-speaking_emphasis_blue>
+              <ac_teacher-speaking/>
+            </ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-teacher_talk_bulleted>
+              <ac_teacher-speaking>Wild</ac_teacher-speaking>
+              <ac_teacher-speaking_emphasis_blue> The other group is for animals that are wild. These animals cannot live in our homes.</ac_teacher-speaking_emphasis_blue>
+              <ac_teacher-speaking/>
+            </ac_teacher-card-teacher_talk_bulleted>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Teach Hand Signals</ac_teacher-card_run-in_hed>  Ask children to give a thumbs-up if the picture shows a pet and a thumbs-down if it does not. Model.    </ac_teacher-card-body>
+          </section-block>
+        </before-section>        <during-section>
+          <section-block type="during_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Ask  </ac_teacher-card_run-in_hed>Show one picture card and ask the question on the back of the picture card, offering support or challenge as needed.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Extend  </ac_teacher-card_run-in_hed>Use the last question on the back of the card to extend the conversation.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Sort  </ac_teacher-card_run-in_hed>Give the picture card to a child to line up in the “pet” or “wild” column.</ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Repeat  </ac_teacher-card_run-in_hed>Continue the activity using the next picture card.    </ac_teacher-card-body>
+          </section-block>
+        </during-section>        <after-section>
+          <section-block type="after_f_4" index="1">
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Real Animals  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>All of the photos in this group show p<fill-in-the-blank>        </fill-in-the-blank> <ac_teacher-speaking_emphasis_blue>(pets)</ac_teacher-speaking_emphasis_blue>. How do you know these animals are pets?</ac_teacher-speaking></ac_teacher-card-body>
+            <ac_teacher-card-body>
+              <ac_teacher-card_run-in_hed>Talk About Animals that Are Wild  </ac_teacher-card_run-in_hed>
+              <ac_teacher-speaking>All of the photos in this group show animals that are wild. How do you know these animals cannot be pets?   </ac_teacher-speaking> </ac_teacher-card-body>
+          </section-block>
+        </after-section>      </instructions>    </ac_card-4_front>    <ac_card-4_back>      <masthead>
+        <section-block type="masthead_b_4" index="1">
+          <ac_header-game-card>PET or wild animal? </ac_header-game-card>
+        </section-block>
+      </masthead>      <differentiation-section>
+        <section-block type="differentiation_b_4" index="1">
+          <ac_teacher-card_hed>Differentiation</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="differentiation_b_4" index="2">
+          <ac_diff_support-challenge_heds>Support<ac_teacher-speaking/>
+          </ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Show children three picture cards at a time, where two are examples of pets and the other is not (e.g., small dog, parrot, and lion). Ask, <ac_teacher-talk>Which one doesn’t belong?</ac_teacher-talk> Then ask, <ac_teacher-talk>How do you know?</ac_teacher-talk> Repeat with other groups of three cards.</ac_teacher-card-body>
+        </section-block>
+        <section-block type="differentiation_b_4" index="3">
+          <ac_diff_support-challenge_heds>Challenge</ac_diff_support-challenge_heds>
+          <ac_teacher-card-body>Show children two picture cards at a time, where one is an example of a pet and one is an example of an animal that is wild (e.g., dog and fox). Ask, <ac_teacher-talk>What is the same and what is different about these animals?</ac_teacher-talk> Repeat with other pairs of cards.</ac_teacher-card-body>
+        </section-block>
+      </differentiation-section>      <modifications-section>
+        <section-block type="modifications_b_4" index="1">
+          <ac_teacher-card_hed>Modifications</ac_teacher-card_hed>
+        </section-block>
+        <section-block type="modifications_b_4" index="2">
+          <ac_mod_teacher-card_d_hed>Multilingual Learners</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Encourage children to use a physical response, in addition to speaking. For example, invite children to use their hands to show something about the animal they are talking about (e.g., hold their hands around their face to indicate a lion’s mane, or fold a hand in front of their mouth to indicate a parrot’s beak). These physical and visual cues will support language development, and children will be able to participate in the activity while their language skills grow.</ac_teacher-card-body>
+          <ac_mod_teacher-card_d_hed>Gross Motor Development</ac_mod_teacher-card_d_hed>
+          <ac_teacher-card-body>Invite children to play this activity in the large-group space or outdoors where they can move their bodies like each animal would. This activity would give them the opportunity to prowl like a lion, walk like a cat or a dog, and move their arms like bird wings, etc. Using their whole bodies to play helps children develop their memories and their strength.</ac_teacher-card-body>
+        </section-block>
+      </modifications-section>                  <copyright-section>
+        <section-block type="copyright_b_4" index="1">
+          <ac_back_copyright_line>
+            <isbn>978-1-338-64411-1</isbn>. TM ® &amp; © Scholastic Inc. All rights reserved.</ac_back_copyright_line>
+        </section-block>
+      </copyright-section>    </ac_card-4_back>  </ac_card-4>            </teacher-activity-cards>
